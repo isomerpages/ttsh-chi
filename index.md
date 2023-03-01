@@ -10,8 +10,8 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: Join our mailing list
+      url: https://form.gov.sg/63ff0dedc2a8ab001139bc02
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
