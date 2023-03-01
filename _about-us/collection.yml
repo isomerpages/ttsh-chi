@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - CHI Faculty/.keep
       - Our Offices/.keep
       - Our Offices/Clinical Research and Innovation Office.md
       - Our Offices/Digital and Smart Health Office.md
