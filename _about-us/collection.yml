@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our Faculty.md
       - Our Leadership.md
+      - Our Faculty.md
       - Our Offices.md
       - example-page.md
