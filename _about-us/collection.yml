@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Facilities.md
       - Our Purpose.md
       - What We Do.md
       - Our Leadership.md
