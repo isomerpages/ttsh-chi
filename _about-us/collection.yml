@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Offices/Partnership and Communications Office.md
       - Our Offices/People Development Office.md
       - Our Offices/Organisation Development.md
       - Our Offices/Kaizen Office.md
