@@ -1,4 +1,5 @@
 collections:
   our-funding:
     output: true
-    order: []
+    order:
+      - About the Funding.md
