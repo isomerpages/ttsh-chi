@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
   - title: Use Case
@@ -11,5 +11,5 @@ links:
         url: www.google.com
       - title: Submit new Use Case
         url: www.form.gov.sg
-  - title: About Us
-    collection: about-us
+  - title: Newsroom
+    collection: newsroom
