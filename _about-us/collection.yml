@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Offices/Grants and Innovation.md
       - Our Offices/Digital and Smart Health Office.md
       - Our Offices/Clinical Research and Innovation Office.md
       - Our Offices/.keep
