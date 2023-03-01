@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our Offices.md
       - Our Leadership.md
       - example-page.md
