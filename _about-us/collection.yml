@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Funding/About the Ng Teng Fong Healthcare Innovation Programme.md
       - Our Funding/.keep
       - Our Purpose.md
       - What We Do.md
