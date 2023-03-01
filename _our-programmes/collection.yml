@@ -2,5 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
-      - Leadership Programmes.md
       - CHI Fellowship in Healthcare Innovation and Leadership.md
+      - Leadership Programmes.md
