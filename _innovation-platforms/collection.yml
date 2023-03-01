@@ -1,4 +1,5 @@
 collections:
   innovation-platforms:
     output: true
-    order: []
+    order:
+      - CHI Learning and Development System (CHILD).md
