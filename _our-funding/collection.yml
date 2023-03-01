@@ -1,6 +1,0 @@
-collections:
-  our-funding:
-    output: true
-    order:
-      - About the Funding.md
-      - Featured Projects.md
