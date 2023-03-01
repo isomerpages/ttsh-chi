@@ -8,9 +8,9 @@ links:
     collection: innovation-platforms
   - title: Events
     collection: our-events
+  - title: Programmes
+    collection: our-programmes
   - title: Newsroom
     collection: newsroom
   - title: Contact Us
     url: /contact-us/
-  - title: Programmes
-    collection: our-programmes
