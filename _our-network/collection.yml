@@ -2,4 +2,5 @@ collections:
   our-network:
     output: true
     order:
+      - Our Partners and Affiliates.md
       - About the CHI Co Learning Network.md
