@@ -2,6 +2,6 @@ collections:
   innovation-platforms:
     output: true
     order:
+      - CHI Start Up and Enterprise Link (CHISEL).md
       - CHI Learning and Development System (CHILD).md
       - National Healthcare Innovation and Productivity Medals.md
-      - CHI Start Up and Enterprise Link (CHISEL).md
