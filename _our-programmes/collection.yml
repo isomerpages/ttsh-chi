@@ -1,4 +1,5 @@
 collections:
   our-programmes:
     output: true
-    order: []
+    order:
+      - CHI Fellowship in Healthcare Innovation and Leadership.md
