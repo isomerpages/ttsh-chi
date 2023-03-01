@@ -6,3 +6,9 @@ links:
     collection: newsroom
   - title: Contact Us
     url: /contact-us/
+  - title: Innovation Platforms
+    collection: innovation-platforms
+  - title: Our Events
+    collection: our-events
+  - title: Our Network
+    collection: our-network
