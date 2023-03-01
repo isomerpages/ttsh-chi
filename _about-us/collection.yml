@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
+      - Our Offices/.keep
+      - Our Offices/Clinical Research and Innovation Office.md
+      - Our Offices/Digital and Smart Health Office.md
+      - Our Offices/Grants and Innovation.md
+      - Our Offices/Kaizen Office.md
+      - Our Offices/Organisation Development.md
       - Our Offices/Partnership and Communications Office.md
       - Our Offices/People Development Office.md
-      - Our Offices/Organisation Development.md
-      - Our Offices/Kaizen Office.md
-      - Our Offices/Grants and Innovation.md
-      - Our Offices/Digital and Smart Health Office.md
-      - Our Offices/Clinical Research and Innovation Office.md
-      - Our Offices/.keep
       - Our Faculty.md
