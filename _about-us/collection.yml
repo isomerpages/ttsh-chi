@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Facilities.md
       - Our Purpose.md
       - What We Do.md
       - Our Leadership.md
@@ -16,3 +15,4 @@ collections:
       - Our Offices/Organisation Development Office.md
       - Our Offices/Partnership and Communications Office.md
       - Our Offices/People Development Office.md
+      - Our Facilities.md
