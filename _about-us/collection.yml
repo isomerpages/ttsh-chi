@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Clinical Research and Innovation Office.md
       - Our Leadership.md
       - Our Offices.md
       - example-page.md
