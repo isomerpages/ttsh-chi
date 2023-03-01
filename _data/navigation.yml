@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Our Network
     collection: our-network
+  - title: Our Funding
+    collection: our-funding
   - title: Innovation Platforms
     collection: innovation-platforms
   - title: Our Events
@@ -12,5 +14,3 @@ links:
     collection: newsroom
   - title: Contact Us
     url: /contact-us/
-  - title: Our Funding
-    collection: our-funding
