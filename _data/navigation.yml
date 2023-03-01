@@ -2,13 +2,13 @@ logo: /images/CHI Logo® Colour.png
 links:
   - title: About Us
     collection: about-us
-  - title: Newsroom
-    collection: newsroom
-  - title: Contact Us
-    url: /contact-us/
+  - title: Our Network
+    collection: our-network
   - title: Innovation Platforms
     collection: innovation-platforms
   - title: Our Events
     collection: our-events
-  - title: Our Network
-    collection: our-network
+  - title: Newsroom
+    collection: newsroom
+  - title: Contact Us
+    url: /contact-us/
