@@ -2,9 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - Our Purpose.md
       - What We Do.md
       - Our Leadership.md
-      - Our Purpose.md
+      - CHI Faculty/.keep
+      - CHI Faculty/About CHI Faculty.md
       - Our Offices/.keep
       - Our Offices/Clinical Research and Innovation Office.md
       - Our Offices/Digital and Smart Health Office.md
@@ -13,5 +15,3 @@ collections:
       - Our Offices/Organisation Development Office.md
       - Our Offices/Partnership and Communications Office.md
       - Our Offices/People Development Office.md
-      - CHI Faculty/.keep
-      - CHI Faculty/About CHI Faculty.md
