@@ -10,7 +10,7 @@ links:
     collection: our-programmes
   - title: Events
     collection: our-events
-  - title: Newsroom
-    resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Resource Room
+    resource_room: true
