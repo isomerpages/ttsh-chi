@@ -18,6 +18,7 @@ sections:
         - title: To Catalyse Value-Based Outcomes
           description: ""
           url: ""
+      background: /images/Draft Home Banner.jpg
   - resources:
       title: Our Latest News
 ---
