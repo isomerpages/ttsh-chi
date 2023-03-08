@@ -4,28 +4,22 @@ title: Centre for Healthcare Innovation
 description: An Isomer site of the Singapore Government
 image: /images/CHI Logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Sample Notification Bar "
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Join our mailing list
       url: https://form.gov.sg/63ff0dedc2a8ab001139bc02
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: To Promote a Culture of Innovation
+          description: ""
+          url: ""
+        - title: To Achieve Better Health and Healthcare
+          description: ""
+          url: ""
+        - title: To Catalyse Value-Based Outcomes
+          description: ""
+          url: ""
+  - resources:
+      title: Newsroom
 ---
