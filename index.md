@@ -4,7 +4,7 @@ title: Centre for Healthcare Innovation
 description: An Isomer site of the Singapore Government
 image: /images/CHI Logo.png
 permalink: /
-notification: "Sample Notification Bar "
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
