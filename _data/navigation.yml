@@ -10,7 +10,5 @@ links:
     collection: our-programmes
   - title: Events
     collection: our-events
-  - title: Newsroom
-    collection: newsroom
   - title: Contact Us
     url: /contact-us/
