@@ -1,7 +1,0 @@
-collections:
-  newsroom:
-    output: true
-    order:
-      - Feature Stories.md
-      - Media Release.md
-      - Media Coverage.md
