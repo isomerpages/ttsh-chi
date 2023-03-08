@@ -21,5 +21,5 @@ sections:
           description: ""
           url: ""
   - resources:
-      title: Newsroom
+      title: Our Latest News and Updates
 ---
