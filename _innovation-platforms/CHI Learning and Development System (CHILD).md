@@ -3,6 +3,8 @@ title: CHI Learning and Development System (CHILD)
 permalink: /permalink/
 description: ""
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_j56iZxDIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Welcome to the preview of what the CHI Learning & Development (CHILD) System can offer you! While we are working hard to put together a robust knowledge management platform for you, we are excited to have you join us on a co-learning journey and want you to have a taste of the knowledge you can find or share within CHILD. When completed, the national knowledge management platform will allow you to research, collaborate and share your healthcare projects with professionals from Singapore and beyond!  
   
 Created based on the '**Share, Learn, and Do**' model, CHILD serves as an open repository for healthcare innovation, improvement and productivity project reports, best practices and learning experiences.  
