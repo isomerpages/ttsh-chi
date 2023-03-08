@@ -17,4 +17,9 @@ contacts:
       - email: chi@ttsh.com.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: chi_events@ttsh.com.sg
+      - other: ""
+    title: Facilities Enquiries
 ---
