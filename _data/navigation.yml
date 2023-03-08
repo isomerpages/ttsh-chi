@@ -12,3 +12,5 @@ links:
     collection: our-events
   - title: Contact Us
     url: /contact-us/
+  - title: Newsroom
+    resource_room: true
