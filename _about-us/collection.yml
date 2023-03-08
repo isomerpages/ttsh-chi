@@ -4,12 +4,12 @@ collections:
     order:
       - Our Purpose.md
       - What We Do.md
-      - Our Funding/.keep
-      - Our Funding/Featured Projects.md
-      - Our Funding/About the Ng Teng Fong Healthcare Innovation Programme.md
       - Our Leadership.md
       - Our Faculty/.keep
       - Our Faculty/About CHI Faculty.md
+      - Our Funding/.keep
+      - Our Funding/Featured Projects.md
+      - Our Funding/About the Ng Teng Fong Healthcare Innovation Programme.md
       - Our Offices/.keep
       - Our Offices/Clinical Research and Innovation Office.md
       - Our Offices/Digital and Smart Health Office.md
