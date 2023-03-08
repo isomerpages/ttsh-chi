@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
-      button: Join our mailing list
+      background: /images/Website_Right.png
       url: https://form.gov.sg/63ff0dedc2a8ab001139bc02
       key_highlights:
         - title: To Promote a Culture of Innovation
