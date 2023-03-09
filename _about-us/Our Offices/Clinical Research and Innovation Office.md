@@ -9,6 +9,8 @@ The Clinical Research &amp; Innovation Office (CRIO) promotes and coordinates re
 
 
 
+
+
 <style>
 .accordion {
   background-color: #eee;
@@ -37,23 +39,36 @@ The Clinical Research &amp; Innovation Office (CRIO) promotes and coordinates re
 
 
 
-<h2>Accordion</h2>
+<h2>Our Services</h2>
 
-<button class="accordion">Section 1</button>
+<button class="accordion">Agreements and Grants</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>​The CRIO Administration team provides advice on the appropriate types of agreements to be used for individual studies. 
+
+We facilitate research collaboration activities with external parties placing appropriate research agreements to ensure studies or trials are conducted in accordance with all applicable laws and regulations.
+
+Agreements are important to safeguard the safety and rights of the research participants and TTSH stakeholders.</p>
 </div>
 
-<button class="accordion">Section 2</button>
+<button class="accordion">Policy &amp; Monitoring</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>​The Policy and Monitoring section oversees the governance for research in TTSH, including research risk management, research policy formulation and implementation, internal and external audits and inspections as well as research training on proper conduct of research.
+
+The section also ensures that the research activities conducted within TTSH comply with internal research policies, as well as the Good Clinical Practice guidelines of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) and relevant Singapore laws and regulations.
+
+In line with that, the monitoring team provides research monitoring services for investigator-initiated studies, including those regulated by Health Products (Clinical Trials) Regulations and the Human Biomedical Research Act.
+
+We also handle research insurance matters, assist with regulatory submissions and manage matters related to clinicaltrials.gov and federal wide assurances.
+
+To find out more how we can help you, please contact CRIO@ttsh.com.sg.</p>
 </div>
 
-<button class="accordion">Section 3</button>
+<button class="accordion">Clinical Trials</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
+  <p>​The Clinical Trials Unit (CTU) is the centralised unit promoting and coordinating high-quality clinical trials in TTSH.
 
+The CTU matches potential pharmaceutical companies with our clinician researchers. We actively seek partnership with pharmaceutical companies and research institutes to develop the best care for our patients.</p>
+</div>
 
 
 
