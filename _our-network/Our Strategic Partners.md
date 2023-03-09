@@ -13,4 +13,4 @@ description: ""
 
 #### Industry Knowledge Partners 
 #### 
-#### Community Partners 
+#### Community Partners
