@@ -4,11 +4,7 @@ permalink: /CHI-CRIO/
 description: ""
 third_nav_title: Our Offices
 ---
-The Clinical Research &amp; Innovation Office (CRIO) promotes and coordinates research activities in Tan Tock seng Hospital. CRIO is equipped with skills and capabilities through her staff to effectively support the research enterprise of the Hospital.
-
-
-
-
+The Clinical Research &amp; Innovation Office (CRIO) promotes and coordinates research activities in Tan Tock Seng Hospital. CRIO is equipped with skills and capabilities through her staff to effectively support the research enterprise of the Hospital.
 
 
 <style>
@@ -69,7 +65,3 @@ To find out more how we can help you, please contact CRIO@ttsh.com.sg.</p>
 
 The CTU matches potential pharmaceutical companies with our clinician researchers. We actively seek partnership with pharmaceutical companies and research institutes to develop the best care for our patients.</p>
 </div>
-
-
-
-
