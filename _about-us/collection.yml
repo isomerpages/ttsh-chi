@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our Purpose.md
+      - Our Purpose & What We Do.md
       - Our Leadership.md
       - Our Faculty/.keep
       - Our Faculty/About CHI Faculty.md
