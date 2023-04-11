@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Purpose.md
-      - What We Do.md
       - Our Leadership.md
       - Our Faculty/.keep
       - Our Faculty/About CHI Faculty.md
