@@ -54,7 +54,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="our-main-plans">CHI Partners</h2>
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Medical Partners</label>
+	<input id="title1" type="checkbox"><label for="title1">International Partners</label>
 	<div class="accordion-content">
 		<p>
 
@@ -75,25 +75,34 @@ input:checked + label + .accordion-content {
 
 </p>
 	</div>
-	<input id="title2" type="checkbox"><label for="title2">Tab 2</label>
+	<input id="title2" type="checkbox"><label for="title2">Healthcare Partners</label>
 	<div class="accordion-content">
 		<p>
 test
 		</p>
 	</div>
-	<input id="title3" type="checkbox"><label for="title3">Tab 3</label>
+	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
 	<div class="accordion-content">
 		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text. Sample text Sample text Sample text Sample text Sample text Sample text Sample text. .</p>
 	</div>
-	<input id="title4" type="checkbox"><label for="title4">Tab 4</label>
+	<input id="title4" type="checkbox"><label for="title4">Strategic Agencies</label>
 	<div class="accordion-content">
 		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
 	</div>
-	<input id="title5" type="checkbox"><label for="title5">Tab 5</label>
+	<input id="title5" type="checkbox"><label for="title5">Industry Knowledge Partners</label>
+	<div class="accordion-content">
+		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
+	</div>
+<input id="title5" type="checkbox"><label for="title5">Community Partners</label>
+	<div class="accordion-content">
+		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
+	</div>
+	<input id="title5" type="checkbox"><label for="title5">Collaborating Centres</label>
 	<div class="accordion-content">
 		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
 	</div>
 </div>
+
 # **CHI partners**
 
 
@@ -108,3 +117,7 @@ test
 | -------- | -------- | -------- |
 |![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
 |![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|</div>
+
+
+
+
