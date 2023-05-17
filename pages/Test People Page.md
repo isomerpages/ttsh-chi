@@ -18,7 +18,7 @@ This committee overseas the overall operations of CHI.
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/andrew1"></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"></td>
 <td><strong>Mr Andrew <u>Soh</u></strong><br>Chairman<br>President<br>Singapore<br>
 </td></tr>
 </tbody>
@@ -29,12 +29,12 @@ This committee overseas the overall operations of CHI.
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/andrew1"><br></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
 <td><strong>Mr Andrew <u>Soh</u></strong><br>President<br>President<br>PResident<br></td>
 </tr>
 <tr>
-<td><br><img alt="andrew1" src="/images/andrew1"><br></td>
-<td><br><strong>Prof <u>Andrew</u> Soh Ah</strong><br>Professor (Former Chair)<br>Prime Minister<br>Singapore<br><a href="/chan-heng-chee/">Biography</a></td>
+<td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
+<td><br><strong>Prof <u>Andrew</u> Soh Ah</strong><br>Professor (Former Chair)<br>Prime Minister<br>Singapore<br></td>
 </tr>
 
 
