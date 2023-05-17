@@ -13,20 +13,20 @@ label {
 	padding: 8px 22px;
 	margin: 0 0 5px 0;
 	cursor: pointor;
-	background: #F0F4F6;
+	background: #F0F4F6; *colour*
 	border-radius: 3px;
-	color: #484848;
+	color: #484848; *colour of text*
 	transition: ease .5s;
 	font-size: 1.5em;
 }
 
 label:hover {
 	background: #4a96b0;
-	color: #FFF;
+	color: ##D1C052;
 }
 
 .accordion-content {
-	/* background: #E2E5F6; */
+	/* background: ##D1C052; */
 	padding: 10px 0px 30px 30px;
 	/* border: 1px solid #484848; */
 	margin: 0 0 1px 0;
