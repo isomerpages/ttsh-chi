@@ -19,7 +19,7 @@ This committee overseas the overall operations of CHI.
 <tbody>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/andrew1"></td>
-<td><strong>Mr Andrew <u>Soh</u></strong><br>Chairman<br>Prsrc="/images/andrew1" alt="andrew1esident<br>Singapore<br>
+<td><strong>Mr Andrew <u>Soh</u></strong><br>Chairman<br>President<br>Singapore<br>
 </td></tr>
 </tbody>
 </table>
@@ -30,7 +30,7 @@ This committee overseas the overall operations of CHI.
 <tbody>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/andrew1"><br></td>
-<td><strong>Mr Andrew <u>Soh</u></strong><br>President<br>China<br>China<br></td>
+<td><strong>Mr Andrew <u>Soh</u></strong><br>President<br>President<br>PResident<br></td>
 </tr>
 <tr>
 <td><br><img alt="andrew1" src="/images/andrew1"><br></td>
