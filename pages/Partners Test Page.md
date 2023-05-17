@@ -21,7 +21,7 @@ label {
 }
 
 label:hover {
-	background: #4a96b0;
+	background: #BD2D37;
 	color: #FFF;
 }
 
