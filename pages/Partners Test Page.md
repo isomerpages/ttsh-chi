@@ -78,8 +78,78 @@ input:checked + label + .accordion-content {
 	<input id="title2" type="checkbox"><label for="title2">Healthcare Partners</label>
 	<div class="accordion-content">
 		<p>
-test
-		</p>
+<br>
+</p><div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
+		<div class="header"><b>CHI <br></b></div><br>
+		<div class="para">CHI 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br></div></div>
+
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br></div></div>
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+	
+
+
+
+</div></div>
+		<p></p>
 	</div>
 	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
 	<div class="accordion-content">
@@ -117,7 +187,3 @@ test
 | -------- | -------- | -------- |
 |![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
 |![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|</div>
-
-
-
-
