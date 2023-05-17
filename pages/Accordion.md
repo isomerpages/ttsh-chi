@@ -122,3 +122,6 @@ input:checked + label + .accordion-content {
 
 
 </div>
+
+Therefore for example,
+
