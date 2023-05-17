@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/CHI%20Logo®%20Colour.png)
 
-Should you have any enquiries, you may write to us at [email@email.com.sg](mailto:email@email.com.sg).
+Should you have any enquiries, you may write to us at [chi@ttsh.com.sg](mailto:chi@ttsh.com.sg).
 
 #### Centre of Healthcare Innovation ####
 
@@ -17,7 +17,7 @@ Should you have any enquiries, you may write to us at [email@email.com.sg](mailt
 </tr>
 <tr>
 	<td><b>Operating Hours:</b> </td>
-	<td> Counter Services: 8:00AM - 6:00PM<br><br>Facilities: 8:00AM - 10:00PM<br><br>Closed on Public Holidays</td>
+	<td> Monday - Friday: 8:00AM - 10:00PM<br><br>Closed on Public Holidays</td>
 </tr>
 <tr>
 	<td> <b>Phone:</b> </td><td>6123 6123</td>
