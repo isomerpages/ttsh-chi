@@ -109,7 +109,8 @@ input:checked + label + .content {
 
 </table><table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>All TTSH staff may apply to NTF HIP. Funding will also be applicable to non-staff (e.g. research collaborator, community partners, patients, caregivers, volunteers, students) if the fund recipient is part of a larger umbrella TTSH programme where a TTSH staff is the Project Owner / Principal Investigator.</td>
+	<tr><td>All TTSH staff may apply to NTF HIP. 
+Funding will also be applicable to non-staff (e.g. research collaborator, community partners, patients, caregivers, volunteers, students) if the fund recipient is part of a larger umbrella TTSH programme where a TTSH staff is the Project Owner / Principal Investigator.</td>
 </tr>
 </tbody>
 </table>
@@ -119,7 +120,7 @@ input:checked + label + .content {
 #### Application ####
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
-	<tr><td>For more information on NTF HIP funding opportunities and grant application process, please contact us at NTF_HI_Prog@ttsh.com.sg.</td></tr>
+	<tr><td>For more information on NTF HIP funding opportunities and grant application process, please contact us at NTF_HI_Prog@ttsh.com.sg .</td></tr>
 </tbody>
 </table>
 
