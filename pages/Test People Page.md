@@ -3,30 +3,64 @@ title: Test People Page
 permalink: /permalink/
 description: ""
 ---
----
-Our Management
----
-
-### **head of org**
-![](/images/Chairman.png)
-
-<div class="img-gallery">
-  <img alt="Mr K Shanmugam" title="Mr K Shanmugam" src="/images/1510806764644.jpg">
-</div>
-  <p><strong>Prof Tan</strong>
-  <br>CEO
-	<br>CHI</p>
-  
-
-
-### **Senior Management**
-
-<div class="img-gallery">
-  <img alt="Mr Luke Goh" title="Mr Luke Goh" src="/images/ps luke goh.jpg">
-</div>
-  <p><strong>Mr Tan</strong>
-  <br>Test</p>
-
-
 
 <p class="right-side-updated">Last updated on 3 Apr 2023</p>
+
+
+Test Header.
+---
+
+#### **Role of the Committee**
+
+This committee overseas the overall operations of CHI.
+
+#### **Chair**
+
+<table cellpadding="10" border="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 150px;"><img alt="Peter Ho" src="/images/jury/peter-ho.png"></td>
+<td><strong>Mr Peter <u>Ho</u></strong><br>Chairman<br>Urban Redevelopment Authority<br>Singapore<br><a href="/peter-ho/">Biography</a></td>
+</tr>
+</tbody>
+</table>
+
+#### **Members**
+
+<table cellpadding="10" border="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 150px;"><img alt="Flemming Borreskov" src="/images/jury/flemming-borreskov.png"><br></td>
+<td><strong>Mr Flemming <u>Borreskov</u></strong><br>President<br>Catalytic Society<br>Denmark<br><a href="/flemming-borreskov/">Biography</a></td>
+</tr>
+<tr>
+<td><br><img alt="Chan Heng Chee" src="/images/jury/chan-heng-chee.png"><br></td>
+<td><br><strong>Ambassador <u>Chan</u> Heng Chee</strong><br>Professor (Former Chair)<br>Lee Kuan Yew Centre for Innovative Cities<br>Singapore<br><a href="/chan-heng-chee/">Biography</a></td>
+</tr>
+<tr>
+<td><br><img alt="Helen Clark" src="/images/jury/helen-clark.png"><br></td>
+<td><br><strong>Ms Helen <u>Clark</u> </strong><br>Former Administrator<br>United Nations Development Programme<br>New Zealand<br><a href="/helen-clark/">Biography</a></td>
+</tr>
+<tr>
+<td><br><img alt="Ilmar Reepalu" src="/images/jury/ilmar-reepalu.png"><br></td>
+<td><br><strong>Mr Ilmar <u>Reepalu</u></strong><br>Vice President<br>Swedish Association of Local Authorities and Regions<br>Sweden<br><a href="/ilmar-reepalu/">Biography</a></td>
+</tr>
+<tr>
+<td><br><img alt="Maimunah Mohd Sharif" src="/images/jury/maimunah-mohd-sharif.png"><br></td>
+<td><br><strong>Ms Maimunah Mohd <u>Sharif</u></strong><br>Executive Director<br>United Nations Human Settlements Programme (UN-Habitat)<br>Malaysia/Kenya<br><a href="/maimunah-mohd-sharif/">Biography</a></td>
+</tr>
+</tbody>
+</table>
+
+---
+
+##### **Past members**
+
+| **1** | **Mr S. <u>Dhanabalan</u>** <br> Former Chair, Temasek Holdings | 
+| **2** | **Dr Pierre <u>Laconte</u>** <br> Former President, ISOCARP | 
+| **3** | **Mr Fumihiko <u>Maki</u>** <br> Principal, Maki &amp; Associates | 
+| **4** | **Late <u>Park</u> Won-soon** <br> Former Mayor, Seoul |
+| **5** | **Mr J Y <u>Pillay</u>** <br> Former Chair, Council of Presidential Advisers Singapore | 
+| **6** | **Mr John <u>So</u>** <br> Former Lord Mayor, Melbourne | 
+| **7** | **Mr Achim <u>Steiner</u>** <br> Administrator, United Nations Development Programme |
+| **8** | **Dr <u>Qiu</u> Baoxing** <br> Counsellor, State Council, China |
