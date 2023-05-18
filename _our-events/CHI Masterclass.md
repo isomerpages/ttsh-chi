@@ -121,7 +121,7 @@ By Dr Tai-Yi Huang
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">Test content</a></li>
-	<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">Test content</a></li>
+		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">CHI MasterClass</a></li>
+	<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">CHI Programmes</a></li>
 			</ul>
 </div>
