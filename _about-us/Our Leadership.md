@@ -11,7 +11,7 @@ Test Header.
 
 #### **Role of the Committee**
 
-This committee overseas the overall operations of CHI.
+This committee overseas the overall operations of CHI. Click on the profile picture to explore their LinkedIn
 
 #### **Chairman**
 
@@ -19,7 +19,7 @@ This committee overseas the overall operations of CHI.
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Chairman.png"></a></td>
-<td><strong>Mr Test <u>Test</u></strong><br>Chairman<br>President<br>Singapore<br><br>
+<td><strong>Mr Test <u>Test</u></strong><br>Chairman<br>President<br>Singapore<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
 </td></tr>
 </tbody>
 </table>
