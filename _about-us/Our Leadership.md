@@ -18,8 +18,8 @@ This committee overseas the overall operations of CHI.
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"></td>
-<td><strong>Mr Test <u>Test</u></strong><br>Chairman<br>President<br>Singapore<br>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td><strong>Mr Test <u>Test</u></strong><br>Chairman<br>President<br>Singapore<br><br>
 </td></tr>
 </tbody>
 </table>
