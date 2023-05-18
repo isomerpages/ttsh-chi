@@ -26,7 +26,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c"><img alt="CODEX" src="/images/initiatives/Codex-snp.jpeg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
 	<div class="header"><b>CHI IInnovate 2021</b></div><br>
 	<div class="para">CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c">here.</a>
 </div>
@@ -34,7 +34,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ"><img alt="E-Payments" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
 	<div class="header"><b>CHI Innovate 2020</b></div><br>
 	<div class="para">CHI INNOVATE 2020 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here.</a>
 </div>
@@ -43,7 +43,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="GoBusiness" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
 		<div class="header"><b>CHI Innovate 2019 </b></div><br>
 		<div class="para">CHI INNOVATE 2019 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
 </div>
@@ -51,7 +51,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img alt="CODEX" src="/images/initiatives/Codex-snp.jpeg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
 	<div class="header"><b>FutureHealth 2017</b></div><br>
 	<div class="para">08 - 10 November 2017
 Lee Kong Chian School of Medicine
@@ -61,7 +61,7 @@ Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img alt="E-Payments" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
 	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div><br>
 	<div class="para">20 - 28 October 2017
 Marina Bay Sands Expo and Convention Centre, Singapore
@@ -79,7 +79,7 @@ The inaugural CHI Conference 2016 was held in conjunction the National Seminar o
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">Test content</a></li>
-	<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">Test content</a></li>
+		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">CHI MasterClass</a></li>
+	<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">CHI Programmes</a></li>
 			</ul>
 </div>
