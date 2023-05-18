@@ -3,16 +3,16 @@ url: https://www.chi.sg
 favicon: /images/CHI Logo.png
 colors:
   primary-color: "#a6192e"
-  secondary-color: "#75787b"
+  secondary-color: "#f0eee1"
   media-colors:
     - title: media-color-one
-      color: "#f5a623"
+      color: "#bb303b"
     - title: media-color-two
-      color: "#a5b452"
+      color: "#9d0626"
     - title: media-color-three
-      color: "#4e8098"
+      color: "#d00282"
     - title: media-color-four
-      color: "#607196"
+      color: "#a30372"
     - title: media-color-five
       color: "#f1ab86"
 description: >-
