@@ -80,3 +80,169 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 
 
 </div></div>
+
+
+# Altenatively could use this format
+
+### Facilities
+The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation hub that grooms the next generation of healthcare professionals through interactive learning, teaching and offering research opportunities. It provides a foundation for team-based learning and collaborations across different medical discipline and using innovative technology to stimulate real-world clinical environment..
+
+
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Connectivity" src="/images/partner-us/enterprise/icons/12_cycling.png">
+    </div>
+    <div class="col is-8">
+      <p class="title is-4"></p><h2>Connectivity</h2><p></p>
+    </div>
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div>
+	<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+		</div>
+
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Sustainability" src="/images/partner-us/enterprise/icons/01_peacock.png">
+    </div>
+    <div class="col is-8">
+      <p class="title is-4"></p><h2>Sustainability</h2><p></p>
+    </div>
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Digital" src="/images/partner-us/enterprise/icons/07_segway.png">
+    </div>
+    <div class="col is-8">
+      <p class="title is-4"></p><h2>Digital</h2><p></p>
+    </div>
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div>
+
+<h4>Auditorium</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg">
+        </figure>
+    </div>
+	<div class="col is-6">
+		<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
+
+</div>
+</div></div></div></div></div></div></div></div></div></div></div>
