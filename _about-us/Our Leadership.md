@@ -13,7 +13,7 @@ Test Header.
 
 This committee overseas the overall operations of CHI.
 
-#### **Chair**
+#### **Chairman**
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
