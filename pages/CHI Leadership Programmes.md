@@ -66,3 +66,18 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <div class="col">
 </div>
 <br></div></div>
+
+<br><br>
+
+<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
+
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+	<ul>
+		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">COS 2023 Infographic - Smart Nation Today and Beyond</a></li>
+		<li><a href="/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf">COS 2022 Infographics - Building Our Smart Nation</a></li>
+			<li><a href="/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf">COS 2022 Infographics: Transforming Lives</a></li>
+			<li><a href="/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf">COS 2022 Infographics: Helping Businesses</a></li>
+			<li><a href="/files/press-releases/2021/transforming-sg-through-tech.pdf">COS 2021 Infographics: Transforming Singapore Through Technology</a></li>
+			<li><a href="/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf">COS 2021 Infographics: Building Partnerships and Capabilities</a></li>
+	</ul>
+</div>
