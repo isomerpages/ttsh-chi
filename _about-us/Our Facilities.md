@@ -13,7 +13,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 <br>
 <div class="row">
 <div class="col"> 
-<img alt="Auditorium" src="/images/initiatives/pdd.jpeg"><br>
+<img alt="Auditorium" src="/images/office-desk-animation.gif"><br>
 	<div class="header"><b>Auditorium</b></div><br>
 	<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
 
