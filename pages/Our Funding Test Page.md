@@ -134,7 +134,7 @@ Funding will also be applicable to non-staff (e.g. research collaborator, commun
  <td><b>Operating Hours:</b> </td><td>10:00AM - 6:00PM (Closed on Public Holidays)</td>
 </tr>
 <tr>
-	<td> <b>Phone:</b> </td><td>6666 6666</td>
+	<td> <b>Phone:</b> </td><td>6123 6123</td>
 </tr>
 </tbody>
 </table>
