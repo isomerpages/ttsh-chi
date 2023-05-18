@@ -66,19 +66,8 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>
 
-| ||  |
-| -------- | -------- | -------- |
-|![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smthdsadsadasdsadasdsadsadasdsadsadasdasdsa.|
-|![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smthdsadsadasdsadasdsadsadasdsadsadasdasdsa.|
-|  |  |  |		
-
-# **CHI partners**
-
-| ||  |
-| -------- | -------- | -------- |
-|![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
-|![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
-|  |  |  |
+# bdyuwqgqduyeq
+fdsfsedfea
 
 
 </p>
