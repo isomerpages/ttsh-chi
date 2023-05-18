@@ -114,6 +114,7 @@ label {
 	color: #484848; *colour of text*
 	transition: ease .5s;
 	font-size: 1.2em;
+	font-size: 15px;
 	
 }
 
@@ -121,6 +122,7 @@ label:hover {
 	background: #ccc;
 	color: ##D1C052;
 	transition: ease .5s;
+	font-size: 15px;
 }
 
 .accordion-content {
@@ -130,6 +132,7 @@ label:hover {
 	margin: 0 0 5px 0;
 	border-radius: 10px;
 	transition: ease .4s;
+	font-size: 15px;
 }
 
 input + label + .accordion-content {
