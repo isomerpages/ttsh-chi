@@ -126,6 +126,7 @@ fdsfsedfea
 </div>
 <br></div></div>
 
+
 <div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
@@ -141,9 +142,14 @@ fdsfsedfea
 	<div class="para">CHI Logo and smth.
 </div>
 <br>
-	
-
-
+		=blank=
+</div>
+	<div class="col"> 
+<br>
+	<div class="header"><b></b></div><br>
+	<div class="para">
+</div>
+<br>
 
 </div></div>
 		<p></p>
@@ -170,20 +176,9 @@ fdsfsedfea
 	</div>
 </div>
 
-# **CHI partners**
 
 
-| ||  |
-| -------- | -------- | -------- |
-|![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
-|![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smth.
-| | | |
-# **CHI partners**
-
-| ||  |
-| -------- | -------- | -------- |
-|![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
-|![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|</div>
+</div>
 
 
 
