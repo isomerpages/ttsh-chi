@@ -20,7 +20,7 @@ description: >-
   3) Enable Healthcare Training
 image: /images/CHI Logo.png
 permalink: /
-notification: ""
+notification: Test Notification
 sections:
   - hero:
       url: https://form.gov.sg/63ff0dedc2a8ab001139bc02
