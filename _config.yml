@@ -2,8 +2,8 @@ title: Centre for Healthcare Innovation
 url: https://www.chi.sg
 favicon: /images/CHI Logo.png
 colors:
-  primary-color: "#a6192e"
-  secondary-color: "#f0eee1"
+  primary-color: "#f0eee1"
+  secondary-color: "#a6192e"
   media-colors:
     - title: media-color-one
       color: "#bb303b"
