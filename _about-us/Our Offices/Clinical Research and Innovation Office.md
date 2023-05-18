@@ -111,6 +111,7 @@ label {
 	cursor: pointor;
 	background: #F0F4F6; *colour*
 	border-radius: 3px;
+	text-align: left
 	color: #484848; *colour of text*
 	transition: ease .5s;
 	font-size: 1.2em;
