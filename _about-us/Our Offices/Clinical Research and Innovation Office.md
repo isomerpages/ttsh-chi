@@ -114,6 +114,7 @@ label {
 	color: #484848; *colour of text*
 	transition: ease .5s;
 	font-size: 1.2em;
+	
 }
 
 label:hover {
@@ -128,6 +129,7 @@ label:hover {
 	/* border: 1px solid #ccc; */
 	margin: 0 0 5px 0;
 	border-radius: 10px;
+	transition: ease .4s;
 }
 
 input + label + .accordion-content {
