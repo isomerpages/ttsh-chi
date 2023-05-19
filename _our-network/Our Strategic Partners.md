@@ -67,7 +67,7 @@ input:checked + label + .accordion-content {
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/qultrum.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.png"></a><br>
 	<div class="header"><b>Qulturum</b></div><br>
 	<div class="para">
 Region Jönköping County, Sweden
@@ -78,7 +78,7 @@ Region Jönköping County, Sweden
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/routine%20to%20research%20(r2r)%20unit.png"></a><br>
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/routine%20to%20research%20(r2r)%20unit.png"></a><br>
 		<div class="header"><b>Routine to Research (R2R) Unit <br></b></div><br>
 		<div class="para">Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand
 “Partnership within the co-learning network will enable us to share with each other, to form joint training activities, provide accessibility for coaching and mentoring within our network and to promote leadership and managerial capabilities.” 
@@ -87,7 +87,7 @@ Region Jönköping County, Sweden
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/nhs%20nca%20logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.png"></a><br>
 	<div class="header"><b>Northern Care Alliance (NCA)</b></div><br>
 	<div class="para">NHS Foundation Trust, United Kingdom
 The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringing together two NHS Trusts, Salford Royal NHS Foundation Trust and The Pennine Acute Hospitals NHS Trust. The NCA FT was formally established on 1 October 2021. The NCA has
@@ -97,7 +97,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:200px; height:200px; padding-top:8%;" src="/images/Logos/trust%20logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:200px; height:200px; padding-top:8%;" src="/images/Logos/International/trust%20logo.png"></a><br>
 	<div class="header"><b>Imperial College Healthcare NHS Trust</b></div><br>
 	<div class="para">United Kingdom
 "We are an NHS Trust of 10,000 people, providing care for around a million people every year, in our five hospitals and a growing number of community services in north west London. We have a rich heritage and an ambitious vision for the future of our patients and.
@@ -106,7 +106,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/logo%20rs.png"><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.png"><br>
 	</a><div class="header"><a href="https://www.linkedin.com/company/14607710/admin/"></a><b>Ribera Salud Group</b></div><br>
 	<div class="para">Spain
 "Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. We developed the “Alzira Model,” a citizen-centered, fully integrated capitated Accountable Care
@@ -128,7 +128,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 <br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img style="width:150px; padding-top:8%;" src="/images/Logos/national%20hg.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img style="width:150px; padding-top:8%;" src="/images/Logos/Healthcare/national%20hg.png"></a><br>
 	<div class="header"><b>National Healthcare Group</b></div><br>
 	<div class="para">“The greatest impact of the network would be to disrupt the way we work, the way we think, to keep us nimble, current and future-ready. This network will provide means to benchmark, co-learn, co-create and co-develop better processes. That’s when the
 
@@ -137,7 +137,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/national%20hs.png"></a><br>
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/national%20hs.png"></a><br>
 		<div class="header"><b>National University Health System <br></b></div><br>
 		<div class="para">“Similar to many of our other members of our council, we are also struggling with the many issues of the shrinking manpower as well as increasing demand for healthcare services. So I think it is very important for our council members to actually share good 
 </div>
@@ -145,7 +145,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/partnership9.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/partnership9.png"></a><br>
 	<div class="header"><b>Singapore Health Services</b></div><br>
 	<div class="para">“We believe that our efforts might be of interest to other institutions and we are certainly very interested in learning from the experiences of other institutions as we find better ways to look after our patients."
 </div>
