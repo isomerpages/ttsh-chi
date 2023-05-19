@@ -36,6 +36,7 @@ sections:
           description: ""
           url: ""
       background: /images/Draft Home Banner.jpg
+      button: read more
   - resources:
       title: Our Latest News
   - infobar:
