@@ -38,6 +38,11 @@ sections:
       background: /images/Draft Home Banner.jpg
   - resources:
       title: Our Latest News
+  - infobar:
+      title: About Us
+      description: Learn about how we pave the path for healthcare innovation in Singapore
+      button: Learn more
+      url: /about-us/our-purpose/
   - infopic:
       title: CHI Innovate 2023
       subtitle: Upcoming events
@@ -46,9 +51,4 @@ sections:
       url: https://chiinnovate2023.klobbi.com/
       image: /images/Website_Right.png
       alt: Image alt text
-  - infobar:
-      title: About Us
-      description: Learn about how we pave the path for healthcare innovation in Singapore
-      button: Learn more
-      url: /about-us/our-purpose/
 ---
