@@ -158,26 +158,26 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>Qulturum</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/leekongchian.png"></a><br>
+	<div class="header"><b>Lee Kong Chian School of Medicine</b></div><br>
+	<div class="para">“We will share our innovative approaches, we will share our teaching of e-health and e-learning and we hope to gain as much from all other partners, from Singapore, from the region and all over the world. And it is through this team-based sharing and learning that 
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
-		<div class="header"><b>CHI <br></b></div><br>
-		<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.” 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/nanyang%20poly.svg"></a><br>
+		<div class="header"><b>Nanyang Polytechnic <br></b></div><br>
+		<div class="para">“As we sharpen on our understanding on the need and what is trending on the healthcare field, we can continually refine our curriculum for pre-employment training and continuing education and training for practicing professionals. This partnership
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/singapore%20it.svg"></a><br>
+	<div class="header"><b>Singapore Institute of Technology</b></div><br>
+	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
 </div>
 <br></div></div>
 
