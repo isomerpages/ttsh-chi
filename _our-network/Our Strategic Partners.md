@@ -276,51 +276,53 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>Qulturum</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
+	<div class="header"><b>Johnson &amp; Johnson</b></div><br>
+	<div class="para">"We aim to keep people well at every age and every stage of life. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere."
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
-		<div class="header"><b>CHI <br></b></div><br>
-		<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.” 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></a><br>
+		<div class="header"><b>NEC <br></b></div><br>
+		<div class="para">"NEC Laboratories Singapore specialises in co-creating cutting-edge AI solutions together with Governments and Enterprises, towards safer and smarter cities."
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
+	<div class="header"><b>Philips Electronics Singapore
+</b></div><br>
+	<div class="para">"We focus on implementing meaningful innovations, centered on patients and care providers, designed to break down barries and complexity to offer better value to patients, providers and overall healthcare system."
+
 </div>
 <br></div></div>
 
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></a><br>
+	<div class="header"><b>PricewaterhouseCoopers Consulting (Singapore)</b></div><br>
+	<div class="para">PricewaterhouseCoopers Consulting (Singapore)
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/workplace.svg"></a><br>
+	<div class="header"><b>Workplace by Facebook</b></div><br>
+	<div class="para">Workplace by Facebook
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.png"></a><br>
+	<div class="header"><b>ST Healthcare</b></div><br>
+	<div class="para">ST Healthcare
 </div>
 <br></div></div>
 
