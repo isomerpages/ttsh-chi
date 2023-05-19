@@ -65,10 +65,9 @@ input:checked + label + .accordion-content {
 	<input id="title1" type="checkbox"><label for="title1">International Partners</label>
 	<div class="accordion-content">
 		<p>
-
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/qultrum.png"></a>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/qultrum.png"></a><br>
 	<div class="header"><b>Qulturum</b></div><br>
 	<div class="para">
 Region Jönköping County, Sweden
