@@ -194,7 +194,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/agency%20for%20integrated%20care.svg"></a><br>
 	<div class="header"><b>Agency for Integrated Care</b></div><br>
 	<div class="para">“The strength of the network like CHI is really about the number of partners and the projects we do together. I would say that in 10 years’ time we would have reached the stage that we are recognised for the collective work that we do that has transformed care,
 
@@ -203,7 +203,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
 		<div class="header"><b>Design Singapore Council <br></b></div><br>
 		<div class="para">“The Design Singapore Council has through many years developed its capabilities in design thinking for design innovation. And this is very important, because the thing is that, what we hope to bring into the CHI network is the whole notion of empathy and 
 </div>
@@ -211,7 +211,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="!/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
 	<div class="header"><b>A*ccelerate</b></div><br>
 	<div class="para">“I see CHI as a platform that would enable for that change of mind-set for a healthcare industry to be able to see that we can actually change as a result of the transformation that is taking place so that we can have the biggest impact on healthcare.”
 </div>
@@ -220,7 +220,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></a><br>
 	<div class="header"><b>Integrated Health Information Systems</b></div><br>
 	<div class="para">“iHIS being the system integrator and also the connector of dots for technology matters in public healthcare can help add a lot of value in terms of being able to bring the real experience of what goes on in public healthcare to CHI.”
 </div>
@@ -228,7 +228,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="!/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
 	<div class="header"><b>Singapore Biodesign</b></div><br>
 	<div class="para">“We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”
 </div>
@@ -236,7 +236,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></a><br>
 	<div class="header"><b>Enterprise Singapore</b></div><br>
 	<div class="para">“To grow healthcare and biomedical local enterprises, Enterprise Singapore partners key stakeholders like the Centre for Healthcare Innovation to encourage more clinician-driven innovations to be applied locally and scaled globally.”
 </div>
@@ -244,7 +244,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="!/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
 	<div class="header"><b>Workforce Singapore</b></div><br>
 	<div class="para">“At the end of the day, what we really want to achieve is for the workers to have better jobs and for the industry to have ample supply of better trained workers and so this will be a continuing priority of WSG and we are all in for this co-learning network and
 </div>
