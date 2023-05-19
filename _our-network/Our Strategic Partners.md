@@ -138,7 +138,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/national%20hs.png"></a><br>
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/national%20hs.png"></a><br>
 		<div class="header"><b>National University Health System <br></b></div><br>
 		<div class="para">“Similar to many of our other members of our council, we are also struggling with the many issues of the shrinking manpower as well as increasing demand for healthcare services. So I think it is very important for our council members to actually share good 
 </div>
@@ -146,7 +146,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/partnership9.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/partnership9.png"></a><br>
 	<div class="header"><b>Singapore Health Services</b></div><br>
 	<div class="para">“We believe that our efforts might be of interest to other institutions and we are certainly very interested in learning from the experiences of other institutions as we find better ways to look after our patients."
 </div>
