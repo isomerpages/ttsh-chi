@@ -125,11 +125,11 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 	<input id="title2" type="checkbox"><label for="title2">Healthcare Partners</label>
 	<div class="accordion-content">
 		<p>
-<br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img style="width:150px; padding-top:8%;" src="/images/Logos/Healthcare/national%20hg.png"></a><br>
-	<div class="header"><b>National Healthcare Group</b></div><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/national%20hg.png"></a><br>
+	<div class="header"><b>National Healthcare Group</b></div>
+	<br>
 	<div class="para">“The greatest impact of the network would be to disrupt the way we work, the way we think, to keep us nimble, current and future-ready. This network will provide means to benchmark, co-learn, co-create and co-develop better processes. That’s when the
 
 </div>
