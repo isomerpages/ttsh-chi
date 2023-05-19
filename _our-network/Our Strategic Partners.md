@@ -340,7 +340,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
 	<div class="header"><b>AWWA
 		</b></div><br>
 	<div class="para">AWWA is a social service organisation, serving over 10,000 of the disadvantaged across life stages. Services include early intervention for pre-schoolers, education and disability support for children with special needs, assistance to low income families,
@@ -350,7 +350,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 		<div class="header"><b>St Luke's ElderCare <br></b></div><br>
 		<div class="para">St Luke’s ElderCare delivers a full range of integrated services and programmes for their clients through 22 eldercare centres islandwide. They include maintenance day care, day rehabilitation programmes such as physiotherapy and occupational
 </div>
@@ -358,6 +358,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/doverpark.png"></a><br>
 	<div class="header"><b>Dover Park Hospice
 </b></div><br>
@@ -369,6 +370,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
 	<div class="header"><b>Thye Hua Kwan Moral Society</b></div><br>
 	<div class="para">The Thye Hua Kwan Moral Society has three subsidiaries; Ang Mo Kio Thye Hua Kwan Hospital, Thye Hua Kwan Moral Charities and Thye Hua Kwan Nursing Home. Together, they provide services that respond to the needs of the community.
@@ -378,6 +380,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
 	<div class="header"><b>Kwong Wai Shiu Hospital</b></div><br>
 	<div class="para">To cope with Singapore’s changing healthcare needs, Kwong Wai Shiu Hospital went through major redevelopments and has evolved into a community healthcare hub today. Given the historical significance of KWSH’s premises, the Urban Redevelopment
@@ -386,6 +389,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/ntuc%20health.png"></a><br>
 	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
 	<div class="para">NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
@@ -393,7 +397,9 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 <br>
 
 </div>
-	<div class="col"> 
+	<div class="col">
+
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
 	<div class="header"><b>Tsao Foundation</b></div><br>
 	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
@@ -402,6 +408,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
 	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
 	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
@@ -410,6 +417,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/care%20corner%20singapore.png"></a><br>
 	<div class="header"><b>Care Corner Singapore</b></div><br>
 	<div class="para">Care Corner Singapore Ltd was founded in 1981, in a climate of changes in the early 1980s, as economic competition in the region intensified and the rift between the wealthy and the lower-income in particular the Chinese blue-collar workers,
@@ -418,6 +426,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.png"></a><br>
 	<div class="header"><b>Methodist Welfare Services</b></div><br>
 	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed
