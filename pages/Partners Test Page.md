@@ -556,3 +556,79 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 |![](/images/tkps%20logo%20(colour).png)| **[Telok Kurau Primary School](https://www.telokkuraupri.moe.edu.sg/)**. We will be showcasing our Butterfly Garden and outreach programmes at the booth. So drop by and join us at Telok Kurau Primary School booth! Catch us at the CIN Schools Booth on 27 May 2023 from 12:00PM to 2:00PM!
 |![](/images/Logos/wwfsg.jpg)| **[World Wide Fund for Nature Singapore (WWF-Singapore)](https://www.wwf.sg/)**. WWF-Singapore will showcase an overview of supported research projects that use technology, touching on topics of marine conservation and illegal wildlife trade. Our booth would also have interactive elements, specimens and product replicas.|
 |![](/images/rfxp-logo-inline-black_300.png)| **[XPRIZE](https://www.xprize.org/)**. The $10 Million XPRIZE Rainforest is a five-year competition sponsored by the Alana Foundation to enhance shared understanding of tropical rainforest ecosystems.|
+
+
+
+
+---
+<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
+    <div style="text-align: left;">
+        <b>International Organisations</b>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black; padding-top:2%;">
+            <div style="text-align: left;padding-top:5px;"><img style="width:100px;float:left;" alt="People's Association" src="/images/Logos/logo%20rs.png"> <p></p></div>
+            <div style="text-align: left; padding-top: 10%;"><img style="width: 133px; float: left;" alt="Chingay Parade Singapore" src="/images/Sponsors%20&amp;%20Donors/chingay-(black)-31-october-2021-11-10-19.png"> </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+        </div>
+    </div>
+    <div style="text-align: left;">
+        <b>Principal Founding Sponsors</b>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+            <div style="text-align: left; padding-top: 15px;"><img style="width: 80px; float: left;" alt="Toteboard" src="/images/Sponsors%20&amp;%20Donors/tote-board-23-october-2019-17-24-12.jpg"> </div>
+            <div style="text-align: left; padding-top: 18px;"><img style="width: 100px; float: left;" alt="Singapore Tourism Board" src="/images/Sponsors%20&amp;%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png"> </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: left;">
+	<b>Major Sponsors, Donors and Partners</b>
+    <div style="margin: 5px auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+        <div style="text-align: center;"><img style="width:150px; padding-top:8%;" alt="DBS" src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png"> </div>
+        <div style="text-align: center;"><img style="width:150px; padding-top:8%;" alt="POSB" src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png"> </div>
+        <div style="text-align: center;"><img style="width:200px;padding-top:3%;" alt="Nunchi Marine" src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png"> </div>
+        <div style="text-align: center;"><img style="width:190px;padding-top:12px;" alt="Singapore Chinese Cultural Centre" src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png"> </div>
+        <div style="text-align: center;"><img style="width:150px;padding-top:15%;" alt="KKL" src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png"> </div>
+<div style="text-align: center;"><img style="width:120px;" alt="Lorong Koo Chye Sheng Hong" src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png"> </div>
+        <div style="text-align: center;"><img style="width:120px;" alt="Loyang Tua Pek Gong" src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg"> </div>
+        <div style="text-align: center;"><img style="width:170px;padding-top:29%;" alt="Hock Lam" src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png"> </div>
+        <div style="text-align: center;"><img style="width:161px;padding-top:5%; padding-bottom:20%" alt="JCDecaux" src="/images/Sponsors%20&amp;%20Donors/jcd-04-february-2022-20-39-40.jpeg"> </div>
+        <div style="text-align: center;"><img style="width:161px;padding-top:20%;" alt="Skechers" src="/images/Sponsors%20&amp;%20Donors/sketchers-31-october-2021-10-42-19.png"> </div>
+        <div style="text-align: center;"><img style="width:130px;" alt="DFI" src="/images/Sponsors%20&amp;%20Donors/dfi-retail-group-20-january-2022-15-08-36.png"> </div>
+</div>
+</div>
+<br>
+
+<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
+    <div style="text-align: left;">
+        <b>Official Caterer</b>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
+            <div style="text-align: left;padding-top:25px;"><img style="width:160px;float:left;" alt="People's Association" src="/images/Sponsors%20&amp;%20Donors/stamford-catering-18-october-2019-16-40-27.png"> </div>
+            <div style="text-align: left; padding-top: 8%;"><img style="width: 150px; float: left;" alt="Chingay Parade Singapore" src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png"> </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+        </div>
+    </div>
+    <div style="text-align: left;">
+        <b>Official E-Commerce Partner</b>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+            <div style="text-align: left; padding-top: 35px;"><img style="width: 180px; float: left;" alt="Lazada" src="/images/Sponsors%20&amp;%20Donors/Lazada_ATCATL.png"> </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: left;">
+    <b>Official Cards</b>
+    <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+        <div style="text-align: left; padding-top: 10px;"><img style="width:150px;float: left;" src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20Black.png"> </div>
+        <div style="text-align: left; padding-top: 10px;"><img style="width: 150px; float: left;" alt="PAssion Card Silver" src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20Silver.png"> </div>
+        <div style="text-align: left; padding-top: 10px;"><img style="width: 150px; float: left;" alt="PAssion Card POSB" src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20POSB.png"> </div>
+        <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+        <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+    </div>
+</div>
+
+
+
