@@ -228,7 +228,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="!/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
 	<div class="header"><b>Singapore Biodesign</b></div><br>
 	<div class="para">“We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”
 </div>
@@ -244,7 +244,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="!/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
 	<div class="header"><b>Workforce Singapore</b></div><br>
 	<div class="para">“At the end of the day, what we really want to achieve is for the workers to have better jobs and for the industry to have ample supply of better trained workers and so this will be a continuing priority of WSG and we are all in for this co-learning network and
 </div>
@@ -252,7 +252,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
 	<div class="header"><b>Institute for Adult Learning</b></div><br>
 	<div class="para">An Institute of Singapore University of Social Sciences
 "As the national institute spearheading efforts to raise learning innovation practice and adoption, IAL is excited to work alongside CHI to pave the way in applying new innovative methods to promote learning and performance in the healthcare
@@ -260,7 +260,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
 	<div class="header"><b>Healthcare Academy</b></div><br>
 	<div class="para">"Formed by the Healthcare Services Employees' Union, NTUC LearningHub, and NTUC's Employment and Employability Institute, the Academy aims to ensure that all healthcare workers get the necessary training and support to cope with changes in
 </div>
