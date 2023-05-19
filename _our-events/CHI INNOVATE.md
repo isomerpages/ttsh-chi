@@ -26,15 +26,16 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
-	<div class="header"><b>CHI IInnovate 2021</b></div><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a>
+		<br>
+	<div class="header"><b>CHI Innovate 2021</b></div><br>
 	<div class="para">CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c">here.</a>
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br>
 	<div class="header"><b>CHI Innovate 2020</b></div><br>
 	<div class="para">CHI INNOVATE 2020 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here.</a>
 </div>
@@ -43,7 +44,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 <br>
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br>
 		<div class="header"><b>CHI Innovate 2019 </b></div><br>
 		<div class="para">CHI INNOVATE 2019 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
 </div>
@@ -51,7 +52,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br>
 	<div class="header"><b>FutureHealth 2017</b></div><br>
 	<div class="para">08 - 10 November 2017
 Lee Kong Chian School of Medicine
@@ -61,7 +62,7 @@ Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="GoBusiness" src="/images/Website_Right.png"></a><br>
 	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div><br>
 	<div class="para">20 - 28 October 2017
 Marina Bay Sands Expo and Convention Centre, Singapore
