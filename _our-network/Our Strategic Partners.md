@@ -393,12 +393,13 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 <br>
 
 </div>
+	<div class="row">
 	<div class="col">
 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
 	<div class="header"><b>Tsao Foundation</b></div><br>
 	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
-</div>
+</div></div>
 <br>
 
 </div>
@@ -419,11 +420,12 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 <br>
 
 </div>
+	<div class="row">
 	<div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.png"></a><br>
 	<div class="header"><b>Methodist Welfare Services</b></div><br>
 	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed
-</div>
+</div></div>
 <br>
 
 
