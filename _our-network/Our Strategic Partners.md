@@ -179,48 +179,10 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 	<div class="header"><b>Singapore Institute of Technology</b></div><br>
 	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
 </div>
-<br></div></div>
-
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
 <br>
 
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
 
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br></div></div>
 
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
 	
 
 
