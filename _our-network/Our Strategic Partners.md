@@ -340,7 +340,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Comm%20Parnter/awwaawwa.svg)"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
 	<div class="header"><b>AWWA</b></div><br>
 	<div class="para">AWWA is a social service organisation, serving over 10,000 of the disadvantaged across life stages. Services include early intervention for pre-schoolers, education and disability support for children with special needs, assistance to low income families,
 
@@ -357,7 +357,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="![](/images/Logos/Comm%20Parnter/doverpark.png)"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/doverpark.png"></a><br>
 	<div class="header"><b>Dover Park Hospice</b></div><br>
 	<div class="para">Dover Park Hospice aims to alleviate suffering and maximise quality of life for the terminally-ill and their loved ones through holistic palliative care. Founded in 1992, Dover Park Hospice is Singapore’s first purpose-built hospice, caring for those nearing the end of life’s journey.
 </div>
