@@ -98,7 +98,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/trust%20logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:200px; height:200px; padding-top:8%;" src="/images/Logos/trust%20logo.png"></a><br>
 	<div class="header"><b>Imperial College Healthcare NHS Trust</b></div><br>
 	<div class="para">United Kingdom
 "We are an NHS Trust of 10,000 people, providing care for around a million people every year, in our five hospitals and a growing number of community services in north west London. We have a rich heritage and an ambitious vision for the future of our patients and.
