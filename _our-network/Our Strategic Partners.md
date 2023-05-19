@@ -66,16 +66,142 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>
 
-# bdyuwqgqduyeq
-fdsfsedfea
+</p><div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img src="/images/Logos/qultrum.png"></a>
+	<div class="header"><b>Qulturum</b></div><br>
+	<div class="para">
+Region Jönköping County, Sweden
+“Qulturum knows that this network has many valuable centres involved so we hope that we can energise each other to new levels of understanding. I think that the modernisation of care is so challenging now that we need to find ways to show them the way
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/routine%20to%20research%20(r2r)%20unit.png"></a><br>
+		<div class="header"><b>Routine to Research (R2R) Unit <br></b></div><br>
+		<div class="para">Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand
+“Partnership within the co-learning network will enable us to share with each other, to form joint training activities, provide accessibility for coaching and mentoring within our network and to promote leadership and managerial capabilities.” 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/nhs%20nca%20logo.png"></a><br>
+	<div class="header"><b>Northern Care Alliance (NCA)</b></div><br>
+	<div class="para">NHS Foundation Trust, United Kingdom
+The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringing together two NHS Trusts, Salford Royal NHS Foundation Trust and The Pennine Acute Hospitals NHS Trust. The NCA FT was formally established on 1 October 2021. The NCA has
+</div>
+<br></div></div>
 
 
-</p>
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img src="/images/Logos/trust%20logo.png"></a><br>
+	<div class="header"><b>Imperial College Healthcare NHS Trust</b></div><br>
+	<div class="para">United Kingdom
+"We are an NHS Trust of 10,000 people, providing care for around a million people every year, in our five hospitals and a growing number of community services in north west London. We have a rich heritage and an ambitious vision for the future of our patients and.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/logo%20rs.png"></a><br>
+	<div class="header"><b>Ribera Salud Group</b></div><br>
+	<div class="para">Spain
+"Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. We developed the “Alzira Model,” a citizen-centered, fully integrated capitated Accountable Care
+</div>
+<br>
+
+
+<br>
+	
+
+
+
+</div></div>
+<p></p>
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Healthcare Partners</label>
 	<div class="accordion-content">
 		<p>
 <br>
+</p><div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img src="/images/Logos/national%20healthcare%20group.png"></a><br>
+	<div class="header"><b>National Healthcare Group</b></div><br>
+	<div class="para">“The greatest impact of the network would be to disrupt the way we work, the way we think, to keep us nimble, current and future-ready. This network will provide means to benchmark, co-learn, co-create and co-develop better processes. That’s when the
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/national%20university%20health%20system.png"></a><br>
+		<div class="header"><b>National University Health System <br></b></div><br>
+		<div class="para">“Similar to many of our other members of our council, we are also struggling with the many issues of the shrinking manpower as well as increasing demand for healthcare services. So I think it is very important for our council members to actually share good 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/singhealth.png"></a><br>
+	<div class="header"><b>Singapore Health Services</b></div><br>
+	<div class="para">“We believe that our efforts might be of interest to other institutions and we are certainly very interested in learning from the experiences of other institutions as we find better ways to look after our patients."
+</div>
+<br></div></div>
+
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br></div></div>
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+	
+
+
+
+</div></div>
+		<p></p>
+	</div>
+	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
+	<div class="accordion-content">
+		<p><br>
 </p><div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
@@ -126,6 +252,55 @@ fdsfsedfea
 </div>
 <br></div></div>
 
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+	
+
+
+
+</div></div><p></p>
+	</div>
+	<input id="title4" type="checkbox"><label for="title4">Strategic Agencies</label>
+	<div class="accordion-content">
+		<p><br>
+</p><div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>Qulturum</b></div><br>
+	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
+		<div class="header"><b>CHI <br></b></div><br>
+		<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.” 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+</div>
+<br></div></div>
+
 
 <div class="row">
 <div class="col"> 
@@ -142,29 +317,183 @@ fdsfsedfea
 	<div class="para">CHI Logo and smth.
 </div>
 <br>
-		=blank=
+
 </div>
 	<div class="col"> 
-<br>
-	<div class="header"><b></b></div><br>
-	<div class="para">
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br></div></div>
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
 </div>
 <br>
 
-</div></div>
-		<p></p>
-	</div>
-	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text. Sample text Sample text Sample text Sample text Sample text Sample text Sample text. .</p>
-	</div>
-	<input id="title4" type="checkbox"><label for="title4">Strategic Agencies</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+	
+
+
+
+</div></div><p></p>
 	</div>
 	<input id="title5" type="checkbox"><label for="title5">Industry Knowledge Partners</label>
 	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
+		<p><br>
+</p><div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>Qulturum</b></div><br>
+	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
+		<div class="header"><b>CHI <br></b></div><br>
+		<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.” 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+</div>
+<br></div></div>
+
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br></div></div>
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+	
+
+
+
+</div></div><p></p>
+	</div>
+	<input id="title4" type="checkbox"><label for="title4">Strategic Agencies</label>
+	<div class="accordion-content">
+		<p><br>
+</p><div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>Qulturum</b></div><br>
+	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
+		<div class="header"><b>CHI <br></b></div><br>
+		<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.” 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+</div>
+<br></div></div>
+
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br></div></div>
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>CHI</b></div><br>
+	<div class="para">CHI Logo and smth.
+</div>
+<br>
+	
+
+
+
+</div></div><p></p>
 	</div>
 <input id="title5" type="checkbox"><label for="title5">Community Partners</label>
 	<div class="accordion-content">
@@ -176,9 +505,20 @@ fdsfsedfea
 	</div>
 </div>
 
+# **CHI partners**
 
 
-</div>
+| ||  |
+| -------- | -------- | -------- |
+|![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
+|![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smth.
+| | | |
+# **CHI partners**
+
+| ||  |
+| -------- | -------- | -------- |
+|![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|
+|![](/images/CHI%20Logo.png)| **[CHI](https://www.chi.sg/)**. CHI Logo and smth.|</div>
 
 
 
