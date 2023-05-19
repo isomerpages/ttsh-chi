@@ -343,87 +343,18 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 
 
-</div></div><p></p>
-	</div>
-	<input id="title4" type="checkbox"><label for="title4">Strategic Agencies</label>
-	<div class="accordion-content">
-		<p><br>
-</p><div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>Qulturum</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
-		<div class="header"><b>CHI <br></b></div><br>
-		<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.” 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
-</div>
-<br></div></div>
-
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br></div></div>
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
 	
 
 
 
 </div></div><p></p>
 	</div>
-<input id="title5" type="checkbox"><label for="title5">Community Partners</label>
+<input id="title6" type="checkbox"><label for="title6">Community Partners</label>
 	<div class="accordion-content">
 		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
 	</div>
-	<input id="title5" type="checkbox"><label for="title5">Collaborating Centres</label>
+	<input id="title7" type="checkbox"><label for="title7">Collaborating Centres</label>
 	<div class="accordion-content">
 		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
 	</div>
