@@ -38,4 +38,17 @@ sections:
       background: /images/Draft Home Banner.jpg
   - resources:
       title: Our Latest News
+  - infopic:
+      title: CHI Innovate 2023
+      subtitle: Upcoming events
+      description: CHI INNOVATE 2023 is happening on 28th July 2023
+      button: Read more
+      url: https://chiinnovate2023.klobbi.com/
+      image: /images/Website_Right.png
+      alt: Image alt text
+  - infobar:
+      title: About Us
+      description: Learn about how we pave the path for healthcare innovation in Singapore
+      button: Learn more
+      url: /about-us/our-purpose/
 ---
