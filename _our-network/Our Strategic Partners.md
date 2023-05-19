@@ -336,32 +336,31 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 </div></div><p></p>
 	</div>
 	<input id="title6" type="checkbox"><label for="title6">Community Partners</label>
-	<div class="accordion-content">
+<div class="accordion-content">
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
-	<div class="header"><b>AWWA
-		</b></div><br>
-	<div class="para">AWWA is a social service organisation, serving over 10,000 of the disadvantaged across life stages. Services include early intervention for pre-schoolers, education and disability support for children with special needs, assistance to low income families,
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
+	<div class="header"><b>Johnson &amp; Johnson</b></div><br>
+	<div class="para">"We aim to keep people well at every age and every stage of life. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere."
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
-		<div class="header"><b>St Luke's ElderCare <br></b></div><br>
-		<div class="para">St Luke’s ElderCare delivers a full range of integrated services and programmes for their clients through 22 eldercare centres islandwide. They include maintenance day care, day rehabilitation programmes such as physiotherapy and occupational
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></a><br>
+		<div class="header"><b>NEC <br></b></div><br>
+		<div class="para">"NEC Laboratories Singapore specialises in co-creating cutting-edge AI solutions together with Governments and Enterprises, towards safer and smarter cities."
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/doverpark.png"></a><br>
-	<div class="header"><b>Dover Park Hospice
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
+	<div class="header"><b>Philips Electronics Singapore
 </b></div><br>
-	<div class="para">"Dover Park Hospice aims to alleviate suffering and maximise quality of life for the terminally-ill and their loved ones through holistic palliative care. Founded in 1992, Dover Park Hospice is Singapore’s first purpose-built hospice, caring for those nearing
+	<div class="para">"We focus on implementing meaningful innovations, centered on patients and care providers, designed to break down barries and complexity to offer better value to patients, providers and overall healthcare system."
 
 </div>
 <br></div></div>
@@ -369,71 +368,37 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
-	<div class="header"><b>Thye Hua Kwan Moral Society</b></div><br>
-	<div class="para">The Thye Hua Kwan Moral Society has three subsidiaries; Ang Mo Kio Thye Hua Kwan Hospital, Thye Hua Kwan Moral Charities and Thye Hua Kwan Nursing Home. Together, they provide services that respond to the needs of the community.
-</div>
-<br>
-
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
-	<div class="header"><b>Kwong Wai Shiu Hospital</b></div><br>
-	<div class="para">To cope with Singapore’s changing healthcare needs, Kwong Wai Shiu Hospital went through major redevelopments and has evolved into a community healthcare hub today. Given the historical significance of KWSH’s premises, the Urban Redevelopment
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></a><br>
+	<div class="header"><b>PricewaterhouseCoopers Consulting (Singapore)</b></div><br>
+	<div class="para">PricewaterhouseCoopers Consulting (Singapore)
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.png"></a><br>
-	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
-</div>
-<br>
-
-</div>
-	<div class="row">
-	<div class="col">
-
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
-	<div class="header"><b>Tsao Foundation</b></div><br>
-	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
-</div></div>
-<br>
-
-</div>
-	<div class="col"> 
-
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
-	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/workplace.svg"></a><br>
+	<div class="header"><b>Workplace by Facebook</b></div><br>
+	<div class="para">Workplace by Facebook
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner%20singapore.png"></a><br>
-	<div class="header"><b>Care Corner Singapore</b></div><br>
-	<div class="para">Care Corner Singapore Ltd was founded in 1981, in a climate of changes in the early 1980s, as economic competition in the region intensified and the rift between the wealthy and the lower-income in particular the Chinese blue-collar workers,
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.png"></a><br>
+	<div class="header"><b>ST Healthcare</b></div><br>
+	<div class="para">ST Healthcare
 </div>
-<br>
-
-</div>
-	<div class="row">
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.png"></a><br>
-	<div class="header"><b>Methodist Welfare Services</b></div><br>
-	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed
-</div></div>
-<br>
-
-
 <br></div></div>
+
+<div class="row">
+<div class="col"> 
+
+<br>
+
+<br>
 	
 
-<div class="row">
-<div class="col"> 
+
 
 	
 </div></div><p></p>
@@ -443,7 +408,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canscans.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/canscans.png"></a><br>
 <div class="header"><b>Centre for Asian Nursing Studies</b></div><br>
 <div class="para">CANS spearheads nursing Research, Innovation and Education (RIE) initiatives across local and regional healthcare systems. These three thrusts are strategically aligned against CANS's key strengths in core areas such as geriatrics, infectious
 
@@ -452,7 +417,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capecape.png"></a><br>
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Collab%20centre/capecape.png"></a><br>
 		<div class="header"><b>Centre for Allied Health and Pharmacy Excellence <br></b></div><br>
 		<div class="para">CAPE provides an exciting platform for Allied Health Professionals and Pharmacists to drive innovation and training in health-social care integration, with the aim of optimising independence and quality of life for our population.
 </div>
@@ -460,7 +425,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/chacha.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/chacha.png"></a><br>
 	<div class="header"><b>Centre for Health Activation
 </b></div><br>
 	<div class="para">Through the CHA Learning and Development Roadmap for Building a Community of Carers, trained carers will be equipped with the know-ledge, skills and resources to embrace and prepare for ageing, and overtime achieve better population health for the
@@ -471,7 +436,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/cmticmti.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/cmticmti.svg"></a><br>
 	<div class="header"><b>Centre for Medical Technologies &amp; Innovations</b></div><br>
 	<div class="para">NHG CMTi plays a pivotal role in facilitating the co-development projects with partners and works closely with government agencies such as Enterprise Singapore (ES), Economic Development Board (EDB) and National Healthcare and Innovation Centre (NHIC), to
 </div>
@@ -479,7 +444,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivee.jpg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/alivee.jpg"></a><br>
 	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
 	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between National Healthcare Group (NHG) and LKCMedicine. It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and
 </div>
