@@ -105,17 +105,16 @@ input {
 	display: none;
 }
 label {
-	display: block;
-	padding: 18px 18px 18px 18px;
-	margin: 0 0 5px 0;
-	cursor: pointor;
-	background: #F0F4F6; *colour*
-	border-radius: 3px;
-	text-align: left
-	color: #484848; *colour of text*
-	transition: ease .5s;
-	font-size: 1.2em;
-	font-size: 15px;
+	 background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
 	
 }
 
