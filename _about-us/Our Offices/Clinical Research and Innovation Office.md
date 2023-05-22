@@ -89,7 +89,7 @@ label:hover {
 	background: #BD2D37;
 	color: #FFF;
 	transition: ease .5s;
-	text-align: left;
+	text-align: center;
 }
 
 .accordion-content {
