@@ -12,7 +12,7 @@ The Clinical Research &amp; Innovation Office (CRIO) promotes and coordinates re
   background-color: #eee;
   color: #444;
   cursor: pointer;
-  padding: 18px;
+  padding: 15px;
   width: 100%;
   border: none;
   text-align: left;
