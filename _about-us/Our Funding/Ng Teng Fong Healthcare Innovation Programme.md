@@ -91,30 +91,22 @@ input:checked + label + .accordion-content {
 	<input id="title1" type="checkbox"><label for="title1">Strategic Training</label>
 	<div class="accordion-content">
 	<div class="para">Supports training of workforce with relevant skills to become institutional / system thought leaders in innovation or ground champions to drive innovation.
-
-
 </div>
-<p></p>
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Innovation</label>
 	<div class="accordion-content">
 	<div class="para">Supports projects in job and care redesign, automation or clinical research projects, that are geared towards improving productivity, or transforming roles to effect new care processes / models.
-
 </div>
-		<p></p>
 	</div>
 	<input id="title3" type="checkbox"><label for="title3">Community Enabling</label>
 	<div class="accordion-content">
 	<div class="para">Supports projects that impact and enable the community, including training of patients, volunteers, members of community partner institutions.
-
-
-</div><p></p>
+</div>
 	</div>
 	<input id="title4" type="checkbox"><label for="title4">Strategic Innovation</label>
 	<div class="accordion-content">
 	<div class="para">Supports programmes targetted at system level innovation, to drive value through healthcare innovation.
-
-</div><p></p>
+</div>
 	</div>
 	<input id="title5" type="checkbox"><label for="title5">Strategic Research</label>
 	<div class="accordion-content">
