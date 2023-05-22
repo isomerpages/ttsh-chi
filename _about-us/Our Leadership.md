@@ -63,19 +63,19 @@ This committee overseas the overall operations of CHI. Click on the profile pict
 <tbody>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Assoc Prof Tan Cher Heng  </strong><br>Executive Director<br></td>
+<td><strong>Assoc Prof Tan Cher Heng  </strong><br>Executive Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 <tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>Assoc Prof Wong Hon Tym  </strong><br>Clinical Director</td>
+<td><br><strong>Assoc Prof Wong Hon Tym  </strong><br>Clinical Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>Ronnie Yang  </strong><br>Deputy Executive Director </td>
+<td><br><strong>Ronnie Yang  </strong><br>Deputy Executive Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>Dr Ng Yih Yng  </strong><br>Deputy Clinical Director</td>
+<td><br><strong>Dr Ng Yih Yng  </strong><br>Deputy Clinical Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 
 </tbody>
@@ -87,31 +87,31 @@ This committee overseas the overall operations of CHI. Click on the profile pict
 <tbody>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Chao Siew Mien</strong><br>Director, Clinical Research &amp; Innovation Office </td>
+<td><strong>Chao Siew Mien</strong><br>Director, Clinical Research &amp; Innovation Office<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Dr Ng Yih Yng</strong><br>Member of CHI Council<br>Director, Digital and Smart Health Office </td>
+<td><strong>Dr Ng Yih Yng</strong><br>Member of CHI Council<br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Casper </strong><br>Deputy Director, Grants &amp; Innovation </td>
+<td><strong>Casper </strong><br>Deputy Director, Grants &amp; Innovation<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Ho Wai Ling </strong><br>Deputy Director, Kaizen Office </td>
+<td><strong>Ho Wai Ling </strong><br>Deputy Director, Kaizen Office<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Koh Huey Bing</strong><br>Director, Organisation Development </td>
+<td><strong>Koh Huey Bing</strong><br>Director, Organisation Development<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Michelle Lee </strong><br>Assistant Director, Partnership &amp; Communications</td>
+<td><strong>Michelle Lee </strong><br>Assistant Director, Partnership &amp; Communications<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Ronnie Yang </strong><br>Director, People Development &amp; Management Development Office </td>
+<td><strong>Ronnie Yang </strong><br>Director, People Development &amp; Management Development Office<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 
 </tbody>
@@ -123,31 +123,31 @@ This committee overseas the overall operations of CHI. Click on the profile pict
 <tbody>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Dr Hoi Shu Yin </strong><br>Associate Clinical Director </td>
+<td><strong>Dr Hoi Shu Yin </strong><br>Associate Clinical Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Dr Loh Yong Joo</strong><br>Associate Clinical Director</td>
+<td><strong>Dr Loh Yong Joo</strong><br>Associate Clinical Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Lim Hong Yee </strong><br>Associate Clinical Director</td>
+<td><strong>Lim Hong Yee </strong><br>Associate Clinical Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Lynette Ong</strong><br>Associate Director</td>
+<td><strong>Lynette Ong</strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Celine Ong </strong><br>Associate Director </td>
+<td><strong>Celine Ong </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Zenne T’ng </strong><br>Associate Director </td>
+<td><strong>Zenne T’ng </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Eiseli Loh </strong><br>Associate Director </td>
+<td><strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 
 </tbody>
