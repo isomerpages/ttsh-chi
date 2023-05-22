@@ -5,13 +5,9 @@ description: ""
 ---
 <p class="right-side-updated">Last updated on 3 Apr 2023</p>
 
-
-Test Header.
+Our Leadership
 ---
 
-#### **Role of the Committee**
-
-This committee overseas the overall operations of CHI. Click on the profile picture to explore their LinkedIn
 
 #### **Chairman**
 
