@@ -117,6 +117,7 @@ input:checked + label + .accordion-content {
 
 </div></div></div>
 <br>
+<h2> Eligibility</h2>
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
 	<tr><td>All TTSH staff may apply to NTF HIP. 
