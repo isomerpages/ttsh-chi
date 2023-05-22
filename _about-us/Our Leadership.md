@@ -3,7 +3,7 @@ title: Our Leadership
 permalink: /about-us/ourleadership/
 description: ""
 ---
-<p class="right-side-updated">Last updated on 3 Apr 2023</p>
+<p class="right-side-updated">Last updated on 22 May 2023</p>
 
 Our Leadership
 ---
