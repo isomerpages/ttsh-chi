@@ -168,3 +168,125 @@ Funding will also be applicable to non-staff (e.g. research collaborator, commun
 </tr>
 </tbody>
 </table>
+
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	width=100%;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #BD2D37;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+<!-- End of accordion -->
+
+<div class="container">
+
+
+
+<h2 id="our-main-plans">5 Thrusts</h2>
+<div>
+	<input id="title1" type="checkbox"><label for="title1">Strategic Training</label>
+	<div class="accordion-content">
+		<p>
+<br>
+</p><div class="row">
+<div class="col"> 
+<br>
+	<div class="para">Supports training of workforce with relevant skills to become institutional / system thought leaders in innovation or ground champions to drive innovation.
+
+</div>
+
+	
+
+
+
+</div></div>
+<p></p>
+	</div>
+	<input id="title2" type="checkbox"><label for="title2">Innovation</label>
+	<div class="accordion-content">
+		<p>
+<br>
+</p><div class="row">
+<div class="col"> 
+<br>
+	<div class="para">Supports projects in job and care redesign, automation or clinical research projects, that are geared towards improving productivity, or transforming roles to effect new care processes / models.
+</div>
+</div></div>
+		<p></p>
+	</div>
+	<input id="title3" type="checkbox"><label for="title3">Community Enabling</label>
+	<div class="accordion-content">
+		<p><br>
+</p><div class="row">
+<div class="col"> 
+	<br>
+	<div class="para">Supports projects that impact and enable the community, including training of patients, volunteers, members of community partner institutions.
+
+</div>
+</div></div><p></p>
+	</div>
+	<input id="title4" type="checkbox"><label for="title4">Strategic Innovation
+</label>
+	<div class="accordion-content">
+		<p><br>
+</p><div class="row">
+<div class="col"> 
+<br>
+	<br>
+	<div class="para">Supports programmes targetted at system level innovation, to drive value through healthcare innovation.
+
+</div>
+<br>
+
+</div></div><p></p>
+	</div>
+	<input id="title5" type="checkbox"><label for="title5">Strategic Research</label>
+	<div class="accordion-content">
+		<p><br>
+</p><div class="row">
+<div class="col"> 
+<br>
+	<br>
+	<div class="para">Supports thematic programmes that drive value through translational research.
+</div>
+<br>
+
+
+</div></div></div></div></div>
