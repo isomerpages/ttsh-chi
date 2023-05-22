@@ -85,7 +85,9 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 
-<h2 id="our-main-plans">5 Thrusts</h2>
+<h4 id="our-main-plans">NTF HIP Provides funding through five tracks which support the strategic thrusts of CHI:
+
+(Click the buttons for more details)</h4>
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Strategic Training</label>
 	<div class="accordion-content">
@@ -155,4 +157,3 @@ Funding will also be applicable to non-staff (e.g. research collaborator, commun
 </tr>
 </tbody>
 </table>
-
