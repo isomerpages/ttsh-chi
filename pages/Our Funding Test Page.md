@@ -24,10 +24,8 @@ The programme takes a broad perspective and multi-level approach to drive innova
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
 Supports programmes targetted at system level innovation, to drive value through healthcare innovation. </p></div><input id="Strategic Research" type="checkbox"><label style="background-color: #F05A4D; color:#f7f7f7;" for="Strategic Research"><b>Strategic Research</b></label><div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
-Supports thematic programmes that drive value through translational research. </p></div><b>Eligibility</b><table style="font-size:120%">
+Supports thematic programmes that drive value through translational research. </p></div><h3>Eligibility </h3><table style="font-size:120%">
 	
-
-
 <style>
 
 td {
@@ -86,25 +84,6 @@ input:checked + label + .content {
 }
 	
 </style>
-
-
-	
-
-	
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-	
-
 
 
 </table><table style="font-size:130%; background-color:#f2f2f2">
