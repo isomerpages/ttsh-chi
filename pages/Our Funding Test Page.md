@@ -96,7 +96,7 @@ Funding will also be applicable to non-staff (e.g. research collaborator, commun
 	
 
 
-#### Application ####
+<h4>Application</h4>
 <table style="font-size:130%; background-color:#f2f2f2">
 <tbody>
 	<tr><td>For more information on NTF HIP funding opportunities and grant application process, please contact us at NTF_HI_Prog@ttsh.com.sg .</td></tr>
