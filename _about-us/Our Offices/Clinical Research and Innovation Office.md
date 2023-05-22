@@ -82,11 +82,14 @@ label {
 	color: #484848;
 	transition: ease .5s;
 	font-size: 1.5em;
+	text-align: center;
 }
 
 label:hover {
 	background: #BD2D37;
 	color: #FFF;
+	transition: ease .5s;
+	text-align: left;
 }
 
 .accordion-content {
