@@ -36,9 +36,9 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Logos/2020_banner-right.jpg"></a><br>
 	<div class="header"><b>CHI Innovate 2020</b></div><br>
-	<div class="para">CHI INNOVATE 2020 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here.</a>
+	<div class="para">​The annual CHI conference, CHI INNOVATE, went online for the first time this year! Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", this year's webinar on 29-30 July featured 19 speakers from across industries and countries, and was watched by almost 1,500 participants, across 16 countries.  <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here.</a>
 </div>
 <br></div></div>
 
@@ -73,9 +73,9 @@ The inaugural CHI Conference 2016 was held in conjunction the National Seminar o
 
 
 <br>
-**CHI INNOVATE 2023** will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
 
-<br><br>
+
+
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
