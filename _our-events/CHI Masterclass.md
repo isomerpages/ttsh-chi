@@ -173,7 +173,7 @@ By Prof Jonathon Gray
 	<div class="header"><b></b></div><br>
 	<div class="para">
 </div>
-<br>
+
 
 </div>
 	<div class="col"> 
@@ -181,14 +181,14 @@ By Prof Jonathon Gray
 	<div class="header"><b></b></div><br>
 	<div class="para">
 </div>
-<br></div></div>
+</div></div>
 
 
 <div class="col">
 </div>
-<br>
 
-<br><br>
+
+
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
