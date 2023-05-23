@@ -6,13 +6,8 @@ description: ""
 ![](/images/Healthcare%20InnoMatch%202022.png)
 
 ---
-
 # CHI Masterclass 
-
-![](/images/Healthcare%20InnoMatch%202022.png)
-
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
-
 
 <br>
 <div class="row">
@@ -186,9 +181,6 @@ By Prof Jonathon Gray
 
 <div class="col">
 </div>
-
-
-
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
