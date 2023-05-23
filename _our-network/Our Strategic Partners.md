@@ -314,15 +314,12 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 <div class="row">
 <div class="col"> 
 
-<br>
-
-<br>
 	
 </div></div><p></p>
 	</div>
 	<input id="title6" type="checkbox"><label for="title6">Community Partners</label>
 <div class="accordion-content">
-		<p><br>
+		<p>
 </p><div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
@@ -414,18 +411,12 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="header"><b>Methodist Welfare Services</b></div><br>
 	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed Dr Chia Lin Sien to draft a
 </div>
-<br>
-
-
-	
-
-
 
 </div></div><p></p>
 	</div>
 	<input id="title7" type="checkbox"><label for="title7">Collaborating Partners</label>
 	<div class="accordion-content">
-		<p><br>
+		<p>
 </p><div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/canscans.png"></a><br>
@@ -468,13 +459,5 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
 	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between National Healthcare Group (NHG) and LKCMedicine. It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and
 </div>
-<br>
-
-
-<br>
-
-
-
-	
 
 </div></div></div></div></div>
