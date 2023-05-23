@@ -50,9 +50,9 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/events_conference1.jpg"></a><br>
 	<div class="header"><b>FutureHealth 2017</b></div><br>
-	<div class="para">08 - 10 November 2017
+	<div class="para">08 - 10 November 2017<br><br>
 Lee Kong Chian School of Medicine
 Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School of Medicine and NTU Institute for Health Technologies, FutureHealth 2017 is a premier conference that focuses on healthcare transformation through new technologies and workforce innovations. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
 </div>
@@ -60,9 +60,9 @@ Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/events_conference2.jpg"></a><br>
 	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div><br>
-	<div class="para">20 - 28 October 2017
+	<div class="para">20 - 28 October 2017<br><br>
 Marina Bay Sands Expo and Convention Centre, Singapore
 The inaugural CHI Conference 2016 was held in conjunction the National Seminar on Productivity in Healthcare (NSPH), which is a biennial national event that aims to promote a culture of productivity and innovation in the healthcare and community care sector. The theme of NSPH 2016 was “Driving Value in Healthcare”, comprising a series of plenary lectures and breakout sessions led by thought leaders and experts in respective fields, as well as the inaugural CHI Conference helming a dedicated track on workforce transformation. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
 </div>
