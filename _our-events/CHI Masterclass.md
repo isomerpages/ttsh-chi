@@ -17,7 +17,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="GoBusiness" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="15th CHI Masterclass" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
 		<div class="header"><b>15th CHI Masterclass </b></div><br>
 		<div class="para">27 March 2023
 Centre for Healthcare Innovation
@@ -28,7 +28,7 @@ By Mr Patrick Tay
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img alt="CODEX" src="/images/initiatives/Codex-snp.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/codex"><img alt="14th CHI Masterclass" src="/images/initiatives/Codex-snp.jpeg"></a><br>
 	<div class="header"><b>14th CHI Masterclass</b></div><br>
 	<div class="para">17 February 2023
 Centre for Healthcare Innovation
@@ -39,7 +39,7 @@ By Dr Jonty Heaversedge
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img alt="E-Payments" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/e-payments"><img alt="13th CHI Masterclass" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
 	<div class="header"><b>13th CHI Masterclass</b></div><br>
 	<div class="para">AI in Industry 4.0: The Future of Healthcare  
 By Dr Tai-Yi Huang
@@ -49,7 +49,7 @@ By Dr Tai-Yi Huang
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="GoBusiness" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="15th CHI Masterclass" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
 		<div class="header"><b>15th CHI Masterclass </b></div><br>
 		<div class="para">27 March 2023
 Centre for Healthcare Innovation
@@ -60,7 +60,7 @@ By Mr Patrick Tay
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img alt="CODEX" src="/images/initiatives/Codex-snp.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/codex"><img alt="CHI Masterclass" src="/images/initiatives/Codex-snp.jpeg"></a><br>
 	<div class="header"><b>14th CHI Masterclass</b></div><br>
 	<div class="para">17 February 2023
 Centre for Healthcare Innovation
@@ -71,7 +71,7 @@ By Dr Jonty Heaversedge
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img alt="E-Payments" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/e-payments"><img alt="CHI Masterclass" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
 	<div class="header"><b>13th CHI Masterclass</b></div><br>
 	<div class="para">AI in Industry 4.0: The Future of Healthcare  
 By Dr Tai-Yi Huang
@@ -81,7 +81,7 @@ By Dr Tai-Yi Huang
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="GoBusiness" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="CHI Masterclass" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
 		<div class="header"><b>15th CHI Masterclass </b></div><br>
 		<div class="para">27 March 2023
 Centre for Healthcare Innovation
@@ -92,7 +92,7 @@ By Mr Patrick Tay
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img alt="CODEX" src="/images/initiatives/Codex-snp.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/codex"><img alt="CHI Masterclass" src="/images/initiatives/Codex-snp.jpeg"></a><br>
 	<div class="header"><b>14th CHI Masterclass</b></div><br>
 	<div class="para">17 February 2023
 Centre for Healthcare Innovation
@@ -103,7 +103,7 @@ By Dr Jonty Heaversedge
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img alt="E-Payments" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/e-payments"><img alt="CHI Masterclass" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
 	<div class="header"><b>13th CHI Masterclass</b></div><br>
 	<div class="para">AI in Industry 4.0: The Future of Healthcare  
 By Dr Tai-Yi Huang
@@ -121,7 +121,7 @@ By Dr Tai-Yi Huang
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">CHI MasterClass</a></li>
-	<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">CHI Programmes</a></li>
+		<li><a href="test">CHI MasterClass</a></li>
+	<li><a href="test">CHI Programmes</a></li>
 			</ul>
 </div>
