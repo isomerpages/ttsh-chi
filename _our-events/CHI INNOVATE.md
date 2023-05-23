@@ -40,9 +40,8 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 	<div class="header"><b>CHI Innovate 2020</b></div><br>
 	<div class="para">​The annual CHI conference, CHI INNOVATE, went online for the first time this year! Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", this year's webinar on 29-30 July featured 19 speakers from across industries and countries, and was watched by almost 1,500 participants, across 16 countries.  <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here.</a>
 </div>
-<br></div></div>
+</div></div>
 
-<br>
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a><br>
