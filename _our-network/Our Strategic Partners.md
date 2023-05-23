@@ -339,7 +339,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
 	<div class="header"><b>Dover Park Hospice</b></div><br>
 	<div class="para">Dover Park Hospice aims to alleviate suffering and maximise quality of life for the terminally-ill and their loved ones through holistic palliative care. Founded in 1992, Dover Park Hospice is Singapore’s first purpose-built hospice, caring for those nearing the end of life’s journey.
 </div>
@@ -399,7 +399,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img src="/images/Logos/Comm%20Parnter/care%20corner.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"> </a> <br>
 	<div class="header"><b>Care Corner Singapore</b></div><br>
 	<div class="para">Care Corner Singapore Ltd was founded in 1981, in a climate of changes in the early 1980s, as economic competition in the region intensified and the rift between the wealthy and the lower-income in particular the Chinese blue-collar workers, widened. Through a series of earl
 </div>
@@ -407,7 +407,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
 	<div class="header"><b>Methodist Welfare Services</b></div><br>
 	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed Dr Chia Lin Sien to draft a
 </div>
@@ -419,7 +419,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/canslogo.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canslogo.svg"></a><br>
 <div class="header"><b>Centre for Asian Nursing Studies</b></div><br>
 <div class="para">CANS spearheads nursing Research, Innovation and Education (RIE) initiatives across local and regional healthcare systems. These three thrusts are strategically aligned against CANS's key strengths in core areas such as geriatrics, infectious
 
@@ -428,7 +428,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Collab%20centre/capelogo.svg"></a><br>
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capelogo.svg"></a><br>
 		<div class="header"><b>Centre for Allied Health and Pharmacy Excellence <br></b></div><br>
 		<div class="para">CAPE provides an exciting platform for Allied Health Professionals and Pharmacists to drive innovation and training in health-social care integration, with the aim of optimising independence and quality of life for our population.
 </div>
@@ -436,7 +436,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/centreforhealthcareactivation.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/centreforhealthcareactivation.svg"></a><br>
 	<div class="header"><b>Centre for Health Activation
 </b></div><br>
 	<div class="para">Through the CHA Learning and Development Roadmap for Building a Community of Carers, trained carers will be equipped with the know-ledge, skills and resources to embrace and prepare for ageing, and overtime achieve better population health for the
@@ -447,7 +447,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/cmticmti.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/cmticmti.svg"></a><br>
 	<div class="header"><b>Centre for Medical Technologies &amp; Innovations</b></div><br>
 	<div class="para">NHG CMTi plays a pivotal role in facilitating the co-development projects with partners and works closely with government agencies such as Enterprise Singapore (ES), Economic Development Board (EDB) and National Healthcare and Innovation Centre (NHIC), to
 </div>
@@ -455,7 +455,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Collab%20centre/alivegames.svg"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivegames.svg"></a><br>
 	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
 	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between National Healthcare Group (NHG) and LKCMedicine. It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and
 </div>
