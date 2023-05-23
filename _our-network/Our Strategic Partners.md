@@ -141,13 +141,13 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 	<div class="header"><b>Singapore Health Services</b></div><br>
 	<div class="para">“We believe that our efforts might be of interest to other institutions and we are certainly very interested in learning from the experiences of other institutions as we find better ways to look after our patients."
 </div>
-<br></div>
+</div>
 	</div>
 		<p></p>
 	</div>
 	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
 	<div class="accordion-content">
-		<p><br>
+		<p>
 </p><div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/lkc%20logo.svg"></a><br>
@@ -171,13 +171,6 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 	<div class="header"><b>Singapore Institute of Technology</b></div><br>
 	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
 </div>
-<br>
-
-
-
-	
-
-
 
 </div></div><p></p>
 	</div>
