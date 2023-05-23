@@ -4,6 +4,7 @@ permalink: /about-us/our-purpose/
 description: ""
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AtqDL7ML6mQ" height="315" width="560"></iframe>
+
 # Innovation is key to sustainable healthcare.
 
 Singapore is facing a fast ageing population and shrinking workforce. It is essential for Singapore’s healthcare system to innovate, seek new ways to improve productivity and add value to our patients. This ensures that our patients will continue to receive high quality and cost-effective care in the future.
