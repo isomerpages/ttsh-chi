@@ -18,7 +18,7 @@ Job redesign
 
 * * *
 
-##### NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.****
+##### NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.
 ![](/images/Funding%20Tracks.png)
 
 
