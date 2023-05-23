@@ -80,16 +80,16 @@ label {
 	border-radius: 3px;
 	width=100%;
 	color: #484848;
-	transition: ease .5s;
+	transition: ease .8s;
 	font-size: 1.5em;
-	text-align: center;
+	text-align: left;
 }
 
 label:hover {
 	background: #BD2D37;
 	color: #FFF;
-	transition: ease .5s;
-	text-align: center;
+	transition: ease .8s;
+	text-align: left;
 }
 
 .accordion-content {
