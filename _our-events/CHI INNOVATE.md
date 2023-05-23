@@ -29,7 +29,8 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a>
 		<br>
 	<div class="header"><b>CHI Innovate 2021</b></div><br>
-	<div class="para">CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c">here.</a>
+	<div class="para">23 August 2021 - 02 December 2022 Virtual Sessions
+​<br>The annual CHI conference, CHI INNOVATE 2021 was retained a virtual format due to the volatile pandemic situation. In view of the demand from past participants for CHI INNOVATE, the conference themed "Creating a better normal for healthcare" took place as a series of webinars in the later part of the year. The featured speakers include Mr Aaron Maniam, Deputy Secretary (Industry and Information), Ministry of Communications and Information, Ms Melissa Kwee, CEO of National Volunteer and Philanthropy Centre. The year also marked the return of the Global Leadership Panel from last year, reassembled for a relook at how each of their worlds have evolved over the past few months. With a new addition to last year's panel, our allies from Singapore, <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c">here.</a>
 </div>
 <br>
 
