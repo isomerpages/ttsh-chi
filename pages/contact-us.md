@@ -26,18 +26,18 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a href="https://www.linkedin.com/in/eugenefidelissoh/"
-          target="_blank"></a>
+          target="_blank"><small>Click Here</small></a>
     title: LinkedIn
   - content:
       - phone: ""
       - email: ""
       - other: <a href="https://www.linkedin.com/in/eugenefidelissoh/"
-          target="_blank"></a>
+          target="_blank"><small>Click Here</small></a>
     title: Facebook
   - content:
       - phone: ""
       - email: ""
       - other: <a href="https://www.linkedin.com/in/eugenefidelissoh/"
-          target="_blank"></a>
+          target="_blank"><small>Click Here</small></a>
     title: Instagram
 ---
