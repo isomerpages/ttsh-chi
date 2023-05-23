@@ -111,14 +111,6 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 	<div class="para">Spain
 "Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. We developed the “Alzira Model,” a citizen-centered, fully integrated capitated Accountable Care
 </div>
-<br>
-
-
-<br>
-	
-
-
-
 </div></div>
 <p></p>
 	</div>
