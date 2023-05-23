@@ -62,10 +62,10 @@ By Prof Gabriel Leung and Associate Professor Anders Ahlsson
 	<div class="col"> 
 <a href="/initiatives/strategic-national-projects/codex"><img alt="CHI Masterclass" src="/images/Masterclass/11th-chi-masterclass-image.png"></a><br>
 	<div class="header"><b>11th CHI Masterclass</b></div><br>
-	<div class="para">17 February 2023
-Centre for Healthcare Innovation
-Population Health - Ambition into Action
-By Dr Jonty Heaversedge
+	<div class="para">23 October 2018
+TTSH Theatrette
+Integrating Care Across the Care Continuum
+By Samir Sinha &amp; Mr Ralph Broad
 </div>
 <br>
 
