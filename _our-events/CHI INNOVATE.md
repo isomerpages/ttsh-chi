@@ -13,8 +13,6 @@ description: ""
 
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
 
-
-<br>
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a><br>
