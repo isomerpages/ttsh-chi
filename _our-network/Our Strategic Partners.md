@@ -158,7 +158,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/leekongchian.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Academic/lkc%20logo.svg"></a><br>
 	<div class="header"><b>Lee Kong Chian School of Medicine</b></div><br>
 	<div class="para">“We will share our innovative approaches, we will share our teaching of e-health and e-learning and we hope to gain as much from all other partners, from Singapore, from the region and all over the world. And it is through this team-based sharing and learning that 
 
