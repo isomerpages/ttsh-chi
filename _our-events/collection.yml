@@ -2,5 +2,5 @@ collections:
   our-events:
     output: true
     order:
-      - CHI INNOVATE.md
+      - CHI Innovate.md
       - CHI Masterclass.md
