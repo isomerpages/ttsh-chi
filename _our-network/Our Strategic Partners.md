@@ -67,7 +67,7 @@ input:checked + label + .accordion-content {
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrums.svg"></a><br>
 	<div class="header"><b>Qulturum</b></div><br>
 	<div class="para">
 Region Jönköping County, Sweden
@@ -87,7 +87,7 @@ Region Jönköping County, Sweden
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="![](/images/Logos/International/qultrums.svg)"></a><br>
 	<div class="header"><b>Northern Care Alliance (NCA)</b></div><br>
 	<div class="para">NHS Foundation Trust, United Kingdom
 The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringing together two NHS Trusts, Salford Royal NHS Foundation Trust and The Pennine Acute Hospitals NHS Trust. The NCA FT was formally established on 1 October 2021. The NCA has
