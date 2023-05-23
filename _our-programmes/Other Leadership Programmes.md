@@ -83,7 +83,7 @@ input:checked + label + .accordion-content {
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">Past event</a></li>
+		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">Past event or CHI Fellowship etc</a></li>
 	<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">Past event</a></li>
 	</ul>
 </div>
