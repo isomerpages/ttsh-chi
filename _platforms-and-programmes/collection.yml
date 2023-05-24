@@ -1,5 +1,5 @@
 collections:
-  platforms-and-programs:
+  platforms-and-programmes:
     output: true
     order:
       - Other Leadership Programmes.md
