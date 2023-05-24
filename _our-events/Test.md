@@ -80,6 +80,11 @@ By Mr Patrick Tay
 Centre for Healthcare Innovation
 Population Health - Ambition into Action
 By Dr Jonty Heaversedge
+		<div>
+	<input id="title1" type="checkbox"><label for="title1">Agreements and Grants</label>
+	<div class="accordion-content">
+	<div class="para">​The CRIO Administration team provides advice on the appropriate types of agreements to be used for individual studies. We facilitate research collaboration activities with external parties placing appropriate research agreements to ensure studies or trials are conducted in accordance with all applicable laws and regulations. Agreements are important to safeguard the safety and rights of the research participants and TTSH stakeholders.
+</div>
 </div>
 <br>
 
@@ -89,6 +94,11 @@ By Dr Jonty Heaversedge
 	<div class="header"><b>13th CHI Masterclass</b></div><br>
 	<div class="para">AI in Industry 4.0: The Future of Healthcare  
 By Dr Tai-Yi Huang
+		<div>
+	<input id="title1" type="checkbox"><label for="title1">Agreements and Grants</label>
+	<div class="accordion-content">
+	<div class="para">​The CRIO Administration team provides advice on the appropriate types of agreements to be used for individual studies. We facilitate research collaboration activities with external parties placing appropriate research agreements to ensure studies or trials are conducted in accordance with all applicable laws and regulations. Agreements are important to safeguard the safety and rights of the research participants and TTSH stakeholders.
+</div>
 </div>
 <br></div></div>
 
@@ -240,4 +250,4 @@ By Prof Jonathon Gray
 		<li><a href="test">CHI MasterClass</a></li>
 	<li><a href="test">CHI Programmes</a></li>
 			</ul>
-</div></div></div>
+</div></div></div></div></div></div></div>
