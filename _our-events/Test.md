@@ -7,62 +7,61 @@ description: ""
 
 
 <style>
-    .tab {
-        display: flex;
-    }
-    
-    .tab button {
+    .collapsible {
         background-color: #f2f2f2;
-        border: none;
-        outline: none;
+        color: #444;
         cursor: pointer;
-        padding: 10px 20px;
-        transition: background-color 0.3s ease;
-        width: 150px;
+        padding: 10px;
+        width: 100%;
+        border: none;
         text-align: left;
+        outline: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
     }
-    
-    .tab button:hover {
+
+    .collapsible:hover {
         background-color: #ddd;
     }
-    
-    .tab button.active {
+
+    .active {
         background-color: #ccc;
     }
-    
-    .tabcontent {
-        display: none;
-        padding: 20px;
+
+    .content {
+        padding: 0 18px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
         background-color: #fff;
         border: 1px solid #ccc;
-        width: 400px;
-        height: 300px;
     }
 </style>
 
-	
-	
-    <div class="tab">
-        <button class="tablinks">Tab 1</button>
-        <button class="tablinks">Tab 2</button>
-        <button class="tablinks">Tab 3</button>
-    </div>
 
-    <div id="Tab1" class="tabcontent">
-        <h3>Content for Tab 1</h3>
-        <p>This is the content for Tab 1.</p>
-    </div>
 
-    <div id="Tab2" class="tabcontent">
-        <h3>Content for Tab 2</h3>
-        <p>This is the content for Tab 2.</p>
-    </div>
+<h2>Collapsible Example</h2>
 
-    <div id="Tab3" class="tabcontent">
-        <h3>Content for Tab 3</h3>
-        <p>This is the content for Tab 3.</p>
-    </div>
+<button class="collapsible">Section 1</button>
+<div class="content">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod scelerisque tristique. Nam euismod
+        mauris ac quam hendrerit dictum. Nullam vel tincidunt erat, a malesuada risus. Nulla facilisi. Ut tristique
+        risus augue, non luctus leo pharetra sed.</p>
+</div>
 
-    
+<button class="collapsible">Section 2</button>
+<div class="content">
+    <p>Quisque id tellus non urna dignissim fermentum a ut dui. Nullam ac odio dui. Phasellus sit amet diam felis. Nam
+        cursus mi a nunc tempus placerat.</p>
+</div>
+
+<button class="collapsible">Section 3</button>
+<div class="content">
+    <p>Etiam fringilla dolor nec massa tempus, nec finibus tellus rhoncus. In vel iaculis turpis. Sed maximus urna
+        quis tortor molestie ultricies. Sed posuere condimentum turpis, eu fringilla odio feugiat non.</p>
+</div>
+
+
+
 
 
