@@ -3,20 +3,6 @@ title: Test
 permalink: /our-events/permalink/
 description: ""
 ---
-<center>Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.</center>
-
-	    
-		<div class="row">
-			<div class="col">
-				<span class="bp-sec-button has-text-centered">
-					<a class="is-uppercase media-category-button selected" id="citizens-button"><b>For Citizens</b></a>
-					<a class="is-uppercase media-category-button" id="business-button"><b>For Businesses</b></a>
-					<a class="is-uppercase media-category-button" id="government-button"><b>For Government</b></a>
-				</span>
-			</div>
-		</div>
-	
-
 
 <section class="bp-section bg-table-grey" id="citizens" style="display: block;">
 	<div class="bp-container">
