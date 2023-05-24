@@ -3,12 +3,6 @@ title: Our Strategic Partners
 permalink: /our-network/permalink/
 description: ""
 ---
-CHI Co-Learning Network
-=================
-
-The **CHI Co-Learning Network** was officially launched on 21 October 2016 with the objective of deepening co-learning and collaboration. Through the network, our partners can collaborate on innovation projects, form communities of practice and exchange knowledge. This will help to drive workforce transformation within and beyond the healthcare industry. The CHI Co-Learning Network comprises of 38 local and international like-minded innovation units across a multitude of industries. Bringing with them diverse yet synergistic expertise, partners in the Co-Learning network come together to establish an open community for co-learning and co-creating best practices in healthcare.
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fk06p3q3q4Q" height="315" width="560"></iframe>
 
 <style>
 
