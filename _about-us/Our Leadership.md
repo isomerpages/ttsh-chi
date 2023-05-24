@@ -33,19 +33,19 @@ Our Leadership
 <td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
 <td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
 <td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="nil"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="nil"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></a></td>
 <td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Member of CHI Council<br>Deputy Dean Healthcare Innovation &amp; Vice Director <br>Siriraj Hospital <br><a href="nil" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
 <td><br><strong>Göran Henriks </strong><br>Member of CHI Council<br>Senior Strategic Advisor, Region Jonkoping County ​<br>Chief Executive of Learning &amp; Innovation  <br>Qulturum  <br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 
