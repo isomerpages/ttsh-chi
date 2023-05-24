@@ -3,9 +3,7 @@ title: CHI Masterclass
 permalink: /our-events/chi-masterclass/
 description: ""
 ---
-![](/images/Healthcare%20InnoMatch%202022.png)
 
----
 # CHI Masterclass 
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
 
