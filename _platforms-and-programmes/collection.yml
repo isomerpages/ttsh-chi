@@ -2,6 +2,7 @@ collections:
   platforms-and-programmes:
     output: true
     order:
+      - Programmes/.keep
       - Other Leadership Programmes.md
       - CHI Healthcare Advanced Management Programme (CHAMP).md
       - CHI Fellowship in Healthcare Innovation and Leadership.md
