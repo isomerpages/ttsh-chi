@@ -5,7 +5,7 @@ description: ""
 ---
 # Masterclass
 <div class="row"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
-						<a href="/products-and-services/ask-jamie/" class="project-link">
+						<a href="/permalink/" class="project-link">
 		                <img src="images/Masterclass/15%20masterclass_patrick.jpg" alt="CHI Masterclass" class="project-image">
 		                <div class="project-card">
 		                    <div class="project-title margin--bottom--xs">
