@@ -3,29 +3,9 @@ title: Test
 permalink: /our-events/permalink/
 description: ""
 ---
-<div id="main-content"><section class="bp-section is-small bp-section-pagetitle">
-    <div class="bp-container"><nav class="bp-breadcrumb" aria-label="breadcrumbs">
-    <ul>
-        <li><a href="/"><small>HOME</small></a></li><li><a href="/products-and-services/"><small>PRODUCTS AND SERVICES</small></a></li></ul>
-</nav>
-</div>
-    <div class="bp-container">
-        <div class="row">
-            <div class="col">
-                <h1 class="has-text-white"><b>Products and Services</b></h1>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="bp-section">
-	<div class="bp-container padding--top--lg">
-	    <div class="row">
-	      <div class="col content is-8 is-offset-2"><h1><div class="has-text-centered has-text-weight-bold">Co-creating for Better Value</div></h1>
-
 <center>Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.</center>
-</div>
-	    </div>
+
+	    
 		<div class="row">
 			<div class="col">
 				<span class="bp-sec-button has-text-centered">
@@ -35,8 +15,8 @@ description: ""
 				</span>
 			</div>
 		</div>
-	</div>
-</section>
+	
+
 
 <section class="bp-section bg-table-grey" id="citizens" style="display: block;">
 	<div class="bp-container">
@@ -346,4 +326,4 @@ description: ""
 	</div>
 </section>
 
-<script src="https://d33wubrfki0l68.cloudfront.net/js/e29869953d9f8c5a4ef50e30ab4b56011ecca894/assets/js/products-and-services.js"></script></div>
+<script src="https://d33wubrfki0l68.cloudfront.net/js/e29869953d9f8c5a4ef50e30ab4b56011ecca894/assets/js/products-and-services.js"></script>
