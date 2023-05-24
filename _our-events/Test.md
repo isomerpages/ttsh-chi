@@ -4,14 +4,13 @@ permalink: /our-events/permalink/
 description: ""
 ---
 # Masterclass
-<div class="bp-container">
-		<div class="row is-multiline"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
+<div class="row is-multiline"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
 						<a href="/products-and-services/ask-jamie/" class="project-link">
-		                <img src="https://d33wubrfki0l68.cloudfront.net/f61a669729f94718b8cbe980426210986589a92c/e6a9c/images/programmes/products-and-services/askjamie_thumbnail.jpg" alt="Image for 'Ask Jamie' Virtual Assistant" class="project-image">
+		                <img src="images/Masterclass/15%20masterclass_patrick.jpg" alt="CHI Masterclass" class="project-image">
 		                <div class="project-card">
 		                    <div class="project-title margin--bottom--xs">
-		                    	<small class="tag is-uppercase padding--bottom--sm">citizens</small>
-		                        <h5><b>'Ask Jamie' Virtual Assistant</b></h5>
+		                    	<small class="tag is-uppercase padding--bottom--sm"></small>
+		                        <h5><b>15th CHI MasterClass</b></h5>
 		                    </div>
 		                </div>
 		                </a>
@@ -156,7 +155,7 @@ description: ""
 		                </div>
 		                </a>
 		            </div></div>
-	</div>
+	
 
 
 <section class="bp-section bg-table-grey" id="business" style="display: none;">
