@@ -2,6 +2,7 @@ collections:
   innovation-platforms:
     output: true
     order:
+      - Other Leadership Programmes.md
       - CHI Healthcare Advanced Management Programme (CHAMP).md
       - CHI Fellowship in Healthcare Innovation and Leadership.md
       - CHI Start Up and Enterprise Link (CHISEL).md
