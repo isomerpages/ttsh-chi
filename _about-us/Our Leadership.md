@@ -26,27 +26,27 @@ Our Leadership
 <tbody>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><strong>Prof Hahrie  <u>Han </u></strong><br>Member of CHI Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br></td>
+<td><strong>Prof Hahrie  <u>Han </u></strong><br>Member of CHI Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br></td>
+<td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br></td>
+<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br></td>
+<td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Member of CHI Council<br>Deputy Dean Healthcare Innovation &amp; Vice Director <br>Siriraj Hospital <br></td>
+<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Member of CHI Council<br>Deputy Dean Healthcare Innovation &amp; Vice Director <br>Siriraj Hospital <br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
 <td><br><img alt="andrew1" src="/images/Chairman.png"><br></td>
-<td><br><strong>Goran Henriks </strong><br>Member of CHI Council<br>Senior Strategic Advisor, Region Jonkoping County ​<br>Chief Executive of Learning &amp; Innovation  <br>Qulturum  <br></td>
+<td><br><strong>Goran Henriks </strong><br>Member of CHI Council<br>Senior Strategic Advisor, Region Jonkoping County ​<br>Chief Executive of Learning &amp; Innovation  <br>Qulturum  <br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 
 
