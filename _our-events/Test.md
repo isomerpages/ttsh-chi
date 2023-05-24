@@ -10,14 +10,18 @@ description: ""
 ---
 ![](/images/Banners/Banner_Our_Key_Programmes.png)
 	
-<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0"><b>Discover our Key Programmes:</b></p>
+<p style="font-size:120%; margin-top: 0px; margin-bottom:20px; line-height:1.35; padding:10px 0 0 0">
+	<b>Discover our Key Programmes:</b>
+</p>
 <p style="font-size:120%; color:red; margin-top: 0px; margin-bottom:20px; line-height:1.35;">(Click ‘+’ to expand for details)
 </p>
 <input id="Environment" type="checkbox">
-<label style="background-color: #60C090; color:#f7f7f7;" for="Environment"><b>Environment</b></label>
+<label style="background-color: #60C090; color:#f7f7f7;" for="Environment"><b>Environment</b>
+</label>
 <div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">Leveraging on the green movement trends, action will be taken at the Cluster level to inspire the community to care for and protect the environment by adopting a clean, green and sustainable lifestyle. <a href="/programmes/environment"> 
-	<br>Explore Environment -&gt; </a> </p>
+	<br>Explore Environment -&gt; </a>
+	</p>
 </div>
 <input id="Healthy Living" type="checkbox"><label style="background-color: #E58265; color:#f7f7f7;" for="Healthy Living"><b>Healthy Living</b></label><div style="background-color:#edf4fa;" class="content">
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">To promote a holistic approach to advocate an active and healthier lifestyle together as a community.<a href="/programmes/healthy-living"><br>Explore Healthy Living-&gt; </a>  </p></div><input id="Lifelong Learning" type="checkbox"><label style="background-color: #7573B5; color:#f7f7f7;" for="Lifelong Learning"><b>Lifelong Learning</b></label><div style="background-color:#edf4fa;" class="content">
