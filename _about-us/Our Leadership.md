@@ -25,7 +25,7 @@ Our Leadership
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
 <td><strong>Prof Hahrie  <u>Han </u></strong><br>Member of CHI Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
