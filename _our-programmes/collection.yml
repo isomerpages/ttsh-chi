@@ -1,5 +1,4 @@
 collections:
   our-programmes:
     output: true
-    order:
-      - Other Leadership Programmes.md
+    order: []
