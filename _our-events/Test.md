@@ -7,29 +7,51 @@ description: ""
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
 
 <style>
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 15px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	width=100%;
+	color: #484848;
+	transition: ease .8s;
+	font-size: 1.5em;
+	text-align: left;
 }
 
-.active, .accordion:hover {
-  background-color: #ccc; 
+label:hover {
+	background: #BD2D37;
+	color: #FFF;
+	transition: ease .8s;
+	text-align: left;
 }
 
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
 }
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
 </style>
 
 <br>
@@ -42,18 +64,12 @@ Centre for Healthcare Innovation
 The 5Cs of Community Leadership
 By Mr Patrick Tay
 			
-<button class="accordion">Agreements and Grants</button>
-			
-<div class="panel">
-	
-  <p>​The CRIO Administration team provides advice on the appropriate types of agreements to be used for individual studies. 
-
-We facilitate research collaboration activities with external parties placing appropriate research agreements to ensure studies or trials are conducted in accordance with all applicable laws and regulations.
-
-Agreements are important to safeguard the safety and rights of the research participants and TTSH stakeholders.</p>
-</div>			
-
+<div>
+	<input id="title1" type="checkbox"><label for="title1">Agreements and Grants</label>
+	<div class="accordion-content">
+	<div class="para">​The CRIO Administration team provides advice on the appropriate types of agreements to be used for individual studies. We facilitate research collaboration activities with external parties placing appropriate research agreements to ensure studies or trials are conducted in accordance with all applicable laws and regulations. Agreements are important to safeguard the safety and rights of the research participants and TTSH stakeholders.
 </div>
+	</div>
 <br>
 
 </div>
@@ -224,4 +240,4 @@ By Prof Jonathon Gray
 		<li><a href="test">CHI MasterClass</a></li>
 	<li><a href="test">CHI Programmes</a></li>
 			</ul>
-</div>
+</div></div></div>
