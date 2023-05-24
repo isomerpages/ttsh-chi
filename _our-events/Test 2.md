@@ -89,7 +89,7 @@ Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick T
 
 <p></p>
 	</div>
-		<input id="title1" type="checkbox"><label for="title1">16th CHI Masterclass <img alt="" src="/images/Masterclass/15%20masterclass_patrick.jpg">  </label>
+		<input id="title1" type="checkbox"><label for="title1">14th CHI Masterclass <img alt="" src="/images/Masterclass/15%20masterclass_patrick.jpg">  </label>
 	<div class="accordion-content">
 		<p>
 </p><div class="row">
