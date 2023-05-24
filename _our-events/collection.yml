@@ -2,6 +2,7 @@ collections:
   our-events:
     output: true
     order:
+      - Test/Page 2.md
       - Test/Test page 1.md
       - Test/.keep
       - Test.md
