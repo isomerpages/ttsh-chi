@@ -2,6 +2,7 @@ collections:
   our-events:
     output: true
     order:
+      - Test/.keep
       - Test.md
       - CHI Innovate.md
       - CHI Masterclass.md
