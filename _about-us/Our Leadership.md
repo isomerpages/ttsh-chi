@@ -58,19 +58,19 @@ Our Leadership
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/Leaders/prof%20tan%20ch-01.png"></a></td>
 <td><strong>Assoc Prof Tan Cher Heng  </strong><br>Executive Director<br><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/hon-tym-wong-758b1a13"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/hon-tym-wong-758b1a13"><img alt="andrew1" src="/images/Leaders/prof%20wong-01.png"></a></td>
 <td><br><strong>Assoc Prof Wong Hon Tym  </strong><br>Clinical Director<br><a href="https://www.linkedin.com/in/hon-tym-wong-758b1a13" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
 <td><br><strong>Ronnie Yang  </strong><br>Deputy Executive Director<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yihyng"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/yihyng"><img alt="andrew1" src="/images/Leaders/dr%20ng%20yy-01.png"></a></td>
 <td><br><strong>Dr Ng Yih Yng  </strong><br>Deputy Clinical Director<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 
