@@ -73,15 +73,15 @@ input:checked + label + .accordion-content {
 <p></p>
 	</div>
 	<h2 id="our-main-plans">Past Masterclasses</h2>
-	<input id="title1" type="checkbox"><label for="title1">16th CHI Masterclass <img alt="" src="/images/Masterclass/15%20masterclass_patrick.jpg">  </label>
+	<input id="title2" type="checkbox"><label for="title2">15th CHI Masterclass <img alt="" src="/images/Masterclass/15%20masterclass_patrick.jpg">  </label>
 	<div class="accordion-content">
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a>
-	<div class="header"><b>Qulturum</b></div><br>
+	<div class="header"><b>27 March 2023</b></div><br>
 	<div class="para">
-27 March 2023 Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay
+Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay
+<br> <br>Write up here
 
 </div>
 
