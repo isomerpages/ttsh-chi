@@ -207,7 +207,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-  <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass</label>
+  <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass <img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg"></label>
     <div><p><strong>27 March 2023</strong></p>
 <img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
 <p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
