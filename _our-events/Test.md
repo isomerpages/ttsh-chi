@@ -3,7 +3,7 @@ title: Test
 permalink: /our-events/permalink/
 description: ""
 ---
-
+# Masterclass
 <section class="bp-section bg-table-grey" id="citizens" style="display: block;">
 	<div class="bp-container">
 		<div class="row is-multiline"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
