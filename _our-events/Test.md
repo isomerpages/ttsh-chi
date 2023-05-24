@@ -6,83 +6,63 @@ description: ""
 
 
 
-
 <style>
-* {box-sizing: border-box}
-body {font-family: "Lato", sans-serif;}
-
-/* Style the tab */
-.tab {
-  float: left;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
-  width: 30%;
-  height: 300px;
-}
-
-/* Style the buttons inside the tab */
-.tab button {
-  display: block;
-  background-color: inherit;
-  color: black;
-  padding: 22px 16px;
-  width: 100%;
-  border: none;
-  outline: none;
-  text-align: left;
-  cursor: pointer;
-  transition: 0.3s;
-  font-size: 17px;
-}
-
-/* Change background color of buttons on hover */
-.tab button:hover {
-  background-color: #ddd;
-}
-
-/* Create an active/current "tab button" class */
-.tab button.active {
-  background-color: #ccc;
-}
-
-/* Style the tab content */
-.tabcontent {
-  float: left;
-  padding: 0px 12px;
-  border: 1px solid #ccc;
-  width: 70%;
-  border-left: none;
-  height: 300px;
-}
+    .tab {
+        display: flex;
+    }
+    
+    .tab button {
+        background-color: #f2f2f2;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 10px 20px;
+        transition: background-color 0.3s ease;
+        width: 150px;
+        text-align: left;
+    }
+    
+    .tab button:hover {
+        background-color: #ddd;
+    }
+    
+    .tab button.active {
+        background-color: #ccc;
+    }
+    
+    .tabcontent {
+        display: none;
+        padding: 20px;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        width: 400px;
+        height: 300px;
+    }
 </style>
 
+	
+	
+    <div class="tab">
+        <button class="tablinks">Tab 1</button>
+        <button class="tablinks">Tab 2</button>
+        <button class="tablinks">Tab 3</button>
+    </div>
+
+    <div id="Tab1" class="tabcontent">
+        <h3>Content for Tab 1</h3>
+        <p>This is the content for Tab 1.</p>
+    </div>
+
+    <div id="Tab2" class="tabcontent">
+        <h3>Content for Tab 2</h3>
+        <p>This is the content for Tab 2.</p>
+    </div>
+
+    <div id="Tab3" class="tabcontent">
+        <h3>Content for Tab 3</h3>
+        <p>This is the content for Tab 3.</p>
+    </div>
+
+    
 
 
-<h2>Vertical Tabs</h2>
-<p>Click on the buttons inside the tabbed menu:</p>
-
-<div class="tab">
-  <button class="tablinks" id="defaultOpen">London</button>
-  <button class="tablinks">Paris</button>
-  <button class="tablinks">Tokyo</button>
-</div>
-
-<div id="London" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
-</div>
-
-<div id="Paris" class="tabcontent">
-  <h3>Paris</h3>
-  <p>Paris is the capital of France.</p> 
-</div>
-
-<div id="Tokyo" class="tabcontent">
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
-
-
-   
-
- 
