@@ -3,7 +3,6 @@ title: Our Strategic Partners
 permalink: /our-network/permalink/
 description: ""
 ---
-
 <style>
 
 input {
@@ -39,6 +38,7 @@ input + label + .accordion-content {
 	display: none;
 }
 
+
 input:checked + label + .accordion-content {
 	display: none;
 }
@@ -46,6 +46,7 @@ input:checked + label + .accordion-content {
 input:checked + label + .accordion-content {
 	display: block;
 }
+
 
 </style>
 <!-- End of accordion -->
@@ -56,7 +57,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="our-main-plans">CHI Partners</h2>
 <div>
-	<input id="title1" type="checkbox"><label for="title1">International Partners</label>
+	<input id="title1" type="checkbox"><label for="title1">International Partners  </label>
 	<div class="accordion-content">
 		<p>
 </p><div class="row">
