@@ -29,7 +29,7 @@ Our Leadership
 <td><strong>Prof Hahrie  <u>Han </u></strong><br>Member of CHI Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
 <td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
@@ -122,27 +122,27 @@ Our Leadership
 <td><strong>David Dhevarajulu  </strong><br>Consultant <br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
 <td><strong>Prof Jonathan Gray </strong><br>Consultant<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Leaders/dr%20hoi%20shu%20yin-01.png"></a></td>
 <td><strong>Dr Hoi Shu Yin  </strong><br>Associate Clinical Director<br>Director, Centre for Asian Nursing Studies <br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119"><img alt="andrew1" src="/images/Leaders/dr%20loh%20yong%20joo-01.png"></a></td>
 <td><strong>Dr Loh Yong Joo</strong><br>Associate Clinical Director<br><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/hong-yee-lim-6535021"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/hong-yee-lim-6535021"><img alt="andrew1" src="/images/Leaders/lim%20hong%20yee-01.png"></a></td>
 <td><strong>Lim Hong Yee  </strong><br>Associate Clinical Director<br>Director, Centre for Allied Health &amp; Pharmacy Excellence<br><a href="https://www.linkedin.com/in/hong-yee-lim-6535021" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/celine-ong-wei-hui"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/celine-ong-wei-hui"><img alt="andrew1" src="/images/Leaders/celine%20ong%20copy.png"></a></td>
 <td><strong>Celine Ong  </strong><br>Associate Director<br>Director, Centre for Health Activation <br><a href="https://www.linkedin.com/in/celine-ong-wei-hui" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/eiseli-loh-69099a36"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/eiseli-loh-69099a36"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
 <td><strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 
