@@ -4,8 +4,7 @@ permalink: /our-events/permalink/
 description: ""
 ---
 # Masterclass
-<section class="bp-section bg-table-grey" id="citizens" style="display: block;">
-	<div class="bp-container">
+<div class="bp-container">
 		<div class="row is-multiline"><div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet padding--bottom--lg">
 						<a href="/products-and-services/ask-jamie/" class="project-link">
 		                <img src="https://d33wubrfki0l68.cloudfront.net/f61a669729f94718b8cbe980426210986589a92c/e6a9c/images/programmes/products-and-services/askjamie_thumbnail.jpg" alt="Image for 'Ask Jamie' Virtual Assistant" class="project-image">
@@ -158,7 +157,7 @@ description: ""
 		                </a>
 		            </div></div>
 	</div>
-</section>
+
 
 <section class="bp-section bg-table-grey" id="business" style="display: none;">
 	<div class="bp-container">
