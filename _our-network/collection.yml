@@ -2,7 +2,7 @@ collections:
   our-network:
     output: true
     order:
-      - Our Affliates.md
-      - Partner Page Test.md
       - About the CHI Co Learning Network.md
       - Our Strategic Partners.md
+      - Our Affliates.md
+      - Partner Page Test.md
