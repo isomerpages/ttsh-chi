@@ -2,6 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
-      - CHI Fellowship in Healthcare Innovation and Leadership.md
       - CHI Healthcare Advanced Management Programme (CHAMP).md
       - Other Leadership Programmes.md
