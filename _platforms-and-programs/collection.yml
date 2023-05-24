@@ -1,5 +1,5 @@
 collections:
-  innovation-platforms:
+  platforms-and-programs:
     output: true
     order:
       - Other Leadership Programmes.md
