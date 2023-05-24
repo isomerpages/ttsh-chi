@@ -33,7 +33,6 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     padding: 16px 0;
     margin: 0;
     font-size: 18px;
-    font-family: hknova-regular;
     color: #000000;
     margin-right: 41px;
   }
@@ -47,7 +46,6 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 
   ul.jekyllcodex_accordion li input:checked+label {
     font-weight: 600;
-    font-family: hknova-bold;
     margin-right: 41px;
   }
 
@@ -139,7 +137,6 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     padding: 16px 0;
     margin: 0;
     font-size: 18px;
-    font-family: hknova-regular;
     color: #000000;
     margin-right: 41px;
   }
@@ -153,7 +150,6 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 
   ul.jekyllcodex_accordion li input:checked+label {
     font-weight: 600;
-    font-family: hknova-bold;
     margin-right: 41px;
   }
 
