@@ -23,7 +23,7 @@ permalink: /
 notification: Join our mailing list https://for.sg/chi-mailinglist
 sections:
   - hero:
-      url: https://form.gov.sg/63ff0dedc2a8ab001139bc02
+      url: https://for.sg/chi-mailinglist
       key_highlights:
         - title: To Promote a Culture of Innovation
           description: ""
@@ -35,7 +35,7 @@ sections:
           description: ""
           url: ""
       background: /images/Draft Home Banner.jpg
-      button: read more
+      button: Join our mailing list!
   - infopic:
       title: CHI Innovate 2023
       subtitle: Upcoming events
