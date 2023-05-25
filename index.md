@@ -20,8 +20,7 @@ description: >-
   3) Enable Healthcare Training
 image: /images/CHI Logo.png
 permalink: /
-notification: CHI Innovate is happening on the 28th July 2023. Register now!
-  https://chiinnovate2023.klobbi.com/
+notification: Join our mailing list https://for.sg/chi-mailinglist
 sections:
   - hero:
       url: https://form.gov.sg/63ff0dedc2a8ab001139bc02
