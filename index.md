@@ -51,4 +51,9 @@ sections:
       url: /about-us/our-purpose/
   - resources:
       title: Our Latest News
+  - infobar:
+      title: Join our mailing list!
+      description: Sign up for our mailing list and be updated
+      button: Sign up
+      url: https://for.sg/chi-mailinglist
 ---
