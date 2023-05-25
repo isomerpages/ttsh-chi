@@ -107,8 +107,6 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 "Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. We developed the “Alzira Model,” a citizen-centered, fully integrated capitated Accountable Care
 </div>
 		
-		<p>
-</p>
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a><br>
 	<div class="header"><b>National Healthcare Group</b></div>
 	<br>
@@ -132,40 +130,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 	<div class="para">“We believe that our efforts might be of interest to other institutions and we are certainly very interested in learning from the experiences of other institutions as we find better ways to look after our patients."
 </div>
 </div>
-	</div>
-		<p></p>
-	</div>
-</div></div>
-<p></p>
 	
-	<input id="title2" type="checkbox"><label for="title2">Healthcare Partners</label>
-	<div class="accordion-content">
-		<p>
-</p><div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a><br>
-	<div class="header"><b>National Healthcare Group</b></div>
-	<br>
-	<div class="para">“The greatest impact of the network would be to disrupt the way we work, the way we think, to keep us nimble, current and future-ready. This network will provide means to benchmark, co-learn, co-create and co-develop better processes. That’s when the
-
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></a><br>
-		<div class="header"><b>National University Health System <br></b></div><br>
-		<div class="para">“Similar to many of our other members of our council, we are also struggling with the many issues of the shrinking manpower as well as increasing demand for healthcare services. So I think it is very important for our council members to actually share good 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/singhealth.svg"></a><br>
-	<div class="header"><b>Singapore Health Services</b></div><br>
-	<div class="para">“We believe that our efforts might be of interest to other institutions and we are certainly very interested in learning from the experiences of other institutions as we find better ways to look after our patients."
-</div>
-</div>
 	</div>
 		<p></p>
 	</div>
@@ -484,4 +449,4 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between National Healthcare Group (NHG) and LKCMedicine. It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and
 </div>
 
-</div></div></div>
+</div></div></div></div></div>
