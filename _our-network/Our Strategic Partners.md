@@ -437,9 +437,11 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
 	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between National Healthcare Group (NHG) and LKCMedicine. It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and
 </div>
+<br>
+</div>
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></a><br>
 	<div class="header"><b>FLYING</b></div><br>
 	<div class="para">Future Leaders &amp; Young Innovators Guild (FLYING) brings generations of future leaders and innovators together to build, transform and lead the health of tomorrow
-</div>
-</div></div></div></div></div></div>
+</div><br>
+</div></div></div></div></div>
