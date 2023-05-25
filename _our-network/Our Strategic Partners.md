@@ -255,8 +255,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
 	
 </div>
-<p><br>
-</p>
+<br>
 		<div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
