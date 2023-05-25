@@ -224,8 +224,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed Dr Chia Lin Sien to draft a
 </div>
 
-</div></div><p></p>
-	
+</div></div>
 		<p></p>
 	</div>
 	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
@@ -253,18 +252,44 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></a><br>
 	<div class="header"><b>Singapore Institute of Technology</b></div><br>
 	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
+	
 </div>
+<p><br>
+</p><div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
+	<div class="header"><b>Institute for Adult Learning</b></div><br>
+	<div class="para">An Institute of Singapore University of Social Sciences
+"As the national institute spearheading efforts to raise learning innovation practice and adoption, IAL is excited to work alongside CHI to pave the way in applying new innovative methods to promote learning and performance in the healthcare
 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
+		<div class="header"><b>Healthcare Academy <br></b></div><br>
+		<div class="para">"Formed by the Healthcare Services Employees' Union, NTUC LearningHub, and NTUC's Employment and Employability Institute, the Academy aims to ensure that all healthcare workers get the necessary training and support to cope with changes in
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+	<div class="header"><b>Oxford Centre for Triple Value Healthcare, United Kingdom</b></div><br>
+	<div class="para">Test Text
+</div>
+<br></div></div>
 </div></div><p></p>
 	</div>
-	<input id="title4" type="checkbox"><label for="title4">Strategic Agencies</label>
+	<input id="title4" type="checkbox"><label for="title4">Agencies</label>
 	<div class="accordion-content">
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/agency%20for%20integrated%20care.svg"></a><br>
-	<div class="header"><b>Agency for Integrated Care</b></div><br>
-	<div class="para">“The strength of the network like CHI is really about the number of partners and the projects we do together. I would say that in 10 years’ time we would have reached the stage that we are recognised for the collective work that we do that has transformed care,
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
+	<div class="header"><b>ST Healthcare</b></div><br>
+	<div class="para">ST Healthcare
 
 </div>
 <br>
@@ -279,9 +304,9 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
-	<div class="header"><b>A*ccelerate</b></div><br>
-	<div class="para">“I see CHI as a platform that would enable for that change of mind-set for a healthcare industry to be able to see that we can actually change as a result of the transformation that is taking place so that we can have the biggest impact on healthcare.”
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
+	<div class="header"><b>Workforce Singapore</b></div><br>
+	<div class="para">“At the end of the day, what we really want to achieve is for the workers to have better jobs and for the industry to have ample supply of better trained workers and so this will be a continuing priority of WSG and we are all in for this co-learning network and
 </div>
 <br></div></div>
 
@@ -308,35 +333,6 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="header"><b>Enterprise Singapore</b></div><br>
 	<div class="para">“To grow healthcare and biomedical local enterprises, Enterprise Singapore partners key stakeholders like the Centre for Healthcare Innovation to encourage more clinician-driven innovations to be applied locally and scaled globally.”
 </div>
-<br></div></div>
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
-	<div class="header"><b>Workforce Singapore</b></div><br>
-	<div class="para">“At the end of the day, what we really want to achieve is for the workers to have better jobs and for the industry to have ample supply of better trained workers and so this will be a continuing priority of WSG and we are all in for this co-learning network and
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
-	<div class="header"><b>Institute for Adult Learning</b></div><br>
-	<div class="para">An Institute of Singapore University of Social Sciences
-"As the national institute spearheading efforts to raise learning innovation practice and adoption, IAL is excited to work alongside CHI to pave the way in applying new innovative methods to promote learning and performance in the healthcare
-</div>
-<br>
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
-	<div class="header"><b>Healthcare Academy</b></div><br>
-	<div class="para">"Formed by the Healthcare Services Employees' Union, NTUC LearningHub, and NTUC's Employment and Employability Institute, the Academy aims to ensure that all healthcare workers get the necessary training and support to cope with changes in
-</div>
-<br>
-	
-
-
-
 </div></div><p></p>
 	</div>
 	<input id="title5" type="checkbox"><label for="title5">Industry Knowledge Partners</label>
@@ -388,111 +384,9 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
-	<div class="header"><b>ST Healthcare</b></div><br>
-	<div class="para">ST Healthcare
-</div>
-<br></div></div>
-
-<div class="row">
-<div class="col"> 
-
-	
-</div></div><p></p>
-	</div>
-	<input id="title6" type="checkbox"><label for="title6">Community Partners</label>
-<div class="accordion-content">
-		<p>
-</p><div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
-	<div class="header"><b>AWWA</b></div><br>
-	<div class="para">AWWA is a social service organisation, serving over 10,000 of the disadvantaged across life stages. Services include early intervention for pre-schoolers, education and disability support for children with special needs, assistance to low income families,
-
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
-		<div class="header"><b>St Luke's ElderCare <br></b></div><br>
-		<div class="para">St Luke’s ElderCare delivers a full range of integrated services and programmes for their clients through 22 eldercare centres islandwide. They include maintenance day care, day rehabilitation programmes such as physiotherapy and occupational
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
-	<div class="header"><b>Dover Park Hospice</b></div><br>
-	<div class="para">Dover Park Hospice aims to alleviate suffering and maximise quality of life for the terminally-ill and their loved ones through holistic palliative care. Founded in 1992, Dover Park Hospice is Singapore’s first purpose-built hospice, caring for those nearing the end of life’s journey.
-</div>
-<br></div></div>
-
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
-	<div class="header"><b>Thye Hua Kwan Moral Society
-</b></div><br>
-	<div class="para">The Thye Hua Kwan Moral Society has three subsidiaries; Ang Mo Kio Thye Hua Kwan Hospital, Thye Hua Kwan Moral Charities and Thye Hua Kwan Nursing Home. Together, they provide services that respond to the needs of the community.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
-	<div class="header"><b>Kwong Wai Shiu Hospital
-</b></div><br>
-	<div class="para">To cope with Singapore’s changing healthcare needs, Kwong Wai Shiu Hospital went through major redevelopments and has evolved into a community healthcare hub today. Given the historical significance of KWSH’s premises, the Urban Redevelopment Authority has awarded
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
-	<div class="header"><b>TOUCH Community Services</b></div><br>
-	<div class="para">The work of TOUCH started in 1986 as a service for latch-key children in the neighbourhoods of Clementi and Jurong. Touched by the obvious need of low-income and single-parent families with difficulties making ends meet, much less raising their children in 
-</div>
-<br></div></div>
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
-	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">(NTUC Health)
-NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
-	<div class="header"><b>Tsao Foundation</b></div><br>
-	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
-</div>
-<br>
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
-	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
-</div>
-<br>
-<br></div></div>
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"> </a> <br>
-	<div class="header"><b>Care Corner Singapore</b></div><br>
-	<div class="para">Care Corner Singapore Ltd was founded in 1981, in a climate of changes in the early 1980s, as economic competition in the region intensified and the rift between the wealthy and the lower-income in particular the Chinese blue-collar workers, widened. Through a series of earl
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
-	<div class="header"><b>Methodist Welfare Services</b></div><br>
-	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed Dr Chia Lin Sien to draft a
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
+	<div class="header"><b>A*START Central</b></div><br>
+	<div class="para">“I see CHI as a platform that would enable for that change of mind-set for a healthcare industry to be able to see that we can actually change as a result of the transformation that is taking place so that we can have the biggest impact on healthcare.”
 </div>
 
 </div></div><p></p>
@@ -542,5 +436,9 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
 	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between National Healthcare Group (NHG) and LKCMedicine. It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and
 </div>
-
-</div></div></div></div></div>
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></a><br>
+	<div class="header"><b>FLYING</b></div><br>
+	<div class="para">Future Leaders &amp; Young Innovators Guild (FLYING) brings generations of future leaders and innovators together to build, transform and lead the health of tomorrow
+</div>
+</div></div></div></div></div></div>
