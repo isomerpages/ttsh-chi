@@ -275,7 +275,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Academic/oxford3v.svg"></a><br>
 	<div class="header"><b>Oxford Centre for Triple Value Healthcare, United Kingdom</b></div><br>
 	<div class="para">Test Text
 </div>
