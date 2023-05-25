@@ -55,7 +55,7 @@ input:checked + label + .accordion-content {
 
 
 
-<h2 id="our-main-plans">CHI Partners</h2>
+<h2 id="our-main-plans">CHI Partners Update</h2>
 <div>
 		<input id="title1" type="checkbox"><label for="title1">Health Systems &amp; Providers</label>
 <div class="accordion-content">
