@@ -10,11 +10,13 @@ links:
     collection: our-events
   - title: Resource Room
     resource_room: true
-  - title: Contact Us
-    url: /contact-us/
+  - title: Connect with Us
+    url: /connect-with-us/
      sublinks:
       - title: Mailing List
         url: https://for.sg/chi-mailinglist
       - title: CHILD Website
         url: /platform
+      - title: Contact Us
+        url: /contact-us
     
