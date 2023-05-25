@@ -254,7 +254,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="header"><b>Singapore Institute of Technology</b></div><br>
 	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
 </div>
-</div>
+		</div></div>
 <br>
 		<div class="row">
 <div class="col"> 
@@ -279,7 +279,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Academic/oxford3v.svg"></a><br>
 	<div class="header"><b>Oxford Centre for Triple Value Healthcare, United Kingdom</b></div><br>
 	<div class="para">Test Text
-</div>
+
 <br></div>
 </div></div><p></p>
 	</div>
