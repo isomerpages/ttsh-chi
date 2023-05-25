@@ -154,10 +154,11 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 "Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. We developed the “Alzira Model,” a citizen-centered, fully integrated capitated Accountable Care.
 </div>
 <br>
+		
 </div>
 	<div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/agency%20for%20integrated%20care.svg"></a><br>
-	<div class="header"><b>Agency for Integrated Care)</b></div><br>
+	<div class="header"><b>Agency for Integrated Care</b></div><br>
 	<div class="para">The strength of the network like CHI is really about the number of partners and the projects we do together. I would say that in 10 years’ time we would have reached the stage that we are recognised for the collective work that we do that has transformed care,
 </div>
 <br>
@@ -255,7 +256,8 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	
 </div>
 <p><br>
-</p><div class="row">
+</p>
+		<div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
 	<div class="header"><b>Institute for Adult Learning</b></div><br>
