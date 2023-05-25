@@ -161,7 +161,7 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 	<div class="header"><b>Agency for Integrated Care</b></div><br>
 	<div class="para">The strength of the network like CHI is really about the number of partners and the projects we do together. I would say that in 10 years’ time we would have reached the stage that we are recognised for the collective work that we do that has transformed care,
 </div>
-<br>
+		
 <br></div></div>
 <div class="row">
 <div class="col"> 
