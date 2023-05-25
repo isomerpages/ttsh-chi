@@ -8,15 +8,16 @@ links:
     collection: platforms-and-programmes
   - title: Events
     collection: our-events
+  - title: CONNECT
+    url: /
+    sublinks:
+      - title: Mailing List
+        url: https://
+      - title: SWITCH Platform
+        url: /platform
   - title: Resource Room
     resource_room: true
   - title: Connect with Us
-    url: /connect-with-us/
-     sublinks:
-      - title: Mailing List
-        url: https://for.sg/chi-mailinglist
-      - title: CHILD Website
-        url: /platform
-      - title: Contact Us
-        url: /contact-us
+    url: /contact-us/
+  
     
