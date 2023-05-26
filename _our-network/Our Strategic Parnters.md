@@ -171,56 +171,57 @@ Ribera Salud, a leading Spanish integrated healthcare provider, supports governm
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></a><br>
+<a href="https://www.nuhs.edu.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></a><br>
 	<div class="header"><b>National University Health System</b></div><br>
-	<div class="para">“Similar to many of our other members of our council, we are also struggling with the many issues of the shrinking manpower as well as increasing demand for healthcare services. So I think it is very important for our council members to actually share good 
+	<div class="para">The National University Health System (NUHS) is one of three public healthcare clusters in Singapore, and an integrated Academic Health System and Regional Health System that delivers value-driven, innovative and sustainable healthcare in Singapore.  We leverage our unique position as an Academic Health System to tap on the wealth of resources residing within the National University of Singapore (NUS). 
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a><br>
+<a href="https://corp.nhg.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a><br>
 	<div class="header"><b>National Healthcare Group</b></div><br>
-	<div class="para">“The greatest impact of the network would be to disrupt the way we work, the way we think, to keep us nimble, current and future-ready. This network will provide means to benchmark, co-learn, co-create and co-develop better processes. That’s when the
+	<div class="para">The National Healthcare Group (NHG) is a leader in public healthcare in Singapore recognised for the quality of its medical expertise and facilities. Care is provided through an integrated system of primary care polyclinics, acute care and tertiary hospitals, and national specialty centres. Together, we provide comprehensive and innovative healthcare to address the unique needs of our patients and the population we serve.
 </div>
 <br>
 <br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+<a href="https://ntuchealth.sg/about-us"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
 	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">(NTUC Health)
-NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+	<div class="para">NTUC Health Co-operative Limited (NTUC Health) is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and elderly care services to meet the growing needs of families and their dependents. Building on more than five decades of experience and expertise, NTUC Health is among the largest senior day care, nursing home, and home personal care providers in Singapore.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+<a href="https://tsaofoundation.org/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
 	<div class="header"><b>Tsao Foundation</b></div><br>
-	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+	<div class="para">The Tsao Foundation is a non-profit organization dedicated to improving the quality of life of older persons in an inclusive society that can embrace both the challenges and opportunities of population ageing. Our community-based programmes and services give older people access to quality integrated medical and pycho-social care in their homes and communities. 
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+<a href="https://www.renci.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
 	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+	<div class="para">Founded on the principles to serve all regardless of race, religion and background as a charity healthcare institution in 1994, Ren Ci serves needy beneficiaries with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community. We have stood by time and challenges to grow. Our suite of care services continues to play an active role in the growing prevalence of the silver population in Singapore through supporting the healthcare needs of the senior community.
 </div>
 <br>
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"> </a> <br>
+<a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"> </a> <br>
 	<div class="header"><b>Care Corner Singapore</b></div><br>
-	<div class="para">Care Corner Singapore Ltd was founded in 1981, in a climate of changes in the early 1980s, as economic competition in the region intensified and the rift between the wealthy and the lower-income in particular the Chinese blue-collar workers, widened. Through a series of earl
+	<div class="para">Care Corner serves as the bridge between the community and government to provide a continuum of integrated care for individuals as they transition through different life stages.
+By being on the ground, we work closely with our service users, community partners and the private sector to deliver timely care and support. Together, we enable people in need to rise above their circumstances. We are woven into the fabric of community.
+
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
+<a href="https://mws.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
 	<div class="header"><b>Methodist Welfare Services</b></div><br>
-	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed Dr Chia Lin Sien to draft a
+	<div class="para">Methodist Welfare Services (MWS) is all about empowering people to have life to the full.  While MWS’ sphere of impact has expanded since our founding, our core spirit of social holiness remains unwavering. Today, we serve over 9,000 children from disadvantaged backgrounds, youths at risk, families in distress, seniors who are socially isolated. and the chronically ill and destitute.
 </div>
 
 </div></div>
