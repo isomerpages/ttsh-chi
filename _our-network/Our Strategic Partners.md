@@ -106,27 +106,25 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
-	<div class="header"><b>TOUCH Community Services</b></div><br>
-	<div class="para">The work of TOUCH started in 1986 as a service for latch-key children in the neighbourhoods of Clementi and Jurong. Touched by the obvious need of low-income and single-parent families with difficulties making ends meet, much less raising their children in 
+<a href="https://www.enterprise-ireland.com/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
+	<div class="header"><b>Enterprise Ireland </b></div><br>
+	<div class="para">Enterprise Ireland has a range of funding and advisory supports to help Irish exporters work towards a greener future and deal with the impact of Brexit and Covid-19. These supports are designed to help businesses stabilise financially, adapt to the evolving situation and get back on the road to recovery and growth. 
 </div>
 <br></div></div>
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
-	<div class="header"><b>Qulturum</b></div><br>
-	<div class="para">Region Jönköping County, Sweden
-“Qulturum knows that this network has many valuable centres involved so we hope that we can energise each other to new levels of understanding. I think that the modernisation of care is so challenging now that we need to find ways to show them the way
+<a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
+	<div class="header"><b>Government of Canada, Trade Commissioner Service </b></div><br>
+	<div class="para">Now more than ever, the Trade Commissioner Service helps Canadian businesses grow with confidence by connecting them with our funding and support programs, international opportunities, and our network of trade commissioners in over 160 cities worldwide. 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
-	<div class="header"><b>Routine to Research (R2R) Unit</b></div><br>
-	<div class="para">Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand
-“Partnership within the co-learning network will enable us to share with each other, to form joint training activities, provide accessibility for coaching and mentoring within our network and to promote leadership and managerial capabilities.” 
+<a href="https://www.invest-in-hessen.de/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
+	<div class="header"><b>Hessen Economic Development </b></div><br>
+	<div class="para">As Hessen Trade &amp; Invest GmbH, we represent all Hessen-based economic development organizsations at the state level. We offer you a unique strategic combination of investor consulting, technology and innovation promotion, as well as comprehensive advice on EU funding and collaboration programs.
 </div>
 <br>
 </div>
