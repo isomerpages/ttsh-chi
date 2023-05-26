@@ -277,74 +277,71 @@ Innovation Norway create value by stimulating to profitable business development
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a><br>
-	<div class="header"><b>National Healthcare Group</b></div><br>
-	<div class="para">“The greatest impact of the network would be to disrupt the way we work, the way we think, to keep us nimble, current and future-ready. This network will provide means to benchmark, co-learn, co-create and co-develop better processes. That’s when the
+<a href="https://www.hkstp.org/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a><br>
+	<div class="header"><b>Hong Kong Science &amp; Technology Parks Corporation (HKSTP)</b></div><br>
+	<div class="para">HKSTP is Hong Kong’s hub for global research collaboration, where world-class researchers converge to change the world with new ideas. HKSTP is the city’s largest R&amp;D base focusing on innovation, translational research, product development and go-to-market support for both local and overseas markets. In recent years, we’ve deepened our focus in four strategic areas – Artificial Intelligence and Robotics, Biomedical, Data and Smart City, Fintech – to innovate, educate, and change the world. We continue to serve the innovation and technology ecosystem through our five clusters: Biomedical Technology, Electronics, Green Technology, Information and Communication Technology, and Material and Precision Engineering.
 </div>
 <br>
 <br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
-	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">(NTUC Health)
-NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+<a href="https://www.questventures.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>Quest Ventures </b></div><br>
+	<div class="para">In partnership with Silicon Valley’s pre-eminent Applied Innovation Institute, Quest Ventures’ enterprise innovation initiative drives industry and corporate transformation for at-risk sectors based on world class research, local knowledge, and collaboration with startups. Sectors covered include alternative food, aviation, banking, insurance, logistics &amp; transportation, oil &amp; gas, and smart cities. Clients include Applied Materials, Coca-Cola, HP, Nissan, and Tencent.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
-	<div class="header"><b>Tsao Foundation</b></div><br>
-	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+<a href="https://medtechactuator.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+	<div class="header"><b>MedTech Actuator </b></div><br>
+	<div class="para">The MedTech Actuator was founded in 2018 by serial MedTech entrepreneurs and health policy experts who understood that MedTech, HealthTech and BioTech ventures require a bespoke acceleration model. We connect the region’s broad ecosystem to empower founders to build the next wave of global MedTech, HealthTech and BioTech success stories.
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
-	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+<a href="https://medtechinnovator.org/asia-pacific/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>MedTech Innovation Asia Pacific </b></div><br>
+	<div class="para">MedTech Innovator is the industry’s nonprofit global competition and accelerator for medical device, digital health and diagnostic companies. Our mission is to improve the lives of patients by accelerating the growth of companies that are transforming the healthcare system.
 </div>
 <br>
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
-	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">(NTUC Health)
-NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+<a href="https://www.nanrise.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>NanRise </b></div><br>
+	<div class="para">NanRise is a spin off consulting and investment advisory company from the Nanyang Technological University of Singapore, with specific focus on accelerating technological innovation commercialization in sustainable urban development in the AIC region (ASEAN, India and Greater China).
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
-	<div class="header"><b>Tsao Foundation</b></div><br>
-	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+<a href="https://www.nordicinnovationhouse.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+	<div class="header"><b>Nordic Innovation House Singapore </b></div><br>
+	<div class="para">Nordic Innovation House in Singapore acts as a bridge between the Nordic and Singapore ecosystem players, providing a strong Nordic community and local network, and connections to the right people and resources. In Singapore, we work closely with the five Nordic trade promotion offices including Business Sweden, Innovation Norway, Business Iceland, the Embassy of Finland and the Embassy of Denmark to scale the best of the Nordics in this region.
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
-	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+<a href="https://www.plugandplaytechcenter.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>Plug and Play APAC</b></div><br>
+	<div class="para">We drive innovation by connecting the brightest minds. We want to build a smart future. To achieve that, we’re building a unique ecosystem that connects change-makers and leading organizations. Our network consists of 50,000 startups, 500+ world-leading corporations, and hundreds of venture capital firms, universities, and government agencies across multiple industries. Together with our partners, we are creating a unique ecosystem designed to develop and implement the technologies of tomorrow.
 </div>
 <br>
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
-	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">(NTUC Health)
-NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+<a href="https://www.sginnovate.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>SGInnovate </b></div><br>
+	<div class="para">The world has hard problems to solve, and answers are urgently needed. We help entrepreneurs on a mission to solve these hard problems build companies. We believe Singapore has the resources and capabilities to tackle the pressing challenges impacting people around the world. SGInnovate has been established to help these ambitious and capable people to build 'technology-intensive' products borne out of scientific research, leveraging the full power of the Singapore ecosystem to achieve this mission.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
-	<div class="header"><b>Tsao Foundation</b></div><br>
-	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+<a href="https://www.startupreseau.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+	<div class="header"><b>Startup Réseau </b></div><br>
+	<div class="para">Startup Réseau is the entrepreneurial venture of 2 professionals from the startup ecosystem, who have earlier successfully built India's top meta-accelerator. The founding team boasts of rich and diverse experience, and a global network of startup ecosystem enablers, founders, investors, corporates, universities and governments. Built on the founding pillar of #StartupsFirst, "Startup Réseau" is a network of Startups, Enterprises, Capital, Markets, and Services – bringing in a structured interface for enabling unique linkages.
 </div>
 <br>
 </div>
