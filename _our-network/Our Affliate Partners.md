@@ -64,7 +64,7 @@ input:checked + label + .accordion-content {
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.alpshealthcare.com.sg/"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
+<a href="https://www.alpshealthcare.com.sg/"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/alpsalps.svg"></a><br>
 	<div class="header"><b>ALPS </b></div><br>
 	<div class="para">As a public healthcare supply chain agency, we shall extend our reach, progress with agility, and invest for resiliency. To achieve so, we shall leverage on building good relationships with our stakeholders and suppliers, re-engineer our processes for synergies and foster the development of our people and organisation's values. Our growth drivers are specific focus areas for future growth, thereby creating innovation, delivering execution excellence, leveraging technology for business transformation, generating partnerships, and inspiring our employees through empowerment.
 
@@ -73,7 +73,7 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
+<a href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/british%20high%20commisiom.svg"></a><br>
 		<div class="header"><b>British High Commission Singapore  <br></b></div><br>
 		<div class="para">The British High Commission in Singapore maintains and develops relations between the UK and Singapore. We encourage Singapore to look to the UK as a global partner of choice in trade, investment, science and research, and we help Singapore on low-carbon economic development. Every year, we help about 100 UK companies gain a foothold in Singapore.
 </div>
@@ -81,7 +81,7 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://edbi.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
+<a href="https://edbi.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/edbiedbi.svg"></a><br>
 	<div class="header"><b>EDBI </b></div><br>
 	<div class="para">As a value adding investor with 30 years of investment experience, we support our portfolio companies’ growth in Asia and globally, through Singapore, by leveraging our extensive network, resources and experience.
 </div>
@@ -90,7 +90,7 @@ input:checked + label + .accordion-content {
 
 <div class="row">
 <div class="col"> 
-<a href="https://finlandabroad.fi/web/sgp/mission/-/asset_publisher/dqNr4C30tdPU/contactInfoOrganization/id/121688"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
+<a href="https://finlandabroad.fi/web/sgp/mission/-/asset_publisher/dqNr4C30tdPU/contactInfoOrganization/id/121688"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/finland.svg"></a><br>
 	<div class="header"><b>Embassy of Finland, Singapore 
 </b></div><br>
 	<div class="para">The Finnish embassy in Singapore promotes the interests of Finland and Finns abroad in many different ways. We handle general political tasks, export promotion as well official tasks. Our aim is to promote the interests of Finnish business life and the companies’ export and internationalization, as well as the cooperation in the field of research and education. Promoting the visibility and awareness and providing information on Finland as a highly advanced information society is one of our main functions.
@@ -99,7 +99,7 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.sg.emb-japan.go.jp/itprtop_en/index.html"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
+<a href="https://www.sg.emb-japan.go.jp/itprtop_en/index.html"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/CHI%20Logo.png"></a><br>
 	<div class="header"><b>Embassy of Japan, Singapore 
 </b></div><br>
 	<div class="para">Ever since the establishment of diplomatic ties in 1966, Japan and Singapore have enjoyed a close relationship in a wide range of areas—politically, economically, and culturally. Against this backdrop, many Japanese companies, including around 800 Japanese companies registered to the Japanese Chamber Of Commerce &amp; Industry (JCCI) Singapore, are thriving as regional hubs overseeing the region. It is in our Embassy’s interest to continue to support your dedicated efforts.
@@ -108,7 +108,7 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.enterprise-ireland.com/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
+<a href="https://www.enterprise-ireland.com/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/enterprise%20ireland.svg"></a><br>
 	<div class="header"><b>Enterprise Ireland </b></div><br>
 	<div class="para">Enterprise Ireland has a range of funding and advisory supports to help Irish exporters work towards a greener future and deal with the impact of Brexit and Covid-19. These supports are designed to help businesses stabilise financially, adapt to the evolving situation and get back on the road to recovery and growth. 
 </div>
@@ -116,7 +116,7 @@ input:checked + label + .accordion-content {
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
+<a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/canada.svg"></a><br>
 	<div class="header"><b>Government of Canada, Trade Commissioner Service </b></div><br>
 	<div class="para">Now more than ever, the Trade Commissioner Service helps Canadian businesses grow with confidence by connecting them with our funding and support programs, international opportunities, and our network of trade commissioners in over 160 cities worldwide. 
 </div>
@@ -124,14 +124,14 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.invest-in-hessen.de/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
+<a href="https://www.invest-in-hessen.de/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/hessen.svg"></a><br>
 	<div class="header"><b>Hessen Economic Development </b></div><br>
 	<div class="para">As Hessen Trade &amp; Invest GmbH, we represent all Hessen-based economic development organizsations at the state level. We offer you a unique strategic combination of investor consulting, technology and innovation promotion, as well as comprehensive advice on EU funding and collaboration programs.
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://netherlandsinnovation.nl/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
+<a href="https://netherlandsinnovation.nl/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/netherlands.svg"></a><br>
 	<div class="header"><b>Netherlands Innovation Network</b></div><br>
 	<div class="para">Netherlands Innovation Network (“Innovatie Attaché Netwerk” in Dutch) is part of the Dutch Ministry of Economic Affairs that operates in multiple countries with a strong innovation capacity and/or potential. This network aims to improve the innovation capabilities of the Netherlands by linking global and Dutch innovation networks.
 </div>
@@ -139,7 +139,7 @@ input:checked + label + .accordion-content {
 <br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://www.jetro.go.jp/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
+<a href="https://www.jetro.go.jp/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/jetrooo.svg"></a><br>
 	<div class="header"><b>Japan External Trade Organization (JETRO) </b></div><br>
 	<div class="para">JETRO, or the Japan External Trade Organization, is a government-related organization that works to promote mutual trade and investment between Japan and the rest of the world. Originally established in 1958 to promote Japanese exports abroad, JETRO's core focus in the 21st century has shifted toward promoting foreign direct investment into Japan and helping small to medium size Japanese firms maximize their global export potential.
 </div>
@@ -147,7 +147,7 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.sgc.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
+<a href="https://www.sgc.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20german.svg"></a><br>
 	<div class="header"><b>Singapore-German Chamber of Industry and Commerce </b></div><br>
 	<div class="para">The Singaporean-German Chamber of Industry and Commerce (SGC) is part of a network of 150 offices of the German bilateral Chambers of Industry and Commerce abroad in 93 countries. The Chamber is one of the largest national Business Chambers in Singapore with a membership of more than 600 representatives from a variety of industries from Germany and Singapore.
 </div>
