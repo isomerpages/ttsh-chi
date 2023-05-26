@@ -345,18 +345,18 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></a><br>
-		<div class="header"><b>NEC <br></b></div><br>
-		<div class="para">"NEC Laboratories Singapore specialises in co-creating cutting-edge AI solutions together with Governments and Enterprises, towards safer and smarter cities."
+<a href="https://sg.nec.com/"><img alt="CHI Living Lab" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></a><br>
+		<div class="header"><b>NEC Asia Pacific <br></b></div><br>
+		<div class="para">As a leading information and communications technology provider, NEC APAC provides innovative solutions and infrastructure to promote safety, security and enhance the quality of life for individuals and the community
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
+<a href="https://www.philips.com.sg/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
 	<div class="header"><b>Philips Electronics Singapore
 </b></div><br>
-	<div class="para">"We focus on implementing meaningful innovations, centered on patients and care providers, designed to break down barries and complexity to offer better value to patients, providers and overall healthcare system."
+	<div class="para">At Philips, our innovations are driven by consumer and customer needs. Helping people to live healthily and prevent disease. Giving clinicians the tools they need to make a precision diagnosis and deliver personalized treatment. Aiding the patient's recovery at home in the community. All supported by a seamless flow of data. 
 
 </div>
 <br></div></div>
@@ -364,25 +364,25 @@ By being on the ground, we work closely with our service users, community partne
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></a><br>
+<a href="https://www.pwc.com/sg/en/industries/healthcare.html"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></a><br>
 	<div class="header"><b>PricewaterhouseCoopers Consulting (Singapore)</b></div><br>
-	<div class="para">PricewaterhouseCoopers Consulting (Singapore)
+	<div class="para">PwC provides health organisations with professional guidance not just on healthcare issues in their local markets but also about operating in global markets including a broad mix of service lines that may include manufactured goods, retail, mobile communication devices, and information systems. PwC brings a world of multiple-industry experience to its healthcare engagements.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/workplace.svg"></a><br>
+<a href="https://www.workplace.com/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/workplace.svg"></a><br>
 	<div class="header"><b>Workplace by Facebook</b></div><br>
-	<div class="para">Workplace by Facebook
+	<div class="para">It’s not just Meta’s familiar and easy-to-use technology that makes Workplace unique. Our tools and features help to enhance your employee experience, so your people feel more inspired to do their best work.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
+<a href="https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
 	<div class="header"><b>A*START Central</b></div><br>
-	<div class="para">“I see CHI as a platform that would enable for that change of mind-set for a healthcare industry to be able to see that we can actually change as a result of the transformation that is taking place so that we can have the biggest impact on healthcare.”
+	<div class="para">A*StartCentral (A*SC) is an open innovation platform by the Agency for Science Technology and Research (A*STAR). We aim to incubate and accelerate the growth of deep-tech startups, and bolster the startup ecosystem. A*SC fosters interaction between researchers, corporates, startups, investors, and entrepreneurs across diverse disciplines.
 </div>
 
 </div></div><p></p>
@@ -392,27 +392,27 @@ By being on the ground, we work closely with our service users, community partne
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canslogo.svg"></a><br>
+<a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/Pages/Centre-for-Asian-Nursing-Studies-CANS.aspx#:~:text=Here%20at%20CANS%2C%20we%20empower,%2C%20infectious%20diseases%2C%20and%20frailty."><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canslogo.svg"></a><br>
 <div class="header"><b>Centre for Asian Nursing Studies</b></div><br>
-<div class="para">CANS spearheads nursing Research, Innovation and Education (RIE) initiatives across local and regional healthcare systems. These three thrusts are strategically aligned against CANS's key strengths in core areas such as geriatrics, infectious
+<div class="para">CANS empower nurses to be changemakers who improve key health outcomes. We are aligned with the foci of Singapore's healthcare sphere, namely in the clinical care streams of wound, diabetes mellitus, population health, infectious diseases, and frailty.
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capelogo.svg"></a><br>
+<a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/CAPE/Pages/default.aspx"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capelogo.svg"></a><br>
 		<div class="header"><b>Centre for Allied Health and Pharmacy Excellence <br></b></div><br>
-		<div class="para">CAPE provides an exciting platform for Allied Health Professionals and Pharmacists to drive innovation and training in health-social care integration, with the aim of optimising independence and quality of life for our population.
+		<div class="para">CAPE is a new strategic platform to further innovation efforts in Allied Health and Pharmacy. CAPE provides an exciting platform for Allied Health Professionals and Pharmacists to drive innovation and training in health-social care integration, with the aim of optimising independence and quality of life for our population.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/centreforhealthcareactivation.svg"></a><br>
+<a href="https://www.ttsh.com.sg/Community-Health/for-Central-Health-Partners/learning-and-training/Pages/Centre-for-Health-Activation.aspx#:~:text=Centre%20for%20Health%20Activation%20(CHA)%20is%20a%20dedicated%20space%20to,grants%20application%20and%20platforms%20for"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/centreforhealthcareactivation.svg"></a><br>
 	<div class="header"><b>Centre for Health Activation
 </b></div><br>
-	<div class="para">Through the CHA Learning and Development Roadmap for Building a Community of Carers, trained carers will be equipped with the know-ledge, skills and resources to embrace and prepare for ageing, and overtime achieve better population health for the
+	<div class="para">Launched in 2017, Centre for Health Activation (CHA) was set up to focus on Activation, Research and Training – also known as the ART of CHA. Its vision is to drive activation and build One Community of Carers (i.e. patients, caregivers, volunteers, health and social care partners) who are equipped with the skills, knowledge and confidence to self-care and care for their loved ones and others in the community.
 
 </div>
 <br></div></div>
