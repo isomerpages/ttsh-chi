@@ -24,7 +24,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 	<div class="col"> 
 <img alt="CHI Living Lab" src="/images/office-desk-animation.gif"><br>
 		<div class="header"><b>CHI Living Lab<br></b></div><br>
-		<div class="para">CHI Living Lab is a makerspace made easily accessible for staff, patients, caregivers and community partners to co-create and prototype ideas.
+		<div class="para">CHI Living Lab is a makerspace made easily accessible for staff, patients, caregivers and community partners to co-create and prototype ideas. 
 </div>
 <br>
 
@@ -74,6 +74,12 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 <img alt="Learning Studios" src="/images/office-desk-animation.gif"><br>
     <div class="header"><b>Learning Studious</b></div><br>
     <div class="para">There are Learning Studios built for seminars, workshops and tutorials. It offers a wide variety of configuration ranging from theatre, classroom, cluster, to tutorial layout.
+</div>
+		</div>
+	<div class="col"> 
+<img alt="Learning Studios" src="/images/office-desk-animation.gif"><br>
+    <div class="header"><b>CHI Reimagination Plaza (CHIRP)</b></div><br>
+    <div class="para">new
 </div>
 <br>
 
