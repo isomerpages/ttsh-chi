@@ -393,7 +393,7 @@ By being on the ground, we work closely with our service users, community partne
 </p><div class="row">
 <div class="col"> 
 <a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/Pages/Centre-for-Asian-Nursing-Studies-CANS.aspx#:~:text=Here%20at%20CANS%2C%20we%20empower,%2C%20infectious%20diseases%2C%20and%20frailty."><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canslogo.svg"></a><br>
-<div class="header"><b>Centre for Asian Nursing Studies</b></div><br>
+<div class="header"><b>Centre for Asian Nursing Studies (CANS)</b></div><br>
 <div class="para">CANS empower nurses to be changemakers who improve key health outcomes. We are aligned with the foci of Singapore's healthcare sphere, namely in the clinical care streams of wound, diabetes mellitus, population health, infectious diseases, and frailty.
 
 </div>
@@ -402,7 +402,7 @@ By being on the ground, we work closely with our service users, community partne
 </div>
 	<div class="col"> 
 <a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/CAPE/Pages/default.aspx"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capelogo.svg"></a><br>
-		<div class="header"><b>Centre for Allied Health and Pharmacy Excellence <br></b></div><br>
+		<div class="header"><b>Centre for Allied Health and Pharmacy Excellence (CAPE) <br></b></div><br>
 		<div class="para">CAPE is a new strategic platform to further innovation efforts in Allied Health and Pharmacy. CAPE provides an exciting platform for Allied Health Professionals and Pharmacists to drive innovation and training in health-social care integration, with the aim of optimising independence and quality of life for our population.
 </div>
 <br>
@@ -410,7 +410,7 @@ By being on the ground, we work closely with our service users, community partne
 </div>
 	<div class="col"> 
 <a href="https://www.ttsh.com.sg/Community-Health/for-Central-Health-Partners/learning-and-training/Pages/Centre-for-Health-Activation.aspx#:~:text=Centre%20for%20Health%20Activation%20(CHA)%20is%20a%20dedicated%20space%20to,grants%20application%20and%20platforms%20for"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/centreforhealthcareactivation.svg"></a><br>
-	<div class="header"><b>Centre for Health Activation
+	<div class="header"><b>Centre for Health Activation (CHA)
 </b></div><br>
 	<div class="para">Launched in 2017, Centre for Health Activation (CHA) was set up to focus on Activation, Research and Training – also known as the ART of CHA. Its vision is to drive activation and build One Community of Carers (i.e. patients, caregivers, volunteers, health and social care partners) who are equipped with the skills, knowledge and confidence to self-care and care for their loved ones and others in the community.
 
@@ -420,23 +420,23 @@ By being on the ground, we work closely with our service users, community partne
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/cmticmti.svg"></a><br>
-	<div class="header"><b>Centre for Medical Technologies &amp; Innovations</b></div><br>
-	<div class="para">NHG CMTi plays a pivotal role in facilitating the co-development projects with partners and works closely with government agencies such as Enterprise Singapore (ES), Economic Development Board (EDB) and National Healthcare and Innovation Centre (NHIC), to
+<a href="https://corp.nhg.com.sg/CMTI/Pages/default.aspx"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/cmticmti.svg"></a><br>
+	<div class="header"><b>Centre for Medical Technologies &amp; Innovations (CMTi)</b></div><br>
+	<div class="para">CMTi plays an integral role in the innovation ecosystem to help facilitate the development of innovative MedTech solutions that can address unmet healthcare needs and contribute to improved patient and healthcare outcomes. 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivegames.svg"></a><br>
+<a href="https://www.ntu.edu.sg/alive"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivegames.svg"></a><br>
 	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
-	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between National Healthcare Group (NHG) and LKCMedicine. It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and
+	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between LKCMedicine and its primary healthcare partner - the National Healthcare Group (NHG). It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and community resources for the scientific validation, research and implementation of healthcare serious games initiatives for better healthcare outcomes.
 </div>
 <br>
 </div>
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></a><br>
+<a href="https://www.linkedin.com/in/flying-chi-45450020a/?originalSubdomain=sg"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></a><br>
 	<div class="header"><b>FLYING</b></div><br>
-	<div class="para">Future Leaders &amp; Young Innovators Guild (FLYING) brings generations of future leaders and innovators together to build, transform and lead the health of tomorrow
+	<div class="para">Future Leaders &amp; Young Innovators Guild (FLYING) brings generations of future leaders and innovators together to build, transform and lead the health of tomorrow. 
 </div><br>
 </div></div></div></div></div>
