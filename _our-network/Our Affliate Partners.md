@@ -386,56 +386,25 @@ Innovation Norway create value by stimulating to profitable business development
 
 </div></div><p></p>
 	</div>
-	<input id="title4" type="checkbox"><label for="title4">Agencies</label>
+	<input id="title4" type="checkbox"><label for="title4">Foundations</label>
 	<div class="accordion-content">
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
-	<div class="header"><b>ST Healthcare</b></div><br>
-	<div class="para">ST Healthcare
+<a href="https://www.sif.org.sg/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
+	<div class="header"><b>Singapore International Foundation </b></div><br>
+	<div class="para">The Singapore International Foundation (SIF) is a not-for-profit organisation established on 1 August 1991. Our aim is to strengthen mutual understanding, ties and trust between global communities. All our programmes seek to bring Singaporeans and our friends from overseas communities together, to connect and collaborate for positive change. 
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
-		<div class="header"><b>Design Singapore Council <br></b></div><br>
-		<div class="para">“The Design Singapore Council has through many years developed its capabilities in design thinking for design innovation. And this is very important, because the thing is that, what we hope to bring into the CHI network is the whole notion of empathy and 
+<a href="https://www.temasekfoundation.org.sg/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
+		<div class="header"><b>Temasek Foundation  <br></b></div><br>
+		<div class="para">Through the years, we’ve supported a diverse range of programmes that uplift lives and communities in Singapore and beyond. These are made possible through philanthropic endowments gifted by Temasek. Together with our partners, staff, and volunteers, we continue to uncover unseen gaps, bridge the divide between challenge and transformation, and innovate solutions that provide positive outcomes for our communities today, and for generations to come.
 </div>
 <br>
 
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
-	<div class="header"><b>Workforce Singapore</b></div><br>
-	<div class="para">“At the end of the day, what we really want to achieve is for the workers to have better jobs and for the industry to have ample supply of better trained workers and so this will be a continuing priority of WSG and we are all in for this co-learning network and
-</div>
-<br></div></div>
-
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></a><br>
-	<div class="header"><b>Integrated Health Information Systems</b></div><br>
-	<div class="para">“iHIS being the system integrator and also the connector of dots for technology matters in public healthcare can help add a lot of value in terms of being able to bring the real experience of what goes on in public healthcare to CHI.”
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
-	<div class="header"><b>Singapore Biodesign</b></div><br>
-	<div class="para">“We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></a><br>
-	<div class="header"><b>Enterprise Singapore</b></div><br>
-	<div class="para">“To grow healthcare and biomedical local enterprises, Enterprise Singapore partners key stakeholders like the Centre for Healthcare Innovation to encourage more clinician-driven innovations to be applied locally and scaled globally.”
-</div>
 </div></div><p></p>
 </div></div></div>
