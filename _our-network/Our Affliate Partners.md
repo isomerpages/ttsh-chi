@@ -211,64 +211,68 @@ input:checked + label + .accordion-content {
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
-	<div class="header"><b>Government of Canada, Trade Commissioner Service </b></div><br>
-	<div class="para">Now more than ever, the Trade Commissioner Service helps Canadian businesses grow with confidence by connecting them with our funding and support programs, international opportunities, and our network of trade commissioners in over 160 cities worldwide. 
+<a href="https://eurocham.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
+	<div class="header"><b>The European Chamber of Commerce (EuroCham) </b></div><br>
+	<div class="para">The European Chamber of Commerce (Singapore), also known as EuroCham Singapore, represents the common interests of the European business community in promoting bilateral trade, services and investments between Europe, Singapore and the region. We are a unique network of European and local corporations based in Singapore, representatives from European National Business Groups in Singapore, strategic partners including universities and trade associations and we have a deep appreciation of the local governmental bodies. 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.invest-in-hessen.de/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
-	<div class="header"><b>Hessen Economic Development </b></div><br>
-	<div class="para">As Hessen Trade &amp; Invest GmbH, we represent all Hessen-based economic development organizsations at the state level. We offer you a unique strategic combination of investor consulting, technology and innovation promotion, as well as comprehensive advice on EU funding and collaboration programs.
+<a href="https://www.genglobal.org/singapore"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
+	<div class="header"><b>Gen Singapore  </b></div><br>
+	<div class="para">The Global Entrepreneurship Network is a 501(c)3 organization that operates an array of programs in 200 countries aimed at making it easier for anyone, anywhere to start and scale a business.
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://netherlandsinnovation.nl/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
-	<div class="header"><b>Netherlands Innovation Network</b></div><br>
-	<div class="para">Netherlands Innovation Network (“Innovatie Attaché Netwerk” in Dutch) is part of the Dutch Ministry of Economic Affairs that operates in multiple countries with a strong innovation capacity and/or potential. This network aims to improve the innovation capabilities of the Netherlands by linking global and Dutch innovation networks.
+<a href="https://kilsaglobal.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
+	<div class="header"><b>KiLSA Global </b></div><br>
+	<div class="para">KILSA Global is an on-demand market entry execution and business management specialist that helps innovative businesses accelerate business expansions in the S.E.A region. We envision to be the market entry platform of choice of companies for their business transformation, globalisation, acceleration and funding needs.
+At KILSA, we strive to achieve the best for our clients by being a collaborative and inclusive strategic platform that adds value to the existing technologically driven ecosystem in Asia.
+
 </div>
 <br>
 <br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://www.jetro.go.jp/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
-	<div class="header"><b>Japan External Trade Organization (JETRO) </b></div><br>
-	<div class="para">JETRO, or the Japan External Trade Organization, is a government-related organization that works to promote mutual trade and investment between Japan and the rest of the world. Originally established in 1958 to promote Japanese exports abroad, JETRO's core focus in the 21st century has shifted toward promoting foreign direct investment into Japan and helping small to medium size Japanese firms maximize their global export potential.
+<a href="https://www.healthtec.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
+	<div class="header"><b>The Singapore Health Technologies Consortium (HealthTEC.SG)  </b></div><br>
+	<div class="para">Launched in July 2019, the Singapore Health Technologies Consortium (HealthTEC.SG) offers a platform for interaction and collaboration between industry and academia to develop and translate disruptive technological innovations that will transform health and wellness. It focuses on the areas of health sensing technologies, health analytics and artificial intelligence to create personalised applications for health and wellness. The Consortium also acts as a national resource in R&amp;D and commercialisation by facilitating licensing of locally developed technologies. HealthTEC.SG is supported by the National Research Foundation (NRF) and hosted by Agency for Science, Technology and Research (A*STAR)
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.sgc.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
-	<div class="header"><b>Singapore-German Chamber of Industry and Commerce </b></div><br>
-	<div class="para">The Singaporean-German Chamber of Industry and Commerce (SGC) is part of a network of 150 offices of the German bilateral Chambers of Industry and Commerce abroad in 93 countries. The Chamber is one of the largest national Business Chambers in Singapore with a membership of more than 600 representatives from a variety of industries from Germany and Singapore.
+<a href="https://www.hello-tomorrow-apac.org/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
+	<div class="header"><b>Hello Tomorrow Asia Pacific  </b></div><br>
+	<div class="para">Hello Tomorrow originated in Paris, France in the early 2010s as a group of PhD students banding together to support each other’s work (because the European debt crisis would have none of it). Having been run as a volunteer-driven non-profit organisation, Hello Tomorrow has organically grown to become the foremost deep-tech ecosystem globally. Our founding ethos and spirit will never waver – at the heart of everything it is that we do, we advocate for the boldest innovations so that they may sooner become realities.
 </div>
 <br>
 		
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/aicaic.svg"></a><br>
-	<div class="header"><b>Agency for Integrated Care</b></div><br>
-	<div class="para">The strength of the network like CHI is really about the number of partners and the projects we do together. I would say that in 10 years’ time we would have reached the stage that we are recognised for the collective work that we do that has transformed care,
+<a href="https://www.innovasjonnorge.no/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/aicaic.svg"></a><br>
+	<div class="header"><b>Innovation Norway </b></div><br>
+	<div class="para">Innovation Norway is the Norwegian Government's most important instrument for innovation and development of Norwegian enterprises and industry. We support companies in developing their competitive advantage and to enhance innovation.
+Innovation Norway create value by stimulating to profitable business development throughout Norway. Our programmes and services are intended to create more successful entrepreneurs, more enterprises with capacity for growth and more innovative business clusters.
 </div>
 		
 <br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/singhealth.svg"></a><br>
-	<div class="header"><b>Singapore Health Services</b></div><br>
-	<div class="para">We believe that our efforts might be of interest to other institutions and we are certainly very interested in learning from the experiences of other institutions as we find better ways to look after our patients."
+<a href="https://www.ipi-singapore.org/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/singhealth.svg"></a><br>
+	<div class="header"><b>Innovation Partner for Impact (IPI)</b></div><br>
+	<div class="para">Innovation Partner for Impact IPI is an innovation catalyst that creates opportunities for enterprises to grow beyond boundaries. As a subsidiary of Enterprise Singapore, IPI accelerates the innovation process of enterprises through access to its global innovation ecosystem and advisory services.
+
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></a><br>
-	<div class="header"><b>National University Health System</b></div><br>
-	<div class="para">“Similar to many of our other members of our council, we are also struggling with the many issues of the shrinking manpower as well as increasing demand for healthcare services. So I think it is very important for our council members to actually share good 
+<a href="https://www.italchamber.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></a><br>
+	<div class="header"><b>Italian Chamber of Commerce </b></div><br>
+	<div class="para">The Italian Chamber of Commerce in Singapore (ICCS) is a non-profit association recognized by the Italian Government and member of Assocamerestero, apex body of over 81 Italian Chambers abroad. The Chamber aims to strengthen bilateral relations between Italy and Singapore in collaboration with strategic partners from the two countries. ICCS is geared to provide a wide range of business services tailored to the requirements of its members, as well as Italian and Singaporean companies. Thanks to strategic partnerships with Institutions, Chambers of Commerce and Agencies in the ASEAN region, the Chamber is a springboard for business in South-East Asia beyond Singapore.
 </div>
 <br>
 </div>
