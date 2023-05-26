@@ -62,45 +62,45 @@ input:checked + label + .accordion-content {
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
-	<div class="header"><b>AWWA</b></div><br>
-	<div class="para">AWWA is a social service organisation, serving over 10,000 of the disadvantaged across life stages. Services include early intervention for pre-schoolers, education and disability support for children with special needs, assistance to low income families,
+<a href="https://www.alpshealthcare.com.sg/"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
+	<div class="header"><b>ALPS </b></div><br>
+	<div class="para">As a public healthcare supply chain agency, we shall extend our reach, progress with agility, and invest for resiliency. To achieve so, we shall leverage on building good relationships with our stakeholders and suppliers, re-engineer our processes for synergies and foster the development of our people and organisation's values. Our growth drivers are specific focus areas for future growth, thereby creating innovation, delivering execution excellence, leveraging technology for business transformation, generating partnerships, and inspiring our employees through empowerment.
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
-		<div class="header"><b>St Luke's ElderCare <br></b></div><br>
-		<div class="para">St Luke’s ElderCare delivers a full range of integrated services and programmes for their clients through 22 eldercare centres islandwide. They include maintenance day care, day rehabilitation programmes such as physiotherapy and occupational
+<a href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
+		<div class="header"><b>British High Commission Singapore  <br></b></div><br>
+		<div class="para">The British High Commission in Singapore maintains and develops relations between the UK and Singapore. We encourage Singapore to look to the UK as a global partner of choice in trade, investment, science and research, and we help Singapore on low-carbon economic development. Every year, we help about 100 UK companies gain a foothold in Singapore.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
-	<div class="header"><b>Dover Park Hospice</b></div><br>
-	<div class="para">Dover Park Hospice aims to alleviate suffering and maximise quality of life for the terminally-ill and their loved ones through holistic palliative care. Founded in 1992, Dover Park Hospice is Singapore’s first purpose-built hospice, caring for those nearing the end of life’s journey.
+<a href="https://edbi.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
+	<div class="header"><b>EDBI </b></div><br>
+	<div class="para">As a value adding investor with 30 years of investment experience, we support our portfolio companies’ growth in Asia and globally, through Singapore, by leveraging our extensive network, resources and experience.
 </div>
 <br></div></div>
 
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
-	<div class="header"><b>Thye Hua Kwan Moral Society
+<a href="https://finlandabroad.fi/web/sgp/mission/-/asset_publisher/dqNr4C30tdPU/contactInfoOrganization/id/121688"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
+	<div class="header"><b>Embassy of Finland, Singapore 
 </b></div><br>
-	<div class="para">The Thye Hua Kwan Moral Society has three subsidiaries; Ang Mo Kio Thye Hua Kwan Hospital, Thye Hua Kwan Moral Charities and Thye Hua Kwan Nursing Home. Together, they provide services that respond to the needs of the community.
+	<div class="para">The Finnish embassy in Singapore promotes the interests of Finland and Finns abroad in many different ways. We handle general political tasks, export promotion as well official tasks. Our aim is to promote the interests of Finnish business life and the companies’ export and internationalization, as well as the cooperation in the field of research and education. Promoting the visibility and awareness and providing information on Finland as a highly advanced information society is one of our main functions.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
-	<div class="header"><b>Kwong Wai Shiu Hospital
+<a href="https://www.sg.emb-japan.go.jp/itprtop_en/index.html"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
+	<div class="header"><b>Embassy of Japan, Singapore 
 </b></div><br>
-	<div class="para">To cope with Singapore’s changing healthcare needs, Kwong Wai Shiu Hospital went through major redevelopments and has evolved into a community healthcare hub today. Given the historical significance of KWSH’s premises, the Urban Redevelopment Authority has awarded
+	<div class="para">Ever since the establishment of diplomatic ties in 1966, Japan and Singapore have enjoyed a close relationship in a wide range of areas—politically, economically, and culturally. Against this backdrop, many Japanese companies, including around 800 Japanese companies registered to the Japanese Chamber Of Commerce &amp; Industry (JCCI) Singapore, are thriving as regional hubs overseeing the region. It is in our Embassy’s interest to continue to support your dedicated efforts.
 </div>
 <br>
 
