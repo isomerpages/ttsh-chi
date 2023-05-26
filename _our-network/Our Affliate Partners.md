@@ -129,27 +129,122 @@ input:checked + label + .accordion-content {
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
-	<div class="header"><b>Northern Care Alliance (NCA)</b></div><br>
-	<div class="para">NHS Foundation Trust, United Kingdom
-The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringing together two NHS Trusts, Salford Royal NHS Foundation Trust and The Pennine Acute Hospitals NHS Trust. The NCA FT was formally established on 1 October 2021. The NCA has
+<a href="https://netherlandsinnovation.nl/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
+	<div class="header"><b>Netherlands Innovation Network</b></div><br>
+	<div class="para">Netherlands Innovation Network (“Innovatie Attaché Netwerk” in Dutch) is part of the Dutch Ministry of Economic Affairs that operates in multiple countries with a strong innovation capacity and/or potential. This network aims to improve the innovation capabilities of the Netherlands by linking global and Dutch innovation networks.
 </div>
 <br>
 <br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
-	<div class="header"><b>Imperial College Healthcare NHS Trust</b></div><br>
-	<div class="para">"We are an NHS Trust of 10,000 people, providing care for around a million people every year, in our five hospitals and a growing number of community services in north west London. We have a rich heritage and an ambitious vision for the future of our patients and.
+<a href="https://www.jetro.go.jp/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
+	<div class="header"><b>Japan External Trade Organization (JETRO) </b></div><br>
+	<div class="para">JETRO, or the Japan External Trade Organization, is a government-related organization that works to promote mutual trade and investment between Japan and the rest of the world. Originally established in 1958 to promote Japanese exports abroad, JETRO's core focus in the 21st century has shifted toward promoting foreign direct investment into Japan and helping small to medium size Japanese firms maximize their global export potential.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
-	<div class="header"><b>Ribera Salud Group</b></div><br>
-	<div class="para">Spain
-"Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. We developed the “Alzira Model,” a citizen-centered, fully integrated capitated Accountable Care.
+<a href="https://www.sgc.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
+	<div class="header"><b>Singapore-German Chamber of Industry and Commerce </b></div><br>
+	<div class="para">The Singaporean-German Chamber of Industry and Commerce (SGC) is part of a network of 150 offices of the German bilateral Chambers of Industry and Commerce abroad in 93 countries. The Chamber is one of the largest national Business Chambers in Singapore with a membership of more than 600 representatives from a variety of industries from Germany and Singapore.
+</div>
+<br>
+		
+</div></div>
+		<p></p>
+	</div>
+	<input id="title2" type="checkbox"><label for="title2">Industry Partners</label>
+<div class="accordion-content">
+		<p>
+</p><div class="row">
+<div class="col"> 
+<a href="https://sg.alibabacloud.com/en"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
+	<div class="header"><b>Alibaba Cloud </b></div><br>
+	<div class="para">Alibaba Cloud, founded in 2009, is a global leader in cloud computing and artificial intelligence, providing services to thousands of enterprises, developers, and governments organizations in more than 200 countries and regions. Committed to the success of its customers, Alibaba Cloud provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions.
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
+		<div class="header"><b>British High Commission Singapore  <br></b></div><br>
+		<div class="para">The British High Commission in Singapore maintains and develops relations between the UK and Singapore. We encourage Singapore to look to the UK as a global partner of choice in trade, investment, science and research, and we help Singapore on low-carbon economic development. Every year, we help about 100 UK companies gain a foothold in Singapore.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://edbi.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
+	<div class="header"><b>EDBI </b></div><br>
+	<div class="para">As a value adding investor with 30 years of investment experience, we support our portfolio companies’ growth in Asia and globally, through Singapore, by leveraging our extensive network, resources and experience.
+</div>
+<br></div></div>
+
+
+<div class="row">
+<div class="col"> 
+<a href="https://finlandabroad.fi/web/sgp/mission/-/asset_publisher/dqNr4C30tdPU/contactInfoOrganization/id/121688"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
+	<div class="header"><b>Embassy of Finland, Singapore 
+</b></div><br>
+	<div class="para">The Finnish embassy in Singapore promotes the interests of Finland and Finns abroad in many different ways. We handle general political tasks, export promotion as well official tasks. Our aim is to promote the interests of Finnish business life and the companies’ export and internationalization, as well as the cooperation in the field of research and education. Promoting the visibility and awareness and providing information on Finland as a highly advanced information society is one of our main functions.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.sg.emb-japan.go.jp/itprtop_en/index.html"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
+	<div class="header"><b>Embassy of Japan, Singapore 
+</b></div><br>
+	<div class="para">Ever since the establishment of diplomatic ties in 1966, Japan and Singapore have enjoyed a close relationship in a wide range of areas—politically, economically, and culturally. Against this backdrop, many Japanese companies, including around 800 Japanese companies registered to the Japanese Chamber Of Commerce &amp; Industry (JCCI) Singapore, are thriving as regional hubs overseeing the region. It is in our Embassy’s interest to continue to support your dedicated efforts.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.enterprise-ireland.com/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
+	<div class="header"><b>Enterprise Ireland </b></div><br>
+	<div class="para">Enterprise Ireland has a range of funding and advisory supports to help Irish exporters work towards a greener future and deal with the impact of Brexit and Covid-19. These supports are designed to help businesses stabilise financially, adapt to the evolving situation and get back on the road to recovery and growth. 
+</div>
+<br></div></div>
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
+	<div class="header"><b>Government of Canada, Trade Commissioner Service </b></div><br>
+	<div class="para">Now more than ever, the Trade Commissioner Service helps Canadian businesses grow with confidence by connecting them with our funding and support programs, international opportunities, and our network of trade commissioners in over 160 cities worldwide. 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.invest-in-hessen.de/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
+	<div class="header"><b>Hessen Economic Development </b></div><br>
+	<div class="para">As Hessen Trade &amp; Invest GmbH, we represent all Hessen-based economic development organizsations at the state level. We offer you a unique strategic combination of investor consulting, technology and innovation promotion, as well as comprehensive advice on EU funding and collaboration programs.
+</div>
+<br>
+</div>
+	<div class="col"> 
+<a href="https://netherlandsinnovation.nl/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
+	<div class="header"><b>Netherlands Innovation Network</b></div><br>
+	<div class="para">Netherlands Innovation Network (“Innovatie Attaché Netwerk” in Dutch) is part of the Dutch Ministry of Economic Affairs that operates in multiple countries with a strong innovation capacity and/or potential. This network aims to improve the innovation capabilities of the Netherlands by linking global and Dutch innovation networks.
+</div>
+<br>
+<br></div></div>
+<div class="row">
+<div class="col"> 
+<a href="https://www.jetro.go.jp/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
+	<div class="header"><b>Japan External Trade Organization (JETRO) </b></div><br>
+	<div class="para">JETRO, or the Japan External Trade Organization, is a government-related organization that works to promote mutual trade and investment between Japan and the rest of the world. Originally established in 1958 to promote Japanese exports abroad, JETRO's core focus in the 21st century has shifted toward promoting foreign direct investment into Japan and helping small to medium size Japanese firms maximize their global export potential.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.sgc.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
+	<div class="header"><b>Singapore-German Chamber of Industry and Commerce </b></div><br>
+	<div class="para">The Singaporean-German Chamber of Industry and Commerce (SGC) is part of a network of 150 offices of the German bilateral Chambers of Industry and Commerce abroad in 93 countries. The Chamber is one of the largest national Business Chambers in Singapore with a membership of more than 600 representatives from a variety of industries from Germany and Singapore.
 </div>
 <br>
 		
@@ -295,62 +390,7 @@ NTUC Health is an NTUC social enterprise that provides a comprehensive and integ
 	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed Dr Chia Lin Sien to draft a
 </div>
 
-</div></div>
-		<p></p>
-	</div>
-	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
-	<div class="accordion-content">
-		<p>
-</p><div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/lkc%20logo.svg"></a><br>
-	<div class="header"><b>Lee Kong Chian School of Medicine</b></div><br>
-	<div class="para">“We will share our innovative approaches, we will share our teaching of e-health and e-learning and we hope to gain as much from all other partners, from Singapore, from the region and all over the world. And it is through this team-based sharing and learning that 
 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/nanyang%20poly.svg"></a><br>
-		<div class="header"><b>Nanyang Polytechnic <br></b></div><br>
-		<div class="para">“As we sharpen on our understanding on the need and what is trending on the healthcare field, we can continually refine our curriculum for pre-employment training and continuing education and training for practicing professionals. This partnership
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></a><br>
-	<div class="header"><b>Singapore Institute of Technology</b></div><br>
-	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
-</div>
-		</div></div>
-<br>
-		<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
-	<div class="header"><b>Institute for Adult Learning</b></div><br>
-	<div class="para">An Institute of Singapore University of Social Sciences
-"As the national institute spearheading efforts to raise learning innovation practice and adoption, IAL is excited to work alongside CHI to pave the way in applying new innovative methods to promote learning and performance in the healthcare
-
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
-		<div class="header"><b>Healthcare Academy <br></b></div><br>
-		<div class="para">"Formed by the Healthcare Services Employees' Union, NTUC LearningHub, and NTUC's Employment and Employability Institute, the Academy aims to ensure that all healthcare workers get the necessary training and support to cope with changes in
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Academic/oxford3v.svg"></a><br>
-	<div class="header"><b>Oxford Centre for Triple Value Healthcare, United Kingdom</b></div><br>
-	<div class="para">Test Text
-
-<br></div>
 </div></div><p></p>
 	</div>
 	<input id="title4" type="checkbox"><label for="title4">Agencies</label>
