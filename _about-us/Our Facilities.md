@@ -30,7 +30,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 
 </div>
 	<div class="col"> 
-<img alt="Hall" src="/images/office-desk-animation.gif"><br>
+<img alt="Hall" src="/images/Facilities/hallchi.jpg"><br>
 		<div class="header"><b>Hall</b></div><br>
 		<div class="para">The three halls are highly versatile. They can be configured to suit different event needs such as retreats, workshops, training, events etc. The halls can also be opened up into one large space.
 </div>
