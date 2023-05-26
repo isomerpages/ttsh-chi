@@ -232,54 +232,50 @@ By being on the ground, we work closely with our service users, community partne
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/lkc%20logo.svg"></a><br>
+<a href="https://www.ntu.edu.sg/medicine"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/lkc%20logo.svg"></a><br>
 	<div class="header"><b>Lee Kong Chian School of Medicine</b></div><br>
-	<div class="para">“We will share our innovative approaches, we will share our teaching of e-health and e-learning and we hope to gain as much from all other partners, from Singapore, from the region and all over the world. And it is through this team-based sharing and learning that 
+	<div class="para">The Lee Kong Chian School of Medicine (LKCMedicine), a partnership between Nanyang Technological University, Singapore (NTU Singapore) and Imperial College London (Imperial) is training doctors who put patients at the centre of their exemplary care. LKCMedicine aims to be a model for innovative medical education and a centre for transformative research. The School’s primary clinical partner is the National Healthcare Group, a leader in public healthcare recognised for the quality of its medical expertise, facilities and teaching.
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/nanyang%20poly.svg"></a><br>
+<a href="https://www.nyp.edu.sg/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/nanyang%20poly.svg"></a><br>
 		<div class="header"><b>Nanyang Polytechnic <br></b></div><br>
-		<div class="para">“As we sharpen on our understanding on the need and what is trending on the healthcare field, we can continually refine our curriculum for pre-employment training and continuing education and training for practicing professionals. This partnership
+		<div class="para">Nanyang Polytechnic's (NYP) academic schools offer quality education and training through more than 40 full-time diploma courses and common entry programmes. NYP also has a full suite of continuing education and training (CET) options for lifelong learning, ranging from specialist and advanced diplomas, to SkillsFuture modules and courses.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></a><br>
+<a href="https://www.singaporetech.edu.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></a><br>
 	<div class="header"><b>Singapore Institute of Technology</b></div><br>
-	<div class="para">“I think there is advantage of academics and working with practice colleagues alongside with people who are on the ground to really understand those issues. Then explore innovative ways to make the processes better… this partnership where we have a
+	<div class="para">The Singapore Institute of Technology is Singapore’s first University of Applied Learning, offering specialised degree programmes that prepare its graduates to be work-ready professionals. With a mission to develop individuals and innovate with industry to impact the economy and society in meaningful ways, SIT aims to also be a leader in innovative workplace learning and applied research.
 </div>
 		</div></div>
 <br>
 		<div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
+<a href="https://www.ial.edu.sg/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
 	<div class="header"><b>Institute for Adult Learning</b></div><br>
-	<div class="para">An Institute of Singapore University of Social Sciences
-"As the national institute spearheading efforts to raise learning innovation practice and adoption, IAL is excited to work alongside CHI to pave the way in applying new innovative methods to promote learning and performance in the healthcare
+	<div class="para">The Institute for Adult Learning (IAL) is an autonomous institute of SUSS. As the National Centre of Excellence for Adult Learning, IAL seeks to raise the quality of Training and Adult Education (TAE) in Singapore through continuous education, and in collaboration with Institutes for Higher Learning and training providers.
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
+<a href="https://www.ntuclearninghub.com/healthcare-academy"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
 		<div class="header"><b>Healthcare Academy <br></b></div><br>
-		<div class="para">"Formed by the Healthcare Services Employees' Union, NTUC LearningHub, and NTUC's Employment and Employability Institute, the Academy aims to ensure that all healthcare workers get the necessary training and support to cope with changes in
+		<div class="para">Healthcare Academy is a collaboration among Healthcare Services Employees' Union (HSEU), Employment and Employability Institute (e2i) and NTUC LearningHub (LHUB). Healthcare Academy endeavours to: Support continuous learning for healthcare workers, especially those affected by industry restructuring, job re-design and technological disruptions. Provide employment opportunities for displaced workers from other sectors to work in the healthcare sector through robust job matching process. Equip healthcare workers with relevant adaptive skills, technology skills and technical skills, to be future ready for business transformation
 </div>
 <br>
 
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Academic/oxford3v.svg"></a><br>
-	<div class="header"><b>Oxford Centre for Triple Value Healthcare, United Kingdom</b></div><br>
-	<div class="para">Test Text
 
-<br></div>
+
+
+<br>
 </div></div><p></p>
 	</div>
 	<input id="title4" type="checkbox"><label for="title4">Agencies</label>
@@ -287,51 +283,51 @@ By being on the ground, we work closely with our service users, community partne
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
+<a href="https://www.sthealthcare.com.sg/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
 	<div class="header"><b>ST Healthcare</b></div><br>
-	<div class="para">ST Healthcare
+	<div class="para">ST Healthcare (STHC), a subsidiary of ST Logistics, envisions to bring value to healthcare institutions by improving healthcare supply chain processes and to be an enabler to healthier living. We strive to transform Singapore’s current multi-layered healthcare supply chain into seamless, “from factory floor to bedside” end-to-end integrated system. 
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
+<a href="https://designsingapore.org/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
 		<div class="header"><b>Design Singapore Council <br></b></div><br>
-		<div class="para">“The Design Singapore Council has through many years developed its capabilities in design thinking for design innovation. And this is very important, because the thing is that, what we hope to bring into the CHI network is the whole notion of empathy and 
+		<div class="para">As Singapore's national agency for design, we champion the use of design to grow business, spur innovation, and improve lives. We are passionate about unleashing the power of design to drive growth and economic success, bring people together and improve lives.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
+<a href="https://www.wsg.gov.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
 	<div class="header"><b>Workforce Singapore</b></div><br>
-	<div class="para">“At the end of the day, what we really want to achieve is for the workers to have better jobs and for the industry to have ample supply of better trained workers and so this will be a continuing priority of WSG and we are all in for this co-learning network and
+	<div class="para">Workforce Singapore (WSG) is a statutory board under the Ministry of Manpower that oversees the transformation of the local workforce and industry to meet ongoing economic challenges. WSG promotes the development, competitiveness, inclusiveness, and employability of all levels of the workforce to ensure all sectors of the economy are supported by a strong, inclusive Singaporean core.
 </div>
 <br></div></div>
 
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></a><br>
+<a href="https://www.ihis.com.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></a><br>
 	<div class="header"><b>Integrated Health Information Systems</b></div><br>
-	<div class="para">“iHIS being the system integrator and also the connector of dots for technology matters in public healthcare can help add a lot of value in terms of being able to bring the real experience of what goes on in public healthcare to CHI.”
+	<div class="para">IHiS is a leading healthcare technology firm that integrates resilient, intelligent, secure, and cost-effective technology with people and processes to make healthcare more efficient, more inclusive, more accessible, and safer for patients. IHiS supports more than 70,000 healthcare users in Singapore's public healthcare sector to bring about healthcare transformation through the use of technology.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
+<a href="https://www.a-star.edu.sg/sb/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
 	<div class="header"><b>Singapore Biodesign</b></div><br>
-	<div class="para">“We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”
+	<div class="para">Modelled after the established Biodesign Programme at Stanford University, Singapore Biodesign is the first Asian Global Affiliate of the renowned Stanford for Byers Center for Biodesign Programme and is recognised as a national-level talent development platform for healthtech innovation training in Singapore with the aim to train and nurture the next generation of healthtech innovators for Asia.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></a><br>
+<a href="https://www.enterprisesg.gov.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></a><br>
 	<div class="header"><b>Enterprise Singapore</b></div><br>
-	<div class="para">“To grow healthcare and biomedical local enterprises, Enterprise Singapore partners key stakeholders like the Centre for Healthcare Innovation to encourage more clinician-driven innovations to be applied locally and scaled globally.”
+	<div class="para">We champion enterprise development and work with committed companies to build capabilities, innovate and go global. We also support the growth of Singapore as a hub for global trading and startups. As the national standards and accreditation body, we continue to build trust in Singapore’s products and services through quality and standards. 
 </div>
 </div></div><p></p>
 	</div>
@@ -340,9 +336,9 @@ By being on the ground, we work closely with our service users, community partne
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
+<a href="https://www.jnj.com/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
 	<div class="header"><b>Johnson &amp; Johnson</b></div><br>
-	<div class="para">"We aim to keep people well at every age and every stage of life. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere."
+	<div class="para">Today, as the world’s largest and most broadly based healthcare company, we are committed to using our reach and size for good. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere. 
 
 </div>
 <br>
