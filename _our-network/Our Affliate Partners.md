@@ -168,9 +168,9 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
-		<div class="header"><b>British High Commission Singapore  <br></b></div><br>
-		<div class="para">The British High Commission in Singapore maintains and develops relations between the UK and Singapore. We encourage Singapore to look to the UK as a global partner of choice in trade, investment, science and research, and we help Singapore on low-carbon economic development. Every year, we help about 100 UK companies gain a foothold in Singapore.
+<a href="https://asme.org.sg/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
+		<div class="header"><b>Association of Small &amp; Medium Enterprises (ASME)   <br></b></div><br>
+		<div class="para">The Association of Small &amp; Medium Enterprises (ASME) is a not-for-profit organisation established in 1986 for entrepreneurs, by entrepreneurs. With wide-ranging services and programmes, ASME strives to equip member SMEs with the business knowledge and market opportunities to help them grow their businesses.
 </div>
 <br>
 
