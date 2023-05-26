@@ -346,49 +346,41 @@ Innovation Norway create value by stimulating to profitable business development
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
-	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+<a href="https://www.tembusutech.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>Singapore Tembusutech Innovation (STI)</b></div><br>
+	<div class="para">
 </div>
 <br>
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
-	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">(NTUC Health)
-NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+<a href="https://tla.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>Temasek Life Sciences Accelerator </b></div><br>
+	<div class="para">Temasek Life Sciences Accelerator (TLA), a joint venture between Temasek Life Sciences Laboratory (TLL) and Vertex Holdings (VH), is Singapore’s first agri-bio-sci-tech incubator that aims to incubate, nurture and grow disruptive life science innovations into early stage companies, with the vision of becoming tomorrow’s champion.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
-	<div class="header"><b>Tsao Foundation</b></div><br>
-	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+<a href="https://www.ventureblick.com"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+	<div class="header"><b>Venture Blick </b></div><br>
+	<div class="para">We help healthcare startups get funding, market insights, and customer validation through our platform and professional community. 
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
-	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+<a href="https://www.vertexventures.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>Vertex Ventures </b></div><br>
+	<div class="para">We serve as trusted partners to some of the world’s most innovative entrepreneurs, supporting them with unmatched operating experience and deep access to the capital, talent, partners and customers they need to build truly global businesses.
 </div>
 <br>
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"> </a> <br>
-	<div class="header"><b>Care Corner Singapore</b></div><br>
-	<div class="para">Care Corner Singapore Ltd was founded in 1981, in a climate of changes in the early 1980s, as economic competition in the region intensified and the rift between the wealthy and the lower-income in particular the Chinese blue-collar workers, widened. Through a series of earl
-</div>
+<a href="http://wavemaker.vc/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"> </a> <br>
+	<div class="header"><b>Wavemaker Group </b></div><br>
+	<div class="para">Wavemaker Group is a multi-faceted cross border venture capital firm founded in 2003. The firm is dual headquartered in Los Angeles and Singapore and has raised over $600M across multiple funds. We currently have a team of more than 80 people across our various practices.. Wavemaker is one of the most active early-stage investors in Southern California and Southeast Asia and has invested in over 400 companies in the last 18 years.
 <br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
-	<div class="header"><b>Methodist Welfare Services</b></div><br>
-	<div class="para">The seed for the formation of Methodist Welfare Services (MWS) was sown by Mr Peter Joe Chia in June 1976. It took root in 1977 when the board of social concerns of the Trinity Annual Conference, under the leadership of Mr Lee Liat Cheng, appointed Dr Chia Lin Sien to draft a
 </div>
 
 
