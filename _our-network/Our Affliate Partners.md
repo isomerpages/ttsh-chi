@@ -176,36 +176,36 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://edbi.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
-	<div class="header"><b>EDBI </b></div><br>
-	<div class="para">As a value adding investor with 30 years of investment experience, we support our portfolio companies’ growth in Asia and globally, through Singapore, by leveraging our extensive network, resources and experience.
+<a href="https://apacmed.org/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
+	<div class="header"><b>Asia Pacific Medical Technology Association (APACMed) </b></div><br>
+	<div class="para">The Asia Pacific Medical Technology Association (APACMed) represents manufacturers and suppliers of medical equipment, devices and in-vitro diagnostics, industry associations and other key stakeholders associated with the medical technology industry in Asia Pacific. As a trade association, our mission is to improve the standards of care for patients through innovative collaborations among stakeholders to jointly shape the future of healthcare in Asia Pacific.
 </div>
 <br></div></div>
 
 
 <div class="row">
 <div class="col"> 
-<a href="https://finlandabroad.fi/web/sgp/mission/-/asset_publisher/dqNr4C30tdPU/contactInfoOrganization/id/121688"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
-	<div class="header"><b>Embassy of Finland, Singapore 
+<a href="https://aws.amazon.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
+	<div class="header"><b>AWS
 </b></div><br>
-	<div class="para">The Finnish embassy in Singapore promotes the interests of Finland and Finns abroad in many different ways. We handle general political tasks, export promotion as well official tasks. Our aim is to promote the interests of Finnish business life and the companies’ export and internationalization, as well as the cooperation in the field of research and education. Promoting the visibility and awareness and providing information on Finland as a highly advanced information society is one of our main functions.
+	<div class="para">Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.sg.emb-japan.go.jp/itprtop_en/index.html"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
-	<div class="header"><b>Embassy of Japan, Singapore 
+<a href="https://aws.amazon.com/activate/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
+	<div class="header"><b>AWS Activate
 </b></div><br>
-	<div class="para">Ever since the establishment of diplomatic ties in 1966, Japan and Singapore have enjoyed a close relationship in a wide range of areas—politically, economically, and culturally. Against this backdrop, many Japanese companies, including around 800 Japanese companies registered to the Japanese Chamber Of Commerce &amp; Industry (JCCI) Singapore, are thriving as regional hubs overseeing the region. It is in our Embassy’s interest to continue to support your dedicated efforts.
+	<div class="para">Got a great idea? Build it with AWS Activate. As an AWS Activate member, you get free tools, resources, content and expert support to accelerate your startup at every stage. Benefits include: more than 40 solution templates to build and deploy your product, AWS expert curated tips for your business and technical needs, and best practices training from Learn on AWS. When you’re ready, you can apply for up to $100,000 in AWS Activate credits. AWS Activate is your solution to a scalable, reliable, and cost-optimized startup.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.enterprise-ireland.com/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
-	<div class="header"><b>Enterprise Ireland </b></div><br>
-	<div class="para">Enterprise Ireland has a range of funding and advisory supports to help Irish exporters work towards a greener future and deal with the impact of Brexit and Covid-19. These supports are designed to help businesses stabilise financially, adapt to the evolving situation and get back on the road to recovery and growth. 
+<a href="https://www.co11ab.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
+	<div class="header"><b>Co11ab Novena  </b></div><br>
+	<div class="para">To facilitate the clinical adoption of new technologies that will create value for patients, Nanyang Technological University, Singapore (NTU Singapore), Agency for Science, Technology and Research (A*STAR), and National Healthcare Group (NHG) aunched co11ab Novena (co11ab), an incubator to support biomedical technology (BioMedtech) start-ups make the leap from research and development into commercialisation of their innovations. co11ab is the first such outfit to be embedded in Health City Novena, an integrated community of healthcare, medical education, and translational research. 
 </div>
 <br></div></div>
 
