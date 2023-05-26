@@ -57,7 +57,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="our-main-plans">CHI Affliate Page</h2>
 <div>
-		<input id="title1" type="checkbox"><label for="title1">Health Systems &amp; Providers</label>
+		<input id="title1" type="checkbox"><label for="title1">Agencies</label>
 <div class="accordion-content">
 		<p>
 </p><div class="row">
@@ -186,6 +186,78 @@ The Northern Care Alliance is an NHS Foundation Trust (NCA FT) created by bringi
 </div>
 <br>
 <br></div></div>
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
+	<div class="para">(NTUC Health)
+NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+	<div class="header"><b>Tsao Foundation</b></div><br>
+	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+</div>
+<br>
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
+	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+</div>
+<br>
+<br></div></div>	
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
+	<div class="para">(NTUC Health)
+NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+	<div class="header"><b>Tsao Foundation</b></div><br>
+	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+</div>
+<br>
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
+	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+</div>
+<br>
+<br></div></div>	
+<div class="row">
+<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
+	<div class="para">(NTUC Health)
+NTUC Health is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and eldercare services to meet the growing needs of families and their dependents. Building on more than four decades of
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
+	<div class="header"><b>Tsao Foundation</b></div><br>
+	<div class="para">Tsao Foundation aims to “disrupt aging” and seek “mindset and systemic change by implementing innovation in community-based eldercare, training and education, policy relevant research, collaboration and advocacy.
+</div>
+<br>
+</div>
+	<div class="col"> 
+<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
+	<div class="para">Ren Ci is a charity healthcare institution with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community, living to its name of “compassion” and “benevolence”. Over the years, Ren Ci’s spectrum of services have
+</div>
+<br>
+<br></div></div>	
 <div class="row">
 <div class="col"> 
 <a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
