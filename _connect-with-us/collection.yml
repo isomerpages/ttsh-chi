@@ -1,5 +1,0 @@
-collections:
-  connect-with-us:
-    output: true
-    order:
-      - Test Page with Location.md
