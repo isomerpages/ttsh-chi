@@ -42,7 +42,7 @@ description: ""
 	<div class="header">"CHILD  has already collected over 1,000 healthcare innovation projects and solutions from across Singapore!
 
 Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it
- </div><br>
+		</div></div><br>
 
 
 
@@ -85,4 +85,4 @@ If you have any queries, please contact the CHILD team at child@chi.sg (cc: chil
 
 
 
-</div></div></div>
+</div></div>
