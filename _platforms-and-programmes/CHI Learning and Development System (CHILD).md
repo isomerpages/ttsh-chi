@@ -28,6 +28,8 @@ description: ""
 
 <br></div></div>
 
+<div style="text-align: left;"><img alt="My Image" width="100" src="/images/CHI%20Logo.png"></div>
+
 CHILD  has already collected over 1,000 healthcare innovation projects and solutions from across Singapore!
 
 Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it
