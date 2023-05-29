@@ -4,37 +4,29 @@ permalink: /about-us/Our-Funding/NTFHIP/
 description: ""
 third_nav_title: Our Funding
 ---
-The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up with a generous gift from the family of the late Mr Ng Teng Fong to Tan Tock Seng Hospital (TTSH), and aims to drive innovation in healthcare to benefit and enhance the health of our patients and the population we serve. NTF HIP serves as a financial lever of innovation, and help funds the innovation work and programmes facilitated by CHI.
+<h2>About the Ng Teng Fong Healthcare Innovation Programme</h2>
+The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up with a generous gift from the family of the late Mr Ng Teng Fong to Tan Tock Seng Hospital (TTSH) and aims to drive innovation in healthcare to benefit and enhance the health of our patients and the population we serve. 
 
-The programme takes a broad perspective and multi-level approach to drive innovation. It supports proposals relating to:
+NTF HIP serves as a financial lever of innovation, and help funds the innovation work and programmes facilitated by CHI. It supports proposals relating to:<br>
+•	Building leadership in healthcare innovation<br>
+•	Workforce transformation, through:<br>
+o	Care redesign (clinical / operational processes and models)<br>
+o	Use of automation / IT / robotics / products / devices<br>
+o	Job redesign<br>
+•	Use of different pedagogies for training and transforming our workforce.<br>
 
-1.   Building leadership in healthcare innovation
-2.   Workforce transformation, through:
-- Care redesign (clinical / operational processes and models)
-- Use of automation / IT / robotics / products / devices
-Job redesign
-3. Use of different pedagogies for training and transforming our workforce
-
-
-* * *
-
-##### NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.
-![](/images/Funding%20Tracks.png)
+NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.
 
 
----
 
----
-The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up with a generous gift from the family of the late Mr Ng Teng Fong to Tan Tock Seng Hospital (TTSH), and aims to drive innovation in healthcare to benefit and enhance the health of our patients and the population we serve. NTF HIP serves as a financial lever of innovation, and help funds the innovation work and programmes facilitated by CHI.
+| <b>Strategic Training  | Innovation | Community Enabling | Strategic Innovation | Strategic Research</b> |
+| -------- | -------- | -------- |  -------- |  -------- |
+| Supports training of workforce with relevant skills to become institutional / system thought leaders in innovation or ground champions to drive innovation    | Supports projects in job and care redesign, automation or clinical research projects, that are geared towards improving productivity, or transforming roles to effect new care processes / models.     | Supports projects that impact and enable the community, including training of patients, volunteers, members of community partner institutions.     | Supports programmes targeted at system level innovation, to drive value through healthcare innovation.     | Supports thematic programmes that drive value through translational research.     |
 
-The programme takes a broad perspective and multi-level approach to drive innovation. It supports proposals relating to:
 
-1. Building leadership in healthcare innovation
-1. Workforce transformation, through:
-* Care redesign (clinical / operational processes and models)
-* Use of automation / IT / robotics / products / devices
-* Job redesign
-3. Use of different pedagogies for training and transforming our workforce
+
+Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br>
+NTFHIP is managed and administered by the <b><u>Grants &amp; Innovation Office . </u></b>
 
 <style>
 
@@ -84,68 +76,16 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-
-<h4 id="our-main-plans">NTF HIP Provides funding through five tracks which support the strategic thrusts of CHI:
-</h4>
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Strategic Training</label>
+	<input id="title1" type="checkbox"><label for="title1">Eligibility</label>
 	<div class="accordion-content">
-	<div class="para">Supports training of workforce with relevant skills to become institutional / system thought leaders in innovation or ground champions to drive innovation.
+	<div class="para">All TTSH staff may apply to NTF HIP. Funding will also be applicable to non-staff (e.g. research collaborator, community partners, patients, caregivers, volunteers, students) if the fund recipient is part of a larger umbrella TTSH programme where a TTSH staff is the Project Owner / Principal Investigator.
 </div>
 	</div>
-	<input id="title2" type="checkbox"><label for="title2">Innovation</label>
+	<input id="title2" type="checkbox"><label for="title2">Contact Us</label>
 	<div class="accordion-content">
-	<div class="para">Supports projects in job and care redesign, automation or clinical research projects, that are geared towards improving productivity, or transforming roles to effect new care processes / models.
+	<div class="para">For more information, drop an email to the NTF HIP Secretariat at NTF_HI_Prog@ttsh.com.sg. 
 </div>
 	</div>
-	<input id="title3" type="checkbox"><label for="title3">Community Enabling</label>
-	<div class="accordion-content">
-	<div class="para">Supports projects that impact and enable the community, including training of patients, volunteers, members of community partner institutions.
-</div>
-	</div>
-	<input id="title4" type="checkbox"><label for="title4">Strategic Innovation</label>
-	<div class="accordion-content">
-	<div class="para">Supports programmes targetted at system level innovation, to drive value through healthcare innovation.
-</div>
-	</div>
-	<input id="title5" type="checkbox"><label for="title5">Strategic Research</label>
-	<div class="accordion-content">
-	<div class="para">Supports thematic programmes that drive value through translational research.
-</div>
 
-
-
-</div></div></div>
-<br>
-<h4> Eligibility</h4>
-<table style="font-size:130%; background-color:#f2f2f2">
-<tbody>
-	<tr><td>All TTSH staff may apply to NTF HIP. 
-Funding will also be applicable to non-staff (e.g. research collaborator, community partners, patients, caregivers, volunteers, students) if the fund recipient is part of a larger umbrella TTSH programme where a TTSH staff is the Project Owner / Principal Investigator.</td>
-</tr>
-</tbody>
-</table>
-	
-
-
-#### Application ####
-<table style="font-size:130%; background-color:#f2f2f2">
-<tbody>
-	<tr><td>For more information on NTF HIP funding opportunities and grant application process, please contact us at NTF_HI_Prog@ttsh.com.sg .</td></tr>
-</tbody>
-</table>
-
-<b>Centre for Healthcare Innovation</b>
-<table style="font-size:120%">
-<tbody>
-<tr>
- <td><b>Address:</b></td><td>18 Jln Tan Tock Seng, Singapore 308443</td>
-</tr>
-<tr>
- <td><b>Operating Hours:</b> </td><td>10:00AM - 6:00PM (Closed on Public Holidays)</td>
-</tr>
-<tr>
-	<td> <b>Phone:</b> </td><td>6123 6123</td>
-</tr>
-</tbody>
-</table>
+</div></div>
