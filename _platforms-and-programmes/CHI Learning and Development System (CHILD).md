@@ -64,8 +64,8 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the CHI Learning &amp; Development (CHILD) System serves as an open repository for healthcare innovation, improvement and productivity project write-ups, best practices and learning experiences.	
 
 
-	<h2>Queries</h2>
-	<div>
+<h2>Queries</h2>
+<div>
 If you have any queries, please contact the CHILD team at child@chi.sg (cc: child@ttsh.com.sg) 
 
 
