@@ -206,23 +206,32 @@ Ribera Salud, a leading Spanish integrated healthcare provider, supports governm
 	<div class="para">Founded on the principles to serve all regardless of race, religion and background as a charity healthcare institution in 1994, Ren Ci serves needy beneficiaries with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community. We have stood by time and challenges to grow. Our suite of care services continues to play an active role in the growing prevalence of the silver population in Singapore through supporting the healthcare needs of the senior community.
 </div>
 <br>
-<br></div></div>	
+<br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"> </a> <br>
-	<div class="header"><b>Care Corner Singapore</b></div><br>
+<a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></a><br>
+	<div class="header"><b>Care Corner Singapore </b></div><br>
 	<div class="para">Care Corner serves as the bridge between the community and government to provide a continuum of integrated care for individuals as they transition through different life stages.
 By being on the ground, we work closely with our service users, community partners and the private sector to deliver timely care and support. Together, we enable people in need to rise above their circumstances. We are woven into the fabric of community.
-
 </div>
 <br>
 
 </div>
 	<div class="col"> 
 <a href="https://mws.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
-	<div class="header"><b>Methodist Welfare Services</b></div><br>
+	<div class="header"><b>Methodist Welfare Services </b></div><br>
 	<div class="para">Methodist Welfare Services (MWS) is all about empowering people to have life to the full.  While MWS’ sphere of impact has expanded since our founding, our core spirit of social holiness remains unwavering. Today, we serve over 9,000 children from disadvantaged backgrounds, youths at risk, families in distress, seniors who are socially isolated. and the chronically ill and destitute.
 </div>
+<br>
+<br>
+
+</div>
+	<div class="col"> 
+	<div class="header"><b></b></div><br>
+	<div class="para">
+</div>
+<br>
+		
 
 </div></div>
 		<p></p>
@@ -253,24 +262,32 @@ By being on the ground, we work closely with our service users, community partne
 	<div class="header"><b>Singapore Institute of Technology</b></div><br>
 	<div class="para">The Singapore Institute of Technology is Singapore’s first University of Applied Learning, offering specialised degree programmes that prepare its graduates to be work-ready professionals. With a mission to develop individuals and innovate with industry to impact the economy and society in meaningful ways, SIT aims to also be a leader in innovative workplace learning and applied research.
 </div>
-		</div></div>
 <br>
-		<div class="row">
+<br></div></div>
+<div class="row">
 <div class="col"> 
-<a href="https://www.ial.edu.sg/"><img alt="AIC" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
-	<div class="header"><b>Institute for Adult Learning</b></div><br>
+<a href="https://www.ial.edu.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></a><br>
+	<div class="header"><b>Institute for Adult Learning </b></div><br>
 	<div class="para">The Institute for Adult Learning (IAL) is an autonomous institute of SUSS. As the National Centre of Excellence for Adult Learning, IAL seeks to raise the quality of Training and Adult Education (TAE) in Singapore through continuous education, and in collaboration with Institutes for Higher Learning and training providers.
-
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.ntuclearninghub.com/healthcare-academy"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
-		<div class="header"><b>Healthcare Academy <br></b></div><br>
-		<div class="para">Healthcare Academy is a collaboration among Healthcare Services Employees' Union (HSEU), Employment and Employability Institute (e2i) and NTUC LearningHub (LHUB). Healthcare Academy endeavours to: Support continuous learning for healthcare workers, especially those affected by industry restructuring, job re-design and technological disruptions. Provide employment opportunities for displaced workers from other sectors to work in the healthcare sector through robust job matching process. Equip healthcare workers with relevant adaptive skills, technology skills and technical skills, to be future ready for business transformation
+<a href="https://www.ntuclearninghub.com/healthcare-academy"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
+	<div class="header"><b>Healthcare Academy </b></div><br>
+	<div class="para">Healthcare Academy is a collaboration among Healthcare Services Employees' Union (HSEU), Employment and Employability Institute (e2i) and NTUC LearningHub (LHUB). Healthcare Academy endeavours to: Support continuous learning for healthcare workers, especially those affected by industry restructuring, job re-design and technological disruptions. Provide employment opportunities for displaced workers from other sectors to work in the healthcare sector through robust job matching process. Equip healthcare workers with relevant adaptive skills, technology skills and technical skills, to be future ready for business transformation
 </div>
 <br>
+<br>
+
+</div>
+	<div class="col"> 
+	<div class="header"><b></b></div><br>
+	<div class="para">
+</div>
+<br>
+		
 
 
 
