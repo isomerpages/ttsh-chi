@@ -3,54 +3,58 @@ title: CHI Fellowship in Healthcare Innovation and Leadership
 permalink: /our-programmes/chi-fellowship/
 description: ""
 ---
-#  CHI Fellowship in Healthcare Innovation and Leadership
+##  CHI Fellowship in Healthcare Innovation and Leadership
 
-The idea of the CHI Fellowship is to groom middle managers into health systems leaders, who are effective in leading change and transforming care with the health ecosystem. CHI Fellowship is a SG-UK collaboration with CHI partners, including Northern Care Alliance, Oxford Centre for Triple Value Healthcare, etc. Designed around the three stages of the CHI Innovation Cycle, the programme is practice-based and anchored on the participant’s project, while combining professional development, coaching and mentoring, peer and experiential learning, fostering international and local network, innovation projects and immersions into other innovation healthcare systems in Singapore and beyond.
+Driving clinical innovation &amp; digital transformation will require collective leadership, and a deep and broad understanding of our healthcare systems. This Fellowship equips participants with the necessary mindsets, skillsets and toolsets to enable this transformation.
+
+## Programme Focus 
+The curriculum and ethos are aligned with population health and community-based care. The 16-week Fellowship program is designed as both practice and project-based, and combines professional development, personalised mentorship, peer and experiential co-learning and immersions into innovative healthcare systems in Singapore and internationally. 
+Participants will engage with thought leaders and work with experienced practitioners and their peers to develop their projects. Above all, this Fellowship provides an opportunity for them to establish a network with fellow collaborators in the industry.
 
 
-**Texty** Text. 
 
-**Texty** Text. 
+| Learn (Week 1-4) <br> Introduction to various tools and methodologies  | Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions  | Share (Week 7-16) ​<br>Exchange knowledge and build upon ideas  |
+| -------- | -------- | -------- |
+| Care &amp; Process Redesign​<br>•	Lean in Practice<br> •	Improvement Science<br><br>Collective Leadership<br>•	Know Thy Self   | Automation, IT, Robotic Innovation <br> •	Introduction to Automation &amp; IT <br>•	Management of Digital Innovation<br><br>Job Redesign<br>•	Translating Design into Implementation<br>•	Job Instructions / Relations / Method | Project Development<br>•	Mentoring by Project Mentor  <br><br>Peer Review <br> Panel Critique   |
 
 
-Successful participants who complete the programme will be invited to become CHI Fellows.
-
-**Practice-based Programme**
-
-The value proposition of the programme is as follows:
-
-*   Practice-based design that is guided by the Innovation Cycle, a proven and tested framework that delivers value and outcomes at scale and in sustainable manner
-*   Cross learning with industry practitioners, emerging leaders and peers
-*   Peer and experiential learning
-*   Immersion to other local and global innovation healthcare systems
-*   Assigned project mentors/coaches
-*   Engage with Faculty of Subject Matter Experts (SMEs)
-*   Applied Learning
 
 ### Testimonials from past graduates
 
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="1st person" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
-		<div class="header"><b>1st person </b></div><br>
-		<div class="para">1st person testimonial
+<img alt="1st person" src="/images/Testimonials%20Pictures/mohd%20khalid.png"><br>
+		<div class="header"><b>Mohd Khalid Bin Mohd Anuar<br>
+Head, Foot Care &amp; Limb Design Centre<br>
+FY21 CHI Fellowship Graduate
+ </b></div><br>
+		<div class="para">"The Fellowship journey made me see some of my blind spots. It changed my perspective of how I now approached my daily work. I have been entrenched for many years in the old 'tried and tested' ways which has brought me a good amount of sustained success.”
+
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img alt="2nd person" src="/images/initiatives/Codex-snp.jpeg"></a><br>
-	<div class="header"><b>2nd person </b></div><br>
-	<div class="para">1st person testimonial
+<img alt="2nd person" src="/images/Testimonials%20Pictures/dr%20seet%20xian%20ying.png"><br>
+	<div class="header"><b>Dr Seet Xian Ying
+<br>Consultant, Psychiatry
+<br>FY22 CHI Fellowship Graduate
+ </b></div><br>
+	<div class="para">“Appreciated the attentive mentoring provided especially during the presentations and the ability to learn from each other. Inspired by the site visits (local and Bangkok) which really helped to open our minds.” 
+
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img alt="3 person" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
-	<div class="header"><b>3rd person</b></div><br>
-	<div class="para">1st person testimonial
+<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/Testimonials%20Pictures/dr%20li%20zhenghao%20kelvin.png"></a><br>
+	<div class="header"><b>Dr Li Zhenghao, Kelvin 
+<br>Associate Consultant, Ophthalmology
+<br>FY22 CHI Fellowship Graduate
+</b></div><br>
+	<div class="para">“I liked the project clinics and the mentorship sessions as this is an area that a lot of us are still very new in; receiving periodic feedback has helped me to know my areas for improvement.”
+
 </div>
 <br></div></div>
 
