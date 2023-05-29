@@ -28,7 +28,7 @@ description: ""
 
 <br></div></div>
 
-<div style="text-align: left;"><img alt="My Image" width="100" src="/images/CHI%20Logo.png"></div>
+
 
 CHILD  has already collected over 1,000 healthcare innovation projects and solutions from across Singapore!
 
@@ -60,11 +60,11 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 	<div class="header"><b>Connect with other like-minded innovators to create a bigger impact!
 </b></div><br>
 
-</div></div>
+</div></div><div>
 	<h2>About Child</h2>
 	<div><h4>LEARN – SHARE - CONNECT</h4></div>
 Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the CHI Learning &amp; Development (CHILD) System serves as an open repository for healthcare innovation, improvement and productivity project write-ups, best practices and learning experiences.	
-
+</div>
 
 <h2>Queries</h2>
 <div>
