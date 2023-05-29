@@ -336,7 +336,7 @@ By being on the ground, we work closely with our service users, community partne
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.jnj.com/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
+<a href="https://www.jnj.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
 	<div class="header"><b>Johnson &amp; Johnson</b></div><br>
 	<div class="para">Today, as the world’s largest and most broadly based healthcare company, we are committed to using our reach and size for good. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere. 
 
@@ -345,7 +345,7 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://sg.nec.com/"><img alt="CHI Living Lab" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></a><br>
+<a href="https://sg.nec.com/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></a><br>
 		<div class="header"><b>NEC Asia Pacific <br></b></div><br>
 		<div class="para">As a leading information and communications technology provider, NEC APAC provides innovative solutions and infrastructure to promote safety, security and enhance the quality of life for individuals and the community
 </div>
