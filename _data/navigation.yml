@@ -12,6 +12,8 @@ sub-links:
     collection: our-funding
   - title: Our Offices
     collection: our-offices
+  - title: Our Facilities
+    collection: our-facilities
   - title: Mailing List
     url: https://for.sg/chi-mailinglist
   - title: Our Network
