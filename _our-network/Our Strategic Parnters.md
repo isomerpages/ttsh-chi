@@ -283,7 +283,7 @@ By being on the ground, we work closely with our service users, community partne
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.sthealthcare.com.sg/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
+<a href="https://www.sthealthcare.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
 	<div class="header"><b>ST Healthcare</b></div><br>
 	<div class="para">ST Healthcare (STHC), a subsidiary of ST Logistics, envisions to bring value to healthcare institutions by improving healthcare supply chain processes and to be an enabler to healthier living. We strive to transform Singapore’s current multi-layered healthcare supply chain into seamless, “from factory floor to bedside” end-to-end integrated system. 
 
@@ -292,7 +292,7 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://designsingapore.org/"><img alt="CHI Living Lab" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
+<a href="https://designsingapore.org/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
 		<div class="header"><b>Design Singapore Council <br></b></div><br>
 		<div class="para">As Singapore's national agency for design, we champion the use of design to grow business, spur innovation, and improve lives. We are passionate about unleashing the power of design to drive growth and economic success, bring people together and improve lives.
 </div>
@@ -300,7 +300,7 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.wsg.gov.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
+<a href="https://www.wsg.gov.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
 	<div class="header"><b>Workforce Singapore</b></div><br>
 	<div class="para">Workforce Singapore (WSG) is a statutory board under the Ministry of Manpower that oversees the transformation of the local workforce and industry to meet ongoing economic challenges. WSG promotes the development, competitiveness, inclusiveness, and employability of all levels of the workforce to ensure all sectors of the economy are supported by a strong, inclusive Singaporean core.
 </div>
@@ -317,7 +317,7 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.a-star.edu.sg/sb/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
+<a href="https://www.a-star.edu.sg/sb/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
 	<div class="header"><b>Singapore Biodesign</b></div><br>
 	<div class="para">Modelled after the established Biodesign Programme at Stanford University, Singapore Biodesign is the first Asian Global Affiliate of the renowned Stanford for Byers Center for Biodesign Programme and is recognised as a national-level talent development platform for healthtech innovation training in Singapore with the aim to train and nurture the next generation of healthtech innovators for Asia.
 </div>
@@ -353,7 +353,7 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.philips.com.sg/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
+<a href="https://www.philips.com.sg/"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
 	<div class="header"><b>Philips Electronics Singapore
 </b></div><br>
 	<div class="para">At Philips, our innovations are driven by consumer and customer needs. Helping people to live healthily and prevent disease. Giving clinicians the tools they need to make a precision diagnosis and deliver personalized treatment. Aiding the patient's recovery at home in the community. All supported by a seamless flow of data. 
@@ -364,7 +364,7 @@ By being on the ground, we work closely with our service users, community partne
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.pwc.com/sg/en/industries/healthcare.html"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></a><br>
+<a href="https://www.pwc.com/sg/en/industries/healthcare.html"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></a><br>
 	<div class="header"><b>PricewaterhouseCoopers Consulting (Singapore)</b></div><br>
 	<div class="para">PwC provides health organisations with professional guidance not just on healthcare issues in their local markets but also about operating in global markets including a broad mix of service lines that may include manufactured goods, retail, mobile communication devices, and information systems. PwC brings a world of multiple-industry experience to its healthcare engagements.
 </div>
@@ -372,7 +372,7 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.workplace.com/"><img alt="CHI" src="/images/Logos/Industry%20Knowledge/workplace.svg"></a><br>
+<a href="https://www.workplace.com/"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Industry%20Knowledge/workplace.svg"></a><br>
 	<div class="header"><b>Workplace by Facebook</b></div><br>
 	<div class="para">It’s not just Meta’s familiar and easy-to-use technology that makes Workplace unique. Our tools and features help to enhance your employee experience, so your people feel more inspired to do their best work.
 </div>
@@ -380,7 +380,7 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
+<a href="https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral/"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
 	<div class="header"><b>A*START Central</b></div><br>
 	<div class="para">A*StartCentral (A*SC) is an open innovation platform by the Agency for Science Technology and Research (A*STAR). We aim to incubate and accelerate the growth of deep-tech startups, and bolster the startup ecosystem. A*SC fosters interaction between researchers, corporates, startups, investors, and entrepreneurs across diverse disciplines.
 </div>
