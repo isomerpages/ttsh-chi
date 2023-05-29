@@ -37,9 +37,9 @@ sections:
       background: /images/Draft Home Banner.jpg
       button: Join our mailing list!
   - infopic:
-      title: CHI Innovate 2023
+      title: CHI INNOVATE 2023
       subtitle: Upcoming events
-      description: CHI INNOVATE 2023 is happening on 28th July 2023
+      description: Happening on Friday, 28th July 2023
       button: Read more
       url: https://chiinnovate2023.klobbi.com/
       image: /images/r-innovate23.png
