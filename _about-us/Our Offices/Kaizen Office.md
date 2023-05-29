@@ -12,7 +12,7 @@ We were formed in 2007 to help establish lean methodology for process improvemen
 
 Today, we support CHI and TTSH in driving improvement and innovation  through facilitating change and capability building.<br><br>
 
-*VUCA - Volatile, Uncertainty, Complexity and Ambiguity
+*VUCA - Volatile, Uncertainty, Complexity and Ambiguity*
 
 <h3>What we do?</h3>
 
