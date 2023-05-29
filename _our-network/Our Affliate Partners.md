@@ -390,29 +390,31 @@ Innovation Norway create value by stimulating to profitable business development
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="http://wavemaker.vc/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/wavemaker.svg"> </a> <br>
+<a href="https://tla.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/wavemaker.svg"></a><br>
 	<div class="header"><b>Wavemaker Group </b></div><br>
 	<div class="para">Wavemaker Group is a multi-faceted cross border venture capital firm founded in 2003. The firm is dual headquartered in Los Angeles and Singapore and has raised over $600M across multiple funds. We currently have a team of more than 80 people across our various practices.. Wavemaker is one of the most active early-stage investors in Southern California and Southeast Asia and has invested in over 400 companies in the last 18 years.
-<br>
+</div>
 <br>
 
 </div>
 	<div class="col"> 
-	<div class="header"><b></b></div><br>
+<br>
+	<div class="header"><b> </b></div><br>
 	<div class="para">
 </div>
 <br>
-<br>
-
 </div>
 	<div class="col"> 
+<br>
 	<div class="header"><b></b></div><br>
 	<div class="para">
 </div>
+
 <br>
+
 		
 		
-</div>
+
 
 
 </div></div><p></p>
