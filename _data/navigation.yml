@@ -2,9 +2,9 @@ logo: /images/CHI Logo® Colour.png
 links:
   - title: About Us
     collection: about-us
-    sublinks:
-      - title: Mailing List
-        url: https://for.sg/chi-mailinglist
+      - sublinks:
+        - title: Mailing List
+          url: https://for.sg/chi-mailinglist
   - title: Our Network
     collection: our-network
   - title: Platforms And Programmes
