@@ -3,18 +3,31 @@ title: National Healthcare Innovation and Productivity Medals
 permalink: /innovation-platforms/permalink/
 description: ""
 ---
-Singapore’s healthcare system is transforming to better meet the needs of an ageing population and the increased prevalence of long-term complex health conditions.
+Singapore’s healthcare system is transforming to better meet the needs of an ageing population and the increased prevalence of long-term complex health conditions. <br>
+Our Healthcare and Community Care institutions are determined to innovate and change to provide our population with better quality of life and health outcomes at a sustainable cost. Through care redesign, smart systems and technologies, and workforce redesign, we can better deliver value through innovation and productivity.<br>
+Organised by the Centre for Healthcare Innovation and supported by the Ministry of Health as well as the Ng Teng Fong Healthcare Innovation Programme, the annual National Healthcare Innovation &amp; Productivity (HIP) Medals is a prestigious, national-level award that recognises local healthcare and community care institutions that have demonstrated thought leadership through bringing about health and social change, as well as the implementation of innovative, productivity projects. It is open to all local healthcare, and Community/ Intermediate and Long-Term Care institutions.
 
-Our Healthcare and Community Care institutions are determined to innovate and change to provide our population with better quality of life and health outcomes at a sustainable cost. Through care redesign, smart systems and technologies, and workforce redesign, we can better deliver value through innovation and productivity.
+<br>
+ 	About the Medal 
+The Medals recognise teams who achieve excellence in 3 award categories:
+<br>1.	Care Redesign (CR)
+<br>2.	Automation, IT and Robotics Innovation (AIR)
+<br>3.	Workforce Transformation (WT)
 
-Supported by the Ministry of Health, the annual National Healthcare Innovation and Productivity (HIP) Medals provide an opportunity for Healthcare and Community Care institutions to acknowledge, showcase and celebrate excellence in healthcare innovation and productivity.
-
-Find out more about our past winners here: 
-
+<br>
+Here’s a snapshot of our winning teams from past years:
+<div class="row">
+<div class="col"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0y7M_8a_7CI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
+	</div>
+<div class="col"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFKoedLOhV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+	</div>
 
+<div class="col"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZ1uk_0DeKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+	</div>
 
+	<div class="col"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAYelEYxNA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+	</div></div>
