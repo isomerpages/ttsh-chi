@@ -27,24 +27,25 @@ This Multilevel design is built on collective leadership mental models, language
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img alt="1st person" src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
-		<div class="header"><b>1st person </b></div><br>
-		<div class="para">1st person testimonial
+<img alt="1st person" src="/images/Testimonials%20Pictures/timothy%20quek.png"><br>
+		<div class="header"><b>Dr Timothy Quek
+<br>Head, Medicine – Endocrinology 
+&amp; Snr Consultant </b></div><br>
+		<div class="para">“Apart from the great faculty and lectures, which have opened my mind to many new ideas and possibilities, I have particularly treasured the opportunity to make new friends and learn from my fellow course mates. I look forward to working together with all of them in the years ahead, while applying the many lessons learnt from this course.”
+
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img alt="2nd person" src="/images/initiatives/Codex-snp.jpeg"></a><br>
-	<div class="header"><b>2nd person </b></div><br>
-	<div class="para">1st person testimonial
+<img alt="2nd person" src="/images/Testimonials%20Pictures/matthew%20loh.png"><br>
+	<div class="header"><b>Mr Matthew Loh<br>Director, 
+Human Resource </b></div><br>
+	<div class="para">“The carefully curated series of lectures offered an insightful perspective into the challenges at the workplace and how we might approach them. I enjoyed the sessions that fostered the interaction and building of ties with colleagues from the other family groups.”
+
 </div>
 <br>
 
+
 </div>
-	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img alt="3 person" src="/images/initiatives/e-payments-snp.jpeg"></a><br>
-	<div class="header"><b>3rd person</b></div><br>
-	<div class="para">1st person testimonial
-</div>
-<br></div></div>
+<br></div>
