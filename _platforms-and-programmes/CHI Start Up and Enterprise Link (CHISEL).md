@@ -90,8 +90,9 @@ input:checked + label + .accordion-content {
 
 <h2> Healthcare InnoMatch 2023</h2>
 	
- Organised by Centre for Healthcare Innovation and supported by Ministry of Health and Temasek Foundation, CHISEL is hosting the “Healthcare InnoMatch”, an international call for innovative, market-ready or near market-ready solutions to address critical and emerging healthcare needs. Over 2 successful runs in 2021 and 2022, 400 over companies across 32 countries competed, from where 9 companies were chosen to testbed their solutions directly with the hospitals. 
 
- This year, in partnership with National Healthcare Group, National University Health System and SingHealth, Healthcare InnoMatch 2023 seeks solutions in reshaping preventive care for a healthier population. Successful proposals will obtain funding support to demonstrate their solutions in operational environments, and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovations, bringing them a step closer to benefit patients. 
+Organised by Centre for Healthcare Innovation and supported by Ministry of Health and Temasek Foundation, CHISEL is hosting the “Healthcare InnoMatch”, an international call for innovative, market-ready or near market-ready solutions to address critical and emerging healthcare needs. Over 2 successful runs in 2021 and 2022, 400 over companies across 32 countries competed, from where 9 companies were chosen to testbed their solutions directly with the hospitals. 
 
- Visit https://chisel.2023.iottribe.org/en/ to find out more about Healthcare InnoMatch 2023!</div></div>
+This year, in partnership with National Healthcare Group, National University Health System and SingHealth, Healthcare InnoMatch 2023 seeks solutions in reshaping preventive care for a healthier population. Successful proposals will obtain funding support to demonstrate their solutions in operational environments, and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovations, bringing them a step closer to benefit patients. 
+
+Visit https://chisel.2023.iottribe.org/en/ to find out more about Healthcare InnoMatch 2023!</div></div>
