@@ -27,7 +27,7 @@ description: ""
 </b></div><br>
 
 <br></div></div>
-
+<div>
 <div class="row">
 <div class="col"> 
 <img src="/images/CHI%20Logo.png"><br>
@@ -42,10 +42,10 @@ description: ""
 	<div class="header">"CHILD  has already collected over 1,000 healthcare innovation projects and solutions from across Singapore!
 
 Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it
-		</div></div><br>
+		</div></div><br></div>
 
 
-
+<div>
 <h3>What is CHILD &amp; What can CHILD do for you? </h3>
 <div style="font-size:20px; font-weight: 600; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;" class="row"> CHILD is a central knowledge management (KM) repository for 
  healthcare institutions, industry players and academia to accelerate the sharing, exchange and co-creation of knowledge and emerging ideas. </div><br>
@@ -85,4 +85,4 @@ If you have any queries, please contact the CHILD team at child@chi.sg (cc: chil
 
 
 
-</div></div>
+</div></div></div>
