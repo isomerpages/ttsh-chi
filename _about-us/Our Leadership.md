@@ -87,7 +87,8 @@ Our Leadership
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/yihyng"><img alt="andrew1" src="/images/Leaders/dr%20ng%20yy-01.png"></a></td>
-<td><strong>Dr Ng Yih Yng</strong><br>Member of CHI Council<br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a> </td>
+<td><strong>Dr Ng Yih Yng</strong>
+<br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
