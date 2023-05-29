@@ -3,14 +3,39 @@ title: CHI Learning and Development System (CHILD)
 permalink: /permalink/
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_j56iZxDIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Welcome to&nbsp;the preview of what the&nbsp;CHI Learning &amp; Development (CHILD) System&nbsp;can offer&nbsp;you! While we are working hard to put together a robust knowledge management platform for you, we are excited to have you join us on a co-learning journey and want you to have a&nbsp;taste of the knowledge you can find or share within CHILD. When completed, the national knowledge management&nbsp;platform will allow you to research, collaborate and share your healthcare projects with professionals from Singapore and beyond!  
-  
-Created based on the '**Share, Learn, and Do**' model, CHILD serves as an open repository for healthcare innovation, improvement and productivity project reports, best practices and learning experiences.  
-  
-Contributed by innovators and improvement enthusiasts across the healthcare sector, CHILD is open to anyone (e.g. local and international healthcare institutions, industry players, academia and the public) keen to share, learn and collaborate. We welcome you to explore this snippet of CHILD and experience how it can enable your search for knowledge across walls and&nbsp;borders.&nbsp;  
-  
-If you like to play a part in co-creating CHILD, we invite you to submit a contribution of your work here at&nbsp;[CHILD@chi.sg](mailto:CHILD@ttsh.com.sg)&nbsp;(cc:&nbsp;[CHILD@ttsh.com.sg](mailto:CHILD@ttsh.com.sg)).
 
-Learn more about CHILD by visiting [here]().
+<br>
+<div class="row">
+<div class="col"> 
+<img alt="1st person" src="/images/Testimonials%20Pictures/mohd%20khalid.png"><br>
+		<div class="header"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
+ </b></div><br>
+
+<br>
+
+</div>
+	<div class="col"> 
+<img alt="2nd person" src="/images/Testimonials%20Pictures/dr%20seet%20xian%20ying.png"><br>
+	<div class="header"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
+ </b></div><br>
+	
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/Testimonials%20Pictures/dr%20li%20zhenghao%20kelvin.png"></a><br>
+	<div class="header"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
+</b></div><br>
+
+<br></div></div>
+
+CHILD  has already collected over 1,000 healthcare innovation projects and solutions from across Singapore!
+
+Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it
+
+<h3>What is CHILD &amp; What can CHILD do for you? </h3>
+<div style="font-size:20px; font-weight: 600; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;" class="row"> CHILD is a central knowledge management (KM) repository for 
+ healthcare institutions, industry players and academia to accelerate the sharing, exchange and co-creation of knowledge and emerging ideas. </div>
+
+
