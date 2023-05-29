@@ -16,6 +16,7 @@ sub-links:
     collection: our-facilities
   - title: Mailing List
     url: https://for.sg/chi-mailinglist
+    external: true
   - title: Our Network
     collection: our-network
   - title: Platforms And Programmes
