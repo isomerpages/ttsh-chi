@@ -150,6 +150,19 @@ input:checked + label + .accordion-content {
 	<div class="para">The Singaporean-German Chamber of Industry and Commerce (SGC) is part of a network of 150 offices of the German bilateral Chambers of Industry and Commerce abroad in 93 countries. The Chamber is one of the largest national Business Chambers in Singapore with a membership of more than 600 representatives from a variety of industries from Germany and Singapore.
 </div>
 <br>
+<br>
+
+</div>
+	<div class="col"> 
+	<div class="header"><b></b></div><br>
+	<div class="para">
+</div>
+<br>
+		
+		
+		
+		
+		
 		
 </div></div>
 		<p></p>
