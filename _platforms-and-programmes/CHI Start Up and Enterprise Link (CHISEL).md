@@ -5,11 +5,11 @@ description: ""
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-PRXskCbtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Centre for Healthcare Innovation Start-Up Enterprise Link (CHISEL) is a programme that aims to accelerate the adoption of market-ready healthcare innovations that are fit for mainstream use, at speed at scale. 
+Centre for Healthcare Innovation Start-Up Enterprise Link (CHISEL) is a programme that aims to accelerate the adoption of market-ready healthcare innovations that are fit for mainstream use, at speed at scale. <br>
 
-It provides a sandbox and marketplace that enables start-ups and small and medium enterprises (SMEs) to demonstrate proof-of-value (POV) of market ready or near market-ready solutions, with the aim of procurement for use by healthcare institutions. It enables start-ups and SMEs to access real use cases and environments, demonstrate POV of market-ready or near market-ready solutions, and customise solutions suited for implementation within healthcare clusters in Singapore. 
+It provides a sandbox and marketplace that enables start-ups and small and medium enterprises (SMEs) to demonstrate proof-of-value (POV) of market ready or near market-ready solutions, with the aim of procurement for use by healthcare institutions. It enables start-ups and SMEs to access real use cases and environments, demonstrate POV of market-ready or near market-ready solutions, and customise solutions suited for implementation within healthcare clusters in Singapore. <br>
 
-Simultaneously, healthcare clusters are able to evaluate the operational feasibility of solutions prior to adoption or scale-up. The platform aims to bridge the market adoption gap, and allow patients early access to new and emerging healthcare innovations to meet healthcare gaps.
+Simultaneously, healthcare clusters are able to evaluate the operational feasibility of solutions prior to adoption or scale-up. The platform aims to bridge the market adoption gap, and allow patients early access to new and emerging healthcare innovations to meet healthcare gaps. <br>
 
 An end to end process that moves a potential solution from proof of value to adoption
 
@@ -91,8 +91,8 @@ input:checked + label + .accordion-content {
 <h2> Healthcare InnoMatch 2023</h2>
 	
 
-Organised by Centre for Healthcare Innovation and supported by Ministry of Health and Temasek Foundation, CHISEL is hosting the “Healthcare InnoMatch”, an international call for innovative, market-ready or near market-ready solutions to address critical and emerging healthcare needs. Over 2 successful runs in 2021 and 2022, 400 over companies across 32 countries competed, from where 9 companies were chosen to testbed their solutions directly with the hospitals. 
+Organised by Centre for Healthcare Innovation and supported by Ministry of Health and Temasek Foundation, CHISEL is hosting the “Healthcare InnoMatch”, an international call for innovative, market-ready or near market-ready solutions to address critical and emerging healthcare needs. Over 2 successful runs in 2021 and 2022, 400 over companies across 32 countries competed, from where 9 companies were chosen to testbed their solutions directly with the hospitals. <br><br>
 
-This year, in partnership with National Healthcare Group, National University Health System and SingHealth, Healthcare InnoMatch 2023 seeks solutions in reshaping preventive care for a healthier population. Successful proposals will obtain funding support to demonstrate their solutions in operational environments, and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovations, bringing them a step closer to benefit patients. 
+This year, in partnership with National Healthcare Group, National University Health System and SingHealth, Healthcare InnoMatch 2023 seeks solutions in reshaping preventive care for a healthier population. Successful proposals will obtain funding support to demonstrate their solutions in operational environments, and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovations, bringing them a step closer to benefit patients. <br><br>
 
 Visit https://chisel.2023.iottribe.org/en/ to find out more about Healthcare InnoMatch 2023!</div></div>
