@@ -77,7 +77,7 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Eligibility</label>
+	<input id="title1" type="checkbox"><label for="title1">Eligibility Criteria </label>
 	<div class="accordion-content">
 	<div class="para">All TTSH staff may apply to NTF HIP. Funding will also be applicable to non-staff (e.g. research collaborator, community partners, patients, caregivers, volunteers, students) if the fund recipient is part of a larger umbrella TTSH programme where a TTSH staff is the Project Owner / Principal Investigator.
 </div>
