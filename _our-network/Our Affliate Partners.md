@@ -3,7 +3,6 @@ title: Our Affliate Partners
 permalink: /our-network/our-affliate-partners/
 description: ""
 ---
-
 <style>
 
 input {
@@ -253,7 +252,7 @@ At KILSA, we strive to achieve the best for our clients by being a collaborative
 		
 </div>
 	<div class="col"> 
-<a href="https://www.innovasjonnorge.no/"><img alt="CHI" src="/images/Logos/Affliates/innovation%20norway.svg"></a><br>
+<a href="https://www.innovasjonnorge.no/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/innovation%20norway.svg"></a><br>
 	<div class="header"><b>Innovation Norway </b></div><br>
 	<div class="para">Innovation Norway is the Norwegian Government's most important instrument for innovation and development of Norwegian enterprises and industry. We support companies in developing their competitive advantage and to enhance innovation.
 Innovation Norway create value by stimulating to profitable business development throughout Norway. Our programmes and services are intended to create more successful entrepreneurs, more enterprises with capacity for growth and more innovative business clusters.
@@ -392,7 +391,7 @@ Innovation Norway create value by stimulating to profitable business development
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.sif.org.sg/"><img alt="CHI" src="/images/Logos/Affliates/singapore%20international.svg"></a><br>
+<a href="https://www.sif.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20international.svg"></a><br>
 	<div class="header"><b>Singapore International Foundation </b></div><br>
 	<div class="para">The Singapore International Foundation (SIF) is a not-for-profit organisation established on 1 August 1991. Our aim is to strengthen mutual understanding, ties and trust between global communities. All our programmes seek to bring Singaporeans and our friends from overseas communities together, to connect and collaborate for positive change. 
 
@@ -401,7 +400,7 @@ Innovation Norway create value by stimulating to profitable business development
 
 </div>
 	<div class="col"> 
-<a href="https://www.temasekfoundation.org.sg/"><img alt="CHI Living Lab" src="/images/Logos/Affliates/temasek.svg"></a><br>
+<a href="https://www.temasekfoundation.org.sg/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek.svg"></a><br>
 		<div class="header"><b>Temasek Foundation  <br></b></div><br>
 		<div class="para">Through the years, we’ve supported a diverse range of programmes that uplift lives and communities in Singapore and beyond. These are made possible through philanthropic endowments gifted by Temasek. Together with our partners, staff, and volunteers, we continue to uncover unseen gaps, bridge the divide between challenge and transformation, and innovate solutions that provide positive outcomes for our communities today, and for generations to come.
 </div>
