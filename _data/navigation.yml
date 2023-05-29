@@ -1,14 +1,6 @@
 logo: /images/CHI Logo® Colour.png
 links:
   - title: About Us
-    collection: about-us
-  - title: Our Network
-    collection: our-network
-  - title: Platforms And Programmes
-    collection: platforms-and-programmes
-  - title: Events
-    collection: our-events
-  - title: CONNECT
     url: /about-us/our-purpose/
     sublinks:
       - title: Mailing List
@@ -23,6 +15,12 @@ links:
         url: /about-us/our-offices/mdo/
       - title: Our Facilities
         url: /about-us/facilities/
+  - title: Our Network
+    collection: our-network
+  - title: Platforms And Programmes
+    collection: platforms-and-programmes
+  - title: Events
+    collection: our-events
   - title: Resource Room
     resource_room: true
   - title: Contact Us
