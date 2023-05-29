@@ -436,6 +436,13 @@ Innovation Norway create value by stimulating to profitable business development
 		<div class="para">Through the years, we’ve supported a diverse range of programmes that uplift lives and communities in Singapore and beyond. These are made possible through philanthropic endowments gifted by Temasek. Together with our partners, staff, and volunteers, we continue to uncover unseen gaps, bridge the divide between challenge and transformation, and innovate solutions that provide positive outcomes for our communities today, and for generations to come.
 </div>
 <br>
+<br>
 
+</div>
+	<div class="col"> 
+	<div class="header"><b></b></div><br>
+	<div class="para">
+</div>
+<br>
 </div></div><p></p>
 </div></div></div>
