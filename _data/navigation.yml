@@ -3,8 +3,6 @@ links:
   - title: About Us
     url: /about-us/our-purpose/
     sublinks:
-      - title: Mailing List
-        url: https://for.sg/chi-mailinglist
       - title: Our Purpose & What We Do
         url: /about-us/our-purpose/
       - title: Our Leadership
@@ -15,6 +13,8 @@ links:
         url: /about-us/our-offices/mdo/
       - title: Our Facilities
         url: /about-us/facilities/
+      - title: Mailing List
+        url: https://for.sg/chi-mailinglist
   - title: Our Network
     collection: our-network
   - title: Platforms And Programmes
