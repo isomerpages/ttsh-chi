@@ -38,7 +38,7 @@ sections:
       title: CHI INNOVATE 2023
       subtitle: Upcoming events
       description: Happening on Friday, 28th July 2023
-      button: Read more
+      button: learn more
       url: https://chiinnovate2023.klobbi.com/
       image: /images/r-innovate23.png
       alt: Image alt text
