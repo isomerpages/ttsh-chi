@@ -15,7 +15,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" style="width:800px; height:600px; padding-top:8%;" src="/images/Website_Right.png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a><br>
 		<div class="header"><b>CHI Innovate 2023 </b></div><br>
 		<div class="para">28 July 2023<br><br>
 CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
@@ -24,7 +24,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2021" style="width:800px; height:600px; padding-top:8%;" src="/images/innovate%20(right).jpg"></a>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2021" src="/images/innovate%20(right).jpg"></a>
 		<br>
 	<div class="header"><b>CHI Innovate 2021</b></div><br>
 	<div class="para">23 August 2021 - 02 December 2022 Virtual Sessions
@@ -34,7 +34,7 @@ CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work wi
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" style="width:800px; height:600px; padding-top:8%;" src="/images/Logos/2020_banner-right.jpg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" src="/images/Logos/2020_banner-right.jpg"></a><br>
 	<div class="header"><b>CHI Innovate 2020</b></div><br>
 	<div class="para">29 - 30 July 2020
 Virtual Sessions<br><br>​The annual CHI conference, CHI INNOVATE, went online for the first time this year! Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", this year's webinar on 29-30 July featured 19 speakers from across industries and countries, and was watched by almost 1,500 participants, across 16 countries. Find out more <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here.</a>
@@ -43,7 +43,7 @@ Virtual Sessions<br><br>​The annual CHI conference, CHI INNOVATE, went online 
 
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2019" style="width:800px; height:600px; padding-top:8%;" src="/images/chi%20innovate%20badge%20website.png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2019" src="/images/chi%20innovate%20badge%20website.png"></a><br>
 		<div class="header"><b>CHI Innovate 2019 </b></div><br>
 		<div class="para">CHI INNOVATE 2019 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
 </div>
@@ -51,7 +51,7 @@ Virtual Sessions<br><br>​The annual CHI conference, CHI INNOVATE, went online 
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="Fh 2017" style="width:800px; height:600px; padding-top:8%;" src="/images/events_conference1.jpg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="Fh 2017" src="/images/events_conference1.jpg"></a><br>
 	<div class="header"><b>FutureHealth 2017</b></div><br>
 	<div class="para">08 - 10 November 2017<br><br>
 Lee Kong Chian School of Medicine
@@ -61,7 +61,7 @@ Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="nsph2016" style="width:800px; height:600px; padding-top:8%;" src="/images/events_conference2.jpg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="nsph2016" src="/images/events_conference2.jpg"></a><br>
 	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div><br>
 	<div class="para">20 - 28 October 2017<br><br>
 Marina Bay Sands Expo and Convention Centre, Singapore
