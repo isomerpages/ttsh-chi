@@ -28,7 +28,7 @@ label {
 	width=100%;
 	color: #484848;
 	transition: ease .8s;
-	font-size: 1.5em;
+	font-size: 1.25em;
 	text-align: left;
 }
 
@@ -89,6 +89,11 @@ input:checked + label + .accordion-content {
 	<div class="para">Solutions may potentially be adopted by local healthcare institutions if the CHIEF outcomes criteria are met, solution is feasible, sustainable and ready for deployment and there are interests from the various healthcare clusters to adopt the solution.
 </div></div>
 <div>
+	<style>
+		{
+		font-size: 1.25em;
+		}
+		</style>
 <h2> Healthcare InnoMatch 2023</h2>
 	
 
