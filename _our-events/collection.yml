@@ -2,10 +2,10 @@ collections:
   our-events:
     output: true
     order:
-      - Test 2.md
-      - Test/Page 2.md
-      - Test/Test page 1.md
-      - Test/.keep
-      - Test.md
       - CHI Conference (CHI INNOVATE).md
       - CHI Masterclass.md
+      - Test.md
+      - Test 2.md
+      - Test/.keep
+      - Test/Page 2.md
+      - Test/Test page 1.md
