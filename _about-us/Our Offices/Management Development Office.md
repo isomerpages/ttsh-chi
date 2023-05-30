@@ -42,6 +42,7 @@ label:hover {
 	border: 1px solid #484848; 
 	border-radius: 3px;
 	font-size: 1.25em;
+
 }
 
 input + label + .accordion-content {
