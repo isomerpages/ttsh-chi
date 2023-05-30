@@ -44,4 +44,4 @@ For past winning projects &amp; submissions of the National HIP Medals, check th
 
 <h4>Queries</h4><br>
 
-If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg 
+If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg
