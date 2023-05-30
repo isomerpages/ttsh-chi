@@ -33,20 +33,15 @@ Here’s a snapshot of our winning teams from past years:
 	</div>
 	</div>
 	
-	
 
-	
-	
-<div>
-<h3>Announcement</h3></div>
-<div>
-This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. <br><br></div>
-<div>
+<h3>Announcement</h3>
+
+This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. <br><br>
+
 <h4>Learn More</h4> <br>
-<div>
-For past winning projects &amp; submissions of the National HIP Medals, check them out on the <b>CHI Learning &amp; Development (CHILD) system</b> where we host over 1,000 healthcare innovation projects from across Singapore.<br><br></div>
-<div>
-<h4>Queries</h4><br></div>
-<div>
-If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg </div>
-</div>
+
+For past winning projects &amp; submissions of the National HIP Medals, check them out on the <b>CHI Learning &amp; Development (CHILD) system</b> where we host over 1,000 healthcare innovation projects from across Singapore.<br><br>
+
+<h4>Queries</h4><br>
+
+If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg 
