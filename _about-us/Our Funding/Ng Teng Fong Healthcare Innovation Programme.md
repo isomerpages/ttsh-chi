@@ -27,7 +27,7 @@ NTF HIP provides funding through five tracks which support the strategic thrusts
 
 Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br>
 
-NTFHIP is managed and administered by the <b><u>Grants &amp; Innovation Office . </u></b>
+NTFHIP is managed and administered by the<a href="https://www.chi.sg/chi-grantsandinnovation/" target="_blank"> <b><u>Grants &amp; Innovation Office . </u></b></a>
 
 <style>
 
