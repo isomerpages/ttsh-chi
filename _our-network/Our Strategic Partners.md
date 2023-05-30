@@ -62,34 +62,36 @@ input:checked + label + .accordion-content {
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.awwa.org.sg/"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
-	<div class="header"><b>AWWA</b></div><br>
-	<div class="para">AWWA is a social service agency delivering a wide range of programmes and services. These include early intervention for pre-schoolers, education and integration support for children and adults with additional needs, social assistance for vulnerable families, and care services for seniors.
+<a href="https://www.aic.sg/"><img alt="AIC" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/aicaic.svg"></a><br>
+	<div class="header"><b>Agency for Integrated Care</b></div><br>
+	<div class="para">AIC aims to create a vibrant care community for our people to live well and age gracefully. AIC coordinates and supports efforts in integrating care to achieve the best care outcomes for our clients. 
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.slec.org.sg/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
-		<div class="header"><b>St Luke's ElderCare <br></b></div><br>
-		<div class="para">St Luke’s ElderCare is committed to caring for our elders in the community through services provided in our nursing home sited in Ang Mo Kio, 25 centres located islandwide and through the homes of our elders. We deliver a full range of integrated services and programmes for our elders that include centre-based, community-based, home-based and residential-based services.
+<a href="https://www.awwa.org.sg/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></a><br>
+		<div class="header"><b>AWWA <br></b></div><br>
+		<div class="para">AWWA is a social service agency delivering a wide range of programmes and services. These include early intervention for pre-schoolers, education and integration support for children and adults with additional needs, social assistance for vulnerable families, and care services for seniors.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.doverpark.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
-	<div class="header"><b>Dover Park Hospice</b></div><br>
-	<div class="para">At Dover Park Hospice, we treasure life even in one’s last days. With compassion, we alleviate suffering and maximise quality of life for the terminally-ill and their loved ones through a holistic approach.
+<a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></a><br>
+	<div class="header"><b>Care Corner </b></div><br>
+	<div class="para">Care Corner serves as the bridge between the community and government to provide a continuum of integrated care for individuals as they transition through different life stages.
+By being on the ground, we work closely with our service users, community partners and the private sector to deliver timely care and support. 
+
 </div>
 <br></div></div>
 
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.thkms.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
-	<div class="header"><b>Thye Hua Kwan Moral Society
+<a href="https://www.doverpark.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a><br>
+	<div class="header"><b>Dover Park Hospice
 </b></div><br>
 	<div class="para"> The Thye Hua Kwan Moral Society has three subsidiaries; Ang Mo Kio Thye Hua Kwan Hospital, Thye Hua Kwan Moral Charities and Thye Hua Kwan Nursing Home. Together, they provide services that respond to the needs of the community.
 </div>
@@ -97,85 +99,30 @@ input:checked + label + .accordion-content {
 
 </div>
 	<div class="col"> 
-<a href="https://www.kwsh.org.sg/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
-	<div class="header"><b>Kwong Wai Shiu Hospital
+<a href="https://www.imperial.nhs.uk/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
+	<div class="header"><b>Imperial College Healthcare NHS Trust, United Kingdom
 </b></div><br>
+	<div class="para">Imperial College Healthcare NHS Trust provides acute and specialist healthcare for over one million people every year. We particularly serve the local communities in the eight boroughs that form the North West London Integrated Care System. 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.kwsh.org.sg/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a><br>
+	<div class="header"><b>Kwong Wai Shiu Hospital</b></div><br>
 	<div class="para">Kwong Wai Shiu Hospital (KWSH) is one of the oldest charitable healthcare institutions in Singapore. Founded on our values of compassion and serving the community, our endeavour to serve the needy and elderly has endured till this day. Besides our care services, KWSH also runs a community training institute.
 </div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.touch.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
-	<div class="header"><b>TOUCH Community Services</b></div><br>
-	<div class="para">The work of TOUCH started in 1986 as a service for latch-key children in the neighbourhoods of Clementi and Jurong. This small attempt has today become a multi-service organisation with an integrated network of services located at different parts of Singapore, including Bukit Merah, Clementi, Geylang Bahru, Hougang, Serangoon, Toa Payoh, Ubi and Yishun.
-</div>
 <br></div></div>
 
 <div class="row">
 <div class="col"> 
-<a href=""><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
-	<div class="header"><b>Qulturum</b></div><br>
-	<div class="para">Region Jönköping County, Sweden
+<a href="https://mws.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
+	<div class="header"><b>Methodist Welfare Services</b></div><br>
+	<div class="para">Methodist Welfare Services (MWS) is all about empowering people to have life to the full.  While MWS’ sphere of impact has expanded since our founding, our core spirit of social holiness remains unwavering. Today, we serve over 9,000 children from disadvantaged backgrounds, youths at risk, families in distress, seniors who are socially isolated. and the chronically ill and destitute
 
 </div>
 <br>
 
-</div>
-	<div class="col"> 
-<a href="https://mahidol.ac.th/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
-	<div class="header"><b>Routine to Research (R2R) Unit, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand</b></div><br>
-	<div class="para">We provide innovative education, developing both hard and soft skills, to help our students grow as members of their community. We focus on translational and transformative research, making real world change through creating technologies, treatments, and programs for economic and social development. We work towards global connectivity, bringing international institutions together to leverage teaching and learning for global citizens and solve global challenges through research collaboration.
-</div>
-<br>
-</div>
-	<div class="col"> 
-<a href="https://www.northerncarealliance.nhs.uk/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
-	<div class="header"><b>Northern Care Alliance (NCA)</b></div><br>
-	<div class="para">The Northern Care Alliance NHS Foundation Trust brings together staff and services from Salford Royal NHS Foundation Trust (SRFT) and The Pennine Acute Hospitals NHS Trust (PAT).  Our dedicated team of around 20,000 staff – our NCA Family – delivers healthcare excellence to over one million people across Salford, Oldham, Rochdale and Bury, as well as providing more specialist services to patients from Greater Manchester and beyond.
-</div>
-<br>
-<br></div></div>
-<div class="row">
-<div class="col"> 
-<a href="https://www.imperial.nhs.uk/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a><br>
-	<div class="header"><b>Imperial College Healthcare NHS Trust, United Kingdom</b></div><br>
-	<div class="para">Imperial College Healthcare NHS Trust provides acute and specialist healthcare for over one million people every year. We particularly serve the local communities in the eight boroughs that form the North West London Integrated Care System. Formed in 2007, we are one of the largest NHS trusts in the country, with more than 14,500 staff. 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://english.riberasalud.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
-	<div class="header"><b>Ribera Salud Group</b></div><br>
-	<div class="para">Spain
-Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. 
-</div>
-<br>
-		
-</div>
-	<div class="col"> 
-<a href="https://www.aic.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/aicaic.svg"></a><br>
-	<div class="header"><b>Agency for Integrated Care</b></div><br>
-	<div class="para">AIC aims to create a vibrant care community for our people to live well and age gracefully. AIC coordinates and supports efforts in integrating care to achieve the best care outcomes for our clients. We reach out to caregivers and seniors with information on staying active and ageing well, and connect people to services they need. We support partners in strengthening their capability to deliver quality care, and bring partners together to meet the needs of our ageing population. Our work in the community brings care services and information closer to those in need.
-</div>
-		
-<br></div></div>
-<div class="row">
-<div class="col"> 
-<a href="https://www.singhealth.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/singhealth.svg"></a><br>
-	<div class="header"><b>Singapore Health Services</b></div><br>
-	<div class="para">With a network of acute hospitals, national specialty centres, community hospitals and polyclinics offering over 40 clinical specialties, the SingHealth Duke-NUS Academic Medical Centre draws on the collective strengths of SingHealth and Duke-NUS Medical School to drive the transformation of healthcare and provide affordable, accessible and quality healthcare.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.nuhs.edu.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></a><br>
-	<div class="header"><b>National University Health System</b></div><br>
-	<div class="para">The National University Health System (NUHS) is one of three public healthcare clusters in Singapore, and an integrated Academic Health System and Regional Health System that delivers value-driven, innovative and sustainable healthcare in Singapore.  We leverage our unique position as an Academic Health System to tap on the wealth of resources residing within the National University of Singapore (NUS). 
-</div>
-<br>
 </div>
 	<div class="col"> 
 <a href="https://corp.nhg.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a><br>
@@ -183,44 +130,97 @@ Ribera Salud, a leading Spanish integrated healthcare provider, supports governm
 	<div class="para">The National Healthcare Group (NHG) is a leader in public healthcare in Singapore recognised for the quality of its medical expertise and facilities. Care is provided through an integrated system of primary care polyclinics, acute care and tertiary hospitals, and national specialty centres. Together, we provide comprehensive and innovative healthcare to address the unique needs of our patients and the population we serve.
 </div>
 <br>
+</div>
+	<div class="col"> 
+<a href="https://www.nuhs.edu.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></a><br>
+	<div class="header"><b>National University Health System</b></div><br>
+	<div class="para">The National University Health System (NUHS) is one of three public healthcare clusters in Singapore, and an integrated Academic Health System and Regional Health System that delivers value-driven, innovative and sustainable healthcare in Singapore.  We leverage our unique position as an Academic Health System to tap on the wealth of resources residing within the National University of Singapore (NUS). 
+</div>
+<br>
 <br></div></div>
 <div class="row">
 <div class="col"> 
-<a href="https://ntuchealth.sg/about-us"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
-	<div class="header"><b>NTUC Health Co-operative Limited</b></div><br>
-	<div class="para">NTUC Health Co-operative Limited (NTUC Health) is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and elderly care services to meet the growing needs of families and their dependents. Building on more than five decades of experience and expertise, NTUC Health is among the largest senior day care, nursing home, and home personal care providers in Singapore.
+<a href="https://www.northerncarealliance.nhs.uk/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></a><br>
+	<div class="header"><b>Northern Care Alliance (NCA)</b></div><br>
+	<div class="para">The Northern Care Alliance NHS Foundation Trust brings together staff and services from Salford Royal NHS Foundation Trust (SRFT) and The Pennine Acute Hospitals NHS Trust (PAT).  Our dedicated team of around 20,000 staff – our NCA Family – delivers healthcare excellence to over one million people across Salford, Oldham, Rochdale and Bury, as well as providing more specialist services to patients from Greater Manchester and beyond.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
+<a href="https://ntuchealth.sg/about-us"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></a><br>
+	<div class="header"><b>NTUC Health</b></div><br>
+	<div class="para">NTUC Health Co-operative Limited (NTUC Health) is an NTUC social enterprise that provides a comprehensive and integrated suite of quality and affordable health and elderly care services to meet the growing needs of families and their dependents. Building on more than five decades of experience and expertise, NTUC Health is among the largest senior day care, nursing home, and home personal care providers in Singapore.
+</div>
+<br>
+		
+</div>
+	<div class="col"> 
+<a href=""><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></a><br>
+	<div class="header"><b>Qulturum</b></div><br>
+	<div class="para">Region Jönköping County, Sweden
+</div>
+		
+<br></div></div>
+<div class="row">
+<div class="col"> 
+<a href="https://www.renci.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
+	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
+	<div class="para">Founded on the principles to serve all regardless of race, religion and background as a charity healthcare institution in 1994, Ren Ci serves needy beneficiaries with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community. Our suite of care services continues to play an active role in the growing prevalence of the silver population in Singapore through supporting the healthcare needs of the senior community.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://english.riberasalud.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></a><br>
+	<div class="header"><b>Ribera Salud Group, Spain</b></div><br>
+	<div class="para"> Ribera Salud, a leading Spanish integrated healthcare provider, supports governments to improve healthcare delivery through the Public Private Partnership model. 
+</div>
+<br>
+</div>
+	<div class="col"> 
+<a href="https://www.singhealth.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/singhealth.svg"></a><br>
+	<div class="header"><b>Singapore Health Services</b></div><br>
+	<div class="para">With a network of acute hospitals, national specialty centres, community hospitals and polyclinics offering over 40 clinical specialties, the SingHealth Duke-NUS Academic Medical Centre draws on the collective strengths of SingHealth and Duke-NUS Medical School to drive the transformation of healthcare and provide affordable, accessible and quality healthcare.
+</div>
+<br>
+<br></div></div>
+<div class="row">
+<div class="col"> 
+<a href="https://www.slec.org.sg/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></a><br>
+	<div class="header"><b>St Luke's ElderCare</b></div><br>
+	<div class="para">St Luke’s ElderCare is committed to caring for our elders in the community through services provided in our nursing home sited in Ang Mo Kio, 25 centres located islandwide and through the homes of our elders. We deliver a full range of integrated services and programmes for our elders that include centre-based, community-based, home-based and residential-based services.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.thkms.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></a><br>
+	<div class="header"><b>Thye Hua Kwan Moral Society</b></div><br>
+	<div class="para">The Thye Hua Kwan Moral Society has three subsidiaries; Ang Mo Kio Thye Hua Kwan Hospital, Thye Hua Kwan Moral Charities and Thye Hua Kwan Nursing Home. Together, they provide services that respond to the needs of the community.
+</div>
+<br>
+</div>
+	<div class="col"> 
+<a href="https://www.touch.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></a><br>
+	<div class="header"><b>TOUCH Community Services</b></div><br>
+	<div class="para">The Tsao Foundation is a non-profit organization dedicated to improving the quality of life of older persons in an inclusive society that can embrace both the challenges and opportunities of population ageing. Our community-based programmes and services give older people access to quality integrated medical and pycho-social care in their homes and communities. 
+</div>
+<br>
+<br></div></div>
+<div class="row">
+<div class="col"> 
 <a href="https://tsaofoundation.org/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></a><br>
 	<div class="header"><b>Tsao Foundation</b></div><br>
 	<div class="para">The Tsao Foundation is a non-profit organization dedicated to improving the quality of life of older persons in an inclusive society that can embrace both the challenges and opportunities of population ageing. Our community-based programmes and services give older people access to quality integrated medical and pycho-social care in their homes and communities. 
 </div>
 <br>
-</div>
-	<div class="col"> 
-<a href="https://www.renci.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></a><br>
-	<div class="header"><b>Ren Ci (仁慈)</b></div><br>
-	<div class="para">Founded on the principles to serve all regardless of race, religion and background as a charity healthcare institution in 1994, Ren Ci serves needy beneficiaries with the primary mission of providing affordable medical, nursing and rehabilitative care services for the community. We have stood by time and challenges to grow. Our suite of care services continues to play an active role in the growing prevalence of the silver population in Singapore through supporting the healthcare needs of the senior community.
-</div>
-<br>
-<br></div></div>
-<div class="row">
-<div class="col"> 
-<a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></a><br>
-	<div class="header"><b>Care Corner Singapore </b></div><br>
-	<div class="para">Care Corner serves as the bridge between the community and government to provide a continuum of integrated care for individuals as they transition through different life stages.
-By being on the ground, we work closely with our service users, community partners and the private sector to deliver timely care and support. Together, we enable people in need to rise above their circumstances. We are woven into the fabric of community.
-</div>
-<br>
 
 </div>
 	<div class="col"> 
-<a href="https://mws.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a><br>
-	<div class="header"><b>Methodist Welfare Services </b></div><br>
-	<div class="para">Methodist Welfare Services (MWS) is all about empowering people to have life to the full.  While MWS’ sphere of impact has expanded since our founding, our core spirit of social holiness remains unwavering. Today, we serve over 9,000 children from disadvantaged backgrounds, youths at risk, families in distress, seniors who are socially isolated. and the chronically ill and destitute.
+<a href="https://mahidol.ac.th/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></a><br>
+	<div class="header"><b>Routine to Research (R2R) Unit, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand </b></div><br>
+	<div class="para">We provide innovative education, developing both hard and soft skills, to help our students grow as members of their community. We focus on translational and transformative research, making real world change through creating technologies, treatments, and programs for economic and social development. 
 </div>
 <br>
 <br>
