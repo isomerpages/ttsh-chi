@@ -44,7 +44,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: About Us
-      description: Learn about how we pave the path for healthcare innovation in Singapore
+      description: Learn more about how CHI operates
       button: Learn more
       url: /about-us/our-purpose/
   - resources:
