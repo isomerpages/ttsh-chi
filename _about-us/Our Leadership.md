@@ -20,7 +20,7 @@ Our Leadership
 </tbody>
 </table>
 
-#### **CHI Council**
+#### **CHI Leadership Council**
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
