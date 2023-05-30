@@ -20,10 +20,9 @@ description: >-
   3) Enable Healthcare Training
 image: /images/CHI Logo.png
 permalink: /
-notification: Join our mailing list https://for.sg/chi-mailinglist
+notification: ""
 sections:
   - hero:
-      url: https://for.sg/chi-mailinglist
       key_highlights:
         - title: To Promote a Culture of Innovation
           description: ""
@@ -35,7 +34,6 @@ sections:
           description: ""
           url: ""
       background: /images/Draft Home Banner.jpg
-      button: Join our mailing list!
   - infopic:
       title: CHI INNOVATE 2023
       subtitle: Upcoming events
