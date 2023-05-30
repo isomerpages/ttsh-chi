@@ -30,7 +30,7 @@ Here’s a snapshot of our winning teams from past years:
 
 <div class="col"> 
 <iframe width="200" height="200" src="https://www.youtube.com/embed/AAYelEYxNA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-	</div></div>
+	</div>
 	
 	
 <div>
@@ -45,4 +45,4 @@ For past winning projects &amp; submissions of the National HIP Medals, check th
 <h4>Queries</h4><br></div>
 <div>
 If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg </div>
-</div>
+</div></div>
