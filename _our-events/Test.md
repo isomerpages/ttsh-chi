@@ -203,18 +203,94 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-  <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass <img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg"></label>
+  <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass </label>
+    <div><p><strong>27 March 2023</strong></p>
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+			
+ </div></li><li><input type="checkbox" id="accordion-b2"><label for="accordion-b2">14th Masterclass</label>
+    <div><p><strong>27 March 2023</strong></p>
+
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+	</div></li><li><input type="checkbox" id="accordion-b3"><label for="accordion-b3">13th Masterclass </label>
     <div><p><strong>27 March 2023</strong></p>
 <img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
 <p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
 
 <hr>
 			
- </div></li><li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass</label>
+ </div></li><li><input type="checkbox" id="accordion-b4"><label for="accordion-b1">12th Masterclass</label>
     <div><p><strong>27 March 2023</strong></p>
 
 <p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
 
 <hr>
+	</div></li><li><input type="checkbox" id="accordion-b5"><label for="accordion-b5">11th Masterclass </label>
+    <div><p><strong>27 March 2023</strong></p>
+<img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+			
+ </div></li><li><input type="checkbox" id="accordion-b6"><label for="accordion-b6">10th Masterclass</label>
+    <div><p><strong>27 March 2023</strong></p>
+
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+		</div></li><li><input type="checkbox" id="accordion-b7"><label for="accordion-b7">9th Masterclass </label>
+    <div><p><strong>27 March 2023</strong></p>
+<img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+			
+ </div></li><li><input type="checkbox" id="accordion-b8"><label for="accordion-b8">8th Masterclass</label>
+    <div><p><strong>27 March 2023</strong></p>
+
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+<hr>
+		</div></li><li><input type="checkbox" id="accordion-b9"><label for="accordion-b9">7th Masterclass </label>
+    <div><p><strong>27 March 2023</strong></p>
+<img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+			
+ </div></li><li><input type="checkbox" id="accordion-b10"><label for="accordion-b10">6th Masterclass</label>
+    <div><p><strong>27 March 2023</strong></p>
+
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+		<hr>
+		</div></li><li><input type="checkbox" id="accordion-b11"><label for="accordion-b11">5th Masterclass </label>
+    <div><p><strong>27 March 2023</strong></p>
+<img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+			
+ </div></li><li><input type="checkbox" id="accordion-b12"><label for="accordion-b12">4th Masterclass</label>
+    <div><p><strong>27 March 2023</strong></p>
+
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+<hr>
+		<hr>
+		</div></li><li><input type="checkbox" id="accordion-b13"><label for="accordion-b13">3rd Masterclass </label>
+    <div><p><strong>27 March 2023</strong></p>
+<img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+
+
+
+<hr>
+	
   <!-- End of accordion tab -->
 </div></li></ul>
