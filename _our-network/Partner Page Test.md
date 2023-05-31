@@ -5,32 +5,20 @@ description: ""
 ---
 dasdasdasfwef
 <table class="table">
-  <thead>
+  <thead class="table-light">
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
+      <th scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
+      <th scope="col">Share (Week 7-16) ​<br>Exchange knowledge and build upon ideas</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td scope="row">Care &amp; Process Redesign​<br>•	Lean in Practice<br> •	Improvement Science<br><br>Collective Leadership<br>•	Know Thy Self
+      </td><td>Automation, IT, Robotic Innovation <br> •	Introduction to Automation &amp; IT <br>•	Management of Digital Innovation<br><br>Job Redesign<br>•	Translating Design into Implementation<br>•	Job Instructions / Relations / Method </td>
+      <td>Project Development<br>•	Mentoring by Project Mentor  <br><br>Peer Review <br> Panel Critique   </td>
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
-    </tr>
+   
   </tbody>
 </table>
 
