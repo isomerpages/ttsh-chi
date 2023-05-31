@@ -35,7 +35,7 @@ third_nav_title: CHI Conference
 }
 </style>
 
-<a href="platform"><button class="button button1">Our Past CHI Conferences</button></a><br>
+<a href="/our-events/past-chi-innovate/"><button class="button button1">Our Past CHI Conferences</button></a><br>
 
 # CHI Conferences
 
