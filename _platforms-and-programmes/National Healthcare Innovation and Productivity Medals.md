@@ -58,11 +58,77 @@ Here’s a snapshot of our winning teams from past years:
 <div class="col"> 
 <iframe width="200" height="200" src="https://www.youtube.com/embed/AAYelEYxNA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 	</div>
-	</div>
+
 	
-## Announcement
-This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. 
-## Learn More
-For past winning projects &amp; submissions of the National HIP Medals, check them out on the <b>CHI Learning &amp; Development (CHILD) system</b> where we host over 1,000 healthcare innovation projects from across Singapore.
-## Queries
-If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg
+
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	width=100%;
+	color: #484848;
+	transition: ease .8s;
+	font-size: 1.25em;
+	text-align: left;
+}
+
+label:hover {
+	background: #BD2D37;
+	color: #FFF;
+	transition: ease .8s;
+	text-align: left;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+<!-- End of accordion -->
+
+<div class="container">
+
+
+
+<div>
+	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
+	<div class="accordion-content">
+	<div class="para">This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. 
+</div>
+	</div>
+	<input id="title2" type="checkbox"><label for="title2">Learn More</label>
+	<div class="accordion-content">
+	<div class="para">For past winning projects &amp; submissions of the National HIP Medals, check them out on the<a href="platform"> <b>CHI Learning &amp; Development (CHILD) system</b></a> where we host over 1,000 healthcare innovation projects from across Singapore.
+</div>
+	</div>
+	<input id="title3" type="checkbox"><label for="title3">Queries</label>
+	<div class="accordion-content">
+	<div class="para">If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg
+</div>
+	</div>
+
+</div></div></div>
