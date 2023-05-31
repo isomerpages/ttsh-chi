@@ -10,16 +10,26 @@ The environment confronting business leaders of today continues to be volatile. 
 ## Programme Focus 
 This Multilevel design is built on collective leadership mental models, language, and tools, incorporating case studies, Action-Learning Projects (ALP), learning journals, coaching and fireside chats, to drive Learning Without Walls:
 
-
-
-
-
-| Leading Self (3 Days) <br>Strengthening collective leadership in teams, amid disruption and transformation  | Leading Together (4 days) ​<br>Increasing self-awareness and developing personal effectiveness | Leading Organisation (5 days) <br> Develop industry, system-wide and enterprise mindsets for healthcare leaders |
-| -------- | -------- | -------- |
-| 	• Values, Traits &amp; Leadership Behaviours<br>•	Personal Effectiveness &amp; Collective Leadership<br>•	Cultural Intelligence     | •	Building Effective Teams​<br>•	Communicating with Impact<br>•	Leading Change<br> •	 Leading in Times of Disruption    | •	Systems Thinking &amp; Healthcare Economics<br> •	Healthcare Strategy &amp; Strategic Thinking<br>•	Transforming Healthcare Operations<br> •	Transforming Healthcare Finance<br>•	Capstone: Business Simulation   |
-
-
-
+<table class="table">
+  <thead bgcolor="grey">
+    <tr>
+      <th scope="col">Leading Self (3 Days) <br>Strengthening collective leadership in teams, amid disruption and transformation</th>
+      <th scope="col">Leading Together (4 days) ​<br>Increasing self-awareness and developing personal effectiveness ​ <br> Synthesize new knowledge and tools to develop solutions</th>
+      <th scope="col">Leading Organisation (5 days)
+Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>Exchange knowledge and build upon ideas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">• Values, Traits &amp; Leadership Behaviours
+• Personal Effectiveness &amp; Collective Leadership
+• Cultural Intelligence
+      </td><td> •	Building Effective Teams​<br>•	Communicating with Impact<br>•	Leading Change<br> •	 Leading in Times of Disruption   </td>
+      <td> •	Systems Thinking &amp; Healthcare Economics<br> •	Healthcare Strategy &amp; Strategic Thinking<br>•	Transforming Healthcare Operations<br> •	Transforming Healthcare Finance<br>•	Capstone: Business Simulation  </td>
+    </tr>
+   
+  </tbody>
+</table>
 
 
 ### Testimonials from past graduates
