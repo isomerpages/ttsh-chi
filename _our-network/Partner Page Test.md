@@ -5,7 +5,7 @@ description: ""
 ---
 dasdasdasfwef
 <table class="table">
-  <thead class="table-light">
+  <thead bgcolor="grey">
     <tr>
       <th scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
       <th scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
