@@ -227,13 +227,24 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   ul.jekyllcodex_accordion li:hover label {
       color: #037E8A;
   }
-</style>
+    .image {
+      flex: 0 0 auto;
+      margin-right: 10px;
+    }
+
+    .text {
+      flex: 1 1 auto;
+      text-align: right;
+    }
+  </style>
+
 
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
   <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass </label>
    <div style="text-align: right;">
+		 <img style="width: 416px;" src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="Photograph of Team SUStain members">
     <strong>
         Champion - Team SUStain
     </strong>
@@ -242,18 +253,9 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
         Nanyang Girls’ High School
     </span>
 </div>
-<img style="align: left; text-align: right; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img style="width: 416px;" src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="Photograph of Team SUStain members">
-    <br>
-    <span style="font-style: italic;">
-        Members: (L to R) Tan Hong Yu, Sophie Tung Xuan Ying
-    </span>
 
- 
-<div style="text-align: center;">
-    Team SUStain was crowned the champion for their innovative ideas such as the use of hydrogen, a low-carbon energy source, and electrified transportation to further lower Singapore’s carbon emissions. 
-    <br>
-</div>
+
+
 
 
 <hr>
