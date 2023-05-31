@@ -26,13 +26,13 @@ sections:
       key_highlights:
         - title: To Promote a Culture of Innovation
           description: ""
-          url: ""
+          url: /about-us/our-purpose/
         - title: To Achieve Better Health and Healthcare
           description: ""
-          url: ""
+          url: /about-us/our-purpose/
         - title: To Catalyse Value-Based Outcomes
           description: ""
-          url: ""
+          url: /about-us/our-purpose/
       background: /images/Draft Home Banner.jpg
   - infopic:
       title: CHI INNOVATE 2023
@@ -43,16 +43,6 @@ sections:
       url: https://chiinnovate2023.klobbi.com/
       image: /images/r-innovate23.png
       alt: Image alt text
-  - infobar:
-      title: About Us
-      description: Learn more about how CHI operates
-      button: Learn more
-      url: /about-us/our-purpose/
   - resources:
       title: Our Latest News
-  - infobar:
-      title: Join our mailing list!
-      description: Sign up for our mailing list and be updated
-      button: Sign up
-      url: https://for.sg/chi-mailinglist
 ---
