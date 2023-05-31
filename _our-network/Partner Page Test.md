@@ -176,78 +176,24 @@ input:checked + label + .accordion-content {
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Healthcare Partners</label>
 	<div class="accordion-content">
-		<p>
-<br>
-</p><div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>Qulturum</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
+	<table class="table">
+  <thead bgcolor="white">
+    <tr>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br>
+      </td><td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
+      <td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
+    </tr>
+   
+  </tbody>
+</table>
 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/"><img alt="CHI Living Lab" src="/images/CHI%20Logo.png"></a><br>
-		<div class="header"><b>CHI <br></b></div><br>
-		<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.” 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">We hope what SSB bring to CHI is to share this best practice we brought in from Stanford University and silicon valley and hopefully share some of our experiences teaching and training med-tech innovators in Singapore with a cross disciplinary team.”.
-</div>
-<br></div></div>
-
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br></div></div>
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.linkedin.com/company/14607710/admin/"><img alt="CHI" src="/images/CHI%20Logo.png"></a><br>
-	<div class="header"><b>CHI</b></div><br>
-	<div class="para">CHI Logo and smth.
-</div>
-<br>
-	
-
-
-
-</div></div>
 		<p></p>
 	</div>
 	<input id="title3" type="checkbox"><label for="title3">Academic Partners</label>
