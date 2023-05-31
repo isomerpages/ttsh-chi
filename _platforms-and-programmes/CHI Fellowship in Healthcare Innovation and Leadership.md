@@ -13,9 +13,23 @@ Participants will engage with thought leaders and work with experienced practiti
 
 
 
-| Learn (Week 1-4) <br> Introduction to various tools and methodologies  | Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions  | Share (Week 7-16) ​<br>Exchange knowledge and build upon ideas  |
-| -------- | -------- | -------- |
-| Care &amp; Process Redesign​<br>•	Lean in Practice<br> •	Improvement Science<br><br>Collective Leadership<br>•	Know Thy Self   | Automation, IT, Robotic Innovation <br> •	Introduction to Automation &amp; IT <br>•	Management of Digital Innovation<br><br>Job Redesign<br>•	Translating Design into Implementation<br>•	Job Instructions / Relations / Method | Project Development<br>•	Mentoring by Project Mentor  <br><br>Peer Review <br> Panel Critique   |
+<table class="table">
+  <thead bgcolor="grey">
+    <tr>
+      <th scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
+      <th scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
+      <th scope="col">Share (Week 7-16) ​<br>Exchange knowledge and build upon ideas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">Care &amp; Process Redesign​<br>•	Lean in Practice<br> •	Improvement Science<br><br>Collective Leadership<br>•	Know Thy Self
+      </td><td>Automation, IT, Robotic Innovation <br> •	Introduction to Automation &amp; IT <br>•	Management of Digital Innovation<br><br>Job Redesign<br>•	Translating Design into Implementation<br>•	Job Instructions / Relations / Method </td>
+      <td>Project Development<br>•	Mentoring by Project Mentor  <br><br>Peer Review <br> Panel Critique   </td>
+    </tr>
+   
+  </tbody>
+</table>
 
 
 
