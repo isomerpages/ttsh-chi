@@ -3,7 +3,8 @@ title: Partner Page Test
 permalink: /our-network/permalink/
 description: ""
 ---
-dasdasdasfwef<table class="table">
+dasdasdasfwef
+<table class="table">
   <thead>
     <tr>
       <th scope="col">#</th>
