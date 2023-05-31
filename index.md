@@ -37,7 +37,8 @@ sections:
   - infopic:
       title: CHI INNOVATE 2023
       subtitle: Upcoming events
-      description: Happening on Friday, 28th July 2023
+      description: "Building Bridges: Health & Social Care Happening on Friday, 28th
+        July 2023"
       button: learn more
       url: https://chiinnovate2023.klobbi.com/
       image: /images/r-innovate23.png
