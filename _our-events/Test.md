@@ -243,13 +243,19 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   
   <!-- Beginning of accordion tab -->
   <li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass </label>
-   <img width="100" src="/images/CHI%20Logo.png" style="float: left; margin: 0px 15px 15px 0px;">
-dsadasdasdasfdasfafasf
-    
+<style>
+img {
+  float: left;
+}
+</style>
 
 
 
+<p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="pineapple.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
+
+   
 
 
 <hr>
