@@ -242,27 +242,24 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-  <li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass </label>
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass </label>
 <style>
 img {
   float: left;
 }
-</style>
-
-
-
-<p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="pineapple.jpg">
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="pineapple.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
-
-   
-
-
 <hr>
-			
+
  </li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
     <div><p><strong>27 March 2023</strong></p>			 
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="pineapple.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 	</div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass </label>
