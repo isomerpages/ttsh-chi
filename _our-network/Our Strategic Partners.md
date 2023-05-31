@@ -250,9 +250,9 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.singaporetech.edu.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></a><br>
-		<div class="header"><b>Singapore Institute of Technology <br></b></div><br>
-		<div class="para">The Singapore Institute of Technology is Singapore’s first University of Applied Learning, offering specialised degree programmes that prepare its graduates to be work-ready professionals. With a mission to develop individuals and innovate with industry to impact the economy and society in meaningful ways, SIT aims to also be a leader in innovative workplace learning and applied research.
+<a href="https://www.ntuclearninghub.com/healthcare-academy"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></a><br>
+		<div class="header"><b>Healthcare Academy <br></b></div><br>
+		<div class="para">Healthcare Academy is a collaboration among Healthcare Services Employees' Union (HSEU), Employment and Employability Institute (e2i) and NTUC LearningHub (LHUB). Healthcare Academy endeavours to: Support continuous learning for healthcare workers, especially those affected by industry restructuring, job re-design and technological disruptions. 
 </div>
 <br>
 
@@ -274,8 +274,8 @@ By being on the ground, we work closely with our service users, community partne
 
 </div>
 	<div class="col"> 
-<a href="https://www.nyp.edu.sg/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/nanyang%20poly.svg"></a><br>
-	<div class="header"><b>Nanyang Polytechnic  </b></div><br>
+<a href="https://www.singaporetech.edu.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></a><br>
+	<div class="header"><b>Singapore Institute of Technology  </b></div><br>
 	<div class="para">Nanyang Polytechnic's (NYP) academic schools offer quality education and training through more than 40 full-time diploma courses and common entry programmes. NYP also has a full suite of continuing education and training (CET) options for lifelong learning, ranging from specialist and advanced diplomas, to SkillsFuture modules and courses.
 </div>
 <br>
