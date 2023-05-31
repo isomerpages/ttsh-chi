@@ -352,27 +352,34 @@ Innovation Norway create value by stimulating to profitable business development
 
 </div>
 	<div class="col"> 
-<a href="https://www.startupreseau.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/startup.svg"></a><br>
-	<div class="header"><b>Startup Réseau </b></div><br>
-	<div class="para">Startup Réseau is the entrepreneurial venture of 2 professionals from the startup ecosystem, who have earlier successfully built India's top meta-accelerator. The founding team boasts of rich and diverse experience, and a global network of startup ecosystem enablers, founders, investors, corporates, universities and governments. Built on the founding pillar of #StartupsFirst, "Startup Réseau" is a network of Startups, Enterprises, Capital, Markets, and Services – bringing in a structured interface for enabling unique linkages.
+<a href="https://smartlab.expert/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/startup.svg"></a><br>
+	<div class="header"><b>SMARTLab   </b></div><br>
+	<div class="para">The Smart Urban Co-Innovation Lab is Southeast Asia’s first industry-led lab for smart city solutions development initiated by CapitaLand Investment (CLI) and supported by CapitaLand Ascendas Real Estate Investment Trust, Infocomm Media Development Authority and Enterprise Singapore. 
 </div>
 <br>
 </div>
 	<div class="col"> 
-<a href="https://www.tembusutech.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/tembusu.svg"></a><br>
-	<div class="header"><b>Singapore Tembusutech Innovation (STI)</b></div><br>
-	<div class="para">
+<a href="https://www.startupreseau.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/startup.svg"></a><br>
+	<div class="header"><b>Startup Réseau</b></div><br>
+	<div class="para">Startup Réseau is the entrepreneurial venture of 2 professionals from the startup ecosystem, who have earlier successfully built India's top meta-accelerator. The founding team boasts of rich and diverse experience, and a global network of startup ecosystem enablers, founders, investors, corporates, universities, and governments. 
 </div>
 <br>
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="https://tla.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek%20life%20science.svg"></a><br>
-	<div class="header"><b>Temasek Life Sciences Accelerator </b></div><br>
-	<div class="para">Temasek Life Sciences Accelerator (TLA), a joint venture between Temasek Life Sciences Laboratory (TLL) and Vertex Holdings (VH), is Singapore’s first agri-bio-sci-tech incubator that aims to incubate, nurture and grow disruptive life science innovations into early stage companies, with the vision of becoming tomorrow’s champion.
+<a href="https://www.tembusutech.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/tembusu.svg"></a><br>
+	<div class="header"><b>Singapore Tembusutech Innovation (STI) </b></div><br>
+	<div class="para">STI is a venture builder, technology transfer and investment launchpad for entrepreneurs and startups to reach new heights in China, Singapore and Southeast Asia. 
 </div>
 <br>
 
+</div>
+	<div class="col"> 
+<a href="https://tla.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek%20life%20science.svg"></a><br>
+	<div class="header"><b>Temasek Life Sciences Accelerator </b></div><br>
+	<div class="para">Temasek Life Sciences Accelerator (TLA), a joint venture between Temasek Life Sciences Laboratory (TLL) and Vertex Holdings (VH), is Singapore’s first agri-bio-sci-tech incubator that aims to incubate, nurture and grow disruptive life science innovations into early stage companies, with the vision of becoming tomorrow’s champion. 
+</div>
+<br>
 </div>
 	<div class="col"> 
 <a href="https://www.ventureblick.com"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/venture.svg"></a><br>
@@ -380,27 +387,21 @@ Innovation Norway create value by stimulating to profitable business development
 	<div class="para">We help healthcare startups get funding, market insights, and customer validation through our platform and professional community. 
 </div>
 <br>
-</div>
-	<div class="col"> 
-<a href="https://www.vertexventures.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/vertex.svg"></a><br>
-	<div class="header"><b>Vertex Ventures </b></div><br>
-	<div class="para">We serve as trusted partners to some of the world’s most innovative entrepreneurs, supporting them with unmatched operating experience and deep access to the capital, talent, partners and customers they need to build truly global businesses.
-</div>
-<br>
 <br></div></div>	
 <div class="row">
 <div class="col"> 
-<a href="http://wavemaker.vc/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/wavemaker.svg"></a><br>
-	<div class="header"><b>Wavemaker Group </b></div><br>
-	<div class="para">Wavemaker Group is a multi-faceted cross border venture capital firm founded in 2003. The firm is dual headquartered in Los Angeles and Singapore and has raised over $600M across multiple funds. We currently have a team of more than 80 people across our various practices.. Wavemaker is one of the most active early-stage investors in Southern California and Southeast Asia and has invested in over 400 companies in the last 18 years.
+<a href="https://www.vertexventures.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/vertex.svg"></a><br>
+	<div class="header"><b>Vertex Ventures </b></div><br>
+	<div class="para">We serve as trusted partners to some of the world’s most innovative entrepreneurs, supporting them with unmatched operating experience and deep access to the capital, talent, partners, and customers they need to build truly global businesses.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
+		<a href="http://wavemaker.vc/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/wavemaker.svg"></a><br>
 <br>
-	<div class="header"><b> </b></div><br>
-	<div class="para">
+	<div class="header"><b>Wavemaker Group </b></div><br>
+	<div class="para">Wavemaker Group is a multi-faceted cross border venture capital firm founded in 2003. The firm is dual headquartered in Los Angeles and Singapore and has raised over $600M across multiple funds. Wavemaker is one of the most active early-stage investors in Southern California and Southeast Asia and has invested in over 400 companies in the last 18 years.
 </div>
 <br>
 </div>
