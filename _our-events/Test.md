@@ -206,9 +206,35 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass </label>
     <div><p><strong>27 March 2023</strong></p>
 
-| ||  |
-| -------- | -------- | -------- |
-|![](/images/CHI%20Logo.png) | **[CHI](https://www.chi.sg/)**. TestTestTestTestTestTestTestTest.|
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
