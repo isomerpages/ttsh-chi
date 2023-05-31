@@ -5,36 +5,7 @@ description: ""
 ---
 # CHI MASTERCLASS
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
-   <table class="table">
-      <thead>
-        <tr>
-          <th scope="col">#</th>
-          <th scope="col">First</th>
-          <th scope="col">Last</th>
-          <th scope="col">Handle</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-        </tr>
-        <tr>
-          <th scope="row">2</th>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-        </tr>
-        <tr>
-          <th scope="row">3</th>
-          <td colspan="2">Larry the Bird</td>
-          <td>@twitter</td>
-        </tr>
-      </tbody>
-    </table>
-<p></p>
+  
 
 <h2 id="a">Upcoming Masterclass</h2>
 
@@ -269,7 +240,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -280,7 +251,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/12th%20masterclass.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
