@@ -300,18 +300,43 @@ By being on the ground, we work closely with our service users, community partne
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.sthealthcare.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
-	<div class="header"><b>ST Healthcare</b></div><br>
-	<div class="para">ST Healthcare (STHC), a subsidiary of ST Logistics, envisions to bring value to healthcare institutions by improving healthcare supply chain processes and to be an enabler to healthier living. We strive to transform Singapore’s current multi-layered healthcare supply chain into seamless, “from factory floor to bedside” end-to-end integrated system. 
+<a href="https://designsingapore.org/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
+	<div class="header"><b>Design Singapore Council</b></div><br>
+	<div class="para">As Singapore's national agency for design, we champion the use of design to grow business, spur innovation, and improve lives. We are passionate about unleashing the power of design to drive growth and economic success, bring people together and improve lives.
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://designsingapore.org/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/designsg.svg"></a><br>
-		<div class="header"><b>Design Singapore Council <br></b></div><br>
-		<div class="para">As Singapore's national agency for design, we champion the use of design to grow business, spur innovation, and improve lives. We are passionate about unleashing the power of design to drive growth and economic success, bring people together and improve lives.
+<a href="https://www.enterprisesg.gov.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></a><br>
+		<div class="header"><b>Enterprise Singapore <br></b></div><br>
+		<div class="para">We champion enterprise development and work with committed companies to build capabilities, innovate and go global. We also support the growth of Singapore as a hub for global trading and startups. As the national standards and accreditation body, we continue to build trust in Singapore’s products and services through quality and standards. 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.ihis.com.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></a><br>
+	<div class="header"><b>Integrated Health Information Systems</b></div><br>
+	<div class="para">IHiS is a leading healthcare technology firm that integrates resilient, intelligent, secure, and cost-effective technology with people and processes to make healthcare more efficient, more inclusive, more accessible, and safer for patients. IHiS supports more than 70,000 healthcare users in Singapore's public healthcare sector to bring about healthcare transformation through the use of technology.
+</div>
+<br></div></div>
+
+
+<div class="row">
+<div class="col"> 
+<a href="https://www.a-star.edu.sg/sb/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
+	<div class="header"><b>Singapore Biodesign</b></div><br>
+	<div class="para">Modelled after the established Biodesign Programme at Stanford University, Singapore Biodesign is the first Asian Global Affiliate of the renowned Stanford for Byers Center for Biodesign Programme and is recognised as a national-level talent development platform for healthtech innovation training in Singapore with the aim to train and nurture the next generation of healthtech innovators for Asia..
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.sthealthcare.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></a><br>
+	<div class="header"><b>ST Healthcare</b></div><br>
+	<div class="para">ST Healthcare (STHC), a subsidiary of ST Logistics, envisions to bring value to healthcare institutions by improving healthcare supply chain processes and to be an enabler to healthier living. We strive to transform Singapore’s current multi-layered healthcare supply chain into seamless, “from factory floor to bedside” end-to-end integrated system. 
 </div>
 <br>
 
@@ -320,31 +345,6 @@ By being on the ground, we work closely with our service users, community partne
 <a href="https://www.wsg.gov.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></a><br>
 	<div class="header"><b>Workforce Singapore</b></div><br>
 	<div class="para">Workforce Singapore (WSG) is a statutory board under the Ministry of Manpower that oversees the transformation of the local workforce and industry to meet ongoing economic challenges. WSG promotes the development, competitiveness, inclusiveness, and employability of all levels of the workforce to ensure all sectors of the economy are supported by a strong, inclusive Singaporean core.
-</div>
-<br></div></div>
-
-
-<div class="row">
-<div class="col"> 
-<a href="https://www.ihis.com.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></a><br>
-	<div class="header"><b>Integrated Health Information Systems</b></div><br>
-	<div class="para">IHiS is a leading healthcare technology firm that integrates resilient, intelligent, secure, and cost-effective technology with people and processes to make healthcare more efficient, more inclusive, more accessible, and safer for patients. IHiS supports more than 70,000 healthcare users in Singapore's public healthcare sector to bring about healthcare transformation through the use of technology.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.a-star.edu.sg/sb/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></a><br>
-	<div class="header"><b>Singapore Biodesign</b></div><br>
-	<div class="para">Modelled after the established Biodesign Programme at Stanford University, Singapore Biodesign is the first Asian Global Affiliate of the renowned Stanford for Byers Center for Biodesign Programme and is recognised as a national-level talent development platform for healthtech innovation training in Singapore with the aim to train and nurture the next generation of healthtech innovators for Asia.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.enterprisesg.gov.sg/"><img alt="CHI" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></a><br>
-	<div class="header"><b>Enterprise Singapore</b></div><br>
-	<div class="para">We champion enterprise development and work with committed companies to build capabilities, innovate and go global. We also support the growth of Singapore as a hub for global trading and startups. As the national standards and accreditation body, we continue to build trust in Singapore’s products and services through quality and standards. 
 </div>
 </div></div><p></p>
 	</div>
