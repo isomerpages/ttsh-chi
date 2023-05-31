@@ -24,6 +24,28 @@ dasdasdasfwef
 
 
 
+<table class="table table-borderless">
+  <thead>
+    <tr>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></a></th>
+      <th scope="col"><a href="https://www.doverpark.org.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></a></th>
+      <th scope="col"><a href="https://www.imperial.nhs.uk/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><a href="https://www.kwsh.org.sg/en/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></a>
+      </td><td><a href="https://mws.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></a></td>
+      <td><a href="https://corp.nhg.com.sg/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></a></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+
+
+
+
 CHI Co-Learning Network
 =================
 
