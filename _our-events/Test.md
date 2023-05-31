@@ -233,47 +233,37 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   
   <!-- Beginning of accordion tab -->
   <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass </label>
-    <div><p><strong>27 March 2023</strong></p>
-		<table class="table">
-      <thead>
-        <tr>
-          <th scope="col">#</th>
-          <th scope="col">First</th>
-          <th scope="col">Last</th>
-          <th scope="col">Handle</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-        </tr>
-        <tr>
-          <th scope="row">2</th>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-        </tr>
-        <tr>
-          <th scope="row">3</th>
-          <td colspan="2">Larry the Bird</td>
-          <td>@twitter</td>
-        </tr>
-      </tbody>
-    </table>
+   <div style="text-align: right;">
+    <strong>
+        Champion - Team SUStain
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Nanyang Girls’ High School
+    </span>
+</div>
+<img style="align: left; text-align: right; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="Photograph of Team SUStain members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Tan Hong Yu, Sophie Tung Xuan Ying
+    </span>
+
+ 
+<div style="text-align: center;">
+    Team SUStain was crowned the champion for their innovative ideas such as the use of hydrogen, a low-carbon energy source, and electrified transportation to further lower Singapore’s carbon emissions. 
+    <br>
+</div>
 
 
 <hr>
 			
- </div></li><li><input type="checkbox" id="accordion-b2"><label for="accordion-b2">14th Masterclass</label>
-    <div><p><strong>27 March 2023</strong></p>
-<div>
+ </li><li><input type="checkbox" id="accordion-b2"><label for="accordion-b2">14th Masterclass</label>
+    <div><p><strong>27 March 2023</strong></p>			 
 <p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
 
 <hr>
-	</div></div></li><li><input type="checkbox" id="accordion-b3"><label for="accordion-b3">13th Masterclass </label>
+	</div></li><li><input type="checkbox" id="accordion-b3"><label for="accordion-b3">13th Masterclass </label>
     <div><p><strong>27 March 2023</strong></p>
 <img alt="15th CHI Masterclass" src="/images/Masterclass/15%20masterclass_patrick.jpg">
 <p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
