@@ -353,27 +353,27 @@ By being on the ground, we work closely with our service users, community partne
 		<p><br>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.jnj.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
-	<div class="header"><b>Johnson &amp; Johnson</b></div><br>
-	<div class="para">Today, as the world’s largest and most broadly based healthcare company, we are committed to using our reach and size for good. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere. 
+<a href="https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral/"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
+	<div class="header"><b>A*START Central</b></div><br>
+	<div class="para">A*StartCentral (A*SC) is an open innovation platform by the Agency for Science Technology and Research (A*STAR). We aim to incubate and accelerate the growth of deep-tech startups, and bolster the startup ecosystem. A*SC fosters interaction between researchers, corporates, startups, investors, and entrepreneurs across diverse disciplines.
 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="https://www.jnj.com/"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/johnson.svg"></a><br>
+		<div class="header"><b>Johnson &amp; Johnson <br></b></div><br>
+		<div class="para">Today, as the world’s largest and most broadly based healthcare company, we are committed to using our reach and size for good. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere. 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
 <a href="https://sg.nec.com/"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></a><br>
-		<div class="header"><b>NEC Asia Pacific <br></b></div><br>
-		<div class="para">As a leading information and communications technology provider, NEC APAC provides innovative solutions and infrastructure to promote safety, security and enhance the quality of life for individuals and the community
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.philips.com.sg/"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
-	<div class="header"><b>Philips Electronics Singapore
+	<div class="header"><b>NEC Asia Pacific
 </b></div><br>
-	<div class="para">At Philips, our innovations are driven by consumer and customer needs. Helping people to live healthily and prevent disease. Giving clinicians the tools they need to make a precision diagnosis and deliver personalized treatment. Aiding the patient's recovery at home in the community. All supported by a seamless flow of data. 
+	<div class="para">As a leading information and communications technology provider, NEC APAC provides innovative solutions and infrastructure to promote safety, security and enhance the quality of life for individuals and the community.
 
 </div>
 <br></div></div>
@@ -381,6 +381,14 @@ By being on the ground, we work closely with our service users, community partne
 
 <div class="row">
 <div class="col"> 
+<a href="https://www.philips.com.sg/"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Industry%20Knowledge/philips.svg"></a><br>
+	<div class="header"><b>Philips Electronics Singapore</b></div><br>
+	<div class="para">At Philips, our innovations are driven by consumer and customer needs. Helping people to live healthily and prevent disease. Giving clinicians the tools they need to make a precision diagnosis and deliver personalized treatment. Aiding the patient's recovery at home in the community. All supported by a seamless flow of data. 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
 <a href="https://www.pwc.com/sg/en/industries/healthcare.html"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></a><br>
 	<div class="header"><b>PricewaterhouseCoopers Consulting (Singapore)</b></div><br>
 	<div class="para">PwC provides health organisations with professional guidance not just on healthcare issues in their local markets but also about operating in global markets including a broad mix of service lines that may include manufactured goods, retail, mobile communication devices, and information systems. PwC brings a world of multiple-industry experience to its healthcare engagements.
@@ -393,14 +401,6 @@ By being on the ground, we work closely with our service users, community partne
 	<div class="header"><b>Workplace by Facebook</b></div><br>
 	<div class="para">It’s not just Meta’s familiar and easy-to-use technology that makes Workplace unique. Our tools and features help to enhance your employee experience, so your people feel more inspired to do their best work.
 </div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral/"><img style="width:150px; height:180px; padding-top:8%;" alt="CHI" src="/images/Logos/Strategic%20Partners/accelerate.svg"></a><br>
-	<div class="header"><b>A*START Central</b></div><br>
-	<div class="para">A*StartCentral (A*SC) is an open innovation platform by the Agency for Science Technology and Research (A*STAR). We aim to incubate and accelerate the growth of deep-tech startups, and bolster the startup ecosystem. A*SC fosters interaction between researchers, corporates, startups, investors, and entrepreneurs across diverse disciplines.
-</div>
 
 </div></div><p></p>
 	</div>
@@ -409,18 +409,18 @@ By being on the ground, we work closely with our service users, community partne
 		<p>
 </p><div class="row">
 <div class="col"> 
-<a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/Pages/Centre-for-Asian-Nursing-Studies-CANS.aspx#:~:text=Here%20at%20CANS%2C%20we%20empower,%2C%20infectious%20diseases%2C%20and%20frailty."><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canslogo.svg"></a><br>
-<div class="header"><b>Centre for Asian Nursing Studies (CANS)</b></div><br>
-<div class="para">CANS empower nurses to be changemakers who improve key health outcomes. We are aligned with the foci of Singapore's healthcare sphere, namely in the clinical care streams of wound, diabetes mellitus, population health, infectious diseases, and frailty.
+<a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/CAPE/Pages/default.aspx"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capelogo.svg"></a><br>
+<div class="header"><b>Centre for Allied Health and Pharmacy Excellence (CAPE)</b></div><br>
+<div class="para">CAPE is a new strategic platform to further innovation efforts in Allied Health and Pharmacy. CAPE provides an exciting platform for Allied Health Professionals and Pharmacists to drive innovation and training in health-social care integration, with the aim of optimising independence and quality of life for our population.
 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/CAPE/Pages/default.aspx"><img alt="CHI Living Lab" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capelogo.svg"></a><br>
-		<div class="header"><b>Centre for Allied Health and Pharmacy Excellence (CAPE) <br></b></div><br>
-		<div class="para">CAPE is a new strategic platform to further innovation efforts in Allied Health and Pharmacy. CAPE provides an exciting platform for Allied Health Professionals and Pharmacists to drive innovation and training in health-social care integration, with the aim of optimising independence and quality of life for our population.
+<a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/Pages/Centre-for-Asian-Nursing-Studies-CANS.aspx#:~:text=Here%20at%20CANS%2C%20we%20empower,%2C%20infectious%20diseases%2C%20and%20frailty."><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canslogo.svg"></a><br>
+		<div class="header"><b>Centre for Asian Nursing Studies (CANS) <br></b></div><br>
+		<div class="para">CANS empower nurses to be changemakers who improve key health outcomes. We are aligned with the foci of Singapore's healthcare sphere, namely in the clinical care streams of wound, diabetes mellitus, population health, infectious diseases, and frailty.
 </div>
 <br>
 
@@ -440,20 +440,21 @@ By being on the ground, we work closely with our service users, community partne
 <a href="https://corp.nhg.com.sg/CMTI/Pages/default.aspx"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/cmticmti.svg"></a><br>
 	<div class="header"><b>Centre for Medical Technologies &amp; Innovations (CMTi)</b></div><br>
 	<div class="para">CMTi plays an integral role in the innovation ecosystem to help facilitate the development of innovative MedTech solutions that can address unmet healthcare needs and contribute to improved patient and healthcare outcomes. 
+
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://www.ntu.edu.sg/alive"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivegames.svg"></a><br>
-	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
-	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between LKCMedicine and its primary healthcare partner - the National Healthcare Group (NHG). It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and community resources for the scientific validation, research and implementation of healthcare serious games initiatives for better healthcare outcomes.
+<a href="https://www.linkedin.com/in/flying-chi-45450020a/?originalSubdomain=sg"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></a><br>
+	<div class="header"><b>FLYING</b></div><br>
+	<div class="para">Future Leaders &amp; Young Innovators Guild (FLYING) brings generations of future leaders and innovators together to build, transform and lead the health of tomorrow. 
 </div>
 <br>
 </div>
 <div class="col"> 
-<a href="https://www.linkedin.com/in/flying-chi-45450020a/?originalSubdomain=sg"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></a><br>
-	<div class="header"><b>FLYING</b></div><br>
-	<div class="para">Future Leaders &amp; Young Innovators Guild (FLYING) brings generations of future leaders and innovators together to build, transform and lead the health of tomorrow. 
+<a href="https://www.ntu.edu.sg/alive"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivegames.svg"></a><br>
+	<div class="header"><b>gAmes for heaLth InnovAtions cEntre (ALIVE)</b></div><br>
+	<div class="para">The gAmes for heaLthInnoVationscEntre (ALIVE) is a collaboration between LKCMedicine and its primary healthcare partner - the National Healthcare Group (NHG). It brings together healthcare providers, academic institutions and industry partners with supporting government agencies and community resources for the scientific validation, research and implementation of healthcare serious games initiatives for better healthcare outcomes.
 </div><br>
 </div></div></div></div></div>
