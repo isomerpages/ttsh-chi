@@ -16,9 +16,24 @@ We believe in knowledge sharing and learning together. At CHI, there are no bord
 # Our Purpose
 ##### To spearhead change towards sustainable, value-based systems
 
-| To Promote a Culture of Innovation | To Achieve Better Health and Healthcare | To Catalyse Value-Based Outcomes |
-| -------- | -------- | -------- |
-| By creating thought leadership; via focused partnerships and a flywheel of co-learning networks    | By enabling workforce transformation; via new andragogy and paradigms for our communities of carers and patients.     | By effecting systems-level change; via impactful programmes that drive innovation adoption and knowledge translation.    |
+<table class="table">
+  <thead bgcolor="grey">
+    <tr>
+      <th scope="col">To Promote a Culture of Innovation</th>
+      <th scope="col">To Achieve Better Health and Healthcare<br> Synthesize new knowledge and tools to develop solutions</th>
+      <th scope="col">To Catalyse Value-Based Outcomes<br>Exchange knowledge and build upon ideas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">By creating thought leadership; via focused partnerships and a flywheel of co-learning networks
+      </td><td>By enabling workforce transformation; via new andragogy and paradigms for our communities of carers and patients.</td>
+      <td>By effecting systems-level change; via impactful programmes that drive innovation adoption and knowledge translation.  </td>
+    </tr>
+   
+  </tbody>
+</table>
+
 
 # CHI Innovation Cycle
 #####  System Innovation
