@@ -3,7 +3,54 @@ title: Partner Page Test
 permalink: /our-network/permalink/
 description: ""
 ---
-dasdasdasfwef
+<style>
+.button {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 15px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
+
+.active, .button:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+</style>
+
+<a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br>
+
+<table class="table">
+  <thead bgcolor="white">
+    <tr>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br>
+      </td><td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
+      <td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+
+
 <table class="table">
   <thead bgcolor="grey">
     <tr>
