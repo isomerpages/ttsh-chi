@@ -245,7 +245,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 
 <hr>
 			
- </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b1">12th Masterclass</label>
+ </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">12th Masterclass</label>
      <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
