@@ -5,7 +5,6 @@ description: ""
 ---
 <style>
 .button {
-  color: #444;
   cursor: pointer;
   padding: 15px;
   width: 100%;
