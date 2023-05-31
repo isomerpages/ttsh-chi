@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CHI Conference/.keep
-      - Past CHI Innovate Conferences.md
       - CHI Conference (CHI INNOVATE).md
       - CHI Masterclass.md
       - CHI Masterclass (finalized).md
