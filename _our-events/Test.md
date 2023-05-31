@@ -205,7 +205,6 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   <!-- Beginning of accordion tab -->
   <li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass </label>
     <div><p><strong>27 March 2023</strong></p>
-			<br>
 
 | ![](/images/Masterclass/15%20masterclass_patrick.jpg) | dsadsadsadsa | 
 | -------- | -------- | 
