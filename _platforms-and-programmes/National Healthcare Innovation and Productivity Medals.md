@@ -10,9 +10,36 @@ Organised by the Centre for Healthcare Innovation and supported by the Ministry 
 <br>
  	About the Medal 
 The Medals recognise teams who achieve excellence in 3 award categories:
-<br>1.	Care Redesign (CR)
-<br>2.	Automation, IT and Robotics Innovation (AIR)
-<br>3.	Workforce Transformation (WT)
+
+<style>
+.button {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 15px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 18px;
+  transition: 0.4s;
+}
+
+.active, .button:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+</style>
+
+<button class="button button1">Care Redesign (CR)</button>
+<button class="button button2">Automation, IT and Robotics Innovation (AIR)</button>
+<button class="button button3">Workforce Transformation (WT)</button>
 
 <br>
 Here’s a snapshot of our winning teams from past years:
