@@ -31,7 +31,7 @@ description: ""
 
 <button class="button button1">250px</button><br>
 
-# CHI Conferences
+# Past CHI Conferences
 
 
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
