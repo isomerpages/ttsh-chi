@@ -243,7 +243,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   
   <!-- Beginning of accordion tab -->
   <li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass </label>
-   <div style="text-align: right"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" width="100">
+   <img width="100" src="/images/Masterclass/15%20masterclass_patrick.jpg" style="float: left; margin: 0px 15px 15px 0px;">
     <strong>
         Champion - Team SUStain
     </strong>
@@ -251,7 +251,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     <span style="font-style: italic;">
         Nanyang Girls’ High School
     </span>
-</div>
+
 
 
 
