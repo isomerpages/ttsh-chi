@@ -242,100 +242,140 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass </label>
-<style>
-img {
-  float: left;
-}
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="pineapple.jpg">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
-
-<hr>
-
- </li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
     <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="pineapple.jpg">
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+
+<hr>
+
+ </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
+    <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 	</div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass </label>
-    <div><p><strong>27 March 2023</strong></p>
-<img src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="15th CHI Masterclass">
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+      <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 			
  </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b1">12th Masterclass</label>
-    <div><p><strong>27 March 2023</strong></p>
-
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+     <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 	</div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">11th Masterclass </label>
-    <div><p><strong>27 March 2023</strong></p>
-<img src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="15th CHI Masterclass">
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+      <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 			
  </div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">10th Masterclass</label>
-    <div><p><strong>27 March 2023</strong></p>
-
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+      <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 		</div></li><li><input id="accordion-b7" type="checkbox"><label for="accordion-b7">9th Masterclass </label>
-    <div><p><strong>27 March 2023</strong></p>
-<img src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="15th CHI Masterclass">
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+      <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 			
  </div></li><li><input id="accordion-b8" type="checkbox"><label for="accordion-b8">8th Masterclass</label>
-    <div><p><strong>27 March 2023</strong></p>
+     <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
-
-<hr>
 <hr>
 		</div></li><li><input id="accordion-b9" type="checkbox"><label for="accordion-b9">7th Masterclass </label>
-    <div><p><strong>27 March 2023</strong></p>
-<img src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="15th CHI Masterclass">
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+     <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 			
  </div></li><li><input id="accordion-b10" type="checkbox"><label for="accordion-b10">6th Masterclass</label>
-    <div><p><strong>27 March 2023</strong></p>
-
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+      <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
-		<hr>
 		</div></li><li><input id="accordion-b11" type="checkbox"><label for="accordion-b11">5th Masterclass </label>
-    <div><p><strong>27 March 2023</strong></p>
-<img src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="15th CHI Masterclass">
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+      <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 			
  </div></li><li><input id="accordion-b12" type="checkbox"><label for="accordion-b12">4th Masterclass</label>
-    <div><p><strong>27 March 2023</strong></p>
-
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
+     <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
-		<hr>
 		</div></li><li><input id="accordion-b13" type="checkbox"><label for="accordion-b13">3rd Masterclass </label>
-    <div><p><strong>27 March 2023</strong></p>
-<img src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="15th CHI Masterclass">
-<p>Centre for Healthcare Innovation The 5Cs of Community Leadership By Mr Patrick Tay<br><br></p>
-
-
+      <div><p><strong>27 March 2023</strong></p>			 
+<style>
+img {
+  float: left;
+}
+</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
 	
