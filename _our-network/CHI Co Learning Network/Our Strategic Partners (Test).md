@@ -325,8 +325,8 @@ input:checked + label + .accordion-content {
       </td><td><a href="https://www.sgc.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20german.svg"></button></a><br></td>
  
  
-    </tr>
-  </tbody>
+
+  </tr></tbody>
 </table>
 		
 
@@ -405,19 +405,30 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="titlefound" type="checkbox"><label for="titlefound">Foundations</label>
 	<div class="accordion-content">
-	<table class="table">
+<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://www.sif.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20international.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.temasekfoundation.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek.svg"></button></a><br></th>
-		      <th scope="col"><a href="https://www.enterprisesg.gov.sg/"></a><br></th>
      
-
-  </tr></thead>
+  </tr></thead><tbody>
+  <tr><td scope="row"><a href="https://www.sif.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20international.svg"></button></a><br>
+      </td><td><a href="https://www.temasekfoundation.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek.svg"></button></a><br></td>
+		      <td><a href=""><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/hd_transparent_picture.png"></button></a><br></td>
  
+ 
+
+  </tr></tbody>
 </table>
 		
 
 </div>
 	</div>
+<div>
+     
+
+  
+ 
+
+		
+
 </div>
+	</div>
