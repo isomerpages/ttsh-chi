@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - CHI Co Learning Network/.keep
       - Our Affiliate Partner Page Test.md
       - Our Strategic Partners (Test).md
       - About the CHI Co Learning Network.md
