@@ -301,7 +301,7 @@ input:checked + label + .accordion-content {
 <h2 id="our-main-plans">CHI Affliate Partners</h2>
 		WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP
 <div>
-		<input id="title1" type="checkbox"><label for="title1">Agencies</label>
+		<input id="title6" type="checkbox"><label for="title6">Agencies</label>
 <div class="accordion-content">
 <table class="table">
   <thead bgcolor="white">
@@ -333,7 +333,7 @@ input:checked + label + .accordion-content {
 </div>
 	</div>
 <div>
-	<input id="title3" type="checkbox"><label for="title3">Industry Partners </label>
+	<input id="title7" type="checkbox"><label for="title7">Industry Partners </label>
 	<div class="accordion-content">
 		<table class="table">
   <thead bgcolor="white">
@@ -403,7 +403,7 @@ input:checked + label + .accordion-content {
 
 </div></div>
 <div>
-	<input id="title4" type="checkbox"><label for="title4">Foundations</label>
+	<input id="title8" type="checkbox"><label for="title8">Foundations</label>
 	<div class="accordion-content">
 	<table class="table">
   <thead bgcolor="white">
