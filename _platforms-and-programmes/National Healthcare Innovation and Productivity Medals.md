@@ -30,3 +30,24 @@ The Medals recognise teams who achieve excellence in 3 award categories:<br>
 <img alt="1st person" src="/images/au_system_innovation.png"><br>
 	<div class="header"><b>
  </b></div><br></div></div>
+ 
+ <table class="table">
+  <thead bgcolor="#FF8686">
+    <tr>
+      <th scope="col">BEST PRACTICE</th>
+      <th scope="col">EXCELLENCE CHAMPION</th>
+      <th scope="col">BEST ADOPTER</th>
+			<th scope="col">SEED FUNDING GRANT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">Project(s) that have demonstrated innovation and productivity for each category in:
+Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformation</td>
+			<td>Project(s) that have demonstrated exceptional innovation, productivity, sustainability, scale and spread in more than one award category</td>
+      <td>Project(s) that have demonstrated track records in adopting/ embracing past awarded solutions </td>
+			<td>This newly introduced grant encourages efforts in innovation and allows seed projects to start</td>
+    </tr>
+   
+  </tbody>
+</table>
