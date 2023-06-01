@@ -6,7 +6,7 @@ description: ""
 ---
 # Our Facilities
 
-The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation hub that grooms the next generation of healthcare professionals through interactive learning, teaching and offering research opportunities. It provides a foundation for team-based learning and collaborations across different medical discipline and using innovative technology to stimulate real-world clinical environment..
+The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation hub that grooms the next generation of healthcare professionals through interactive learning, teaching and offering research opportunities. It provides a foundation for team-based learning and collaborations across different medical discipline and using innovative technology to stimulate real-world clinical environment.
 
 
 
