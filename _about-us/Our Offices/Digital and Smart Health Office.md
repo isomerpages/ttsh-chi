@@ -78,10 +78,10 @@ The strategy will contribute to achieving the TTSH and Central Health 2030 missi
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Hospital Without Walls </label>
 	<div class="accordion-content">
-	<div class="para">Hospital without Walls is a framework conceptualised in 2020, to drive digital transformation in TTSH. It leverages on digitalisation to transform and deliver care anytime, anywhere, where care follows the patient. 
-The framework encompasses a matrix of Strategic Innovation Programmes (SIP), and Digital Innovation Technologies (DIT), which are instrumental to effect end-to-end transformation in care delivery and user experience. 
+	<div class="para">Hospital without Walls is a framework conceptualised in 2020, to drive digital transformation in TTSH. It leverages on digitalisation to transform and deliver care anytime, anywhere, where care follows the patient. <br><br>
+The framework encompasses a matrix of Strategic Innovation Programmes (SIP), and Digital Innovation Technologies (DIT), which are instrumental to effect end-to-end transformation in care delivery and user experience. <br><br>
 
-DITs are technology-driven communities of practice with dedicated innovation funding and expertise support to support relevant use cases. The digital tech areas we deep dive in include (and not limited to) Artificial Intelligence &amp; Data Analytics, Telehealth, MedTech &amp; Robotics, Ops Tech &amp; Robotics, Digital Services, Extended Reality. 
+DITs are technology-driven communities of practice with dedicated innovation funding and expertise support to support relevant use cases. The digital tech areas we deep dive in include (and not limited to) Artificial Intelligence &amp; Data Analytics, Telehealth, MedTech &amp; Robotics, Ops Tech &amp; Robotics, Digital Services, Extended Reality. <br><br>
 
 SIPs serve to integrate multiple innovation projects into a coherent development roadmap towards a strategic goal. SIPs adopt the Innovation Cycle to redesign care, stack up technologies and redesign jobs. This process ensures that technologies support new care models and empowers a digitally-ready workforce. We work with project teams to deliver care without walls in the thematic areas of Ward without Walls, Clinic without Walls, Every Moment a Rehab Moment, Pharmacy without Walls, Knowledge without Walls, Digital Workplace. 
 
