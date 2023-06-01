@@ -78,12 +78,13 @@ input:checked + label + .accordion-content {
 	<input id="title1" type="checkbox"><label for="title1">Agreements</label>
 	<div class="accordion-content">
 	<div class="para">The Agreements team plays a pivotal role in safeguarding TTSH and its stakeholders’ interests. We facilitate collaboration activities with external parties by enforcing appropriate research agreements – legally enforceable documents between two or more parties that are required for all TTSH research studies with/ without patient’s recruitment with and external party. These agreements ensure that every study/ trial is conducted according to all applicable laws and regulations, including TTSH/ NHG policies and the relevant ethics and regulatory requirements. For more information, please contact us at CRIO@ttsh.com.sg
+		<img alt="Crio" src="/images/criooffice1.png">
 </div>
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Clinical trial Unit </label>
 	<div class="accordion-content">
 	<div class="para">The Clinical Trials Unit (CTU) manages clinical trial conducted within TTSH. CTU has a team of GCP- (Good Clinical Practice) and CITI (Collaborative Institutional Training Initiative)-certified clinical research coordinators who conduct both early and late phase trials. Our coordinators are experienced in coordinating drug and device trials as well as registry studies in all therapeutic areas<br><br>
-		
+		<img alt="Crio" src="/images/criooffice2.png">
 If you would like to know more about conducting clinical trials in TTSH, please contact the Clinical Trials Unit at clinicaltrial@ttsh.com.sg. 
 </div>
 	</div>
@@ -130,13 +131,13 @@ To know more, click here
 It is designed to intentionally steer funding towards “downstream” research that can be readily implemented into practice and translated into innovative care models.<br><br>
 The SRP track will also enable the hospital to develop a pipeline of clinician-researchers who contribute effectively to TTSH’s mission as well as the national research and innovation landscape.<br><br>
 
+ <img alt="Crio" src="/images/criooffice3.png">
+		<b><u>Key Tenets</u></b><br>
+•	<b>Synergistic</b>:  Designed to be multidisciplinary and integrated to maximize outcomes of research activities.<br>
+•	<b>Translatable</b>: Develop evidence for new care models that can be adopted, for better patient outcomes not just in the individual, but also at the population level.<br>
+•	<b>Impact</b>: Incorporate elements of social, behavioural, implementation and health services outcomes research into their proposals.<br><br>
  
-Key Tenets<br>
-•	Synergistic:  Designed to be multidisciplinary and integrated to maximize outcomes of research activities.<br>
-•	Translatable: Develop evidence for new care models that can be adopted, for better patient outcomes not just in the individual, but also at the population level.<br>
-•	Impact: Incorporate elements of social, behavioural, implementation and health services outcomes research into their proposals.<br><br>
- 
-
+<img alt="Crio" src="/images/criooffice4.png">
 Each SRP is designed as a multi-year programme, guided by an overarching theme, where projects are organized according to thrusts and sub-themes, funded by NTF HIP as a foundational fund.<br>
 The funding by NTF HIP will allow for SRPs to establish evidence for the implementation of new care models, setting researcher teams up for success in follow-on competitive funding opportunities such as those provided by National Research Foundation’s (NRF) Research and Innovation Enterprise (RIE) funding, development of new knowledge for furthering research, as well as seed a pipeline of research talent.<br><br>
 
