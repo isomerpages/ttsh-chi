@@ -15,15 +15,16 @@ description: ""
 	<div class="header"><p>Organised by CHI and supported by the Ministry of Health as well as the Ng Teng Fong Healthcare Innovation Programme, the annual National Healthcare Innovation &amp; Productivity (HIP) Medals is a prestigious, national-level award that recognises local healthcare and community care institutions that have demonstrated thought leadership through bringing about health and social change, as well as the implementation of innovative, productivity projects. It is open to all local healthcare, and Community/ Intermediate and Long-Term Care institutions.</p>
  </div><br></div></div>
  </div>
+ 
 <div>
  <div class="row">
 <div class="col"> 
 <br>
 		<div class="header"><h3>ABOUT THE MEDALS </h3>
-The Medals recognise teams who achieve excellence in 3 award categories:<br>
+<p style="font-size: 1.25em">The Medals recognise teams who achieve excellence in 3 award categories:<br>
 1.	Care Redesign (CR)<br>
 2.	Automation, IT and Robotics Innovation (AIR)<br>
-3.	Workforce Transformation (WT)</div><br>
+	3.	Workforce Transformation (WT)</p></div><br><p></p>
 
 
 </div>
@@ -104,7 +105,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <br></div></div>
 
 
-For posters of past winning projects &amp; submissions of the National HIP Medals, check them out on the   where we host over 1,000 healthcare innovation projects from across Singapore.
+<p style="font-size: 1.25em">For posters of past winning projects &amp; submissions of the National HIP Medals, check them out on the   where we host over 1,000 healthcare innovation projects from across Singapore.</p>
 
 <style>
 
@@ -135,6 +136,7 @@ label:hover {
 	/* border: 1px solid #484848; */
 	margin: 0 0 1px 0;
 	border-radius: 3px;
+	font-size: 1.25em;
 }
 
 input + label + .accordion-content {
