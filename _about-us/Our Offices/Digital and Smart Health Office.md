@@ -65,11 +65,11 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Digital Transformation Strategy  </label>
 	<div class="accordion-content">
-	<div class="para">With guidance from the Digital Transformation Council, DSHO formulated the Digital Transformation Strategy which is the strategic mandate for all of TTSH’s digital transformation efforts. Founded on the Innovation Cycle, the strategy comprises of three thrusts: Digital Culture; Digital Data; and Digital Experience.
+	<div class="para">With guidance from the Digital Transformation Council, DSHO formulated the Digital Transformation Strategy which is the strategic mandate for all of TTSH’s digital transformation efforts. Founded on the Innovation Cycle, the strategy comprises of three thrusts: Digital Culture; Digital Data; and Digital Experience.<br><br>
 
-•<u>Digital Culture</u> aims to cultivate digitally ready and savvy people
-•	<u>Digital Data</u> aims to develop the data strategy for TTSH
-•	<u>Digital Experience</u> enables digital transformation change
+•<u>Digital Culture</u> aims to cultivate digitally ready and savvy people<br>
+•	<u>Digital Data</u> aims to develop the data strategy for TTSH<br>
+•	<u>Digital Experience</u> enables digital transformation change<br><br>
 
 The strategy will contribute to achieving the TTSH and Central Health 2030 missions of Academic Health Excellence, be an enabler of Population Health Excellence and also allow Tertiary care excellence through the realisation of the Hospital without Walls.
 
