@@ -102,3 +102,69 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="para">
 </div>
 <br></div></div></div>
+
+
+For posters of past winning projects &amp; submissions of the National HIP Medals, check them out on the   where we host over 1,000 healthcare innovation projects from across Singapore.
+
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	width=100%;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #BD2D37;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+<!-- End of accordion -->
+
+<div class="container">
+
+<div>
+	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
+	<div class="accordion-content">
+	<div class="para">This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. 
+
+</div>
+	</div>
+	<input id="title2" type="checkbox"><label for="title2">Queries</label>
+	<div class="accordion-content">
+	<div class="para">If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg 
+</div>
+	</div>
+
+</div></div>
