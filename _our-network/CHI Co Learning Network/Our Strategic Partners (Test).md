@@ -130,15 +130,15 @@ input:checked + label + .accordion-content {
 		<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://www.ntu.edu.sg/medicine"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/lkc%20logo.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.ntuclearninghub.com/healthcare-academy"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.ial.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.ntu.edu.sg/medicine"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/lkc%20logo.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://www.ntuclearninghub.com/healthcare-academy"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.ial.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></button></a><br></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td scope="row"><a href="https://www.nyp.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/nanyang%20poly.svg"></button></a><br>
-      </td><td><a href="https://www.singaporetech.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br></td></tr>
+      <td scope="row"><a href="https://www.nyp.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/nanyang%20poly.svg"></button></a><br>
+      </td><td><a href="https://www.singaporetech.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br></td></tr>
    
   </tbody>
 </table>
