@@ -19,7 +19,7 @@ div.a {
 •	Building leadership in healthcare innovation<br>
 •	Workforce transformation, through:<br>
 </p><div class="a">o	Care redesign (clinical / operational processes and models)<br></div>
-<div class="a">o	Use of automation / IT / robotics / products / devices<br></div><p></p>
+<div class="a">o	Use of automation / IT / robotics / products / devices<br></div>
 <div class="a">o	Job redesign<br></div>
 <p style="font-size: 1.5em">	•	Use of different pedagogies for training and transforming our workforce.<br>
 
