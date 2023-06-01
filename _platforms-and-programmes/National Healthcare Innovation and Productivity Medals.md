@@ -57,7 +57,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<br><br>
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" src="/images/Nhip/2022gif.gif"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a><br>
 		<div class="header"><center><b>2022 </b></center></div><br>
 		<div class="para">
 </div>
@@ -65,7 +65,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2021" src="/images/Nhip/2021gif.gif"></a>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2021" style="width:352px; height:182px;" src="/images/Nhip/2021gif.gif"></a>
 		<br>
 	<div class="header"><center><b>2021</b></center></div><br>
 	<div class="para">
@@ -74,7 +74,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2020" src="/images/Nhip/2020gif.gif"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2020" style="width:352px; height:182px;" src="/images/Nhip/2020gif.gif"></a><br>
 	<div class="header"><center><b>2020</b></center></div><br>
 	<div class="para">
 </div>
@@ -82,7 +82,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2019" src="/images/Nhip/2019gif.gif"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2019" style="width:352px; height:182px;" src="/images/Nhip/2019gif.gif"></a><br>
 		<div class="header"><center><b>2019 </b></center></div><br>
 		<div class="para">
 </div>
@@ -90,7 +90,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2017" src="/images/Nhip/2017gif.gif"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2017" style="width:352px; height:182px;" src="/images/Nhip/2017gif.gif"></a><br>
 	<div class="header"><center><b>2017</b></center></div><br>
 	<div class="para">
 </div>
@@ -98,7 +98,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2016" src="/images/Nhip/2016gif.gif"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2016" style="width:352px; height:182px;" src="/images/Nhip/2016gif.gif"></a><br>
 	<div class="header"><center><b>2016</b></center></div><br>
 	<div class="para">
 </div>
