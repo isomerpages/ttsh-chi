@@ -51,3 +51,54 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
    
   </tbody>
 </table>
+
+
+<h3>Our Winners across the years</h3>
+<br>
+<div class="row">
+<div class="col"> 
+<img alt="Auditorium" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/auditorium.gif"><br>
+	<div class="header"><b>2022</b></div><br>
+	<div class="para">
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<img alt="CHI Living Lab" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/chill%20lab.gif"><br>
+		<div class="header"><b>2021<br></b></div><br>
+		<div class="para">
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<img alt="Hall" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/hallchi.jpg"><br>
+		<div class="header"><b>2020</b></div><br>
+		<div class="para">
+<br></div></div>
+
+
+<div class="row">
+<div class="col"> 
+<img alt="Harvard Room" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/harvard.jpg"><br>
+	<div class="header"><b>2019</b></div><br>
+	<div class="para">
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<img alt="Innocanvas" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innocanvas.JPG"><br>
+	<div class="header"><b>2017 </b></div><br>
+	<div class="para"> 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<img alt="Innospace" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innospace.jpg"><br>
+	<div class="header"><b>2016</b></div><br>
+	<div class="para">
+</div>
+<br></div></div></div>
