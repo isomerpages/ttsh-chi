@@ -117,59 +117,64 @@ input:checked + label + .accordion-content {
 		<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://www.ntu.edu.sg/medicine"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/lkc%20logo.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.ntuclearninghub.com/healthcare-academy"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.ial.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></button></a><br></th>
+      <th scope="col"><a href="https://sg.alibabacloud.com/en"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/alibaba%20cloud.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://asme.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/asmeasme.svg"></button></a><br></th>
+      <th scope="col"><a href="https://apacmed.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/apacmed.svg"></button></a><br></th>
     </tr>
   </thead>
   <tbody>
    </tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://aws.amazon.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/awsamazonwebservice.svg"></button></a><br>
+      </td><td><a href="https://aws.amazon.com/activate/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/awsactivate.svg"></button></a><br></td>
+      <td><a href="https://www.co11ab.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/collab.svg"></button></a><br></td>
     </tr>
    </tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://eurocham.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/eurocharm.svg"></button></a><br>
+      </td><td><a href="https://www.genglobal.org/singapore"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/gen_singapore.svg"></button></a><br></td>
+      <td><a href="https://kilsaglobal.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/kilsaa.svg"></button></a><br></td>
     </tr>
 		</tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.healthtec.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/healthtec.svg"></button></a><br>
+      </td><td><a href="https://www.hello-tomorrow-apac.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/hellotmr.svg"></button></a><br></td>
+      <td><a href="https://www.innovasjonnorge.no/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/innovation%20norway.svg"></button></a><br></td>
     </tr>
 		</tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.ipi-singapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/ipisingapore.svg"></button></a><br>
+      </td><td><a href="https://www.italchamber.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/iccs%20singapore.svg"></button></a><br></td>
+      <td><a href="https://www.hkstp.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/hkstpp.svg"></button></a><br></td>
     </tr>
 		</tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.questventures.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/questventures.svg"></button></a><br>
+      </td><td><a href="https://medtechactuator.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/medtech.svg"></button></a><br></td>
+      <td><a href="https://medtechinnovator.org/asia-pacific/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/medtech-innovators.svg"></button></a><br></td>
     </tr>
 		</tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.nanrise.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/nanrise.svg"></button></a><br>
+      </td><td><a href="https://www.nordicinnovationhouse.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/nordic.svg"></button></a><br></td>
+      <td><a href="https://www.plugandplaytechcenter.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/plugandplay.svg"></button></a><br></td>
     </tr>
 		</tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.sginnovate.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/sginnovate.svg"></button></a><br>
+      </td><td><a href="https://smartlab.expert/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/smartlab.svg"></button></a><br></td>
+      <td><a href="https://www.startupreseau.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/startup.svg"></button></a><br></td>
     </tr>
 			</tbody><tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.tembusutech.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/tembusu.svg"></button></a><br>
+      </td><td><a href="https://tla.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek%20life%20science.svg"></button></a><br></td>
+      <td><a href="https://www.ventureblick.com"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/venture.svg"></button></a><br></td>
+    </tr>
+		  <tr>
+      <td scope="row"><a href="https://www.vertexventures.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/vertex.svg"></button></a><br>
+      </td><td><a href="http://wavemaker.vc/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/wavemaker.svg"></button></a><br></td>
+     
     </tr>
   </tbody>
 </table>
@@ -182,9 +187,9 @@ input:checked + label + .accordion-content {
 	<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://designsingapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.enterprisesg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></button></a><br></th>
-		      <th scope="col"><a href="https://www.enterprisesg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.sif.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20international.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://www.temasekfoundation.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek.svg"></button></a><br></th>
+		      <th scope="col"><a href="https://www.enterprisesg.gov.sg/"></a><br></th>
      
 
   </tr></thead>
