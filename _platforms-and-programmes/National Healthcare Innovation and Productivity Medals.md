@@ -54,6 +54,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
   </tbody>
 </table>
 </div>
+	
 <div>
 <h3>Our Winners across the years</h3>
 <br>
@@ -80,7 +81,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 		<div class="para">
 <br></div></div>
 
-
+<div>
 <div class="row">
 <div class="col"> 
 <img alt="Harvard Room" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/harvard.jpg"><br>
@@ -103,7 +104,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="header"><b>2016</b></div><br>
 	<div class="para">
 </div>
-<br></div></div></div>
+<br></div></div></div></div>
 
 
 For posters of past winning projects &amp; submissions of the National HIP Medals, check them out on the   where we host over 1,000 healthcare innovation projects from across Singapore.
