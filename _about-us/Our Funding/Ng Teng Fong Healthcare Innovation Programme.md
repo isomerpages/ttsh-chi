@@ -7,23 +7,23 @@ third_nav_title: Our Funding
 <style>
 div.a {
   text-indent: 50px;
-div {
-		font-size: 1.25em;
+	font-size: 1.25em;
 }
 </style>
 <div>
 <h2>About the Ng Teng Fong Healthcare Innovation Programme</h2><div>
-<p style="font-size: 26px">The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up with a generous gift from the family of the late Mr Ng Teng Fong to Tan Tock Seng Hospital (TTSH) and aims to drive innovation in healthcare to benefit and enhance the health of our patients and the population we serve. 
+	
+<p style="font-size: 1.5em">The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up with a generous gift from the family of the late Mr Ng Teng Fong to Tan Tock Seng Hospital (TTSH) and aims to drive innovation in healthcare to benefit and enhance the health of our patients and the population we serve. </p>
 
-NTF HIP serves as a financial lever of innovation, and help funds the innovation work and programmes facilitated by CHI. It supports proposals relating to:<br>
+<p style="font-size: 1.5em">NTF HIP serves as a financial lever of innovation, and help funds the innovation work and programmes facilitated by CHI. It supports proposals relating to:<br>
 •	Building leadership in healthcare innovation<br>
 •	Workforce transformation, through:<br>
 </p><div class="a">o	Care redesign (clinical / operational processes and models)<br></div>
-<div class="a">o	Use of automation / IT / robotics / products / devices<br></div>
+<div class="a">o	Use of automation / IT / robotics / products / devices<br></div><p></p>
 <div class="a">o	Job redesign<br></div>
-•	Use of different pedagogies for training and transforming our workforce.<br>
+<p style="font-size: 1.5em">	•	Use of different pedagogies for training and transforming our workforce.<br>
 
-NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.
+</p><p style="font-size: 1.5em">NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.</p>
 
 </div>
 
