@@ -219,7 +219,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -230,7 +230,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -240,7 +240,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -251,7 +251,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/12th%20masterclass.png">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/12th%20masterclass.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -261,7 +261,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -272,7 +272,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -282,7 +282,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/9th-chi-masterclasses-image.png">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/9th-chi-masterclasses-image.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -293,7 +293,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -303,7 +303,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -314,7 +314,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -324,7 +324,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/5th_events_masterclasses.jpg">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/5th_events_masterclasses.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -335,7 +335,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
@@ -345,7 +345,7 @@ fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbv
 img {
   float: left;
 }
-</style><p><img style="width:170px;height:170px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg">
+</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg">
 fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
 
 <hr>
