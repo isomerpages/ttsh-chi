@@ -149,16 +149,16 @@ input:checked + label + .accordion-content {
 	<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+      <th scope="col"><a href="https://designsingapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://www.enterprisesg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.ihis.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></button></a><br></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td scope="row"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br>
-      </td><td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
-      <td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.a-star.edu.sg/sb/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></button></a><br>
+      </td><td><a href="https://www.sthealthcare.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></button></a><br></td>
+      <td><a href="https://www.wsg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></button></a><br></td>
     </tr>
    
   </tbody>
@@ -172,16 +172,16 @@ input:checked + label + .accordion-content {
 	<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.a-star.edu.sg/enterprise/innovation-platforms/a-startcentral/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/accelerate.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://www.jnj.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/johnson.svg"></button></a><br></th>
+      <th scope="col"><a href="https://sg.nec.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/necnecnec.svg"></button></a><br></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td scope="row"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br>
-      </td><td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
-      <td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.philips.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/philips.svg"></button></a><br>
+      </td><td><a href="https://www.pwc.com/sg/en/industries/healthcare.html"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></button></a><br></td>
+      <td><a href="https://www.workplace.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/workplace.svg"></button></a><br></td>
     </tr>
    
   </tbody>
@@ -196,16 +196,16 @@ input:checked + label + .accordion-content {
 	<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/CAPE/Pages/default.aspx"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/capelogo.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://www.ttsh.com.sg/Healthcare-Professionals/Training-Workshops/Training-Courses/Pages/Centre-for-Asian-Nursing-Studies-CANS.aspx#:~:text=Here%20at%20CANS%2C%20we%20empower,%2C%20infectious%20diseases%2C%20and%20frailty"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/canslogo.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.ttsh.com.sg/Community-Health/for-Central-Health-Partners/learning-and-training/Pages/Centre-for-Health-Activation.aspx#:~:text=Centre%20for%20Health%20Activation%20(CHA)%20is%20a%20dedicated%20space%20to,grants%20application%20and%20platforms%20for"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/centreforhealthcareactivation.svg"></button></a><br></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td scope="row"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br>
-      </td><td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
-      <td><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></td>
+      <td scope="row"><a href="https://corp.nhg.com.sg/CMTI/Pages/default.aspx"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/cmticmti.svg"></button></a><br>
+      </td><td><a href="https://www.linkedin.com/in/flying-chi-45450020a/?originalSubdomain=sg"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></button></a><br></td>
+      <td><a href="https://www.ntu.edu.sg/alive"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivegames.svg"></button></a><br></td>
     </tr>
    
   </tbody>
