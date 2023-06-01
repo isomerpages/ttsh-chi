@@ -58,7 +58,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/Website_Right.png"></a><br>
-		<div class="header"><b>2022 </b></div><br>
+		<div class="header"><center><b>2022 </b></center></div><br>
 		<div class="para">
 </div>
 <br>
@@ -67,7 +67,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2021" src="/images/innovate%20(right).jpg"></a>
 		<br>
-	<div class="header"><b>2021</b></div><br>
+	<div class="header"><center><b>2021</b></center></div><br>
 	<div class="para">
 </div>
 <br>
@@ -75,7 +75,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" src="/images/Logos/2020_banner-right.jpg"></a><br>
-	<div class="header"><b>2020</b></div><br>
+	<div class="header"><center><b>2020</b></center></div><br>
 	<div class="para">
 </div>
 </div></div>
@@ -83,7 +83,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2019" src="/images/chi%20innovate%20badge%20website.png"></a><br>
-		<div class="header"><b>2019 </b></div><br>
+		<div class="header"><center><b>2019 </b></center></div><br>
 		<div class="para">
 </div>
 <br>
@@ -91,7 +91,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="Fh 2017" src="/images/events_conference1.jpg"></a><br>
-	<div class="header"><b>2017</b></div><br>
+	<div class="header"><center><b>2017</b></center></div><br>
 	<div class="para">
 </div>
 <br>
@@ -99,7 +99,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="nsph2016" src="/images/events_conference2.jpg"></a><br>
-	<div class="header"><b>2016</b></div><br>
+	<div class="header"><center><b>2016</b></center></div><br>
 	<div class="para">
 </div>
 <br></div></div>
