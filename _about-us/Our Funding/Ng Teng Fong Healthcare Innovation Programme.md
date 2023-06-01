@@ -27,11 +27,32 @@ NTF HIP provides funding through five tracks which support the strategic thrusts
 
 </div>
 
-| <b>Strategic Training  | Innovation | Community Enabling | Strategic Innovation | Strategic Research</b> |
-| -------- | -------- | -------- |  -------- |  -------- |
-| Supports training of workforce with relevant skills to become institutional / system thought leaders in innovation or ground champions to drive innovation    | Supports projects in job and care redesign, automation or clinical research projects, that are geared towards improving productivity, or transforming roles to effect new care processes / models.     | Supports projects that impact and enable the community, including training of patients, volunteers, members of community partner institutions.     | Supports programmes targeted at system level innovation, to drive value through healthcare innovation.     | Supports thematic programmes that drive value through translational research.     |
+<br>
 
+<table class="table">
+  <thead bgcolor="grey">
+    <tr>
+      <th scope="col">Strategic Training</th>
+      <th scope="col">Innovation</th>
+      <th scope="col">Community Enabling</th>
+			<th scope="col">Strategic Innovation</th>
+			<th scope="col">Strategic Research</th>
+			
 
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td scope="row">Supports training of workforce with relevant skills to become institutional / system thought leaders in innovation or ground champions to drive innovation 
+      </td><td>Supports projects in job and care redesign, automation or clinical research projects, that are geared towards improving productivity, or transforming roles to effect new care processes / models.</td>
+      <td>Supports projects that impact and enable the community, including training of patients, volunteers, members of community partner institutions.</td>
+			<td>Supports programmes targeted at system level innovation, to drive value through healthcare innovation.</td>
+			<td>Supports thematic programmes that drive value through translational research.</td>
+    </tr>
+   
+  </tbody>
+</table>
+
+<br>
 
 Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br>
 
