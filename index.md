@@ -24,14 +24,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: To Promote a Culture of Innovation
-          description: ""
+        - title: To Promote
+          description: A CULTURE OF INNOVATION
           url: /about-us/our-purpose/
-        - title: To Achieve Better Health and Healthcare
-          description: ""
+        - title: To Achieve
+          description: BETTER HEALTH AND HEALTHCARE
           url: /about-us/our-purpose/
-        - title: To Catalyse Value-Based Outcomes
-          description: ""
+        - title: To Catalyse
+          description: VALUE BASED OUTCOMES
           url: /about-us/our-purpose/
       background: /images/Draft Home Banner.jpg
   - infopic:
