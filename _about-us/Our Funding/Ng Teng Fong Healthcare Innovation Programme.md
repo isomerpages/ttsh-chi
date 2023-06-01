@@ -11,7 +11,7 @@ div {
 		font-size: 1.25em;
 }
 </style>
-
+<div>
 <h2>About the Ng Teng Fong Healthcare Innovation Programme</h2><div>
 The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up with a generous gift from the family of the late Mr Ng Teng Fong to Tan Tock Seng Hospital (TTSH) and aims to drive innovation in healthcare to benefit and enhance the health of our patients and the population we serve. 
 
@@ -36,6 +36,7 @@ NTF HIP provides funding through five tracks which support the strategic thrusts
 Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br>
 
 NTFHIP is managed and administered by the<a href="https://www.chi.sg/chi-grantsandinnovation/" target="_blank"> <b><u>Grants &amp; Innovation Office . </u></b></a>
+</div>
 
 <style>
 
