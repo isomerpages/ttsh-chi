@@ -6,8 +6,8 @@ description: ""
 <div>
 <div class="row">
 <div class="col"> 
-<img alt="1st person" src="/images/nhippic.png"><br>
-		<div class="header"></div><br>
+<img alt="1st person" class="middle" src="/images/nhippic.png">
+		<div class="header"></div>
 
 
 </div>
