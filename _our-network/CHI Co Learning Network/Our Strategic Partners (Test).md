@@ -333,7 +333,7 @@ input:checked + label + .accordion-content {
 </div>
 	</div>
 <div>
-	<input id="title7" type="checkbox"><label for="title7">Industry Partners </label>
+	<input id="titleind" type="checkbox"><label for="titleind">Industry Partners </label>
 	<div class="accordion-content">
 		<table class="table">
   <thead bgcolor="white">
@@ -403,7 +403,7 @@ input:checked + label + .accordion-content {
 
 </div></div>
 <div>
-	<input id="title8" type="checkbox"><label for="title8">Foundations</label>
+	<input id="titlefound" type="checkbox"><label for="titlefound">Foundations</label>
 	<div class="accordion-content">
 	<table class="table">
   <thead bgcolor="white">
