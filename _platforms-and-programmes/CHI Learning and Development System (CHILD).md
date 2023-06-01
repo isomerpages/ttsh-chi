@@ -28,7 +28,7 @@ description: ""
 <div>
 	<div class="row">
 <div class="col"> 
-<img alt="QR" src="/images/CHILD%20pictures/picture4.png"><br>
+<img alt="QR" style="width:168px; height:168px; padding-top:8%;" src="/images/CHILD%20pictures/picture4.png"><br>
 		<div class="header"><b>
  </b></div><br>
 
