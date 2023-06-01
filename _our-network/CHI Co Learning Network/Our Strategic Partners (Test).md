@@ -218,7 +218,7 @@ input:checked + label + .accordion-content {
 	</div></div>
 	
 	
-<br><br><br><br>
+<br><br>
 
 
 
