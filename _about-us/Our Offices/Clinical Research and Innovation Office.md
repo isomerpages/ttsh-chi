@@ -8,10 +8,10 @@ Clinical Research &amp; Innovation Office (CRIO) aims to lead, promote and coord
 CRIO aligns its mission with Singapore’s emphasis on life science biomedical research. It supports the research endeavors of all the staff in TTSH.<br><br>
 We foster research in TTSH across the whole spectrum from basic biomedical research to health services and population health research. Our staff at CRIO are experienced in life sciences research and clinical trials, both for academic and pharmaceutical company-sponsored studies. Our research coordinators and assistants are certified with Good Clinical Practice (GCP) and are well-versed with Singapore’s research regulatory requirements. We monitor and standardize the research processes within the hospital.<br><br>
 We are committed to constantly upgrade our capabilities to support both investigators and pharmaceutical companies in conducting biomedical research and clinical trials.
-CRIO administers research collaboration especially with National Health Group, LKC School of Medicine, our preferred academic and natural partner, other research organizations and various government organizations.<br>
-<h5>Our Vision</h5><br>
-Empowering clinical excellence through research and innovation<br>
-<h5>Our Mission</h5><br>
+CRIO administers research collaboration especially with National Health Group, LKC School of Medicine, our preferred academic and natural partner, other research organizations and various government organizations.
+<h5>Our Vision</h5>
+Empowering clinical excellence through research and innovation
+<h5>Our Mission</h5>
 To provide comprehensive and sustainable research support for the Hospital by:<br>
 -	Providing valued resources in a timely and professional manner<br>
 -	Ensuring ethical and safety standards in the conduct of all types of research and innovation<br>
@@ -73,8 +73,8 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 
-<h2 id="our-main-plans">Our Services
-</h2>
+<h1 id="our-main-plans">Our Services
+</h1>
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Agreements</label>
 	<div class="accordion-content">
