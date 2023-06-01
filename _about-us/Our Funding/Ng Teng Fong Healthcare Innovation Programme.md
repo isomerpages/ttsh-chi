@@ -7,6 +7,8 @@ third_nav_title: Our Funding
 <style>
 div.a {
   text-indent: 50px;
+div {
+		font-size: 1.25em;
 }
 </style>
 
