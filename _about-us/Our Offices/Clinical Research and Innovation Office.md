@@ -4,7 +4,18 @@ permalink: /CHI-CRIO/
 description: ""
 third_nav_title: Our Offices
 ---
-The Clinical Research &amp; Innovation Office (CRIO) promotes and coordinates research activities in Tan Tock Seng Hospital. CRIO is equipped with skills and capabilities through her staff to effectively support the research enterprise of the Hospital.
+Clinical Research &amp; Innovation Office (CRIO) aims to lead, promote and coordinate research culture and activities to support the development of TTSH into a reputable world-class research centre.<br>
+CRIO aligns its mission with Singapore’s emphasis on life science biomedical research. It supports the research endeavors of all the staff in TTSH.<br>
+We foster research in TTSH across the whole spectrum from basic biomedical research to health services and population health research. Our staff at CRIO are experienced in life sciences research and clinical trials, both for academic and pharmaceutical company-sponsored studies. Our research coordinators and assistants are certified with Good Clinical Practice (GCP) and are well-versed with Singapore’s research regulatory requirements. We monitor and standardize the research processes within the hospital.<br>
+We are committed to constantly upgrade our capabilities to support both investigators and pharmaceutical companies in conducting biomedical research and clinical trials.
+CRIO administers research collaboration especially with National Health Group, LKC School of Medicine, our preferred academic and natural partner, other research organizations and various government organizations.<br><br>
+Our Vision<br><br>
+Empowering clinical excellence through research and innovation<br><br>
+Our Mission<br><br>
+To provide comprehensive and sustainable research support for the Hospital by:<br>
+-	Providing valued resources in a timely and professional manner<br>
+-	Ensuring ethical and safety standards in the conduct of all types of research and innovation<br>
+-	Fostering and enhancing collaborations within and beyond TTSH
 
 
 
