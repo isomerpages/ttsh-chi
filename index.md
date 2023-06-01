@@ -33,7 +33,7 @@ sections:
         - title: To Catalyse
           description: VALUE BASED OUTCOMES
           url: /about-us/our-purpose/
-      background: /images/masthead template cropped.jpg
+      background: /images/banner.png
   - infopic:
       title: CHI INNOVATE 2023
       subtitle: Upcoming events
