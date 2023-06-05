@@ -156,6 +156,7 @@ img {
 	margin: 0px 0px 15px 20px;
 }
 div.ex1 {
+	float: left
   height: 192px;
 	width: 484px
   overflow: scroll;
@@ -574,4 +575,20 @@ How do we translate these concepts into strategy, create a compelling vision tha
 There is no 'right' answer and history would suggest that simply trying to replicate a solution in a different context is rarely successful. In this session Dr Jonty will share practical insights on prevention, primary care transformation, and population health management – to help accelerate our ambitions for happier, healthier populations in both England and Singapore.
 <p></p>
 	</div></div></div>
-				</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+				</div></div></div></div></div></div></div></div></div></div>
+	
+	
+	
+	
+   <img src="/images/Masterclass/15%20masterclass_patrick.jpg">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+   <img src="/images/Masterclass/15%20masterclass_patrick.jpg">
+<p>2nd image text.</p>
+
+<p class="clear">This paragraph should be below images.</p>
+
+<img src="/images/Masterclass/15%20masterclass_patrick.jpg" class="ontheright">
+<p>This should be next to a right-aligned image</p>
+
+<p class="clear">This should be below it all.</p></div></div></div></div></div></div>
