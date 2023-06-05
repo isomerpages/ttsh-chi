@@ -3,7 +3,6 @@ title: Our Purpose & What We Do
 permalink: /about-us/our-purpose/
 description: ""
 ---
-
 # Innovation is key to sustainable healthcare.
 
 Singapore is facing a fast ageing population and shrinking workforce. It is essential for Singapore’s healthcare system to innovate, seek new ways to improve productivity and add value to our patients. This ensures that our patients will continue to receive high quality and cost-effective care in the future.
@@ -16,7 +15,7 @@ We believe in knowledge sharing and learning together. At CHI, there are no bord
 ##### To spearhead change towards sustainable, value-based systems
 
 <table class="table">
-  <thead bgcolor="grey">
+  <thead bgcolor="#EAA7AE">
     <tr>
       <th scope="col">To Promote a Culture of Innovation</th>
       <th scope="col">To Achieve Better Health and Healthcare<br> Synthesize new knowledge and tools to develop solutions</th>
