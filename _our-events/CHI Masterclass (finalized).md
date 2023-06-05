@@ -214,6 +214,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 
     .text {
       flex: 1 1 auto;
+	    font-size: 18px;
       text-align: right;
 	    float: left;
 	    align-items: center;
