@@ -376,7 +376,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/9th-chi-masterclasses-image.png"><p>
 <b><u>Understanding Key Concepts in Systems Thinking</u></b> <br>
 			<b>Dr Peter Senge</b><br>
 Founding Chair,
@@ -401,7 +401,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png"><p>
 <b><u>An Overview on the Gesundes Kinzigtal (GK) Model of Integrated Care Provision</u></b> <br>
 			<b>Dr Martin Wetzel</b>
 				Co-initiator and Founder, Medical Quality Network
@@ -425,7 +425,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg"><p>
 <b><u>Value Based Healthcare, A Tough but Necessary Journey – The UK Story</u></b> <br>
 			<b>Dr Anant Jani</b>
 				Executive Director<br>Better Value Healthcare
@@ -448,7 +448,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg"><p>
 <b><u>Building a Healthcare Team in the Community </u></b> <br>
 			<b>Mr Stephen M.R. Covey </b>
 				Trust Expert,
@@ -474,7 +474,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/5th_events_masterclasses.jpg"><p>
 <b><u>Collective Leadership for a Caring Kampung, and What it Means for You?</u></b> <br>
 			<b>Dr Douglas O’Loughlin</b>
 				Institute of Leadership &amp; Organisation Development Civil Service College<br>
@@ -500,7 +500,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg"><p>
 <b><u>Design Thinking for Healthcare – What’s Required?</u></b> <br>
 			<b>Ms Joanne Teh</b>
 				Asian Insights &amp; Design Innovation,
@@ -525,7 +525,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg"><p>
 <b><u>Innovation, The Ko Awatea Story</u></b> <br>
 			<b>Prof Jonathon Gray</b>Ko Awatea (New Zealand)
 Director, Innovative Centre for Health Systems Improvement, Ko Awatea
