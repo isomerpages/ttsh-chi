@@ -236,8 +236,8 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 500px;
-  max-height: 300px;
+  width: 800px;
+  max-height: 500px;
 }
 </style>
 <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
@@ -262,7 +262,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg"><p>
 <b><u>Population Health - Ambition into Action</u></b> <br>
 			<b>Dr Jonty Heaversedge</b>
 				Chief Medical Officer and Chief Clinical Information Officer,
@@ -288,7 +288,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png"><p>
 <b><u>AI in Industry 4.0: The Future of Healthcare</u></b> <br>
 			<b>Dr Tai-Yi Huang</b>
 				The evolution of modern medicine to precision medicine is often hampered by two major challenges: Fragmented Data and Outdated Information Systems. In this masterclass, Dr Huang shares the lessons learnt in tackling these challenges, and present innovative solutions that have been developed in response to these challenges.
@@ -309,7 +309,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
 <b><u>Sustainability in Healthcare Transformation</u></b> <br>
 			<b>Population Health Experiences of the Hong Kong Health System</b><br>By Prof Gabriel Leung<br><b>Sustainable Transformation in Karolinska University Hospital</b><br>By Associate Professor Anders Ahlsson
 
@@ -330,7 +330,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
 <b><u>Integrating Care Across the Care Continuum</u></b> <br>
 			<b>Dr Samir Sinha </b><br>MD, DPhil, FRCPC, AGSF
 Director of Geriatrics, Sinai Health System
