@@ -118,6 +118,9 @@ label:hover {
 	/* border: 1px solid #484848; */
 	margin: 0 0 1px 0;
 	border-radius: 3px;
+	overflow: scroll;
+	width: 768px;
+  height: 192px;
 }
 
 input + label + .accordion-content {
@@ -134,9 +137,9 @@ input:checked + label + .accordion-content {
 	
 th
 {
- max-width: 100px;
- overflow: scroll;
- white-space: nowrap;
+  width: 110px;
+  height: 110px;
+  overflow: scroll;
 }
 
 </style>
