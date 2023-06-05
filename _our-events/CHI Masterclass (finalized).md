@@ -36,7 +36,7 @@ description: ""
     padding: 16px 0;
     margin: 0;
     font-size: 18px;
-    color: #000000;
+    color: #a6192e;
     margin-right: 41px;
 	  align-items: center;
     justify-content: center;
@@ -47,6 +47,7 @@ description: ""
     height: 0;
     overflow: hidden;
     transition: height 0.4s ease-in-out;
+	
   }
 
   ul.jekyllcodex_accordion li input:checked+label {
@@ -59,6 +60,7 @@ description: ""
     height: auto;
     padding: 0;
     overflow: visible;
+	
   }
 
   ul.jekyllcodex_accordion li input:checked+label+div p {
@@ -72,7 +74,7 @@ description: ""
 
   ul.jekyllcodex_accordion li label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
-    color: #037e8a;
+    color: #a6192e;
     font-weight: 400;
     font-size: 18px;
     line-height: 1.1rem;
@@ -97,7 +99,7 @@ description: ""
   }
 
   ul.jekyllcodex_accordion li:hover label {
-      color: #037E8A;
+      color: #A6192E;
   }
 </style>
 
@@ -202,7 +204,7 @@ description: ""
   }
 
   ul.jekyllcodex_accordion li:hover label {
-      color: #037E8A;
+      color: #A6192E;
   }
   img {
   float: left;
