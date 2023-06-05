@@ -13,7 +13,7 @@ p {
   height: 300px;
   overflow: scroll;
 </style>
-	<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg">
+	<img style="width:484px;height:296px;margin-right:15px;float:left;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg">
 <p><b><u>Population Health - Ambition into Action</u></b> <br>
 			<b>Dr Jonty Heaversedge​</b>
 				Chief Medical Officer and Chief Clinical Information Officer,
