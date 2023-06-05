@@ -347,7 +347,6 @@ input:checked + label + .accordion-content {
     </tr>
   </thead>
   <tbody>
-   </tbody><tbody>
     <tr>
       <td scope="row"><a href="https://aws.amazon.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/awsamazonwebservice.svg"></button></a><br>
       </td><td><a href="https://aws.amazon.com/activate/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/awsactivate.svg"></button></a><br></td>
