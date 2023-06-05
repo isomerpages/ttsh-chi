@@ -204,23 +204,15 @@ description: ""
   ul.jekyllcodex_accordion li:hover label {
       color: #037E8A;
   }
-    .image {
-      flex: 0 0 auto;
-      margin-right: 10px;
-	    float: left;
-      align-items: center;
-      justify-content: center;
-	    vertical-align: middle;
-    }
-
-    .text {
-      flex: 1 1 auto;
-	    font-size: 18px;
-      text-align: right;
-	    float: left;
-	    align-items: center;
-      justify-content: center;	    
-    }
+  img {
+  float: left;
+	vertical-align: middle;
+}
+  p {
+	overflow: auto;
+  max-width: 500px;
+  max-height: 300px;
+}
   </style>
 
 
@@ -228,7 +220,7 @@ description: ""
   
   <!-- Beginning of accordion tab -->
 <li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
-    <div><p><strong>27 March 2023</strong></p>			 
+<div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
@@ -236,7 +228,7 @@ img {
 }
 p {
 	overflow: auto;
-  width: 600px;
+  max-width: 500px;
   max-height: 300px;
 }
 </style>
@@ -245,11 +237,11 @@ p {
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.
-</p>
+</p></div>
 
 <hr>
 
- </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
+ </li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
     <div><p><strong>17 Feb 2023</strong></p>			 
 <style>
 img {
