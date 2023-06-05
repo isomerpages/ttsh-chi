@@ -51,7 +51,9 @@ div.a {
    
   </tbody>
 </table>
+	</div>
 
+<div>
 <br>
 
 Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br>
