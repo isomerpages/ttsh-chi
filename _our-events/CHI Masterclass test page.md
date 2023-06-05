@@ -3,8 +3,6 @@ title: CHI Masterclass test page
 permalink: /our-events/masterclasstestage/
 description: ""
 ---
-
-
 <div id="wrap">
     <img class="left" src="http://dummyimage.com/64x64/0088cc/ffffff.gif&amp;text=.img">
     <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non
