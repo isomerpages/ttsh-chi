@@ -2,7 +2,6 @@ collections:
   our-events:
     output: true
     order:
-      - CHI Masterclass test page.md
       - CHI Conference/CHI Conference (CHI INNOVATE).md
       - CHI Conference/Past CHI Innovate Conferences.md
       - CHI Conference/.keep
