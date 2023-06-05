@@ -135,18 +135,9 @@ input:checked + label + .accordion-content {
 	display: block;
 }
 	
-th
-{
-  width: 110px;
-  height: 110px;
-  overflow: scroll;
-}
-th2
-	{
-  width: 110px;
-  height: 110px;
-  overflow: scroll;
-}
+img {
+  float: left;
+  margin: 0px 0px 15px 20px;
 
 </style>
 <!-- End of accordion -->
@@ -177,9 +168,16 @@ th2
 <style>
 img {
   float: left;
+	margin: 0px 0px 15px 20px;
+}
+div.ex1 {
+  background-color: lightblue;
+  width: 384px;
+  height: 192px;
+  overflow: scroll;
 }
 </style><p><img src="/images/Masterclass/14%20masterclass_jonty.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px;">
-<b><u>Population Health - Ambition into Action</u></b> <br>
+</p><div class="ex1"><b><u>Population Health - Ambition into Action</u></b> <br>
 			<b>Dr Jonty Heaversedge​</b>
 				Chief Medical Officer and Chief Clinical Information Officer,
 South East London Integrated Care System 
@@ -194,8 +192,8 @@ These principles sit at the heart of current NHS reform and the introduction of 
 How do we translate these concepts into strategy, create a compelling vision that engages with our workforce, patients, and local communities, and prioritise action and investment to create impact? This requires a fundamental shift in mindset and method. We need to be clear how we think transformation happens in a complex system, how we create the conditions for improvement and innovation, develop enabling capabilities to catalyse change, and empower change-makers in our communities to unleash their energy and talent.
 
 There is no 'right' answer and history would suggest that simply trying to replicate a solution in a different context is rarely successful. In this session Dr Jonty will share practical insights on prevention, primary care transformation, and population health management – to help accelerate our ambitions for happier, healthier populations in both England and Singapore.
-</p>
-	</div>	</div>
+<p></p>
+	</div></div></div>
     
 <div>
 		<input id="title13" type="checkbox"><label for="title13">13th Masterclass</label>
