@@ -15,6 +15,8 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     margin: 1.4rem 0 !important;
     border-bottom: 1px solid #DBDFE4;
     padding-bottom: 0;
+	 	align-items: center;
+    justify-content: center;
   }
 
   ul.jekyllcodex_accordion li {
@@ -35,6 +37,8 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     font-size: 18px;
     color: #000000;
     margin-right: 41px;
+	  align-items: center;
+    justify-content: center;
   }
 
   ul.jekyllcodex_accordion li div {
