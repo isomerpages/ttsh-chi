@@ -157,7 +157,7 @@ description: ""
     padding: 0;
     height: 0;
     overflow: hidden;
-    transition: height 0.4s ease-in-out;
+    transition: height 0.8s ease-in-out;
   }
 
   ul.jekyllcodex_accordion li input:checked+label {
