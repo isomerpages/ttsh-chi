@@ -194,7 +194,7 @@ There is no 'right' answer and history would suggest that simply trying to repli
 <p></p>
 	</div>
 <div>
-		<input type="checkbox" id="title2"><label for="title2">13th Masterclass</label>
+		<input type="checkbox" id="title13"><label for="title13">13th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
@@ -212,7 +212,7 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input type="checkbox" id="title2"><label for="title2">12th Masterclass</label>
+		<input type="checkbox" id="title12"><label for="title12">12th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
@@ -233,13 +233,28 @@ By <b>Associate Professor Anders Ahlsson<b>
 <p></p>
 	</div>
 <div>
-		<input type="checkbox" id="title2"><label for="title2">11th Masterclass</label>
+		<input type="checkbox" id="title11"><label for="title11">11th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
-      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><img src="/images/Masterclass/11th-chi-masterclass-image.png" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></th>
+	<th scope="col" style="width: 50%;"><b>Dr Samir Sinha</b><br>
+MD, DPhil, FRCPC, AGSF
+Director of Geriatrics, Sinai Health System
+Director of the University Health Network, Toronto, Canada<br>
+
+<b>Mr Ralph Broad</b><br>
+Director, Inclusive Neighbourhoods Ltd
+Founder, Local Area Coordination Network
+Lessons Learned from the Development of Cost-Effective and Integrated Care Models for the Elderly in Toronto and Ontario, Canada<br>
+
+An aging population presents both a challenge and an opportunity to rethink how we organize and deliver elder care. Toronto’s Mount Sinai Hospital responded with the development of its Acute Care for Elders (ACE) strategy, led by Dr. Sinha which has demonstrated significant improvements in overall quality of care outcomes. It has reduced lengths of stay by 28 percent, lowered readmission rates by 14 percent and other adverse outcomes and inappropriate resource utilization through the successful implementation of evidence-informed care processes across the continuum of care, including integrating &amp; coordinating care for the elderly to community care settings. Using these learnings, Dr. Sinha has helped to further create upstream Ministry of Health interventions like exercise and falls prevention classes, community paramedicine programs, and stronger investments in home and community care and supportive housing through the Government of Ontario’s Seniors Strategy that have further worked to improve patient and system outcomes
+
+Transforming Services &amp; Systems with Local Area Coordination in the UK
+
+This Masterclass explores the design, development, implementation and long term outcomes of Local Area Coordination in England and Wales.Building on 30 years of international learning, Local Area Coordination is an integrated, evidence based approach to supporting people of all ages who may be facing complex life situations (including living with disabilities, mental health needs, ageing) and their families/carers to build and pursue their personal vision for a good life; stay strong/resilient, safe and connected as contributing citizens within their local communities; build practical, sustainable, local, non-service solutions to problems wherever possible; and build more welcoming, inclusive and supportive communities. Therefore, rather than waiting for crises and responding with services and money, it is about strengthening individuals and families – choice, control, opportunities and resilience; reducing isolation and loneliness, improving health and well-being; preventing or reducing demand for, or dependency on, costly services wherever possible; building community capacity and resilience; and supporting service reform and integration, having high quality services as a valued back up to local solutions.      
+</th>
 
     
   </tr></thead>
