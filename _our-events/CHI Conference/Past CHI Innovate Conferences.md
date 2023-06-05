@@ -30,8 +30,6 @@ third_nav_title: CHI Conference
 }
 </style>
 
-<button class="button button1">250px</button><br>
-
 # Past CHI Conferences
 
 
