@@ -4,18 +4,6 @@ permalink: /our-events/masterclasstestage/
 description: ""
 ---
 <style>
-.flex-container {
-  display: flex;
-  flex-wrap: nowrap;
-}
-
-.flex-container .box {
-  width: 50%;
-  margin: 0px;
-  text-align: center;
-  line-height: 50px;
-  font-size: 16px;
-}
 div.ex1 {
   background-color: lightblue;
   width: 300px;
@@ -24,19 +12,8 @@ div.ex1 {
 }
 </style>
 
-<h2>overflow: scroll:</h2>
-<div class="ex1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</div>
-
-<h1>Flexible Boxes</h1>
-
-<div class="flex-container">
-  <div class="box">Box 1 - This is some text to make sure that the content gets really tall. This is some text to make sure that the content gets really tall.</div>
-  <div class="box">Box 2 - My height will follow Box 1.</div>
-</div>
-
-<p>Try to resize the browser window to see the flexible layout.</p>
-<p><strong>Note:</strong> Flexbox is not supported in Internet Explorer 10 or earlier versions.</p>
-
+<h2>Test masterclass</h2>
+<div class="ex1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</div>
 
 
 
@@ -259,7 +236,13 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 	    align-items: center;
       justify-content: center;	    
     }
-	
+     div.ex1 {
+		 background-color: lightblue;
+		 width: 300px;
+		 height: 400px;
+		 overflow: scroll;
+}
+
 
 
   </style>
@@ -269,10 +252,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   
   <!-- Beginning of accordion tab -->
 <li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
-<div>
-<img height="170" width="170" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg" class="img">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-</div>
+<div class="ex1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</div>
 
 <hr>
 
