@@ -14,7 +14,7 @@ Participants will engage with thought leaders and work with experienced practiti
 
 
 <table class="table">
-  <thead bgcolor="grey">
+  <thead bgcolor="#EAA7AE">
     <tr>
       <th scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
       <th scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
