@@ -30,7 +30,7 @@ div.a {
 <br>
 
 <table class="table">
-  <thead bgcolor="grey">
+  <thead bgcolor="#EAA7AE">
     <tr>
       <th scope="col">Strategic Training</th>
       <th scope="col">Innovation</th>
