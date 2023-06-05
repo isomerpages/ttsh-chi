@@ -4,31 +4,6 @@ permalink: /our-events/masterclasstestage/
 description: ""
 ---
 <style>
-.button {
-	background-color: white;
-  cursor: pointer;
-  padding: 5px 5px 5px 5px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
-
-.active, .button:hover {
-  background-color: #ccc; 
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
-</style>
-
-<style>
 
 input {
 	display: none;
@@ -113,33 +88,9 @@ input:checked + label + .accordion-content {
 <p></p>
 	</div>
 <br>
-<style>
-.button {
-	background-color: white;
-  cursor: pointer;
-  padding: 5px 5px 5px 5px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
 
-.active, .button:hover {
-  background-color: #ccc; 
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
-</style>
 
 <style>
-
 input {
 	display: none;
 }
@@ -181,9 +132,11 @@ input:checked + label + .accordion-content {
 	display: block;
 }
 	
-th{
-    font-weight: normal;
-
+th
+{
+ max-width: 100px;
+ overflow: scroll;
+ white-space: nowrap;
 }
 
 </style>
