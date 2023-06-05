@@ -17,6 +17,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     padding-bottom: 0;
 	 	align-items: center;
     justify-content: center;
+	  font-size: 18px;
   }
 
   ul.jekyllcodex_accordion li {
@@ -73,7 +74,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
     color: #037e8a;
     font-weight: 400;
-    font-size: 130%;
+    font-size: 18px;
     line-height: 1.1rem;
     padding: 0;
     position: absolute;
@@ -119,10 +120,11 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 
 <style>
   ul.jekyllcodex_accordion {
-    position: relative;
+    position: center;
     margin: 1.4rem 0 !important;
     border-bottom: 1px solid #DBDFE4;
     padding-bottom: 0;
+	  font-size: 18px;
   }
 
   ul.jekyllcodex_accordion li {
@@ -177,7 +179,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
     color: #037e8a;
     font-weight: 400;
-    font-size: 130%;
+    font-size: 18px;
     line-height: 1.1rem;
     padding: 0;
     position: absolute;
@@ -205,11 +207,17 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
     .image {
       flex: 0 0 auto;
       margin-right: 10px;
+	    float: left;
+      align-items: center;
+      justify-content: center;	    
     }
 
     .text {
       flex: 1 1 auto;
       text-align: right;
+	    float: left;
+	    align-items: center;
+      justify-content: center;	    
     }
   </style>
 
