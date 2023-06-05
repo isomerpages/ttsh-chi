@@ -3,8 +3,10 @@ title: CHI Masterclass test page
 permalink: /our-events/masterclasstestage/
 description: ""
 ---
+
+
 <div id="wrap">
-    <img class="left" src="http://dummyimage.com/64x64/0088cc/ffffff.gif&amp;text=.img">
+    <img src="http://dummyimage.com/64x64/0088cc/ffffff.gif&amp;text=.img" class="left">
     <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non
         mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac,
         vestibulum at eros. Donec sed odio dui. Nullam id dolor id nibh ultricies
@@ -15,7 +17,7 @@ description: ""
         consectetur. Nulla vitae elit libero, a pharetra augue. Morbi leo risus,
         porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet,
         consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.</p>
-    <img class="right" src="http://dummyimage.com/64x64/0088cc/ffffff.gif&amp;text=.img">
+    <img src="http://dummyimage.com/64x64/0088cc/ffffff.gif&amp;text=.img" class="right">
         <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non
             mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac,
             vestibulum at eros. Donec sed odio dui. Nullam id dolor id nibh ultricies
@@ -26,7 +28,7 @@ description: ""
             consectetur. Nulla vitae elit libero, a pharetra augue. Morbi leo risus,
             porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet,
             consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.</p>
-        <img class="right" src="http://dummyimage.com/64x64/0088cc/ffffff.gif&amp;text=.img">
+        <img src="http://dummyimage.com/64x64/0088cc/ffffff.gif&amp;text=.img" class="right">
             <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non
                 mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac,
                 vestibulum at eros. Donec sed odio dui. Nullam id dolor id nibh ultricies
