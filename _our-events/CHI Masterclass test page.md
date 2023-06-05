@@ -87,7 +87,7 @@ input:checked + label + .accordion-content {
   <thead>
     <tr>
       <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
