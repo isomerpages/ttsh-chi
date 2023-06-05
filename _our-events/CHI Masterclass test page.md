@@ -3,6 +3,45 @@ title: CHI Masterclass test page
 permalink: /our-events/masterclasstestage/
 description: ""
 ---
+<style>
+div {
+  border: 3px solid #4CAF50;
+  padding: 5px;
+}
+
+.img1 {
+  float: right;
+}
+
+.img2 {
+  float: right;
+}
+
+.clearfix {
+  overflow: auto;
+}
+</style>
+
+
+
+<h2>Without Clearfix</h2>
+
+<p>This image is floated to the right. It is also taller than the element containing it, so it overflows outside of its container:</p>
+
+<div>
+  <img class="img1" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...
+</div>
+
+<h2 style="clear:right">With Clearfix</h2>
+<p>We can fix this by adding a clearfix class with overflow: auto; to the containing element:</p>
+
+<div class="clearfix">
+  <img class="img2" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...
+</div>
+
+
 # CHI MASTERCLASS
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
   
@@ -105,12 +144,12 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   
   <!-- New accordion -->
 
-  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">16th Masterclass</label>
+  <li><input type="checkbox" id="accordion-a1"><label for="accordion-a1">16th Masterclass</label>
     <div><p><strong>Test Test</strong></p>
 
 <p>test</p>
 
-<p><a class="btn" href="test" target="_blank" rel="noopener">Register Now</a> </p>
+<p><a rel="noopener" target="_blank" href="test" class="btn">Register Now</a> </p>
 
 </div></li></ul>
 
@@ -225,28 +264,40 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 	.clearfix {
   overflow: auto;
 	}
+
   </style>
 
 
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
+<li><input type="checkbox" id="accordion-b1"><label for="accordion-b1">15th Masterclass</label>
+<div>
+<style>
+.img {
+  float: left;
+}
+
+.clearfix {
+  overflow: auto;
+}
+</style>
+
 	
 <div class="clearfix">
-  <img height="170" width="170" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg" class="img">
+  <img class="img" src="/images/Masterclass/15%20masterclass_patrick.jpg" alt="Pineapple" width="170" height="170">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 </div>
 
 <hr>
 
- </li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
+ </div></li><li><input type="checkbox" id="accordion-b2"><label for="accordion-b2">14th Masterclass</label>
     <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg">
+</style><p><img src="/images/Masterclass/14%20masterclass_jonty.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 <b><u>Population Health - Ambition into Action</u></b> <br>
 			<b>Dr Jonty Heaversedge​</b>
 				Chief Medical Officer and Chief Clinical Information Officer,
@@ -265,13 +316,13 @@ There is no 'right' answer and history would suggest that simply trying to repli
 </p>
 
 <hr>
-	</div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass </label>
+	</div></li><li><input type="checkbox" id="accordion-b3"><label for="accordion-b3">13th Masterclass </label>
       <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png">
+</style><p><img src="/images/Masterclass/13th%20chi%20masterclass.png" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
@@ -279,26 +330,26 @@ img {
 
 <hr>
 			
- </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">12th Masterclass</label>
+ </div></li><li><input type="checkbox" id="accordion-b4"><label for="accordion-b4">12th Masterclass</label>
      <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/12th%20masterclass.png">
+</style><p><img src="/images/Masterclass/12th%20masterclass.png" alt="Pineapple" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
-	</div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">11th Masterclass </label>
+	</div></li><li><input type="checkbox" id="accordion-b5"><label for="accordion-b5">11th Masterclass </label>
       <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png">
+</style><p><img src="/images/Masterclass/11th-chi-masterclass-image.png" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
@@ -306,26 +357,26 @@ img {
 
 <hr>
 			
- </div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">10th Masterclass</label>
+ </div></li><li><input type="checkbox" id="accordion-b6"><label for="accordion-b6">10th Masterclass</label>
       <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png">
+</style><p><img src="/images/Masterclass/10th-chi-masterclass-image.png" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
-		</div></li><li><input id="accordion-b7" type="checkbox"><label for="accordion-b7">9th Masterclass </label>
+		</div></li><li><input type="checkbox" id="accordion-b7"><label for="accordion-b7">9th Masterclass </label>
       <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/9th-chi-masterclasses-image.png">
+</style><p><img src="/images/Masterclass/9th-chi-masterclasses-image.png" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
@@ -333,26 +384,26 @@ img {
 
 <hr>
 			
- </div></li><li><input id="accordion-b8" type="checkbox"><label for="accordion-b8">8th Masterclass</label>
+ </div></li><li><input type="checkbox" id="accordion-b8"><label for="accordion-b8">8th Masterclass</label>
      <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png">
+</style><p><img src="/images/Masterclass/8th-chi-masterclass-image.png" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
-		</div></li><li><input id="accordion-b9" type="checkbox"><label for="accordion-b9">7th Masterclass </label>
+		</div></li><li><input type="checkbox" id="accordion-b9"><label for="accordion-b9">7th Masterclass </label>
      <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg">
+</style><p><img src="/images/Masterclass/7th_events_masterclasses.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
@@ -360,26 +411,26 @@ img {
 
 <hr>
 			
- </div></li><li><input id="accordion-b10" type="checkbox"><label for="accordion-b10">6th Masterclass</label>
+ </div></li><li><input type="checkbox" id="accordion-b10"><label for="accordion-b10">6th Masterclass</label>
       <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg">
+</style><p><img src="/images/Masterclass/6th_events_masterclasses.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
-		</div></li><li><input id="accordion-b11" type="checkbox"><label for="accordion-b11">5th Masterclass </label>
+		</div></li><li><input type="checkbox" id="accordion-b11"><label for="accordion-b11">5th Masterclass </label>
       <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/5th_events_masterclasses.jpg">
+</style><p><img src="/images/Masterclass/5th_events_masterclasses.jpg" alt="Pineapple" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
@@ -387,26 +438,26 @@ img {
 
 <hr>
 			
- </div></li><li><input id="accordion-b12" type="checkbox"><label for="accordion-b12">4th Masterclass</label>
+ </div></li><li><input type="checkbox" id="accordion-b12"><label for="accordion-b12">4th Masterclass</label>
      <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg">
+</style><p><img src="/images/Masterclass/4th_events_masterclasses.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
-		</div></li><li><input id="accordion-b13" type="checkbox"><label for="accordion-b13">3rd Masterclass </label>
+		</div></li><li><input type="checkbox" id="accordion-b13"><label for="accordion-b13">3rd Masterclass </label>
       <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg">
+</style><p><img src="/images/Masterclass/3rd_events_masterclasses.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px;">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
