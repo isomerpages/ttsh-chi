@@ -71,7 +71,10 @@ input:checked + label + .accordion-content {
 input:checked + label + .accordion-content {
 	display: block;
 }
-
+th, td {
+  border-style: hidden;
+	
+}
 </style>
 <!-- End of accordion -->
 
@@ -84,7 +87,7 @@ input:checked + label + .accordion-content {
 <div>
 		<input id="title1" type="checkbox"><label for="title1">Health Systems &amp; Providers</label>
 <div class="accordion-content">
-<table class="table">
+<table class="table table-borderless">
   <thead bgcolor="white">
     <tr>
       <th scope="col"><a href="https://www.aic.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/aicaic.svg"></button></a><br> </th>
