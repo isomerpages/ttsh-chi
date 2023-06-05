@@ -309,7 +309,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/12th%20masterclass.png"><p>
 <b><u>Sustainability in Healthcare Transformation</u></b> <br>
 			<b>Population Health Experiences of the Hong Kong Health System</b><br>By Prof Gabriel Leung<br><b>Sustainable Transformation in Karolinska University Hospital</b><br>By Associate Professor Anders Ahlsson
 
@@ -330,7 +330,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png"><p>
 <b><u>Integrating Care Across the Care Continuum</u></b> <br>
 			<b>Dr Samir Sinha </b><br>MD, DPhil, FRCPC, AGSF
 Director of Geriatrics, Sinai Health System
@@ -354,7 +354,7 @@ p {
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png"><p>
 <b><u>The Blueprint for Successful MedTech Innovation</u></b> <br><b>Prof Pascal Verdonck </b>
 				Professor of Medical Technology,Ghent University, Belgium Chief Executive Officer, MedTech Flanders<br>
 			Technology and healthcare innovation often go hand in hand, with the aim to improve quality of life, life expectancy and offer new options for diagnosis and treatment. Yet healthcare leaders often need to balance innovation with cost effectiveness and efficiency of the healthcare system.<br>How then should a healthcare leader respond to the rise in healthcare innovation and its challenges?<br>How should we decide which innovations to prioritise? In this CHI Masterclass, Professor Pascal Verdonck will give insights into the fine balance between the health benefits and economic impact of innovation. With his deep expertise in the area of MedTech, he will provide fresh perspectives on challenges that innovation poses. Benefiting patients is essential but is that sufficient? Join us as we explore the possibilities, regulations and qualifications that are needed to supplement medical technology to reach beyond basic patient care. Go on a learning journey to understand the elements involved and the way forward with MedTech!
