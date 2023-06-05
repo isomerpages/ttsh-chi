@@ -221,8 +221,8 @@ img {
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
-			<b>Mr Patrick Tay
-				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</b><br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.
 </p>
 
@@ -235,7 +235,22 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/14%20masterclass_jonty.jpg">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+<b><u>Population Health - Ambition into Action</u></b> <br>
+			<b>Dr Jonty Heaversedge​</b>
+				Chief Medical Officer and Chief Clinical Information Officer,
+South East London Integrated Care System 
+Clinical Director, Imperial College Health Partners 
+<br>
+			Like most other health systems in the world, when the National Health System (NHS) in England was established, it was primarily focused on treating single conditions or illnesses. Since then both the understanding of disease and needs of the population have changed. People are living longer with multiple, complex, long-term conditions and increasingly require ongoing support from many different services and professionals. There is also a better understanding of the wider metabolic, behavioural, and environmental factors that are driving the increasing burden of ill-health, inequalities of outcome, and cost of care to society.
+
+There is a growing realisation that this challenge cannot be met by health and care services alone – expanding current services to meet this need is unaffordable and a 'work-harder' approach will not help us to address these complex and multifactorial challenges. Increasingly health systems across the world are coming to the same conclusion – we need a fundamentally different approach – one which starts with our population and depends on strong partnership – not just between health and care providers but across government departments, community partners and, perhaps most importantly with our communities themselves.
+
+These principles sit at the heart of current NHS reform and the introduction of Integrated Care Systems (ICSs) in England, but they are not new. Like other systems across the world, progress has been painfully slow, and whilst structural reform may help create the conditions for change it can easily belie the reality of the transformational challenge.
+
+How do we translate these concepts into strategy, create a compelling vision that engages with our workforce, patients, and local communities, and prioritise action and investment to create impact? This requires a fundamental shift in mindset and method. We need to be clear how we think transformation happens in a complex system, how we create the conditions for improvement and innovation, develop enabling capabilities to catalyse change, and empower change-makers in our communities to unleash their energy and talent.
+
+There is no 'right' answer and history would suggest that simply trying to replicate a solution in a different context is rarely successful. In this session Dr Jonty will share practical insights on prevention, primary care transformation, and population health management – to help accelerate our ambitions for happier, healthier populations in both England and Singapore.
+</p>
 
 <hr>
 	</div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass </label>
@@ -245,7 +260,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 			
@@ -256,7 +274,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/12th%20masterclass.png">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 	</div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">11th Masterclass </label>
@@ -266,7 +287,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 			
@@ -277,7 +301,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 		</div></li><li><input id="accordion-b7" type="checkbox"><label for="accordion-b7">9th Masterclass </label>
@@ -287,7 +314,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/9th-chi-masterclasses-image.png">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 			
@@ -298,7 +328,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 		</div></li><li><input id="accordion-b9" type="checkbox"><label for="accordion-b9">7th Masterclass </label>
@@ -308,7 +341,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 			
@@ -319,7 +355,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 		</div></li><li><input id="accordion-b11" type="checkbox"><label for="accordion-b11">5th Masterclass </label>
@@ -329,7 +368,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="Pineapple" src="/images/Masterclass/5th_events_masterclasses.jpg">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 			
@@ -340,7 +382,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 		</div></li><li><input id="accordion-b13" type="checkbox"><label for="accordion-b13">3rd Masterclass </label>
@@ -350,7 +395,10 @@ img {
   float: left;
 }
 </style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg">
-fhdfhkdahjknafscadjkcbdakjbkcshdbchdkbckjdbvchjdsbvhdbvhjfbvhfxbvhbxfvhbfvhbfhbvhfbvhfbvhfbvhfbvhfbvhbfhvbhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhfbvhbhbbbbbbbbbb</p>
+			<b><u>The 5Cs of Community Leadership</u></b> <br>
+			<b>Mr Patrick Tay</b>
+				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
+			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</p>
 
 <hr>
 	
