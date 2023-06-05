@@ -236,11 +236,11 @@ img {
 }
 p {
 	overflow: auto;
-  width: 800px;
-  max-height: 500px;
+  width: 600px;
+  max-height: 300px;
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
 <b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
@@ -258,7 +258,7 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 500px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
@@ -284,11 +284,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 500px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png"><p>
 <b><u>AI in Industry 4.0: The Future of Healthcare</u></b> <br>
 			<b>Dr Tai-Yi Huang</b>
 				The evolution of modern medicine to precision medicine is often hampered by two major challenges: Fragmented Data and Outdated Information Systems. In this masterclass, Dr Huang shares the lessons learnt in tackling these challenges, and present innovative solutions that have been developed in response to these challenges.
@@ -305,11 +305,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 500px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/12th%20masterclass.png"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/12th%20masterclass.png"><p>
 <b><u>Sustainability in Healthcare Transformation</u></b> <br>
 			<b>Population Health Experiences of the Hong Kong Health System</b><br>By Prof Gabriel Leung<br><b>Sustainable Transformation in Karolinska University Hospital</b><br>By Associate Professor Anders Ahlsson
 
@@ -326,11 +326,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png"><p>
 <b><u>Integrating Care Across the Care Continuum</u></b> <br>
 			<b>Dr Samir Sinha </b><br>MD, DPhil, FRCPC, AGSF
 Director of Geriatrics, Sinai Health System
@@ -350,11 +350,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 500px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png"><p>
 <b><u>The Blueprint for Successful MedTech Innovation</u></b> <br><b>Prof Pascal Verdonck </b>
 				Professor of Medical Technology,Ghent University, Belgium Chief Executive Officer, MedTech Flanders<br>
 			Technology and healthcare innovation often go hand in hand, with the aim to improve quality of life, life expectancy and offer new options for diagnosis and treatment. Yet healthcare leaders often need to balance innovation with cost effectiveness and efficiency of the healthcare system.<br>How then should a healthcare leader respond to the rise in healthcare innovation and its challenges?<br>How should we decide which innovations to prioritise? In this CHI Masterclass, Professor Pascal Verdonck will give insights into the fine balance between the health benefits and economic impact of innovation. With his deep expertise in the area of MedTech, he will provide fresh perspectives on challenges that innovation poses. Benefiting patients is essential but is that sufficient? Join us as we explore the possibilities, regulations and qualifications that are needed to supplement medical technology to reach beyond basic patient care. Go on a learning journey to understand the elements involved and the way forward with MedTech!
@@ -372,11 +372,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/9th-chi-masterclasses-image.png"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/9th-chi-masterclasses-image.png"><p>
 <b><u>Understanding Key Concepts in Systems Thinking</u></b> <br>
 			<b>Dr Peter Senge</b><br>
 Founding Chair,
@@ -397,11 +397,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png"><p>
 <b><u>An Overview on the Gesundes Kinzigtal (GK) Model of Integrated Care Provision</u></b> <br>
 			<b>Dr Martin Wetzel</b>
 				Co-initiator and Founder, Medical Quality Network
@@ -421,11 +421,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg"><p>
 <b><u>Value Based Healthcare, A Tough but Necessary Journey – The UK Story</u></b> <br>
 			<b>Dr Anant Jani</b>
 				Executive Director<br>Better Value Healthcare
@@ -444,11 +444,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg"><p>
 <b><u>Building a Healthcare Team in the Community </u></b> <br>
 			<b>Mr Stephen M.R. Covey </b>
 				Trust Expert,
@@ -470,11 +470,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/5th_events_masterclasses.jpg"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/5th_events_masterclasses.jpg"><p>
 <b><u>Collective Leadership for a Caring Kampung, and What it Means for You?</u></b> <br>
 			<b>Dr Douglas O’Loughlin</b>
 				Institute of Leadership &amp; Organisation Development Civil Service College<br>
@@ -496,11 +496,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg"><p>
 <b><u>Design Thinking for Healthcare – What’s Required?</u></b> <br>
 			<b>Ms Joanne Teh</b>
 				Asian Insights &amp; Design Innovation,
@@ -521,11 +521,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg"><p>
 <b><u>Innovation, The Ko Awatea Story</u></b> <br>
 			<b>Prof Jonathon Gray</b>Ko Awatea (New Zealand)
 Director, Innovative Centre for Health Systems Improvement, Ko Awatea
