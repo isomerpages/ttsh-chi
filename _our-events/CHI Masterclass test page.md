@@ -3,7 +3,6 @@ title: CHI Masterclass test page
 permalink: /our-events/masterclasstestage/
 description: ""
 ---
-
 # CHI MASTERCLASS
 The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
   
@@ -233,17 +232,13 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
   <!-- Beginning of accordion tab -->
 <li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
 <div>
-
-
-	
-<div class="clearfix">
-  <img height="170" width="170" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg" class="img">
+<img height="170" width="170" alt="Pineapple" src="/images/Masterclass/15%20masterclass_patrick.jpg" class="img">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...dsaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 </div>
 
 <hr>
 
- </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
+ </li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
     <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
