@@ -534,6 +534,6 @@ Director, Innovative Centre for Health Systems Improvement, Ko Awatea
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="/our-events/chimasterclass">CHI Innovate</a></li>
+		<li><a href="/our-events/chi-innovate/">CHI Innovate</a></li>
 	</ul>
 </div>
