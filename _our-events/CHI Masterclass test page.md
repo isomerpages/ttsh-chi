@@ -3,7 +3,7 @@ title: CHI Masterclass test page
 permalink: /our-events/masterclasstestage/
 description: ""
 ---
-   <div><p><strong>27 March 2023</strong></p>			 
+<div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
   float: left;
