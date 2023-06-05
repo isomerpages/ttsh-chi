@@ -237,11 +237,10 @@ p {
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.
-</p></div>
-
+</p>
 <hr>
 
- </li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
+ </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
     <div><p><strong>17 Feb 2023</strong></p>			 
 <style>
 img {
