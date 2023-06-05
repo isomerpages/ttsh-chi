@@ -11,7 +11,7 @@ The environment confronting business leaders of today continues to be volatile. 
 This Multilevel design is built on collective leadership mental models, language, and tools, incorporating case studies, Action-Learning Projects (ALP), learning journals, coaching and fireside chats, to drive Learning Without Walls:
 
 <table class="table">
-  <thead bgcolor="grey">
+  <thead bgcolor="#EAA7AE">
     <tr>
       <th scope="col">Leading Self (3 Days) <br>Strengthening collective leadership in teams, amid disruption and transformation</th>
       <th scope="col">Leading Together (4 days) ​<br>Increasing self-awareness and developing personal effectiveness ​ <br> Synthesize new knowledge and tools to develop solutions</th>
