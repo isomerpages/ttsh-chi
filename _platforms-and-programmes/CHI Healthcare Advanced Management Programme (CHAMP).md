@@ -21,8 +21,8 @@ Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>
   </thead>
   <tbody>
     <tr>
-      <td scope="row">• Values, Traits &amp; Leadership Behaviours
-• Personal Effectiveness &amp; Collective Leadership
+      <td scope="row">• Values, Traits &amp; Leadership Behaviours<br>
+• Personal Effectiveness &amp; Collective Leadership<br>
 • Cultural Intelligence
       </td><td> •	Building Effective Teams​<br>•	Communicating with Impact<br>•	Leading Change<br> •	 Leading in Times of Disruption   </td>
       <td> •	Systems Thinking &amp; Healthcare Economics<br> •	Healthcare Strategy &amp; Strategic Thinking<br>•	Transforming Healthcare Operations<br> •	Transforming Healthcare Finance<br>•	Capstone: Business Simulation  </td>
