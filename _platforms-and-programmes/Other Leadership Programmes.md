@@ -3,17 +3,15 @@ title: Other Leadership Programmes
 permalink: /platformprogrammes/otherprogrammes/
 description: ""
 ---
----
+
 # Other Leadership Programmes
 
-Test comment
-
-
+Here are some test 
 
 <br>
 <div class="row">
 <div class="col"> 
-<img alt="Auditorium" src="/images/office-desk-animation.gif"><br>
+<img alt="event1" src="/images/office-desk-animation.gif"><br>
 	<div class="header"><b>Event 1</b></div><br>
 	<div class="para">Caption
 
@@ -22,7 +20,7 @@ Test comment
 
 </div>
 	<div class="col"> 
-<img alt="CHI Living Lab" src="/images/office-desk-animation.gif"><br>
+<img alt="event2" src="/images/office-desk-animation.gif"><br>
 		<div class="header"><b>Event 2<br></b></div><br>
 		<div class="para">Test 2
 </div>
@@ -30,7 +28,7 @@ Test comment
 
 </div>
 	<div class="col"> 
-<img alt="Hall" src="/images/office-desk-animation.gif"><br>
+<img alt="event3" src="/images/office-desk-animation.gif"><br>
 		<div class="header"><b>Event 3</b></div><br>
 		<div class="para">Event 3
 </div>
