@@ -232,6 +232,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <style>
 img {
   float: left;
+	vertical-align: middle;
 }
 </style>
 <p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
