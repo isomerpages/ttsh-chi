@@ -209,7 +209,8 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
       margin-right: 10px;
 	    float: left;
       align-items: center;
-      justify-content: center;	    
+      justify-content: center;
+	    vertical-align: middle;
     }
 
     .text {
@@ -232,7 +233,10 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 img {
   float: left;
 }
-</style><p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+</style>
+
+			<p><img style="width:484px;height:296px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+
 			<b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
