@@ -119,8 +119,8 @@ label:hover {
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 	overflow: scroll;
-	width: 768px;
-  height: 192px;
+	width: 800px;
+  height: 300px;
 }
 
 input + label + .accordion-content {
