@@ -104,7 +104,7 @@ input:checked + label + .accordion-content {
     </tr>
 	  <tr><td scope="row"><a href="https://www.northerncarealliance.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></button></a><br>
       </td><td><a href="https://ntuchealth.sg/about-us"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></button></a><br></td>
-      <td><a href=""><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></button></a><br></td>
+      <td><a href="test"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></button></a><br></td>
     </tr>
 	  <tr><td scope="row"><a href="https://www.renci.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></button></a><br>
       </td><td><a href="https://english.riberasalud.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></button></a><br></td>
@@ -151,7 +151,7 @@ input:checked + label + .accordion-content {
 	<table class="table">
   <thead bgcolor="white">
     <tr>
-      <th scope="col"><a href="https://designsingapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br> </th>
+      <th scope="col"><a href="https://designsingapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/designsg.svg"></button></a><br> </th>
       <th scope="col"><a href="https://www.enterprisesg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></button></a><br></th>
       <th scope="col"><a href="https://www.ihis.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></button></a><br></th>
     </tr>
@@ -396,8 +396,8 @@ input:checked + label + .accordion-content {
       <td scope="row"><a href="https://www.vertexventures.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/vertex.svg"></button></a><br>
       </td><td><a href="http://wavemaker.vc/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/wavemaker.svg"></button></a><br></td>
      
-    </tr>
-  </tbody>
+
+  </tr></tbody>
 </table>
 		
 
