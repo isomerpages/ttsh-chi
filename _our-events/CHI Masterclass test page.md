@@ -97,13 +97,13 @@ input:checked + label + .accordion-content {
 <h2 id="our-main-plans">Past Masterclasses</h2>
 
 <div>
-		<input id="title1" type="checkbox"><label for="title1">CHI Masterclass</label>
+		<input type="checkbox" id="title1"><label for="title1">CHI Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -193,13 +193,13 @@ th{
 <h2 id="our-main-plans">Past Masterclasses</h2>
 
 <div>
-		<input id="title15" type="checkbox"><label for="title15">15th Masterclass</label>
+		<input type="checkbox" id="title15"><label for="title15">15th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -209,13 +209,13 @@ th{
 <p></p>
 	</div>
 <div>
-		<input id="title14" type="checkbox"><label for="title14">14th Masterclass</label>
+		<input type="checkbox" id="title14"><label for="title14">14th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/14%20masterclass_jonty.jpg"></th>
-      <th style="width: 384px; height: 192px; overflow: auto" scope="col"><b>Dr Jonty Heaversedge</b><br>
+      <th scope="col"><img src="/images/Masterclass/14%20masterclass_jonty.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></th>
+      <th scope="col" style="width: 384px; height: 192px; overflow: auto"><b>Dr Jonty Heaversedge</b><br>
 Chief Medical Officer and Chief Clinical Information Officer,
 South East London Integrated Care System 
 Clinical Director, Imperial College Health Partners 
@@ -238,13 +238,13 @@ There is no 'right' answer and history would suggest that simply trying to repli
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">13th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">13th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-			<th style="width: 50%;" scope="col"><b>Dr Tai-Yi Huang</b><br>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/13th%20chi%20masterclass.png" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+			<th scope="col" style="width: 50%;"><b>Dr Tai-Yi Huang</b><br>
 Corporate Vice President &amp; Chief Technology Officer, ASUS <br>
 The evolution of modern medicine to precision medicine is often hampered by two major challenges: Fragmented Data and Outdated Information Systems. In this masterclass, Dr Huang shares the lessons learnt in tackling these challenges, and present innovative solutions that have been developed in response to these challenges.</th>
 
@@ -256,13 +256,18 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">12th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">12th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/12th%20masterclass.png" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Sustainability in Healthcare Transformation<br>Population Health Experiences of the Hong Kong Health System
+				By <b>Prof Gabriel Leung</b><br>
+
+Sustainable Transformation in Karolinska University Hospital 
+By <b>Associate Professor Anders Ahlsson<b>
+</b></b></th>
 
     
   </tr></thead>
@@ -272,13 +277,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">11th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">11th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -288,13 +293,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">10th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">10th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -304,13 +309,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">9th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">9th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -320,13 +325,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">8th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">8th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -336,13 +341,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">7th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">7th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -352,13 +357,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">6th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">6th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -368,13 +373,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">5th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">5th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -384,13 +389,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">4th Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">4th Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
@@ -400,13 +405,13 @@ The evolution of modern medicine to precision medicine is often hampered by two 
 <p></p>
 	</div>
 <div>
-		<input id="title2" type="checkbox"><label for="title2">3rd Masterclass</label>
+		<input type="checkbox" id="title2"><label for="title2">3rd Masterclass</label>
 <div class="accordion-content">
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><img alt="CHI" style="width:384px; height:192px; padding-top:8%;" src="/images/Masterclass/15%20masterclass_patrick.jpg"></a></th>
-      <th style="width: 50%;" scope="col">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><img src="/images/Masterclass/15%20masterclass_patrick.jpg" style="width:384px; height:192px; padding-top:8%;" alt="CHI"></a></th>
+      <th scope="col" style="width: 50%;">Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.</th>
 
     
   </tr></thead>
