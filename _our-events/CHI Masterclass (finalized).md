@@ -281,7 +281,7 @@ p {
 </style>
 <img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/13th%20chi%20masterclass.png"><p>
 <b><u>AI in Industry 4.0: The Future of Healthcare</u></b> <br>
-			<b>Dr Tai-Yi Huang</b><br>
+			<b>Dr Tai-Yi Huang</b><br>Corporate Vice President &amp; Chief Technology Officer, ASUS <br><br>
 				The evolution of modern medicine to precision medicine is often hampered by two major challenges: Fragmented Data and Outdated Information Systems. In this masterclass, Dr Huang shares the lessons learnt in tackling these challenges, and present innovative solutions that have been developed in response to these challenges.
 </p>
 
