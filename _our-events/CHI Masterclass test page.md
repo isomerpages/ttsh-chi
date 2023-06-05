@@ -11,11 +11,11 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 300px;
+  max-width: 500px;
   max-height: 300px;
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
 <b><u>The 5Cs of Community Leadership</u></b> <br>
 			<b>Mr Patrick Tay</b>
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
