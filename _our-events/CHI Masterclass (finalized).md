@@ -74,18 +74,19 @@ description: ""
 
   ul.jekyllcodex_accordion li label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
-    color: #a6192e;
     font-weight: 400;
     font-size: 18px;
     line-height: 1.1rem;
     padding: 0;
     position: absolute;
     right: 0.5rem;
+	  color: #A6192E;
   }
 
   ul.jekyllcodex_accordion li input:checked+label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
     transform: rotateZ(180deg);
+	  color: #A6192E;
   }
 
   ul.jekyllcodex_accordion li ul li {
@@ -127,12 +128,14 @@ description: ""
     border-bottom: 1px solid #DBDFE4;
     padding-bottom: 0;
 	  font-size: 18px;
+	
   }
 
   ul.jekyllcodex_accordion li {
     border-top: 1px solid #DBDFE4;
     list-style: none;
     margin: 0 auto 0 0 !important;
+
   }
 
   ul.jekyllcodex_accordion li input {
@@ -147,6 +150,7 @@ description: ""
     font-size: 18px;
     color: #000000;
     margin-right: 41px;
+	
   }
 
   ul.jekyllcodex_accordion li div {
@@ -179,7 +183,7 @@ description: ""
 
   ul.jekyllcodex_accordion li label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
-    color: #037e8a;
+    color: #A6192E;
     font-weight: 400;
     font-size: 18px;
     line-height: 1.1rem;
@@ -191,6 +195,7 @@ description: ""
   ul.jekyllcodex_accordion li input:checked+label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
     transform: rotateZ(180deg);
+    color: #A6192E;
   }
 
   ul.jekyllcodex_accordion li ul li {
