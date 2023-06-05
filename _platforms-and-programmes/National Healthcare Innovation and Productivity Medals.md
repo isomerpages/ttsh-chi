@@ -34,7 +34,7 @@ description: ""
  </b></div><br></div></div>
  <div>
  <table class="table">
-  <thead bgcolor="#FF8686">
+  <thead bgcolor="#EAA7AE">
     <tr>
       <th scope="col">BEST PRACTICE</th>
       <th scope="col">EXCELLENCE CHAMPION</th>
