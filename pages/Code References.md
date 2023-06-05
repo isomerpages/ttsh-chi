@@ -18,7 +18,7 @@ description: ""
 }
 
 .active, .button:hover {
-  background-color: #ccc; 
+  background-color: #a6192e; 
 }
 
 .panel {
