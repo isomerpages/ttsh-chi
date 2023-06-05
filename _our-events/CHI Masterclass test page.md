@@ -156,14 +156,14 @@ img {
 	margin: 0px 0px 15px 20px;
 }
 div.ex1 {
-  background-color: lightblue;
-  width: 384px;
   height: 192px;
+	width: 484px
   overflow: scroll;
 }
-</style><p><img src="/images/Masterclass/14%20masterclass_jonty.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px;">
-</p><div class="ex1"><b><u>Population Health - Ambition into Action</u></b> <br>
-			<b>Dr Jonty Heaversedge​</b>
+</style>
+			<img src="/images/Masterclass/14%20masterclass_jonty.jpg" alt="chi" style="width:484px;height:296px;margin-right:15px; float:left;">
+<div class="ex1"><b><u>Population Health - Ambition into Action</u></b> <br>
+			<div class="ex1"><b>Dr Jonty Heaversedge​</b>
 				Chief Medical Officer and Chief Clinical Information Officer,
 South East London Integrated Care System 
 Clinical Director, Imperial College Health Partners 
@@ -178,7 +178,7 @@ How do we translate these concepts into strategy, create a compelling vision tha
 
 There is no 'right' answer and history would suggest that simply trying to replicate a solution in a different context is rarely successful. In this session Dr Jonty will share practical insights on prevention, primary care transformation, and population health management – to help accelerate our ambitions for happier, healthier populations in both England and Singapore.
 <p></p>
-			</div></div></div></div>
+			</div></div></div></div></div>
 	
 <div>
 		<input id="title14" type="checkbox"><label for="title14">14th Masterclass</label>
@@ -190,7 +190,6 @@ img {
 	margin: 0px 0px 15px 20px;
 }
 div.ex1 {
-  background-color: lightblue;
   width: 384px;
   height: 192px;
   overflow: scroll;
@@ -224,7 +223,6 @@ img {
 	margin: 0px 0px 15px 20px;
 }
 div.ex1 {
-  background-color: lightblue;
   width: 384px;
   height: 192px;
   overflow: scroll;
@@ -257,7 +255,6 @@ img {
 	margin: 0px 0px 15px 20px;
 }
 div.ex1 {
-  background-color: lightblue;
   width: 384px;
   height: 192px;
   overflow: scroll;
