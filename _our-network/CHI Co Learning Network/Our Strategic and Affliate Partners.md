@@ -302,7 +302,7 @@ input:checked + label + .accordion-content {
 
 
 <h2 id="our-main-plans">CHI Affliate Partners</h2>
-		WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UPdsadsadsd
+		WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP
 <div>
 		<input id="title6" type="checkbox"><label for="title6">Agencies</label>
 <div class="accordion-content">
@@ -352,43 +352,36 @@ input:checked + label + .accordion-content {
       </td><td><a href="https://aws.amazon.com/activate/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/awsactivate.svg"></button></a><br></td>
       <td><a href="https://www.co11ab.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/collab.svg"></button></a><br></td>
     </tr>
-   </tbody><tbody>
     <tr>
       <td scope="row"><a href="https://eurocham.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/eurocharm.svg"></button></a><br>
       </td><td><a href="https://www.genglobal.org/singapore"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/gen_singapore.svg"></button></a><br></td>
       <td><a href="https://kilsaglobal.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/kilsaa.svg"></button></a><br></td>
     </tr>
-		</tbody><tbody>
     <tr>
       <td scope="row"><a href="https://www.healthtec.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/healthtec.svg"></button></a><br>
       </td><td><a href="https://www.hello-tomorrow-apac.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/hellotmr.svg"></button></a><br></td>
       <td><a href="https://www.innovasjonnorge.no/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/innovation%20norway.svg"></button></a><br></td>
     </tr>
-		</tbody><tbody>
     <tr>
       <td scope="row"><a href="https://www.ipi-singapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/ipisingapore.svg"></button></a><br>
       </td><td><a href="https://www.italchamber.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/iccs%20singapore.svg"></button></a><br></td>
       <td><a href="https://www.hkstp.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/hkstpp.svg"></button></a><br></td>
     </tr>
-		</tbody><tbody>
     <tr>
       <td scope="row"><a href="https://www.questventures.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/questventures.svg"></button></a><br>
       </td><td><a href="https://medtechactuator.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/medtech.svg"></button></a><br></td>
       <td><a href="https://medtechinnovator.org/asia-pacific/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/medtech-innovators.svg"></button></a><br></td>
     </tr>
-		</tbody><tbody>
     <tr>
       <td scope="row"><a href="https://www.nanrise.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/nanrise.svg"></button></a><br>
       </td><td><a href="https://www.nordicinnovationhouse.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/nordic.svg"></button></a><br></td>
       <td><a href="https://www.plugandplaytechcenter.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/plugandplay.svg"></button></a><br></td>
     </tr>
-		</tbody><tbody>
     <tr>
       <td scope="row"><a href="https://www.sginnovate.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/sginnovate.svg"></button></a><br>
       </td><td><a href="https://smartlab.expert/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/smartlab.svg"></button></a><br></td>
       <td><a href="https://www.startupreseau.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/startup.svg"></button></a><br></td>
     </tr>
-			</tbody><tbody>
     <tr>
       <td scope="row"><a href="https://www.tembusutech.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/tembusu.svg"></button></a><br>
       </td><td><a href="https://tla.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek%20life%20science.svg"></button></a><br></td>
