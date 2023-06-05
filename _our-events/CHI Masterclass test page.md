@@ -16,9 +16,16 @@ description: ""
   line-height: 50px;
   font-size: 16px;
 }
+div.ex1 {
+  background-color: lightblue;
+  width: 300px;
+  height: 400px;
+  overflow: scroll;
+}
 </style>
 
-
+<h2>overflow: scroll:</h2>
+<div class="ex1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</div>
 
 <h1>Flexible Boxes</h1>
 
