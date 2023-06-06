@@ -45,9 +45,9 @@ label:hover {
 }
 
 .accordion-content {
-	/* background: #E2E5F6; */
+	background: #E2E5F6; 
 	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
+	border: 1px solid #484848;
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 	font-size: 1.25em;
@@ -85,7 +85,7 @@ Project owner who is looking to test out any of the following technologies that 
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Contact Us</label>
 	<div class="accordion-content">
-	<div class="para">If you have any questions, please contact us at dsho@ttsh.com.sg
+		<div class="para">If you have any questions, please contact us at <a>dsho@ttsh.com.sg</a>
 </div>
 	</div>
 
