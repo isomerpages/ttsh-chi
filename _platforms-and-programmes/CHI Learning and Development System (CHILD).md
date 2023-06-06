@@ -28,9 +28,9 @@ description: ""
 <div>
 	<div class="row">
 <div class="col"> 
-<img alt="QR" style="width:168px; height:168px; padding-top:8%;" src="/images/CHILD%20pictures/picture4.png"><br>
+<img alt="QR" style="width:252px; height:252px;" src="/images/CHILD%20pictures/picture4.png">
 		<div class="header"><b>
- </b></div><br>
+ </b></div>
 
 
 </div>
@@ -40,7 +40,7 @@ description: ""
 <br>
 Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it
 
- </b></div><br>
+ </b></div>
 		</div></div><div></div></div></div>
 		
 <h2>What is CHILD &amp; What can CHILD do for you?</h2>
@@ -53,14 +53,14 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 <div class="col"> 
 <img alt="1st" src="/images/CHILD%20pictures/sharee.svg"><br>
 		<div class="header"><b>“Share ideas, best practices, solutions and experiences.
- </b></div><br>
+ </b></div>
 
 
 </div>
 	<div class="col"> 
 <img alt="2nd person" src="/images/CHILD%20pictures/learnn.svg"><br>
 	<div class="header"><b>Learn from others people who have gone before.
- </b></div><br>
+ </b></div>
 	
 <br>
 
@@ -68,14 +68,13 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 	<div class="col"> 
 <img alt="3rd" src="/images/CHILD%20pictures/connect.svg"><br>
 	<div class="header"><b>Connect with other like-minded innovators to create a bigger impact!
-</b></div><br>
+</b></div>
 </div></div><div>
 <div>
 	<h2>About CHILD</h2>
 	<div>
 	<div class="row">
 <div class="col"> 
-<br>
 		<div class="header"><b>"Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the CHI Learning &amp; Development (CHILD) System serves as an open repository for healthcare innovation, improvement and productivity project write-ups, best practices and learning experiences.
  </b></div><br>
 
