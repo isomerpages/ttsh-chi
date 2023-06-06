@@ -9,7 +9,11 @@ The environment confronting business leaders of today continues to be volatile. 
 
 ## Programme Focus 
 This Multilevel design is built on collective leadership mental models, language, and tools, incorporating case studies, Action-Learning Projects (ALP), learning journals, coaching and fireside chats, to drive Learning Without Walls:
-
+<style>
+	table, th, td {
+  border: 1px solid;
+}
+</style>
 <table class="table">
   <thead bgcolor="#EAA7AE">
     <tr>
