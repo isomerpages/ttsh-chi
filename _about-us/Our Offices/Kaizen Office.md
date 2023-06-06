@@ -11,7 +11,7 @@ The Kaizen Office was formed in 2007 to help establish lean methodology for proc
 
 Today, we support CHI and TTSH in driving improvement and innovation  through facilitating change and capability builToday, we support CHI and Tan Tock Seng Hospital in driving improvement and innovation through facilitating change and capability building.<br><br>
 
-*VUCA - Volatile, Uncertainty, Complexity and Ambiguity*
+<small>*VUCA - Volatile, Uncertainty, Complexity and Ambiguity*</small>
 
 <h2>What we do?</h2>
 
