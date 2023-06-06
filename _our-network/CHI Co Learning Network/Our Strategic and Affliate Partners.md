@@ -83,7 +83,7 @@ th, td {
 
 
 <h2 id="our-main-plans">CHI Partners</h2>
-	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP
+The CHI Co-Learning Network comprises of 43 local and international like-minded innovation units across a multitude of industries. Bringing with them diverse yet synergistic expertise, partners in the Co-Learning network come together to establish an open community for co-learning and co-creating best practices in healthcare.<br>
 <div>
 		<input id="title1" type="checkbox"><label for="title1">Health Systems &amp; Providers</label>
 <div class="accordion-content">
