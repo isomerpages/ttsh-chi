@@ -58,7 +58,7 @@ div.a {
 
 <p style="font-size: 1.25em">Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br></p>
 
-<p style="font-size: 1.25em">NTFHIP is managed and administered by the<a href="https://www.chi.sg/chi-grantsandinnovation/" target="_blank"> <b><u>Grants &amp; Innovation Office . </u></b></a></p><p></p>
+<p style="font-size: 1.25em">NTFHIP is managed and administered by the<a href="/chi-grantsandinnovation/" target="_blank"> <b><u>Grants &amp; Innovation Office . </u></b></a></p><p></p>
 
 
 <style>
@@ -85,9 +85,9 @@ label:hover {
 }
 
 .accordion-content {
-	/* background: #E2E5F6; */
+	background: #E2E5F6; 
 	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
+	border: 1px solid #484848; 
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 	font-size: 1.25em;
