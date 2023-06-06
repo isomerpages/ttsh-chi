@@ -55,17 +55,12 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </table>
 </div>
 	
-<style>
-	.header {
-	background-color: #EAA7AE;
-  font-size: 50px;
-}
-	</style>
+
 	<br><br>
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img src="/images/Nhip/2022gif.gif" style="width:352px; height:182px;" alt="2022"></a><br>
-		<div class="header"><center><b>2022 </b></center></div><br>
+		<div style="background-color:tomato;" class="header"><center><b>2022 </b></center></div><br>
 		<div class="para">
 </div>
 <br>
@@ -74,7 +69,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa"><img src="/images/Nhip/2021gif.gif" style="width:352px; height:182px;" alt="2021"></a>
 		<br>
-	<div class="header"><center><b>2021</b></center></div><br>
+	<div style="background-color:tomato;" class="header"><center><b>2021</b></center></div><br>
 	<div class="para">
 </div>
 <br>
@@ -82,13 +77,13 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	<div class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ"><img src="/images/Nhip/2020gif.gif" style="width:352px; height:182px;" alt="2020"></a><br>
-	<div class="header"><center><b>2020</b></center></div><br>
+	<div style="background-color:tomato;" class="header"><center><b>2020</b></center></div><br>
 	<div class="para">
 </div>
 </div></div>
 
 <div class="row">
-<div class="col"> 
+<div style="background-color:tomato;" class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmpPGnw2xV5k1XkYflONYLXJ"><img src="/images/Nhip/2019gif.gif" style="width:352px; height:182px;" alt="2019"></a><br>
 		<div class="header"><center><b>2019 </b></center></div><br>
 		<div class="para">
@@ -104,7 +99,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <br>
 
 </div>
-	<div class="col"> 
+	<div style="background-color:tomato;" class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmon339X0ad-1kkAe__Xu4p7"><img src="/images/Nhip/2016gif.gif" style="width:352px; height:182px;" alt="2016"></a><br>
 	<div class="header"><center><b>2016</b></center></div><br>
 	<div class="para">
