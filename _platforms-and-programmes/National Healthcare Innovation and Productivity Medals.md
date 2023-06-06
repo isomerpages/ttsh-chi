@@ -6,7 +6,7 @@ description: ""
 <div>
 <div class="row">
 <div class="col"> 
-<img alt="1st person" class="middle" src="/images/nhippic.png">
+<img src="/images/nhippic.png" class="middle" alt="1st person">
 		<div class="header"></div>
 
 
@@ -29,7 +29,7 @@ description: ""
 
 </div>
 	<div class="col"> 
-<img alt="1st person" src="/images/au_system_innovation.png"><br>
+<img src="/images/au_system_innovation.png" alt="1st person"><br>
 	<div class="header"><b>
  </b></div><br></div></div>
  <div>
@@ -54,52 +54,59 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
   </tbody>
 </table>
 </div>
+	
+<style>
+	.header {
+	background-color: #EAA7AE;
+  font-size: 50px;
+}
+	</style>
 	<br><br>
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a><br>
-		<div style="background-color:red;" class="header"><center><b>2022 </b></center></div><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img src="/images/Nhip/2022gif.gif" style="width:352px; height:182px;" alt="2022"></a><br>
+		<div class="header"><center><b>2022 </b></center></div><br>
 		<div class="para">
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa"><img alt="2021" style="width:352px; height:182px;" src="/images/Nhip/2021gif.gif"></a>
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa"><img src="/images/Nhip/2021gif.gif" style="width:352px; height:182px;" alt="2021"></a>
 		<br>
-	<div style="background-color:red;" class="header"><center><b>2021</b></center></div><br>
+	<div class="header"><center><b>2021</b></center></div><br>
 	<div class="para">
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ"><img alt="2020" style="width:352px; height:182px;" src="/images/Nhip/2020gif.gif"></a><br>
-	<div style="background-color:red;" class="header"><center><b>2020</b></center></div><br>
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ"><img src="/images/Nhip/2020gif.gif" style="width:352px; height:182px;" alt="2020"></a><br>
+	<div class="header"><center><b>2020</b></center></div><br>
 	<div class="para">
 </div>
 </div></div>
 
 <div class="row">
 <div class="col"> 
-<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmpPGnw2xV5k1XkYflONYLXJ"><img alt="2019" style="width:352px; height:182px;" src="/images/Nhip/2019gif.gif"></a><br>
-		<div style="background-color:red;" class="header"><center><b>2019 </b></center></div><br>
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmpPGnw2xV5k1XkYflONYLXJ"><img src="/images/Nhip/2019gif.gif" style="width:352px; height:182px;" alt="2019"></a><br>
+		<div class="header"><center><b>2019 </b></center></div><br>
 		<div class="para">
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmohAw0cXSJJZukQLU7EnhMs"><img alt="2017" style="width:352px; height:182px;" src="/images/Nhip/2017gif.gif"></a><br>
-	<div style="background-color:red;" class="header"><center><b>2017</b></center></div><br>
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmohAw0cXSJJZukQLU7EnhMs"><img src="/images/Nhip/2017gif.gif" style="width:352px; height:182px;" alt="2017"></a><br>
+	<div class="header"><center><b>2017</b></center></div><br>
 	<div class="para">
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmon339X0ad-1kkAe__Xu4p7"><img alt="2016" style="width:352px; height:182px;" src="/images/Nhip/2016gif.gif"></a><br>
-	<div style="background-color:red;" class="header"><center><b>2016</b></center></div><br>
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmon339X0ad-1kkAe__Xu4p7"><img src="/images/Nhip/2016gif.gif" style="width:352px; height:182px;" alt="2016"></a><br>
+	<div class="header"><center><b>2016</b></center></div><br>
 	<div class="para">
 </div>
 <br></div></div>
@@ -158,13 +165,13 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
+	<input type="checkbox" id="title1"><label for="title1">Announcements</label>
 	<div class="accordion-content">
 	<div class="para">This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. 
 
 </div>
 	</div>
-	<input id="title2" type="checkbox"><label for="title2">Queries</label>
+	<input type="checkbox" id="title2"><label for="title2">Queries</label>
 	<div class="accordion-content">
 	<div class="para">If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg 
 </div>
@@ -172,9 +179,9 @@ input:checked + label + .accordion-content {
 
 </div></div></div>
 <br><br>
-<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
 
-<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
 		<li><a href="/platformprogrammes/chisel/">CHI Start Up and Enterprise Link (CHISEL)</a></li>
 			<li><a href="/platformprogrammes/child/">CHI Learning and Development System (CHILD)</a></li>
