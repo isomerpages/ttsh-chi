@@ -13,7 +13,6 @@ We believe in knowledge sharing and learning together. At CHI, there are no bord
 
 # Our Purpose
 ##### To spearhead change towards sustainable, value-based systems
-
 <table class="table">
   <thead bgcolor="#EAA7AE">
     <tr>
@@ -32,10 +31,9 @@ We believe in knowledge sharing and learning together. At CHI, there are no bord
   </tbody>
 </table>
 
-
 # CHI Innovation Cycle
 #####  System Innovation
 <img alt="AIC" style="width:378px; height:378px; padding-top:8%;" src="/images/au_system_innovation.png">
 We believe that to achieve, spread and sustain innovation, a systems approach is required. The Innovation Cycle is a framework to describe the macro stages for planning, implementing and improving upon innovation initiatives. The framework comprises three sequential stages, with each stage supported by iterative Plan-Do-Study-Act (PDSA) cycle(s).<br><br>
-The cycle advocates that <br>(1) the first step to innovation in healthcare is to redesign the care/process to optimize value for patients and reduce waste, followed by <br>(2) automation of a waste-free process. By leveraging automation and adopting technology to take over simple, repetitive but necessary jobs, manpower resources are freed up. This presents <br>(3) an opportunity to review the staffs’ current roles and redesign their jobs, so that each staff performs more meaningful work at the top of his or her competencies.<br><br>
+The cycle advocates that: <br>(1) the first step to innovation in healthcare is to redesign the care/process to optimize value for patients and reduce waste, followed by <br>(2) automation of a waste-free process. By leveraging automation and adopting technology to take over simple, repetitive but necessary jobs, manpower resources are freed up. This presents <br>(3) an opportunity to review the staffs’ current roles and redesign their jobs, so that each staff performs more meaningful work at the top of his or her competencies.<br><br>
 The Innovation Cycle is a deliberate and iterative framework to describe and improve upon the process of improvement. If applied well, the framework can serve as a toolkit to guide the planning and implementation of strategic initiatives, to deliver value.
