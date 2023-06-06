@@ -38,12 +38,13 @@ label:hover {
 }
 
 .accordion-content {
-	/* background: #E2E5F6; */
-	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
-	margin: 0 0 1px 0;
-	font-size: 1.25em;
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	background: #E2E5F6; 
+	border: 1px solid #484848; 
 	border-radius: 3px;
+	font-size: 1.25em;
 }
 
 input + label + .accordion-content {
