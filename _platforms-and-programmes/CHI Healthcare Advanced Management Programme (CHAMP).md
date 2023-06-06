@@ -34,7 +34,6 @@ Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>
 
 ### Testimonials from past graduates
 
-<br>
 <div class="row">
 <div class="col"> 
 <img alt="1st person" style="width:195px; height:219px;" src="/images/Testimonials%20Pictures/timothy%20quek.png"><br>
