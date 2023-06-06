@@ -56,6 +56,7 @@ label:hover {
 
 input + label + .accordion-content {
 	display: none;
+
 }
 
 input:checked + label + .accordion-content {
@@ -148,3 +149,4 @@ For enquiries, please reach out at CRIO@ttsh.com.sg
 </div>
 	</div>
 </div></div></div>
+
