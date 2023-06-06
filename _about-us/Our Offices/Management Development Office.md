@@ -26,7 +26,7 @@ label {
 	width=100%;
 	color: #484848;
 	transition: ease .5s;
-	font-size: 1.25em;
+	font-size: 1.5em;
 }
 
 label:hover {
