@@ -309,7 +309,10 @@ p {
 </style>
 <img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/12th%20masterclass.png"><p>
 <b><u>Sustainability in Healthcare Transformation</u></b> <br>
-			<b>Population Health Experiences of the Hong Kong Health System</b><br>By Prof Gabriel Leung<br><b>Sustainable Transformation in Karolinska University Hospital</b><br>By Associate Professor Anders Ahlsson
+			<b>Population Health Experiences of the Hong Kong Health System</b><br>By Prof Gabriel Leung<br><b>Sustainable Transformation in Karolinska University Hospital</b><br>By Associate Professor Anders Ahlsson<br>
+			<b> ‘Sustainable Transformation in Karolinska University Hospital’ </b><br>
+The driving forces behind the transformation at Karolinska University Hospital are discussed, together with the initial plan, further development and refinement. Beneficial and negative aspects are demonstrated, as well as lessons learned. 
+
 
 </p>
 
