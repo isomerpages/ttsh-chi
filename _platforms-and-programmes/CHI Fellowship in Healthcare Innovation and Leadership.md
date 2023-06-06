@@ -35,10 +35,9 @@ Participants will engage with thought leaders and work with experienced practiti
 
 ### Testimonials from past graduates
 
-<br>
 <div class="row">
 <div class="col"> 
-<img alt="1st person" src="/images/Testimonials%20Pictures/mohd%20khalid.png"><br>
+<img alt="1st person" style="width:195px; height:219px;" src="/images/Testimonials%20Pictures/mohd%20khalid.png"><br>
 		<div class="header"><b>Mohd Khalid Bin Mohd Anuar<br>
 Head, Foot Care &amp; Limb Design Centre<br>
 FY21 CHI Fellowship Graduate
@@ -50,7 +49,7 @@ FY21 CHI Fellowship Graduate
 
 </div>
 	<div class="col"> 
-<img alt="2nd person" src="/images/Testimonials%20Pictures/dr%20seet%20xian%20ying.png"><br>
+<img alt="2nd person" style="width:195px; height:219px;" src="/images/Testimonials%20Pictures/dr%20seet%20xian%20ying.png"><br>
 	<div class="header"><b>Dr Seet Xian Ying
 <br>Consultant, Psychiatry
 <br>FY22 CHI Fellowship Graduate
@@ -62,7 +61,7 @@ FY21 CHI Fellowship Graduate
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/Testimonials%20Pictures/dr%20li%20zhenghao%20kelvin.png"></a><br>
+<img style="width:195px; height:219px;" src="/images/Testimonials%20Pictures/dr%20li%20zhenghao%20kelvin.png"><br>
 	<div class="header"><b>Dr Li Zhenghao, Kelvin 
 <br>Associate Consultant, Ophthalmology
 <br>FY22 CHI Fellowship Graduate
