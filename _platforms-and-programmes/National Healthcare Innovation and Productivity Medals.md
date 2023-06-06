@@ -58,7 +58,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a><br>
-		<div class="header"><center><b>2022 </b></center></div><br>
+		<div style="background-color:red;" class="header"><center><b>2022 </b></center></div><br>
 		<div class="para">
 </div>
 <br>
@@ -67,7 +67,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa"><img alt="2021" style="width:352px; height:182px;" src="/images/Nhip/2021gif.gif"></a>
 		<br>
-	<div class="header"><center><b>2021</b></center></div><br>
+	<div style="background-color:red;" class="header"><center><b>2021</b></center></div><br>
 	<div class="para">
 </div>
 <br>
@@ -75,7 +75,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	<div class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ"><img alt="2020" style="width:352px; height:182px;" src="/images/Nhip/2020gif.gif"></a><br>
-	<div class="header"><center><b>2020</b></center></div><br>
+	<div style="background-color:red;" class="header"><center><b>2020</b></center></div><br>
 	<div class="para">
 </div>
 </div></div>
@@ -83,7 +83,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <div class="row">
 <div class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmpPGnw2xV5k1XkYflONYLXJ"><img alt="2019" style="width:352px; height:182px;" src="/images/Nhip/2019gif.gif"></a><br>
-		<div class="header"><center><b>2019 </b></center></div><br>
+		<div style="background-color:red;" class="header"><center><b>2019 </b></center></div><br>
 		<div class="para">
 </div>
 <br>
@@ -91,7 +91,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	<div class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmohAw0cXSJJZukQLU7EnhMs"><img alt="2017" style="width:352px; height:182px;" src="/images/Nhip/2017gif.gif"></a><br>
-	<div class="header"><center><b>2017</b></center></div><br>
+	<div style="background-color:red;" class="header"><center><b>2017</b></center></div><br>
 	<div class="para">
 </div>
 <br>
@@ -99,7 +99,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	<div class="col"> 
 <a href="https://youtube.com/playlist?list=PLTrhD5VOFZmon339X0ad-1kkAe__Xu4p7"><img alt="2016" style="width:352px; height:182px;" src="/images/Nhip/2016gif.gif"></a><br>
-	<div class="header"><center><b>2016</b></center></div><br>
+	<div style="background-color:red;" class="header"><center><b>2016</b></center></div><br>
 	<div class="para">
 </div>
 <br></div></div>
