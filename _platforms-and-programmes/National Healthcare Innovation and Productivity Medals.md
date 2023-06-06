@@ -56,8 +56,8 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	
 
-	<br><br>
-<div class="row">
+
+<br><div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img src="/images/Nhip/2022gif.gif" style="width:352px; height:182px;" alt="2022"></a><br>
 		<div style="background-color:#EAA7AE;" class="header"><center><b>2022 </b></center></div>
