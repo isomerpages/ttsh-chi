@@ -58,7 +58,7 @@ div.a {
 
 <p style="font-size: 1.25em">Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br></p>
 
-<p style="font-size: 1.25em">NTFHIP is managed and administered by the<a href="/chi-grantsandinnovation/" target="_blank"> <b><u>Grants &amp; Innovation Office . </u></b></a></p><p></p>
+<p style="font-size: 1.25em">NTFHIP is managed and administered by the<a href="/about-us/our-offices/chi-grantsandinnovation/" target="_blank"> <b><u>Grants &amp; Innovation Office . </u></b></a></p><p></p>
 
 
 <style>
