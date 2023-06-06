@@ -168,7 +168,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title2"><label for="title2">Queries</label>
 	<div class="accordion-content">
-	<div class="para">If you have any queries, please contact the National HIP Secretariat at nhip@chi.sg 
+	<div class="para">If you have any queries, please contact the National HIP Secretariat at <a>nhip@chi.sg</a> 
 </div>
 	</div>
 
