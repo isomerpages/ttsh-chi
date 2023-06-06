@@ -317,7 +317,7 @@ input:checked + label + .accordion-content {
   <tbody>
     <tr>
       <td scope="row"><a href="https://finlandabroad.fi/web/sgp/mission/-/asset_publisher/dqNr4C30tdPU/contactInfoOrganization/id/121688"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/finland.svg"></button></a><br>
-      </td><td><a href="https://www.sg.emb-japan.go.jp/itprtop_en/index.html"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/CHI%20Logo.png"></button></a><br></td>
+      </td><td><a href="https://www.sg.emb-japan.go.jp/itprtop_en/index.html"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/japans.svg"></button></a><br></td>
       <td><a href="https://www.enterprise-ireland.com/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/enterprise%20ireland.svg"></button></a><br></td>
     </tr>
      <tr><td scope="row"><a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/canada.svg"></button></a><br>
