@@ -8,7 +8,7 @@ third_nav_title: Our Offices
 
 <h5>Transforming Leaders, Transforming Care</h5>
 The establishment of the Management Development Office (MDO) aims to collectively build a pipeline of future healthcare leaders for Tan Tock Seng Hospital (TTSH) and Central Health. Through a comprehensive range of structured and progressive programmes, MDO shifts from recruitment to selection model, equipping management trainees with the necessary skills and competencies for their future roles.  <br><br>
-There are 3 Management Development Programmes (MDP) managed by MDO:<br><br>
+There are 3 Management Development Programmes (MDP) managed by MDO:<br>
 
 
 <style>
