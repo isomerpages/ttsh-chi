@@ -91,8 +91,10 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 	
 <div>
 	<h2>Any Queries?</h2><br>
-	If you have any queries, please contact the CHILD team at child@chi.sg (cc: child@ttsh.com.sg) </div></div></div></div></div>
-	<br><br>
+	If you have any queries, please contact the CHILD team at child@chi.sg (cc: child@ttsh.com.sg) 
+		
+</div></div></div></div></div>
+
 	
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
@@ -104,4 +106,4 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div>	
+</div>
