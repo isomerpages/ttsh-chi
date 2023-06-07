@@ -4,10 +4,11 @@ permalink: /platformprogrammes/chi-fellowship/
 description: ""
 ---
 <style>
-table, th, td {
+table, th, td{
   border: 1px solid black;
   border-collapse: collapse;
 	width: 500px;
+	color: white;
 }
 
 th:nth-child(even),td:nth-child(even) {
@@ -31,9 +32,9 @@ Participants will engage with thought leaders and work with experienced practiti
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
-      <th scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
-      <th scope="col">Share (Week 7-16) ​<br>Exchange knowledge and build upon ideas</th>
+      <th style="color:white;" scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
+      <th style="color:white;" scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
+      <th style="color:white;" scope="col">Share (Week 7-16) ​<br>Exchange knowledge and build upon ideas</th>
     </tr>
   </thead>
   <tbody>
