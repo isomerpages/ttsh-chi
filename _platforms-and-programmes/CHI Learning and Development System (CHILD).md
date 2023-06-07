@@ -48,15 +48,7 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
  healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas</b>. <br><br>
  
  <style>
-    body, html {
-      height: 100%;
-      margin: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    #frameContainer {
+     #frameContainer {
       width: 80%;
       height: 80%;
     }
