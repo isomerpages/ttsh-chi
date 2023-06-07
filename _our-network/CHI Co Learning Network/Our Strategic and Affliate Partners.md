@@ -18,7 +18,7 @@ third_nav_title: CHI Co Learning Network
 }
 
 .active, .button:hover {
-  background-color: #ccc; 
+  background-color: white; 
 }
 
 .panel {
@@ -29,10 +29,8 @@ third_nav_title: CHI Co Learning Network
 }
 	
 img {
-    float: left;
     width:  150px;
     height: 180px;
-    object-fit: cover;
 }
 </style>
 
@@ -46,7 +44,7 @@ label {
 	padding: 8px 22px;
 	margin: 0 0 5px 0;
 	cursor: pointor;
-	background: #F0F4F6;
+	background: white;
 	border-radius: 3px;
 	width=100%;
 	color: #484848;
@@ -55,8 +53,8 @@ label {
 }
 
 label:hover {
-	background: #BD2D37;
-	color: #FFF;
+	background: white;
+	color: white;
 }
 
 .accordion-content {
