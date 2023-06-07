@@ -66,7 +66,7 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 
-<h4 id="our-main-plans">An end to end process that moves a potential solution from proof of value to adoption <br>
+<h4 id="our-main-plans">An end to end process that moves a potential solution from proof of value to adoption <br><br>
 </h4>
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Innovation Call</label>
@@ -96,7 +96,7 @@ p {
 	</style>
 <div>
 
-<br>
+<br><br>
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
