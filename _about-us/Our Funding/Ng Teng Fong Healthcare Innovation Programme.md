@@ -9,7 +9,20 @@ div.a {
   text-indent: 50px;
 	font-size: 1.25em;
 }
+	table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: gray;
+}
+th:nth-child(odd),td:nth-child(odd) {
+  background-color: #be2c37;
+}
 </style>
+}
+
 <div>
 <h2>About the Ng Teng Fong Healthcare Innovation Programme</h2><div>
 	
@@ -30,10 +43,10 @@ div.a {
 <br>
 
 <table class="table">
-  <thead bgcolor="#EAA7AE">
+  <thead>
     <tr>
       <th scope="col">Strategic Training</th>
-      <th scope="col">Innovation</th>
+      <th style="bgcolor=&quot;#EAA7AE&quot;" scope="col">Innovation</th>
       <th scope="col">Community Enabling</th>
 			<th scope="col">Strategic Innovation</th>
 			<th scope="col">Strategic Research</th>
