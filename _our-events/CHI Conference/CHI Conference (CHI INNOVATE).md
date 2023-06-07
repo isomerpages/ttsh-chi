@@ -9,11 +9,10 @@ third_nav_title: CHI Conference
 
 ![](/images/innovate23.png)
 
-<h3>Building Bridges: Health &amp; Social Care</h3><br><br>
+<h3>Building Bridges: Health &amp; Social Care</h3><br>
+Healthcare is expanding our focus: from healthcare to health; from patients to people; from clinical centres to communities of care.<br>
 
-Healthcare is expanding our focus: from healthcare to health; from patients to people; from clinical centres to communities of care.<br><br>
-
-CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. <br><br>
+CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. <br>
 
 Find out more 
  <a href="https://chiinnovate2023.klobbi.com/">here.</a>
@@ -44,4 +43,4 @@ Find out more
 }
 </style>
 
-<a href="/our-events/past-chi-innovate/"><button class="button button1">Our Past CHI Conferences</button></a><br>
+<a href="/our-events/past-chi-innovate/"><button class="button button1">Past CHI INNOVATE Conferences</button></a><br>
