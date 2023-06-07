@@ -40,28 +40,27 @@ Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>
 
 <div class="row">
 <div class="col"> 
-<img alt="1st person" style="width:195px; height:219px;" src="/images/Testimonials%20Pictures/timothy%20quek.png"><br>
+Apart from the great faculty and lectures, which have opened my mind to many new ideas and possibilities, I have particularly treasured the opportunity to make new friends and learn from my fellow course mates. I look forward to working together with all of them in the years ahead, while applying the many lessons learnt from this course.”<br><br>
 		<div class="header"><b>Dr Timothy Quek
 <br>Head, Medicine – Endocrinology 
 &amp; Snr Consultant </b></div><br>
-		<div class="para">“Apart from the great faculty and lectures, which have opened my mind to many new ideas and possibilities, I have particularly treasured the opportunity to make new friends and learn from my fellow course mates. I look forward to working together with all of them in the years ahead, while applying the many lessons learnt from this course.”
 
-</div>
+
 <br>
 
 </div>
 	<div class="col"> 
-<img alt="2nd person" style="width:195px; height:219px;" src="/images/Testimonials%20Pictures/matthew%20loh.png"><br>
+“The carefully curated series of lectures offered an insightful perspective into the challenges at the workplace and how we might approach them. I enjoyed the sessions that fostered the interaction and building of ties with colleagues from the other family groups.”<br><br><br><br>
 	<div class="header"><b>Mr Matthew Loh<br>Director, 
 Human Resource </b></div><br>
-	<div class="para">“The carefully curated series of lectures offered an insightful perspective into the challenges at the workplace and how we might approach them. I enjoyed the sessions that fostered the interaction and building of ties with colleagues from the other family groups.”
+
 
 </div>
 <br>
 
 
 </div>
-<br></div>
+<br>
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
