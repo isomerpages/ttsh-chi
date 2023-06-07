@@ -15,12 +15,9 @@ third_nav_title: CHI Co Learning Network
   outline: none;
   font-size: 20px;
   transition: 0.4s;
-	pointer-events: none;
+
 }
 
-.active, .button:hover {
-  background-color: white; 
-}
 
 .panel {
   padding: 0 18px;
@@ -33,9 +30,7 @@ img {
     width:  150px;
     height: 180px;
 }
-.noHover{
-   pointer-events: none;
-    }
+
 </style>
 
 <style>
