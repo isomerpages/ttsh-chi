@@ -4,15 +4,17 @@ permalink: /about-us/our-offices/chi-dsho/
 description: ""
 third_nav_title: Our Offices
 ---
+<h2>Digital and Smart Health Office</h2>
+
 The Digital &amp; Smart Health Office (DSHO) works towards the mission of incubating digital innovation, and accelerating transformation in healthcare.
-We drive Digital Transformation through the formulation and implementation of the Digital Transformation Strategy, and the Hospital Without Walls framework. In addition, we also provide services to staff to facilitate innovation, and improve value in our work, such as:<br>
-•	Funding of digital prototypes <br>
-•	Design consultancy and digital prototyping service<br>
+We drive Digital Transformation through the formulation and implementation of the Digital Transformation Strategy, and the Hospital Without Walls framework. In addition, we also provide services to staff to facilitate innovation, and improve value in our work, such as:<br><br>
+•	Funding of digital prototypes <br><br>
+•	Design consultancy and digital prototyping service<br><br>
 •	Robotic Process Automation (RPA) consulting &amp; development<br><br>
-We work closely with the ground staff in TTSH to understand the challenges they face in their daily work, and actively explore potential partnerships with institutes of higher learning, academia and industry to overcome these challenges.
+We work closely with the ground staff in TTSH to understand the challenges they face in their daily work, and actively explore potential partnerships with institutes of higher learning, academia and industry to overcome these challenges.<br><br>
 Do connect with us at dsho@ttsh.com.sg for collaboration opportunities. Let us work together to improve healthcare.
 
-<h1>Our Work</h1>
+<h3>Our Work</h3>
 
 <style>
 
