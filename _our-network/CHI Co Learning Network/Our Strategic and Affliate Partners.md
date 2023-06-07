@@ -27,6 +27,13 @@ third_nav_title: CHI Co Learning Network
   background-color: white;
   overflow: hidden;
 }
+	
+img {
+    float: left;
+    width:  150px;
+    height: 180px;
+    object-fit: cover;
+}
 </style>
 
 <style>
@@ -97,9 +104,9 @@ The CHI Co-Learning Network comprises of 43 local and international like-minded 
   </thead>
   <tbody>
     <tr>
-      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
-      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
+      </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
+      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
     </tr>
      <tr><td scope="row"><a href="https://mws.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></button></a><br>
       </td><td><a href="https://corp.nhg.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></button></a><br></td>
