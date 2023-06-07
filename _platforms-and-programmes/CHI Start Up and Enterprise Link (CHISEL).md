@@ -43,8 +43,6 @@ label:hover {
 	display: block;
 	padding: 8px 22px;
 	margin: 0 0 5px 0;
-	background: #E2E5F6; 
-	border: 1px solid #484848; 
 	border-radius: 3px;
 	font-size: 1.25em;
 }
@@ -97,14 +95,7 @@ p {
 	</style>
 <div>
 
-<h2> Healthcare InnoMatch 2023</h2>
-	
-
-<p>Organised by Centre for Healthcare Innovation and supported by Ministry of Health and Temasek Foundation, CHISEL is hosting the “Healthcare InnoMatch”, an international call for innovative, market-ready or near market-ready solutions to address critical and emerging healthcare needs. Over 2 successful runs in 2021 and 2022, 400 over companies across 32 countries competed, from where 9 companies were chosen to testbed their solutions directly with the hospitals. <br><br>
-
-This year, in partnership with National Healthcare Group, National University Health System and SingHealth, Healthcare InnoMatch 2023 seeks solutions in reshaping preventive care for a healthier population. Successful proposals will obtain funding support to demonstrate their solutions in operational environments, and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovations, bringing them a step closer to benefit patients. <br><br>
-
-Visit <a>https://chisel.2023.iottribe.org/en/</a>to find out more about Healthcare InnoMatch 2023! </p></div><br>
+<br>
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
@@ -116,4 +107,4 @@ Visit <a>https://chisel.2023.iottribe.org/en/</a>to find out more about Healthca
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div>
+</div></div>
