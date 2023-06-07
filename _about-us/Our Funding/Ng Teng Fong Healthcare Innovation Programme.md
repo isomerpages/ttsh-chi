@@ -9,9 +9,10 @@ div.a {
   text-indent: 50px;
 	font-size: 1.25em;
 }
-table {
+table, th, td {
   border-collapse: collapse;
   width: 500px;
+	color: white;
 }
 
 th:nth-child(even),td:nth-child(even) {
@@ -20,6 +21,7 @@ th:nth-child(even),td:nth-child(even) {
 th:nth-child(odd),td:nth-child(odd) {
   background-color: #be2c37;
 }
+
 </style>
 
 
@@ -45,11 +47,11 @@ th:nth-child(odd),td:nth-child(odd) {
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Strategic Training</th>
-      <th style="bgcolor=&quot;#EAA7AE&quot;" scope="col">Innovation</th>
-      <th scope="col">Community Enabling</th>
-			<th scope="col">Strategic Innovation</th>
-			<th scope="col">Strategic Research</th>
+      <th style="color:white;" scope="col">Strategic Training</th>
+      <th style="color:white;" scope="col">Innovation</th>
+      <th style="color:white;" scope="col">Community Enabling</th>
+			<th style="color:white;" scope="col">Strategic Innovation</th>
+			<th style="color:white;" scope="col">Strategic Research</th>
 			
 
   </tr></thead>
