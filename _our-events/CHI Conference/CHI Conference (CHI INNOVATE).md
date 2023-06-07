@@ -4,11 +4,20 @@ permalink: /our-events/chi-innovate/
 description: ""
 third_nav_title: CHI Conference
 ---
-# Featured Event
-![](/images/Website_Right.png)
 <br>
-**CHI INNOVATE 2023** will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. Find out more <a href="https://chiinnovate2023.klobbi.com/">here.</a>
+<h2> CHI INNOVATE 2023</h2>
 
+![](/images/innovate23.png)
+
+<h3>Building Bridges: Health &amp; Social Care</h3><br><br>
+
+Healthcare is expanding our focus: from healthcare to health; from patients to people; from clinical centres to communities of care.<br><br>
+
+CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. <br><br>
+
+Find out more 
+ <a href="https://chiinnovate2023.klobbi.com/">here.</a>
+<br>
 <style>
 .button {
   background-color: #eee;
@@ -36,4 +45,3 @@ third_nav_title: CHI Conference
 </style>
 
 <a href="/our-events/past-chi-innovate/"><button class="button button1">Our Past CHI Conferences</button></a><br>
-
