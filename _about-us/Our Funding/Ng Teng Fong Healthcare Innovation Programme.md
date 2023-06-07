@@ -14,7 +14,10 @@ table, th, td {
   width: 500px;
 	color: white;
 }
-
+	
+th {
+  text-align: center;
+}
 th:nth-child(even),td:nth-child(even) {
   background-color: gray;
 }
@@ -47,11 +50,11 @@ th:nth-child(odd),td:nth-child(odd) {
 <table class="table">
   <thead>
     <tr>
-      <th style="color:white;" scope="col">Strategic Training</th>
-      <th style="color:white;" scope="col">Innovation</th>
-      <th style="color:white;" scope="col">Community Enabling</th>
-			<th style="color:white;" scope="col">Strategic Innovation</th>
-			<th style="color:white;" scope="col">Strategic Research</th>
+      <th style="text-align:center;color:white;" scope="col">Strategic Training</th>
+      <th style="text-align:center;color:white;" scope="col">Innovation</th>
+      <th style="text-align:center;color:white;" scope="col">Community Enabling</th>
+			<th style="text-align:center;color:white;" scope="col">Strategic Innovation</th>
+			<th style="text-align:center;color:white;" scope="col">Strategic Research</th>
 			
 
   </tr></thead>
