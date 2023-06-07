@@ -7,6 +7,7 @@ description: ""
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+	width: 500px;
 }
 
 th:nth-child(even),td:nth-child(even) {
