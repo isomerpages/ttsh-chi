@@ -2,6 +2,7 @@ collections:
   platforms-and-programmes:
     output: true
     order:
+      - CHILD/Healthcare InnoMatch 2023.md
       - CHILD/CHI Learning and Development System (CHILD).md
       - CHILD/.keep
       - National Healthcare Innovation and Productivity Medals.md
