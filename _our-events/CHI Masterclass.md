@@ -236,7 +236,7 @@ img {
 }
 p {
 	overflow: auto;
-  max-width: 500px;
+  max-width: 550px;
   max-height: 300px;
 	font-size: 1em
 }
