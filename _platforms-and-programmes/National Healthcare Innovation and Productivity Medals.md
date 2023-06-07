@@ -35,7 +35,11 @@ description: ""
 	<div class="header"><b>
  </b></div><br></div></div>
 	
-	
+<style>
+table, th, td {
+  width: 300px
+}
+</style>	
 	
 	
  <div>
