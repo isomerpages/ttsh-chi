@@ -71,7 +71,7 @@ FY21 CHI Fellowship Graduate
 	<div class="col"> 
 	<div class="para"><em>“Appreciated the attentive mentoring provided especially during the presentations and the ability to learn from each other. Inspired by the site visits (local and Bangkok) which really helped to open our minds.” </em>
 
-</div><br><br><br>
+</div><br>
 	<div class="header"><b>Dr Seet Xian Ying
 <br>Consultant, Psychiatry
 <br>FY22 CHI Fellowship Graduate
@@ -83,7 +83,7 @@ FY21 CHI Fellowship Graduate
 	<div class="col"> 
 <div class="para"><em>“I liked the project clinics and the mentorship sessions as this is an area that a lot of us are still very new in; receiving periodic feedback has helped me to know my areas for improvement.”
 </em>
-</div><br><br><br><br><br>
+</div><br>
 	<div class="header"><b>Dr Li Zhenghao, Kelvin 
 <br>Associate Consultant, Ophthalmology
 <br>FY22 CHI Fellowship Graduate
