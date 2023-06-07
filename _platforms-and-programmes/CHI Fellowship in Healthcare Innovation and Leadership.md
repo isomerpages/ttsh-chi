@@ -10,6 +10,10 @@ table, th, td{
 	width: 500px;
 	color: white;
 }
+	
+th {
+  text-align: center;
+}
 
 th:nth-child(even),td:nth-child(even) {
   background-color: grey;
