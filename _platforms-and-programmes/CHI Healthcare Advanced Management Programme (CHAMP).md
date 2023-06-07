@@ -40,7 +40,7 @@ Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>
 
 <div class="row">
 <div class="col"> 
-Apart from the great faculty and lectures, which have opened my mind to many new ideas and possibilities, I have particularly treasured the opportunity to make new friends and learn from my fellow course mates. I look forward to working together with all of them in the years ahead, while applying the many lessons learnt from this course.”<br><br>
+<em>Apart from the great faculty and lectures, which have opened my mind to many new ideas and possibilities, I have particularly treasured the opportunity to make new friends and learn from my fellow course mates. I look forward to working together with all of them in the years ahead, while applying the many lessons learnt from this course.”</em><br><br>
 		<div class="header"><b>Dr Timothy Quek
 <br>Head, Medicine – Endocrinology 
 &amp; Snr Consultant </b></div><br>
@@ -50,7 +50,7 @@ Apart from the great faculty and lectures, which have opened my mind to many new
 
 </div>
 	<div class="col"> 
-“The carefully curated series of lectures offered an insightful perspective into the challenges at the workplace and how we might approach them. I enjoyed the sessions that fostered the interaction and building of ties with colleagues from the other family groups.”<br><br><br><br>
+<em>“The carefully curated series of lectures offered an insightful perspective into the challenges at the workplace and how we might approach them. I enjoyed the sessions that fostered the interaction and building of ties with colleagues from the other family groups.”</em><br><br><br><br>
 	<div class="header"><b>Mr Matthew Loh<br>Director, 
 Human Resource </b></div><br>
 
