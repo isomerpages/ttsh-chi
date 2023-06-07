@@ -4,7 +4,7 @@ permalink: /our-events/chimasterclass/
 description: ""
 ---
 # CHI MASTERCLASS
-<div>The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.</div>
+<div><p style="font-size:1.25em">The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.</p></div>
   
 
 <h2 id="a">Upcoming Masterclass</h2>
@@ -542,7 +542,7 @@ Director, Innovative Centre for Health Systems Improvement, Ko Awatea</em><br>
 <br>
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
-<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+<div style="font-size:1.25em ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li><a href="/our-events/chi-innovate/">CHI Innovate</a></li>
 	</ul>
