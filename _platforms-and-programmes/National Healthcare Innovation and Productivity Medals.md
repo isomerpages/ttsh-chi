@@ -36,20 +36,35 @@ description: ""
  </b></div><br></div></div>
 	
 <style>
-table, th, td {
-  width: 300px
+
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 500px;
+  color: white;
+}
+  
+th {
+  text-align: center;
+}
+​
+th:nth-child(even),td:nth-child(even) {
+  background-color: grey;
+}
+th:nth-child(odd),td:nth-child(odd) {
+  background-color: #be2c37;
 }
 </style>	
 	
 	
  <div>
  <table class="table">
-  <thead bgcolor="#EAA7AE">
+  <thead>
     <tr>
       <th scope="col">BEST PRACTICE</th>
-      <th scope="col">EXCELLENCE CHAMPION</th>
+      <th style="background-color: grey" scope="col">EXCELLENCE CHAMPION</th>
       <th scope="col">BEST ADOPTER</th>
-			<th scope="col">SEED FUNDING GRANT</th>
+			<th style="background-color: grey" scope="col">SEED FUNDING GRANT</th>
     </tr>
   </thead>
   <tbody>
