@@ -47,7 +47,27 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for 
  healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas</b>. <br><br>
  
- <iframe width="790" height="415" src="https://www.youtube.com/embed/-_j56iZxDIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" align="center”" allowfullscreen=""></iframe><br>
+ <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #frameContainer {
+      width: 80%;
+      height: 80%;
+    }
+
+    #iframeElement {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+<div id="frameContainer"> 
+ <iframe width="790" height="415" src="https://www.youtube.com/embed/-_j56iZxDIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" align="center”" allowfullscreen=""></iframe><br></div>
  
 <div class="row">
 <div class="col"> 
