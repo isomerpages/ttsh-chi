@@ -21,7 +21,7 @@ th:nth-child(odd),td:nth-child(odd) {
   background-color: #be2c37;
 }
 </style>
-}
+
 
 <div>
 <h2>About the Ng Teng Fong Healthcare Innovation Programme</h2><div>
