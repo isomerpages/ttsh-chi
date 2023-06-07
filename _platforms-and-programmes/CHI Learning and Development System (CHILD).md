@@ -90,7 +90,7 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 	
 <div>
 	<h2>Any Queries?</h2>
-	If you have any queries, please contact the CHILD team at child@chi.sg (cc: child@ttsh.com.sg) <br><br>
+	If you have any queries, please contact the CHILD team at <a>child@chi.sg</a> <br><br>
 		
 </div></div></div></div></div>
 
