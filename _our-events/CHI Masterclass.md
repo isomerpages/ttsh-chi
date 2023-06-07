@@ -17,7 +17,7 @@ description: ""
     padding-bottom: 0;
 	 	align-items: center;
     justify-content: center;
-	  font-size: 18px;
+	  font-size: 1.25em;
   }
 
   ul.jekyllcodex_accordion li {
@@ -35,7 +35,7 @@ description: ""
     cursor: pointer;
     padding: 16px 0;
     margin: 0;
-    font-size: 18px;
+    font-size: 1.25em;
     color: #a6192e;
     margin-right: 41px;
 	  align-items: center;
@@ -75,7 +75,7 @@ description: ""
   ul.jekyllcodex_accordion li label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
     font-weight: 400;
-    font-size: 18px;
+    font-size: 1.25em;
     line-height: 1.1rem;
     padding: 0;
     position: absolute;
@@ -127,7 +127,7 @@ description: ""
     margin: 1.4rem 0 !important;
     border-bottom: 1px solid #DBDFE4;
     padding-bottom: 0;
-	  font-size: 18px;
+	  font-size: 1.25em;
 	
   }
 
@@ -150,6 +150,7 @@ description: ""
     font-size: 18px;
     color: #000000;
     margin-right: 41px;
+	  font-size: 1.25em
 	
   }
 
@@ -185,7 +186,7 @@ description: ""
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
     color: #A6192E;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 1.25em
     line-height: 1.1rem;
     padding: 0;
     position: absolute;
@@ -237,6 +238,7 @@ p {
 	overflow: auto;
   max-width: 500px;
   max-height: 300px;
+	font-size: 1em
 }
 </style>
 <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
