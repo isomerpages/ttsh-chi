@@ -9,9 +9,9 @@ div.a {
   text-indent: 50px;
 	font-size: 1.25em;
 }
-	table, th, td {
-  border: 1px solid black;
+table {
   border-collapse: collapse;
+  width: 500px;
 }
 
 th:nth-child(even),td:nth-child(even) {
