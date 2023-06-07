@@ -3,6 +3,20 @@ title: CHI Fellowship in Healthcare Innovation and Leadership
 permalink: /platformprogrammes/chi-fellowship/
 description: ""
 ---
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: grey;
+}
+th:nth-child(odd),td:nth-child(odd) {
+  background-color: #be2c37;
+}
+</style>
+
 ##  CHI Fellowship in Healthcare Innovation and Leadership
 
 Driving clinical innovation &amp; digital transformation will require collective leadership, and a deep and broad understanding of our healthcare systems. This Fellowship equips participants with the necessary mindsets, skillsets and toolsets to enable this transformation.
@@ -14,7 +28,7 @@ Participants will engage with thought leaders and work with experienced practiti
 <br>
 
 <table class="table">
-  <thead bgcolor="#EAA7AE">
+  <thead>
     <tr>
       <th scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
       <th scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
