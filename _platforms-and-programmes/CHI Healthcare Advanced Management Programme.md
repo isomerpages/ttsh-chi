@@ -10,16 +10,31 @@ The environment confronting business leaders of today continues to be volatile. 
 ## Programme Focus 
 This Multilevel design is built on collective leadership mental models, language, and tools, incorporating case studies, Action-Learning Projects (ALP), learning journals, coaching and fireside chats, to drive Learning Without Walls:
 <style>
-	table, th, td {
-  border: 1px solid;
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+	width: 500px;
+	color: white;
+}
+	
+th {
+  text-align: center;
+}
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: grey;
+}
+th:nth-child(odd),td:nth-child(odd) {
+  background-color: #be2c37;
 }
 </style>
+
 <table class="table">
   <thead bgcolor="#EAA7AE">
     <tr>
-      <th scope="col">Leading Self (3 Days) <br>Strengthening collective leadership in teams, amid disruption and transformation</th>
-      <th scope="col">Leading Together (4 days) ​<br>Increasing self-awareness and developing personal effectiveness ​ <br> Synthesize new knowledge and tools to develop solutions</th>
-      <th scope="col">Leading Organisation (5 days)
+      <th style="color:white;" scope="col">Leading Self (3 Days) <br>Strengthening collective leadership in teams, amid disruption and transformation</th>
+      <th style="color:white;" scope="col">Leading Together (4 days) ​<br>Increasing self-awareness and developing personal effectiveness ​ <br> Synthesize new knowledge and tools to develop solutions</th>
+      <th style="color:white;" scope="col">Leading Organisation (5 days)
 Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>Exchange knowledge and build upon ideas</th>
     </tr>
   </thead>
