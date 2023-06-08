@@ -44,8 +44,6 @@ label:hover {
 	display: block;
 	padding: 8px 22px;
 	margin: 0 0 5px 0;
-	background: #E2E5F6; 
-	border: 1px solid #484848; 
 	border-radius: 3px;
 	font-size: 1.25em;
 }
