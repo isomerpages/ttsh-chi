@@ -321,7 +321,7 @@ input:checked + label + .accordion-content {
       <td><a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/canada.svg"></button></a><br></td>
     </tr>
      <tr><td scope="row"><a href="https://www.invest-in-hessen.de/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/hessen.svg"></button></a><br>
-      </td><td>&gt;<a href="https://netherlandsinnovation.nl/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/netherlands.svg"></button></a><br></td>
+      </td><td><a href="https://netherlandsinnovation.nl/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/netherlands.svg"></button></a><br></td>
       <td><a href="https://www.jetro.go.jp/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/jetrooo.svg"></button></a><br></td>
     </tr>
 	  <tr><td scope="row"><a href="https://www.sgc.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20german.svg"></button></a><br>
