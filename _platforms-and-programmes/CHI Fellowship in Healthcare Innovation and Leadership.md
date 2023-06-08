@@ -22,7 +22,6 @@ th:nth-child(odd),td:nth-child(odd) {
   background-color: #be2c37;
 }
 </style>
-
 ##  CHI Fellowship in Healthcare Innovation and Leadership
 
 Driving clinical innovation &amp; digital transformation will require collective leadership, and a deep and broad understanding of our healthcare systems. This Fellowship equips participants with the necessary mindsets, skillsets and toolsets to enable this transformation.
@@ -71,7 +70,7 @@ FY21 CHI Fellowship Graduate
 	<div class="col"> 
 	<div class="para"><em>“Appreciated the attentive mentoring provided especially during the presentations and the ability to learn from each other. Inspired by the site visits (local and Bangkok) which really helped to open our minds.” </em>
 
-</div><br>
+</div><br><br>
 	<div class="header"><b>Dr Seet Xian Ying
 <br>Consultant, Psychiatry
 <br>FY22 CHI Fellowship Graduate
@@ -83,7 +82,7 @@ FY21 CHI Fellowship Graduate
 	<div class="col"> 
 <div class="para"><em>“I liked the project clinics and the mentorship sessions as this is an area that a lot of us are still very new in; receiving periodic feedback has helped me to know my areas for improvement.”
 </em>
-</div><br>
+</div><br><br>
 	<div class="header"><b>Dr Li Zhenghao, Kelvin 
 <br>Associate Consultant, Ophthalmology
 <br>FY22 CHI Fellowship Graduate
