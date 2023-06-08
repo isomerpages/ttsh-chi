@@ -3,12 +3,13 @@ title: CHI Healthcare Advanced Management Programme
 permalink: /platformprogrammes/chi-champ/
 description: ""
 ---
-## CHI Healthcare Advanced Management Programme (CHAMP) 
-Partnership between the Centre for Healthcare Innovation &amp; Nanyang Business School
+<h2>CHI Healthcare Advanced Management Programme (CHAMP) </h2>
+Partnership between the Centre for Healthcare Innovation &amp; Nanyang Business School<br><br>
 The environment confronting business leaders of today continues to be volatile. To be successful, leaders need to consider new ways of making decisions and motivating people. The CHI Healthcare Advanced Management Programme (CHAMP) will engage, enable, and empower healthcare leaders through collective leadership &amp; collective learning, that will equip them with the knowledge, skills, and abilities to transform healthcare.
 
-## Programme Focus 
+<h3>Programme Focus </h3>
 This Multilevel design is built on collective leadership mental models, language, and tools, incorporating case studies, Action-Learning Projects (ALP), learning journals, coaching and fireside chats, to drive Learning Without Walls:
+
 <style>
 table, th, td{
   border: 1px solid black;
@@ -51,7 +52,7 @@ Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>
 </table>
 
 
-### Testimonials from past graduates
+<h3>Testimonials from past graduates</h3>
 
 <div class="row">
 <div class="col"> 
