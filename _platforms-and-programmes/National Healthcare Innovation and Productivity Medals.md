@@ -87,7 +87,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>2022 </b></center></div>
 		<div class="para">
 </div>
-<br>
+
 
 </div>
 	<div class="col"> 
@@ -95,7 +95,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>2021</b></center></div>
 	<div class="para">
 </div>
-<br>
+
 
 </div>
 	<div class="col"> 
