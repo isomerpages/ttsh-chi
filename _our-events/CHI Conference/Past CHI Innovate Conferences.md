@@ -88,7 +88,7 @@ Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School
 </div>
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="nsph2016" src="/images/events_conference2.jpg"></a><br>
-	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div><br>
+	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div>
 	<div class="para">20 - 28 October 2016<br><br>
 The inaugural CHI Conference 2016 was held in conjunction the National Seminar on Productivity in Healthcare (NSPH), which is a biennial national event that aims to promote a culture of productivity and innovation in the healthcare and community care sector. The theme of NSPH 2016 was “Driving Value in Healthcare”. 
 </div>
