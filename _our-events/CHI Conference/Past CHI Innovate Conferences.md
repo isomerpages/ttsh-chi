@@ -4,32 +4,6 @@ permalink: /our-events/past-chi-innovate/
 description: ""
 third_nav_title: CHI Conference
 ---
-<style>
-.button {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 15px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-
-.active, .button:hover {
-  background-color: #ccc; 
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
-</style>
-
 # Past CHI Conferences
 
 
