@@ -4,7 +4,7 @@ permalink: /about-us/our-offices/chi-crio/
 description: ""
 third_nav_title: Our Offices
 ---
-<h2> Clinical Research &amp; Innovation Office (CRIO)</h2><br>
+<h2> Clinical Research &amp; Innovation Office (CRIO)</h2>
 
 The Clinical Research &amp; Innovation Office (CRIO) leads, promotes and coordinates research culture and activities to support the development of Singapore into a reputable world-class research hub, aligning its mission with Singapore’s emphasis on life science biomedical research. <br><br>
 The CRIO team fosters research across the whole spectrum from basic biomedical research to health services and population health research. The team is experienced in life sciences research and clinical trials, both for academic and pharmaceutical company-sponsored studies. The research coordinators and assistants are certified with Good Clinical Practice (GCP) and are well-versed with Singapore’s research regulatory requirements. <br><br>
