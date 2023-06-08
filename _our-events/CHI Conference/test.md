@@ -40,10 +40,10 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 	<div class="para"><em>23 August 2021 - 02 December 2021</em>
 <br><br>In view of the demand from past participants for CHI INNOVATE, the conference themed "Creating a better normal for healthcare" took place as a series of webinars in 2021. 
 <br>View the webinar series <a href="https://www.youtube.com/watch?v=NuNyS4vP6IY&amp;list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c">here!</a>
-</div>
+</div></div></div>
 <br>
 
-</div>
+
 	<div class="row">
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" src="/images/Logos/2020_banner-right.jpg"></a><br>
@@ -97,7 +97,7 @@ The inaugural CHI Conference 2016 was held in conjunction the National Seminar o
 	<div class="para"><em></em><br><br>
 
 </div>
-<br></div></div></div>
+<br></div></div>
 
 
 	
