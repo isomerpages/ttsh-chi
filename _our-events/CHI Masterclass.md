@@ -7,7 +7,7 @@ description: ""
 <div style="font-size:1.25em">The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.</div><br>
   
 <div>
-<h2 id="a">Upcoming Masterclass</h2>
+<h3 id="a">Upcoming Masterclass</h3>
 
 <style>
   ul.jekyllcodex_accordion {
@@ -119,7 +119,7 @@ description: ""
 
 <script src="https://d33wubrfki0l68.cloudfront.net/js/1fb06e903e758278c0f8afeb52f021bb3bdf2f3d/jquery/jquery.min.js"></script>
 
-<h2 id="b">Past Masterclass </h2>
+<h3 id="b">Past Masterclass </h3>
 
 <style>
   ul.jekyllcodex_accordion {
