@@ -51,7 +51,7 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2021" src="/images/innovate%20(right).jpg"></a>
 		<br>
 	<div class="header"><b>CHI INNOVATE 2021</b></div><br>
-	<div class="para"><em>23 August 2021 - 02 December 2022</em>
+	<div class="para"><em>23 August 2021 - 02 December 2021</em>
 <br><br>In view of the demand from past participants for CHI INNOVATE, the conference themed "Creating a better normal for healthcare" took place as a series of webinars in 2021. 
 <br>View the webinar series <a href="https://www.youtube.com/watch?v=NuNyS4vP6IY&amp;list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c">here!</a>
 </div>
@@ -62,7 +62,7 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" src="/images/Logos/2020_banner-right.jpg"></a><br>
 	<div class="header"><b>CHI INNOVATE 2020</b></div><br>
 	<div class="para"><em>29 - 30 July 2020</em>
-Virtual Sessions<br><br>​Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", CHI INNOVATE 2020’s webinar series on 29-30 July featured 19 speakers from across industries and countries.<br>
+<br><br>​Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", CHI INNOVATE 2020’s webinar series on 29-30 July featured 19 speakers from across industries and countries.<br>
 View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here!</a>
 </div>
 </div></div>
