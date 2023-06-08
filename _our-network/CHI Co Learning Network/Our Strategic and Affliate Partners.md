@@ -31,9 +31,69 @@ img {
     height: 180px;
 }
 
-</style>
+.button {
+	background-color: white;
+  cursor: pointer;
+  padding: 5px 5px 5px 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
 
-<style>
+.active, .button:hover {
+  background-color: #white; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	width=100%;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #BD2D37;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}	
 
 input {
 	display: none;
@@ -249,9 +309,6 @@ The CHI Co-Learning Network comprises of 43 local and international like-minded 
   background-color: white;
   overflow: hidden;
 }
-</style>
-
-<style>
 
 input {
 	display: none;
@@ -275,9 +332,8 @@ label:hover {
 }
 
 .accordion-content {
-	/* background: #E2E5F6; */
 	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
+	border: 1px solid #484848; 
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 }
