@@ -38,7 +38,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/innovate%202022%20(right).png"></a><br>
-		<div class="header"><b>CHI Innovate 2022 </b></div><br>
+		<div class="header"><b>CHI INNOVATE 2022 </b></div><br>
 		<div class="para"><br><br>
 Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a series of 4 events promises to be even more engaging and agile to get you into the conversation on innovation, and how to make your innovation impactful! 
 <br>View the series of events  
@@ -50,7 +50,7 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2021" src="/images/innovate%20(right).jpg"></a>
 		<br>
-	<div class="header"><b>CHI Innovate 2021</b></div><br>
+	<div class="header"><b>CHI INNOVATE 2021</b></div><br>
 	<div class="para"><em>23 August 2021 - 02 December 2022</em>
 <br><br>In view of the demand from past participants for CHI INNOVATE, the conference themed "Creating a better normal for healthcare" took place as a series of webinars in 2021. 
 <br>View the webinar series <a href="https://www.youtube.com/watch?v=NuNyS4vP6IY&amp;list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c">here!</a>
@@ -60,7 +60,7 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 </div>
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" src="/images/Logos/2020_banner-right.jpg"></a><br>
-	<div class="header"><b>CHI Innovate 2020</b></div><br>
+	<div class="header"><b>CHI INNOVATE 2020</b></div><br>
 	<div class="para"><em>29 - 30 July 2020</em>
 Virtual Sessions<br><br>​Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", CHI INNOVATE 2020’s webinar series on 29-30 July featured 19 speakers from across industries and countries, and was watched by almost 1,500 participants, across 16 countries.<br>
 View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here!</a>
@@ -70,7 +70,7 @@ View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VO
 <div class="row">
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2019" src="/images/chi%20innovate%20badge%20website.png"></a><br>
-		<div class="header"><b>CHI Innovate 2019 </b></div><br>
+		<div class="header"><b>CHI INNOVATE 2019 </b></div><br>
 		<div class="para"><em>9-10 May 2019</em><br><br>Themed "Change Our Future!", CHI INNOVATE 2019 focused on co-creating an innovative, transformative and productive healthcare workforce of the future. The conference featured four pillars to engage and inspire the audience to change the way we work (InnoWork), collaborate (InnoConnect), train (InnoLearn) and lead (InnoLead). <br>View event highlights 
  <a href="https://chiinnovate2023.klobbi.com/">here!</a>
 </div>
