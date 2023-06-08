@@ -3,12 +3,11 @@ title: CHI Fellowship in Healthcare Innovation and Leadership
 permalink: /platformprogrammes/chi-fellowship/
 description: ""
 ---
-
-##  CHI Fellowship in Healthcare Innovation and Leadership
+<h2>CHI Fellowship in Healthcare Innovation and Leadership</h2>
 
 Driving clinical innovation &amp; digital transformation will require collective leadership, and a deep and broad understanding of our healthcare systems. This Fellowship equips participants with the necessary mindsets, skillsets and toolsets to enable this transformation.
 
-### Programme Focus 
+<h3> Programme Focus </h3>
 The curriculum and ethos are aligned with population health and community-based care. The 16-week Fellowship program is designed as both practice and project-based, and combines professional development, personalised mentorship, peer and experiential co-learning and immersions into innovative healthcare systems in Singapore and internationally. 
 Participants will engage with thought leaders and work with experienced practitioners and their peers to develop their projects. Above all, this Fellowship provides an opportunity for them to establish a network with fellow collaborators in the industry.
 
@@ -51,8 +50,7 @@ th:nth-child(odd),td:nth-child(odd) {
 </table>
 
 
-
-### Testimonials from past graduates
+<h3>Testimonials from past graduates</h3>
 
 <div class="row">
 <div class="col"> 
