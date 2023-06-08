@@ -4,7 +4,6 @@ permalink: /our-events/chi-innovate/
 description: ""
 third_nav_title: CHI Conference
 ---
-<br>
 <h2> CHI INNOVATE 2023</h2>
 
 ![](/images/innovate23.png)
