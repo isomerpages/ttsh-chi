@@ -45,7 +45,7 @@ View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VO
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2019" src="/images/chi%20innovate%20badge%20website.png"></a><br>
 		<div class="header"><b>CHI INNOVATE 2019 </b></div>Centre for Healthcare Innovation
-		<div class="para"><em>9-10 May 2019</em><br><br>Themed "Change Our Future!", CHI INNOVATE 2019 focused on co-creating an innovative, transformative and productive healthcare workforce of the future. The conference featured four pillars to engage and inspire the audience to change the way we work (InnoWork), collaborate (InnoConnect), train (InnoLearn) and lead (InnoLead). <br>View event highlights 
+		<div class="para"><em>09-10 May 2019</em><br><br>Themed "Change Our Future!", CHI INNOVATE 2019 focused on co-creating an innovative, transformative and productive healthcare workforce of the future. The conference featured four pillars to engage and inspire the audience to change the way we work (InnoWork), collaborate (InnoConnect), train (InnoLearn) and lead (InnoLead). <br>View event highlights 
  <a href="https://chiinnovate2023.klobbi.com/">here!</a>
 </div>
 <br>
