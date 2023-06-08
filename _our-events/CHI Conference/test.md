@@ -12,7 +12,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/innovate%202022%20(right).png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/innovate23.png"></a><br>
 		<div class="header"><b>CHI INNOVATE 2023 </b></div>Centre for Healthcare Innovation
 		<div class="para"><em>28 July 2023 </em><br><br>
 Healthcare is expanding our focus: from healthcare to health; from patients to people; from clinical centres to communities of care. Themed Building Bridges: Health &amp; Social Care, CHI INNOVATE 2023 will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities.
