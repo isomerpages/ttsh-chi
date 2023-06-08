@@ -13,7 +13,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/innovate%202022%20(right).png"></a><br>
 		<div class="header"><b>CHI INNOVATE 2022 </b></div>Centre for Healthcare Innovation
-		<div class="para"><em>18 April 2022 – 4 November 2022</em><br>
+		<div class="para"><em>18 April 2022 – 4 November 2022</em><br><br>
 Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a series of 4 events promises to be even more engaging and agile to get you into the conversation on innovation, and how to make your innovation impactful! 
 <br>View the series of events  
  <a href="https://www.youtube.com/watch?v=L1ot3SRsRMY&amp;list=PLTrhD5VOFZmocGcY2hMpjCFtuG1_QrQyc">here!</a>
