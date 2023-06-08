@@ -20,7 +20,8 @@ Healthcare is expanding our focus: from healthcare to health; from patients to p
  <a href="c">here!</a>
 </div>
 <br>
-	
+
+</div>	
 <div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/innovate%202022%20(right).png"></a><br>
 		<div class="header"><b>CHI INNOVATE 2022 </b></div>Centre for Healthcare Innovation
@@ -51,7 +52,7 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 <br><br>​Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", CHI INNOVATE 2020’s webinar series on 29-30 July featured 19 speakers from across industries and countries.<br>
 View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ">here!</a>
 </div>
-</div></div>
+</div>
 
 
 <div class="col"> 
@@ -71,21 +72,39 @@ Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School
 </div>
 <br>
 
-</div>
-	<div class="row">
+</div></div>
+
+  <div class="row">
 	<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="nsph2016" src="/images/events_conference2.jpg"></a><br>
 	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div>
 	<div class="para"><em>20 - 28 October 2016</em><br><br>
 The inaugural CHI Conference 2016 was held in conjunction the National Seminar on Productivity in Healthcare (NSPH), which is a biennial national event that aims to promote a culture of productivity and innovation in the healthcare and community care sector. The theme of NSPH 2016 was “Driving Value in Healthcare”. 
 </div>
-<br></div></div>
+<br></div>
+
+<div class="col"> 
+<a href="https://chiinnovate2023.klobbi.com/"></a><br>
+	<div class="header"><b></b></div>
+	<div class="para">
+</div>
+<br></div>
 
 
+<div class="col"> 
+<br>
+	<div class="header"><b></b></div>
+	<div class="para"><em></em><br><br>
+
+</div>
+<br></div></div></div>
+
+
+	
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li><a href="/our-events/chimasterclass/">CHI MasterClass</a></li>
 			</ul>
-</div></div></div>
+</div>
