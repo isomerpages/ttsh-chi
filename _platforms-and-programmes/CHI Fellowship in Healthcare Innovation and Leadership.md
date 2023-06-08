@@ -3,6 +3,15 @@ title: CHI Fellowship in Healthcare Innovation and Leadership
 permalink: /platformprogrammes/chi-fellowship/
 description: ""
 ---
+
+##  CHI Fellowship in Healthcare Innovation and Leadership
+
+Driving clinical innovation &amp; digital transformation will require collective leadership, and a deep and broad understanding of our healthcare systems. This Fellowship equips participants with the necessary mindsets, skillsets and toolsets to enable this transformation.
+
+### Programme Focus 
+The curriculum and ethos are aligned with population health and community-based care. The 16-week Fellowship program is designed as both practice and project-based, and combines professional development, personalised mentorship, peer and experiential co-learning and immersions into innovative healthcare systems in Singapore and internationally. 
+Participants will engage with thought leaders and work with experienced practitioners and their peers to develop their projects. Above all, this Fellowship provides an opportunity for them to establish a network with fellow collaborators in the industry.
+
 <style>
 table, th, td{
   border: 1px solid black;
@@ -22,15 +31,6 @@ th:nth-child(odd),td:nth-child(odd) {
   background-color: #be2c37;
 }
 </style>
-##  CHI Fellowship in Healthcare Innovation and Leadership
-
-Driving clinical innovation &amp; digital transformation will require collective leadership, and a deep and broad understanding of our healthcare systems. This Fellowship equips participants with the necessary mindsets, skillsets and toolsets to enable this transformation.
-
-### Programme Focus 
-The curriculum and ethos are aligned with population health and community-based care. The 16-week Fellowship program is designed as both practice and project-based, and combines professional development, personalised mentorship, peer and experiential co-learning and immersions into innovative healthcare systems in Singapore and internationally. 
-Participants will engage with thought leaders and work with experienced practitioners and their peers to develop their projects. Above all, this Fellowship provides an opportunity for them to establish a network with fellow collaborators in the industry.
-
-
 
 <table class="table">
   <thead>
