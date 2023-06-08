@@ -76,9 +76,7 @@ label:hover {
 }
 
 .accordion-content {
-	/* background: #E2E5F6; */
 	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 }
@@ -113,9 +111,7 @@ label {
 
 
 .accordion-content {
-	/* background: #E2E5F6; */
 	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 }
@@ -333,7 +329,7 @@ label:hover {
 
 .accordion-content {
 	padding: 10px 0px 30px 30px;
-	border: 1px solid #484848; 
+	\border: 1px solid #484848; \
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 }
