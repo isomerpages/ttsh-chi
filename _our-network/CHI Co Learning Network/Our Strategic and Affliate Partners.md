@@ -359,7 +359,7 @@ input:checked + label + .accordion-content {
     </tr>
     <tr>
       <td scope="row"><a href="https://www.hello-tomorrow-apac.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/hellotmr.svg"></button></a><br>
-      </td><td>&lt;<a href="https://www.innovasjonnorge.no/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/innovation%20norway.svg"></button></a><br></td>
+      </td><td><a href="https://www.innovasjonnorge.no/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/innovation%20norway.svg"></button></a><br></td>
       <td><a href="https://www.ipi-singapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/ipisingapore.svg"></button></a><br></td>
     </tr>
     <tr>
@@ -379,7 +379,7 @@ input:checked + label + .accordion-content {
     </tr>
     <tr>
       <td scope="row"><a href="https://smartlab.expert/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/smartlab.svg"></button></a><br>
-      </td><td><a href="https://business.smu.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="!/images/Logos/Affliates/smulkcbiz.svg"></button></a><br></td>
+      </td><td><a href="https://business.smu.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/smulkcbiz.svg"></button></a><br></td>
       <td><a href="https://www.startupreseau.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/startup.svg"></button></a><br></td>
     </tr>
     <tr>
