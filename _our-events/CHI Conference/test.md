@@ -44,8 +44,8 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 <br>
 
 
-	<div class="row">
-	<div class="col"> 
+<div class="row">
+<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" src="/images/Logos/2020_banner-right.jpg"></a><br>
 	<div class="header"><b>CHI INNOVATE 2020</b></div>Virtual Sessions
 	<div class="para"><em>29 - 30 July 2020</em>
@@ -64,7 +64,7 @@ View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VO
 <br>
 
 </div>
-	<div class="col"> 
+<div class="col"> 
 <a href="https://chiinnovate2023.klobbi.com/"><img alt="Fh 2017" src="/images/events_conference1.jpg"></a><br>
 	<div class="header"><b>FutureHealth 2017</b></div>Lee Kong Chian School of Medicine
 	<div class="para"><em>08 - 10 November 2017</em><br><br>
