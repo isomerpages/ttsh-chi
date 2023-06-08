@@ -51,10 +51,6 @@ label {
 	font-size: 1.5em;
 }
 
-label:hover {
-	background: white;
-	color: white;
-}
 
 .accordion-content {
 	/* background: #E2E5F6; */
@@ -244,7 +240,7 @@ The CHI Co-Learning Network comprises of 43 local and international like-minded 
 }
 
 .active, .button:hover {
-  background-color: #ccc; 
+  background-color: #white; 
 }
 
 .panel {
