@@ -3,11 +3,8 @@ title: Our Leadership
 permalink: /about-us/ourleadership/
 description: ""
 ---
-<p class="right-side-updated">Last updated on 6 June 2023</p>
-
 Our Leadership
 ---
-
 
 #### **Chairman**
 
@@ -149,3 +146,5 @@ Our Leadership
 
 </tbody>
 </table>
+
+<p class="right-side-updated">Last updated on 9 June 2023</p>
