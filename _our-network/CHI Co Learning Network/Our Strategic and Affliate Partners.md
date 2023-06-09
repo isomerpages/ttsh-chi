@@ -356,7 +356,9 @@ input:checked + label + .accordion-content {
 
 
 <h2 id="our-main-plans">CHI Affliate Partners</h2>
-		WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP<br><br>
+	
+WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP<br><br>
+	
 <div>
 		<input id="title6" type="checkbox"><label for="title6">Agencies</label>
 <div class="accordion-content">
