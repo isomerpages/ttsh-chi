@@ -94,7 +94,7 @@ Sponsored by MOH, managed by CHI and supported by all public healthcare clusters
 	
 <div>
 	<h2>Any Queries?</h2>
-	If you have any queries, please contact the CHILD team at <a>child@chi.sg</a> <br><br>
+	If you have any queries, please contact the CHILD team at <a href="child@chi.sg">child@chi.sg</a> <br><br>
 		
 </div></div></div></div></div>
 
