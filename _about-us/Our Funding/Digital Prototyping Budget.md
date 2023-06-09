@@ -83,7 +83,9 @@ Project owner who is looking to test out any of the following technologies that 
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Contact Us</label>
 	<div class="accordion-content">
-		<div class="para">If you have any questions, please contact us at <a>dsho@ttsh.com.sg</a>
+		<div class="para">If you have any questions, please contact us at 
+			<a>dsho@ttsh.com.sg</a>
+			
 </div>
 	</div>
 
