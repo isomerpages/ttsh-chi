@@ -13,12 +13,37 @@ We believe in knowledge sharing and learning together. At CHI, there are no bord
 
 # Our Purpose
 ##### To spearhead change towards sustainable, value-based systems
+
+<style>
+div.a {
+  text-indent: 50px;
+	font-size: 1.25em;
+}
+table, th, td {
+  border-collapse: collapse;
+  width: 500px;
+	color: white;
+}
+	
+th {
+  text-align: center;
+}
+th:nth-child(even),td:nth-child(even) {
+  background-color: gray;
+}
+th:nth-child(odd),td:nth-child(odd) {
+  background-color: #be2c37;
+}
+
+</style>
+
+
 <table class="table">
-  <thead bgcolor="#EAA7AE">
+  <thead>
     <tr>
-      <th scope="col">To Promote a Culture of Innovation</th>
-      <th scope="col">To Achieve Better Health and Healthcare<br> Synthesize new knowledge and tools to develop solutions</th>
-      <th scope="col">To Catalyse Value-Based Outcomes<br>Exchange knowledge and build upon ideas</th>
+      <th style="color:white;" scope="col">To Promote a Culture of Innovation</th>
+      <th style="color:white;" scope="col">To Achieve Better Health and Healthcare<br> Synthesize new knowledge and tools to develop solutions</th>
+      <th style="color:white;" scope="col">To Catalyse Value-Based Outcomes<br>Exchange knowledge and build upon ideas</th>
     </tr>
   </thead>
   <tbody>
