@@ -219,7 +219,7 @@ The CHI Co-Learning Network comprises of 43 local and international like-minded 
     <tr>
       <td scope="row"><a href="https://www.a-star.edu.sg/sb/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></button></a><br>
       </td><td><a href="https://www.sthealthcare.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></button></a><br></td>
-      <td><a href="https://www.wsg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/workforce%20singapore.svg"></button></a><br></td>
+      <td><a href="https://www.wsg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/workforce%20sg.svg"></button></a><br></td>
     </tr>
    
   </tbody>
