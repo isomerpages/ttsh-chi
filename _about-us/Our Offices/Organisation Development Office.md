@@ -4,7 +4,7 @@ permalink: /about-us/our-offices/chi-organisationdevelopment/
 description: ""
 third_nav_title: Our Offices
 ---
-<h2>Organisation Development </h2>
+<h2>Organisation Development Office</h2>
 <h3>Building Organisation Health to Achieve Organisation Excellence</h3>
 
 Organisation Development (OD) in TTSH builds organisation health for organization excellence – focuses on building Better People to deliver Better Care, empowering Better Communities towards Better Health and Better Value.  <br><br>
