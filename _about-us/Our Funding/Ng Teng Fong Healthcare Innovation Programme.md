@@ -32,14 +32,14 @@ th:nth-child(odd),td:nth-child(odd) {
 
 <p style="font-size: 1.25em">NTF HIP serves as a financial lever of innovation, and help funds the innovation work and programmes facilitated by CHI. It supports proposals relating to:<br>
 	
-</p><li>	Building leadership in healthcare innovation<br></li>
+</p><li>	Building leadership in healthcare innovation</li>
 <li>	Workforce transformation, through:</li>
 	<p></p>
 	<ul style="padding-left: 20px;"><li> Care redesign (clinical / operational processes and models)<br>
 </li>
 		<li>Use of automation / IT / robotics / products / devices</li>
 
-<li>Job redesign<br></li></ul>
+<li>Job redesign</li></ul>
 <li>	Use of different pedagogies for training and transforming our workforce.<br></li>
 
 <p></p><p style="font-size: 1.25em">NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.</p>
