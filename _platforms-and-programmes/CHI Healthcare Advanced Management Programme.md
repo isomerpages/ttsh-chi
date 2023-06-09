@@ -33,10 +33,10 @@ th:nth-child(odd),td:nth-child(odd) {
 <table class="table">
   <thead bgcolor="#EAA7AE">
     <tr>
-      <th style="color:white;" scope="col">Leading Self (3 Days) <br>Strengthening collective leadership in teams, amid disruption and transformation</th>
-      <th style="color:white;" scope="col">Leading Together (4 days) ​<br>Increasing self-awareness and developing personal effectiveness ​ <br> Synthesize new knowledge and tools to develop solutions</th>
+			<th style="color:white;" scope="col">Leading Self (3 Days) <br><em>Strengthening collective leadership in teams, amid disruption and transformation</em></th>
+      <th style="color:white;" scope="col">Leading Together (4 days) ​<br><em>Increasing self-awareness and developing personal effectiveness ​ <br> Synthesize new knowledge and tools to develop solutions</em></th>
       <th style="color:white;" scope="col">Leading Organisation (5 days)
-Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>Exchange knowledge and build upon ideas</th>
+<em><br>Develop industry, system-wide and enterprise mindsets for healthcare leaders<br>Exchange knowledge and build upon ideas</em></th>
     </tr>
   </thead>
   <tbody bgcolor="#F0EEE1">
