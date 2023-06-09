@@ -36,7 +36,7 @@ description: ""
 </div>
 	<div class="col"> 
 <br>
-		<div class="header"><p style="text-align:center">"CHILD has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!
+		<div class="header"><p style="text-align:center">CHILD has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!
 <br><br>
 Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it</p>
 
@@ -73,11 +73,14 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 </div></div><div>
 <div>
 	<h2>About CHILD</h2>
+	<h4> LEARN-SHARE-CONNECT</h4>
 	<div>
-	<div class="row">
+<div class="row">
 <div class="col"> 
-		<div class="header"><b>"Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the CHI Learning &amp; Development (CHILD) System serves as an open repository for healthcare innovation, improvement and productivity project write-ups, best practices and learning experiences.
- </b></div><br>
+		<div class="header">
+Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the<b> CHI Learning &amp; Development (CHILD) System </b> serves as an open repository for <b>healthcare innovation, improvement and productivity</b> project write-ups, best practices and learning experiences.
+			
+ </div><br>
 
 
 </div>
