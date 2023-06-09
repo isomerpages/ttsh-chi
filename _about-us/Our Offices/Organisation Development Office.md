@@ -18,6 +18,3 @@ With its focus on building Better People and empowering Better Communities, ODâ€
 *	Building TTSHâ€™s capability and capacity to learn, adapt and renew through formal and informal learning programmes, structures and platforms, supported by Communities of Practice. <br><br>
 
 *	Building formal and informal workforce to do their jobs well, better and differently through value creation tools, technology enablement and innovation. The goal is a future-ready workforce.
-
-
-
