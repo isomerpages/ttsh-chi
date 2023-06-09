@@ -13,11 +13,13 @@ DPB provides seed funding to:<br>
 
 The technologies we are focusing on are:
 ![](/images/picture1.png)
-1.	Artificial Intelligence &amp; Analytics (AiDA)
-2.	Digital Services
-3.	Telehealth
-4.	Medical Tech &amp; Robotics
-5.	Operational Tech &amp; Robotics
+<ol>
+<li>Artificial Intelligence &amp; Analytics (AiDA)</li>
+<li>Digital Services</li>
+<li>Telehealth</li>
+<li>Medical Tech &amp; Robotics</li>
+<li>Operational Tech &amp; Robotics</li>
+</ol>
 
 DPB is managed and administered by the<a href="/about-us/our-offices/chi-dsho/" target="_blank"> <b><u>Digital and Smart Health Office</u></b></a>  for use in the following project categories: Proof of Concept (POC) and/or Proof of Value (POV) 
 
