@@ -10,9 +10,8 @@ Centre for Healthcare Innovation Start-Up Enterprise Link (CHISEL) is a programm
 
 It provides a sandbox and marketplace that enables start-ups and small and medium enterprises (SMEs) to demonstrate proof-of-value (POV) of market ready or near market-ready solutions, with the aim of procurement for use by healthcare institutions. It enables start-ups and SMEs to access real use cases and environments, demonstrate POV of market-ready or near market-ready solutions, and customise solutions suited for implementation within healthcare clusters in Singapore. <br>
 
-Simultaneously, healthcare clusters are able to evaluate the operational feasibility of solutions prior to adoption or scale-up. The platform aims to bridge the market adoption gap, and allow patients early access to new and emerging healthcare innovations to meet healthcare gaps. <br>
+Simultaneously, healthcare clusters are able to evaluate the operational feasibility of solutions prior to adoption or scale-up. The platform aims to bridge the market adoption gap, and allow patients early access to new and emerging healthcare innovations to meet healthcare gaps. 
 
-An end to end process that moves a potential solution from proof of value to adoption <br>
 
 <style>
 
