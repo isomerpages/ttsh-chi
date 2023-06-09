@@ -36,11 +36,11 @@ description: ""
 </div>
 	<div class="col"> 
 <br>
-		<div class="header"><b>"CHILD has already collected <u>over 1,000</u> healthcare innovation projects and solutions from across Singapore!
-<br>
-Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it
+		<div class="header"><p style="text-align:center">"CHILD has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!
+<br><br>
+Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it</p>
 
- </b></div>
+ </div>
 		</div></div><div></div></div></div>
 		
 <h2>What is CHILD &amp; What can CHILD do for you?</h2>
