@@ -37,7 +37,7 @@ th:nth-child(odd),td:nth-child(odd) {
 	<p></p>
 	<ul style="padding-left: 20px;"><li> Care redesign (clinical / operational processes and models)<br>
 </li>
-	Use of automation / IT / robotics / products / devices<br>
+		<li>Use of automation / IT / robotics / products / devices</li>
 
 <li>Job redesign<br></li></ul>
 <li>	Use of different pedagogies for training and transforming our workforce.<br></li>
