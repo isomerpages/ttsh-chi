@@ -35,7 +35,7 @@ th:nth-child(odd),td:nth-child(odd) {
 *	Building leadership in healthcare innovation<br>
 *	Workforce transformation, through:
 	</p>
-	<ul style="padding-left: 40px;"><li> Care redesign (clinical / operational processes and models)<br>
+	<ul style="padding-left: 10px;"><li> Care redesign (clinical / operational processes and models)<br>
 </li><li>Use of automation / IT / robotics / products / devices<br>
 </li><li>Job redesign<br></li></ul>
 *	Use of different pedagogies for training and transforming our workforce.<br>
