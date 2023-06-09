@@ -8,8 +8,8 @@ third_nav_title: Our Funding
 The Digital Prototyping Budget (DPB) is a seed fund set up to encourage our staff to ideate and develop meaningful digital innovation projects in an agile manner before we adopt or embed them into our roadmaps to scale.
 
 DPB provides seed funding to:<br>
-•	Start small and agile in creating digital innovations<br>
-•	Allow ideas to flow through rapid prototyping thereby increasing pool of ideas, innovation &amp; projects to drive subsequent derivative technology resulting in a radical change in user's capability or work culture.
+*	Start small and agile in creating digital innovations<br>
+*	Allow ideas to flow through rapid prototyping thereby increasing pool of ideas, innovation &amp; projects to drive subsequent derivative technology resulting in a radical change in user's capability or work culture.
 
 The technologies we are focusing on are:
 ![](/images/picture1.png)
