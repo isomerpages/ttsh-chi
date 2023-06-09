@@ -3,10 +3,9 @@ title: Other Leadership Programmes
 permalink: /platformprogrammes/otherprogrammes/
 description: ""
 ---
-
 # Other Leadership Programmes
 
-Here are some test 
+Here are some text
 
 <br>
 <div class="row">
