@@ -13,7 +13,7 @@ We drive Digital Transformation through the formulation and implementation of th
 *	Robotic Process Automation (RPA) consulting &amp; development<br>
 
 We work closely with the ground staff in TTSH to understand the challenges they face in their daily work, and actively explore potential partnerships with institutes of higher learning, academia and industry to overcome these challenges.<br><br>
-Do connect with us at dsho@ttsh.com.sg for collaboration opportunities. Let us work together to improve healthcare.
+Do connect with us at <a href="mailto:dsho@ttsh.com.sg">dsho@ttsh.com.sg</a> for collaboration opportunities. Let us work together to improve healthcare.
 
 <h3>Our Work</h3>
 
