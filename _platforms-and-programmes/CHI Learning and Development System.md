@@ -42,7 +42,7 @@ Make CHILD your first stop in any innovation journey – search for what has alr
  </div>
 		</div></div><div></div></div>
 		
-<h2>What is CHILD &amp; What can CHILD do for you?</h2>
+<h3>What is CHILD &amp; What can CHILD do for you?</h3>
 CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for 
  healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas</b>. <br><br>
  
