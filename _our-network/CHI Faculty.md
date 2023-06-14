@@ -258,7 +258,7 @@ CHI Faculty
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">1st Faculty</label>
 <div>			 
 <style>
 img {
