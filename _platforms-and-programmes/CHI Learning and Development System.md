@@ -48,7 +48,7 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
  
 
 <div style="text-align: center;">
-<a href="https://youtu.be/-_j56iZxDIg"><img src="/images/CHILD%20pictures/thumbnail%20w%20play%20button.png" style="width:560px; height:315px; padding-top:8%;" alt="CHI"></a><br>    </div>
+<a href="https://youtu.be/-_j56iZxDIg"><img src="/images/CHILD%20pictures/thumbnail%20w%20play%20button.png" style="width:560px; height:315px;" alt="CHI"></a><br>    </div>
  
 <div class="row">
 <div class="col"> 
