@@ -73,7 +73,6 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 <div>
 	<h2>About CHILD</h2>
 	<h4> LEARN-SHARE-CONNECT</h4>
-	<div>
 <div class="row">
 <div class="col"> 
 		<div class="header">
@@ -108,4 +107,4 @@ Sponsored by MOH, managed by CHI and supported by all public healthcare clusters
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div></div>
+</div>
