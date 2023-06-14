@@ -85,7 +85,7 @@ Sponsored by MOH, managed by CHI and supported by all public healthcare clusters
 </div>
 	<div class="col"> 
 <br>
-		<img src="/images/CHILD%20pictures/picture8.png" alt="1st person"><br>
+		<img style="text-align: justify;" src="/images/CHILD%20pictures/picture8.png" alt="1st person"><br>
 		<div class="header"><b>
 
  </b></div><br>
