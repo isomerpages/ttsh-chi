@@ -52,22 +52,22 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
  
 <div class="row">
 <div class="col"> 
-<img alt="1st" src="/images/CHILD%20pictures/sharee.svg">
-		<div class="header"><b>“Share ideas, best practices, solutions and experiences.
+<img alt="1st" style="width:218px; height:218px;" src="/images/CHILD%20pictures/sharee.svg">
+		<div style="text-align:center;" class="header"><b>“Share ideas, best practices, solutions and experiences.
  </b></div>
 
 
 </div>
 	<div class="col"> 
-<img alt="2nd person" src="/images/CHILD%20pictures/learnn.svg">
-	<div class="header"><b>Learn from others people who have gone before.
+<img alt="2nd person" style="width:218px; height:218px;" src="/images/CHILD%20pictures/learnn.svg">
+	<div style="text-align:center;" class="header"><b>Learn from others people who have gone before.
  </b></div>
 	
 
 </div>
 	<div class="col"> 
-<img alt="3rd" src="/images/CHILD%20pictures/connect.svg">
-	<div class="header"><b>Connect with other like-minded innovators to create a bigger impact!
+<img alt="3rd" style="width:218px; height:218px;" src="/images/CHILD%20pictures/connect.svg">
+	<div style="text-align:center;" class="header"><b>Connect with other like-minded innovators to create a bigger impact!
 </b></div>
 </div></div><div>
 <div>
