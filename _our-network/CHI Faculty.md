@@ -258,7 +258,7 @@ CHI Faculty
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">1st Faculty</label>
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
 <div>			 
 <style>
 img {
@@ -272,23 +272,142 @@ p {
 	font-size: 1em
 }
 </style>
-<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
-	<b>Eiseli Loh</b> <br>
-	<em>Associate Director</em><br><br></p>
-<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
-	<b>Eiseli Loh</b> <br>
-	<em>Associate Director</em><br><br></p>
-<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
-	<b>Eiseli Loh</b> <br>
-	<em>Associate Director</em><br><br></p>
-<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
-	<b>Eiseli Loh</b> <br>
-	<em>Associate Director</em><br><br></p>
-<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
-	<b>Eiseli Loh</b> <br>
-	<em>Associate Director</em><br><br></p>
-			
+<p>
+	<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+</p>
+
+
+ </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
+    <div><p><strong>17 Feb 2023</strong></p>			 
+<style>
+img {
+  float: left;
+	vertical-align: middle;
+}
+p {
+	overflow: auto;
+  max-width: 550px;
+  max-height: 300px;
+	font-size: 1em
+}
+</style>
+<p>
+	<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+</p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+<p></p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+<p></p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+<p></p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+<p></p>
+<hr>
+	</div></li><li>
+	<input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass</label>
+    <div><p><strong></strong></p>			 
+<style>
+img {
+  float: left;
+	vertical-align: middle;
+}
+p {
+	overflow: auto;
+  max-width: 600px;
+  max-height: 300px;
+}
+</style>
+<p style="overflow:auto; max-width: 600px; max-height: 300px;">
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+</p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+<p></p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+<p></p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
+<p></p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
+<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
 <p></p>
 
+<hr>
+			
+ </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">12th Masterclass</label>
+    <div><p><strong>9 Oct 2019</strong></p>			 
+<style>
+img {
+  float: left;
+	vertical-align: middle;
+}
+p {
+	overflow: auto;
+  max-width: 600px;
+  max-height: 300px;
+}
+</style>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/12th%20masterclass.png"><p>
+<b><u>Sustainability in Healthcare Transformation</u></b> <br>
+			<b>Population Health Experiences of the Hong Kong Health System</b><br>By <em>Prof</em> Gabriel Leung<b><br>Sustainable Transformation in Karolinska University Hospital</b><br>By <em>Associate Professor</em> Anders Ahlsson<br><br>
+			<b> ‘Sustainable Transformation in Karolinska University Hospital’ </b><br>
+The driving forces behind the transformation at Karolinska University Hospital are discussed, together with the initial plan, further development and refinement. Beneficial and negative aspects are demonstrated, as well as lessons learned. 
 
+
+</p>
+
+<hr>
+			
+ </div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">11th Masterclass</label>
+    <div><p><strong>23 Oct 2018</strong></p>			 
+<style>
+img {
+  float: left;
+	vertical-align: middle;
+}
+p {
+	overflow: auto;
+  max-width: 600px;
+  max-height: 300px;
+}
+</style>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/11th-chi-masterclass-image.png"><p>
+<b><u>Integrating Care Across the Care Continuum</u></b> <br>
+			<b>Dr Samir Sinha </b><br><em>MD, DPhil, FRCPC, AGSF<br>
+Director of Geriatrics, Sinai Health System<br>
+Director of the University Health Network, Toronto, Canada</em>
+<br><b>Mr Ralph Broad</b><br><em>Director, Inclusive Neighbourhoods Ltd<br>Founder, Local Area Coordination Network</em><br><br><b>Lessons Learned from the Development of Cost-Effective and Integrated Care Models for the Elderly in Toronto and Ontario, Canada</b><br><br>An aging population presents both a challenge and an opportunity to rethink how we organize and deliver elder care. Toronto’s Mount Sinai Hospital responded with the development of its Acute Care for Elders (ACE) strategy, led by Dr. Sinha which has demonstrated significant improvements in overall quality of care outcomes. It has reduced lengths of stay by 28 percent, lowered readmission rates by 14 percent and other adverse outcomes and inappropriate resource utilization through the successful implementation of evidence-informed care processes across the continuum of care, including integrating &amp; coordinating care for the elderly to community care settings. Using these learnings, Dr. Sinha has helped to further create upstream Ministry of Health interventions like exercise and falls prevention classes, community paramedicine programs, and stronger investments in home and community care and supportive housing through the Government of Ontario’s Seniors Strategy that have further worked to improve patient and system outcomes<br><br><b>Transforming Services &amp; Systems with Local Area Coordination in the UK</b><br><br>This Masterclass explores the design, development, implementation and long term outcomes of Local Area Coordination in England and Wales.Building on 30 years of international learning, Local Area Coordination is an integrated, evidence based approach to supporting people of all ages who may be facing complex life situations (including living with disabilities, mental health needs, ageing) and their families/carers to build and pursue their personal vision for a good life; stay strong/resilient, safe and connected as contributing citizens within their local communities; build practical, sustainable, local, non-service solutions to problems wherever possible; and build more welcoming, inclusive and supportive communities. Therefore, rather than waiting for crises and responding with services and money, it is about strengthening individuals and families – choice, control, opportunities and resilience; reducing isolation and loneliness, improving health and well-being; preventing or reducing demand for, or dependency on, costly services wherever possible; building community capacity and resilience; and supporting service reform and integration, having high quality services as a valued back up to local solutions.      
+</p>
+
+<hr>
+		</div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">10th Masterclass</label>
+    <div><p><strong>11 Jul 2018</strong></p>			 
+<style>
+img {
+  float: left;
+	vertical-align: middle;
+}
+p {
+	overflow: auto;
+  max-width: 600px;
+  max-height: 300px;
+}
+</style>
+<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/10th-chi-masterclass-image.png"><p>
+<b><u>The Blueprint for Successful MedTech Innovation</u></b> <br><b>Prof Pascal Verdonck </b><br>
+				<em>Professor of Medical Technology,<br>Ghent University, Belgium <br>Chief Executive Officer, MedTech Flanders</em><br>
+			Technology and healthcare innovation often go hand in hand, with the aim to improve quality of life, life expectancy and offer new options for diagnosis and treatment. Yet healthcare leaders often need to balance innovation with cost effectiveness and efficiency of the healthcare system.<br>How then should a healthcare leader respond to the rise in healthcare innovation and its challenges?<br>How should we decide which innovations to prioritise? In this CHI Masterclass, Professor Pascal Verdonck will give insights into the fine balance between the health benefits and economic impact of innovation. With his deep expertise in the area of MedTech, he will provide fresh perspectives on challenges that innovation poses. Benefiting patients is essential but is that sufficient? Join us as we explore the possibilities, regulations and qualifications that are needed to supplement medical technology to reach beyond basic patient care. Go on a learning journey to understand the elements involved and the way forward with MedTech!
+
+</p>
+
+<hr>
+			
  </div></li></ul>
