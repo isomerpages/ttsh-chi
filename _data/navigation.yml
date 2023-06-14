@@ -27,10 +27,3 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Our Network
-    url: /our-network/about-the-chi-co-learning-network/
-    sublinks:
-      - title: "Partners & Affiliates "
-        url: /our-network/strategicandaffliates/
-      - title: CHI Faculty
-        url: /our-network/chifaculty/
