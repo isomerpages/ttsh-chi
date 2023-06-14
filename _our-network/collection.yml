@@ -2,7 +2,7 @@ collections:
   our-network:
     output: true
     order:
-      - CHI Faculty.md
       - CHI Co Learning Network/.keep
       - CHI Co Learning Network/About the CHI Co Learning Network.md
       - CHI Co Learning Network/Our Strategic and Affliate Partners.md
+      - CHI Faculty.md
