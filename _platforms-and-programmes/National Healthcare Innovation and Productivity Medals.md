@@ -68,11 +68,11 @@ th:nth-child(odd),td:nth-child(odd) {
   </thead>
   <tbody>
     <tr>
-      <td scope="row">Project(s) that have demonstrated innovation and productivity for each category in:
+      <td style="color: white; text-align:center;" scope="row">Project(s) that have demonstrated innovation and productivity for each category in:
 Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformation</td>
-			<td>Project(s) that have demonstrated exceptional innovation, productivity, sustainability, scale and spread in more than one award category</td>
-      <td>Project(s) that have demonstrated track records in adopting/ embracing past awarded solutions </td>
-			<td>This newly introduced grant encourages efforts in innovation and allows seed projects to start</td>
+			<td style="color: white; text-align:center;">Project(s) that have demonstrated exceptional innovation, productivity, sustainability, scale and spread in more than one award category</td>
+      <td style="color: white; text-align:center;">Project(s) that have demonstrated track records in adopting/ embracing past awarded solutions </td>
+			<td style="color: white; text-align:center;">This newly introduced grant encourages efforts in innovation and allows seed projects to start</td>
     </tr>
    
   </tbody>
