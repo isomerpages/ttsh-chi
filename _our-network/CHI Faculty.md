@@ -314,50 +314,34 @@ p {
 <strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
 <p></p>
 <hr>
-	</div></li><li>
-	<input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass</label>
-    <div class="scroll">	 
-<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
-<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
-			<p></p>
-<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
-<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
-			<p></p>
-<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
-<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
-			<p></p>
-<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
-<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
-			<p></p>
-<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png">
-<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a>
-			<p></p>
+</div></li>
 
-<hr>
-			
-</div></li> 
 
-	<li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">12th Masterclass</label>
-    <div><p><strong>9 Oct 2019</strong></p>			 
+<li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">12th Masterclass</label>
+    <div><p><strong></strong></p>			 
 <style>
 img {
   float: left;
 	vertical-align: middle;
 }
 p {
-	overflow: auto;
+	overflow: scroll;
   max-width: 600px;
   max-height: 300px;
 }
 </style>
-<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/12th%20masterclass.png"><p>
-<b><u>Sustainability in Healthcare Transformation</u></b> <br>
-			<b>Population Health Experiences of the Hong Kong Health System</b><br>By <em>Prof</em> Gabriel Leung<b><br>Sustainable Transformation in Karolinska University Hospital</b><br>By <em>Associate Professor</em> Anders Ahlsson<br><br>
-			<b> ‘Sustainable Transformation in Karolinska University Hospital’ </b><br>
-The driving forces behind the transformation at Karolinska University Hospital are discussed, together with the initial plan, further development and refinement. Beneficial and negative aspects are demonstrated, as well as lessons learned. 
 
+<p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png"> <br>
+	<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a></p>
+<p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png"> <br>
+	<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a></p>
+<p>
+<img alt="andrew1" style="width: 150px;height: 150pxfloat: left;" src="/images/CHI%20Logo.png"> <br>
+	<strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a></p>			
 
-</p>
+<p></p>
 
 <hr>
 			
