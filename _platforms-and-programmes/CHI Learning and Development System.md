@@ -48,7 +48,7 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
  
 
 <div style="text-align: center;">
-<a href="https://www.awwa.org.sg/"><button class="button button1"><img src="/images/CHILD%20pictures/thumbnail%20w%20play%20button.png" style="width:560px; height:315px; padding-top:8%;" alt="CHI"></button></a><br>    </div>
+<a href="https://www.awwa.org.sg/"><button><img src="/images/CHILD%20pictures/thumbnail%20w%20play%20button.png" style="width:560px; height:315px; padding-top:8%;" alt="CHI"></button></a><br>    </div>
  
 <div class="row">
 <div class="col"> 
