@@ -148,7 +148,9 @@ CHI Faculty
 </table>
 
 
-<h3 id="b">Past Masterclass </h3>
+
+
+<h3 id="b">CHI Faculty </h3>
 
 <style>
   ul.jekyllcodex_accordion {
