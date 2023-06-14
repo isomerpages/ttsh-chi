@@ -274,9 +274,21 @@ p {
 </style>
 <p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
 	<b>Eiseli Loh</b> <br>
-				<em>Associate Director</em><br><br>
+	<em>Associate Director</em><br><br></p>
+<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
+	<b>Eiseli Loh</b> <br>
+	<em>Associate Director</em><br><br></p>
+<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
+	<b>Eiseli Loh</b> <br>
+	<em>Associate Director</em><br><br></p>
+<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
+	<b>Eiseli Loh</b> <br>
+	<em>Associate Director</em><br><br></p>
+<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
+	<b>Eiseli Loh</b> <br>
+	<em>Associate Director</em><br><br></p>
 			
-</p>
+<p></p>
 
 
  </div></li></ul>
