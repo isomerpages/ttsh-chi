@@ -37,7 +37,7 @@ description: ""
 	<div class="col"> 
 		<div class="header"><p style="text-align:center"><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!
 <br><br>
-Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it</p>
+Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
 
  </div>
 		</div></div><div></div></div>
