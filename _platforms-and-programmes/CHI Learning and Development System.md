@@ -6,14 +6,14 @@ description: ""
 <div class="row">
 <div class="col"> 
 <img src="/images/CHILD%20pictures/picture1.gif" alt="1st person"><br>
-		<div class="header"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
+		<div style="background-color:grey;color:white;text-align:center" class="header"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
  </b></div>
 
 
 </div>
 	<div class="col"> 
 <img src="/images/CHILD%20pictures/picture2.gif" alt="2nd person"><br>
-	<div class="header"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
+	<div style="background-color:grey;color:white;text-align:center" class="header"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
  </b></div>
 	
 <br>
@@ -21,7 +21,7 @@ description: ""
 </div>
 	<div class="col"> 
 <img src="/images/CHILD%20pictures/picture3.gif" alt="3rd"><br>
-	<div class="header"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
+	<div style="background-color:grey;color:white;text-align:center" class="header"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
 </b></div>
 </div></div><div>
 	
