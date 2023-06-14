@@ -43,8 +43,8 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 		</div></div><div></div></div>
 		
 <h3>What is CHILD &amp; What can CHILD do for you?</h3>
-CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for 
- healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas</b>. <br><br><br>
+<p style="font-size: 1.25em">CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for 
+ healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas</b></p>. <br><br><br>
  
 
 <div style="text-align: center;">
@@ -76,7 +76,7 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 <div class="col"> 
 		<div class="header">
 	<h4> LEARN-SHARE-CONNECT</h4>
-Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the<b> CHI Learning &amp; Development (CHILD) System </b> serves as an open repository for <b>healthcare innovation, improvement and productivity</b> project write-ups, best practices and learning experiences.
+<p style="font-size: 1.25em">Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the<b> CHI Learning &amp; Development (CHILD) System </b> serves as an open repository for <b>healthcare innovation, improvement and productivity</b> project write-ups, best practices and learning experiences.</p>
 			
  </div><br>
 
