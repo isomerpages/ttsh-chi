@@ -5,30 +5,30 @@ description: ""
 ---
 <div class="row">
 <div class="col"> 
-<img src="/images/CHILD%20pictures/picture1.gif" alt="1st person"><br>
-		<div style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px" class="header"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
+<img alt="1st person" src="/images/CHILD%20pictures/picture1.gif"><br>
+		<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;padding: 15px;"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
  </b></div>
 
 
 </div>
 	<div class="col"> 
-<img src="/images/CHILD%20pictures/picture2.gif" alt="2nd person"><br>
-	<div style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px" class="header"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
+<img alt="2nd person" src="/images/CHILD%20pictures/picture2.gif"><br>
+	<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;padding: 15px;"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
  </b></div>
 	
 <br>
 
 </div>
 	<div class="col"> 
-<img src="/images/CHILD%20pictures/picture3.gif" alt="3rd"><br>
-	<div style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px" class="header"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
+<img alt="3rd" src="/images/CHILD%20pictures/picture3.gif"><br>
+	<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;padding: 15px;"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
 </b></div>
 </div></div><div>
 	
 <div>
 	<div class="row">
 <div class="col"> 
-<img src="/images/CHILD%20pictures/picture4.png" style="width:315px; height:315px;" alt="QR">
+<img alt="QR" style="width:315px; height:315px;" src="/images/CHILD%20pictures/picture4.png">
 		<div class="header"><b>
  </b></div>
 
@@ -48,25 +48,25 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
  
 
 <div style="text-align: center;">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-_j56iZxDIg" height="315" width="560"></iframe><br>    </div>
+<a href="https://www.awwa.org.sg/"><button class="button button1"><img src="/images/CHILD%20pictures/thumbnail%20w%20play%20button.png" style="width:560px; height:315px; padding-top:8%;" alt="CHI"></button></a><br>    </div>
  
 <div class="row">
 <div class="col"> 
-<img src="/images/CHILD%20pictures/sharee.svg" alt="1st">
+<img alt="1st" src="/images/CHILD%20pictures/sharee.svg">
 		<div class="header"><b>“Share ideas, best practices, solutions and experiences.
  </b></div>
 
 
 </div>
 	<div class="col"> 
-<img src="/images/CHILD%20pictures/learnn.svg" alt="2nd person">
+<img alt="2nd person" src="/images/CHILD%20pictures/learnn.svg">
 	<div class="header"><b>Learn from others people who have gone before.
  </b></div>
 	
 
 </div>
 	<div class="col"> 
-<img src="/images/CHILD%20pictures/connect.svg" alt="3rd">
+<img alt="3rd" src="/images/CHILD%20pictures/connect.svg">
 	<div class="header"><b>Connect with other like-minded innovators to create a bigger impact!
 </b></div>
 </div></div><div>
@@ -84,7 +84,7 @@ Sponsored by MOH, managed by CHI and supported by all public healthcare clusters
 </div>
 	<div class="col"> 
 <br>
-		<img style="text-align: justify;" src="/images/CHILD%20pictures/picture8.png" alt="1st person"><br>
+		<img alt="1st person" src="/images/CHILD%20pictures/picture8.png" style="text-align: justify;"><br>
 		<div class="header"><b>
 
  </b></div><br>
@@ -97,9 +97,9 @@ Sponsored by MOH, managed by CHI and supported by all public healthcare clusters
 </div></div></div></div></div>
 
 	
-<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
-<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li><a href="/platformprogrammes/nhipm/">National Healthcare Innovation and Productivity Medals</a></li>
 		<li><a href="/platformprogrammes/chisel/">CHI Start Up and Enterprise Link (CHISEL)</a></li>
