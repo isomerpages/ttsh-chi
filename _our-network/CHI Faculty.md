@@ -272,7 +272,7 @@ p {
 	font-size: 1em
 }
 </style>
-<p><img alt="andrew1" style="width: 150px; height:150px;float: left;" src="/images/CHI%20Logo.png">
+<p><img alt="andrew1" style="width:150px;height:150px;margin-right:15px;float:left;" src="/images/CHI%20Logo.png">
 	<b>Eiseli Loh</b> <br>
 				<em>Associate Director</em><br><br>
 			
