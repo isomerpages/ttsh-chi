@@ -72,10 +72,10 @@ CHILD is a <b>central <u>knowledge management (KM)</u> repository </b>for
 </div></div><div>
 <div>
 	<h2>About CHILD</h2>
-	<h4> LEARN-SHARE-CONNECT</h4>
 <div class="row">
 <div class="col"> 
 		<div class="header">
+	<h4> LEARN-SHARE-CONNECT</h4>
 Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the<b> CHI Learning &amp; Development (CHILD) System </b> serves as an open repository for <b>healthcare innovation, improvement and productivity</b> project write-ups, best practices and learning experiences.
 			
  </div><br>
