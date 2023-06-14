@@ -6,14 +6,14 @@ description: ""
 <div class="row">
 <div class="col"> 
 <img alt="1st person" src="/images/CHILD%20pictures/picture1.gif"><br>
-		<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;padding: 30px;"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
+		<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
  </b></div>
 
 
 </div>
 	<div class="col"> 
 <img alt="2nd person" src="/images/CHILD%20pictures/picture2.gif"><br>
-	<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;padding: 30px;"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
+	<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
  </b></div>
 	
 <br>
@@ -21,7 +21,7 @@ description: ""
 </div>
 	<div class="col"> 
 <img alt="3rd" src="/images/CHILD%20pictures/picture3.gif"><br>
-	<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;padding: 30px;"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
+	<div class="header" style="background-color:grey;color:white;text-align:center;height:141.49px;width:251.56px;"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
 </b></div>
 </div></div><div>
 	
