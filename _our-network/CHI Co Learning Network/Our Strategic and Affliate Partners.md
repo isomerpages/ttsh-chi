@@ -354,7 +354,7 @@ input:checked + label + .accordion-content {
 
 
 
-<h2 id="our-main-plans">CHI Affliate Partners</h2>
+<h2 id="our-main-plans">CHI Affiliates</h2>
 <p style="font-size: 1.25em">WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP 	WRITE UP</p>
 	
 <div>
