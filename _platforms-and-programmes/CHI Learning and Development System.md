@@ -73,7 +73,7 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 <div>
 	<h2>About CHILD</h2>
 
-<h4> LEARN-SHARE-CONNECT</h4>
+<h4> SHARE-LEARN-DO</h4>
 <div class="row">
 <div class="col"> 
 		<div class="header">
