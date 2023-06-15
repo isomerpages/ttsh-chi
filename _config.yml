@@ -2,19 +2,19 @@ title: Centre for Healthcare Innovation
 url: https://www.chi.sg
 favicon: /images/CHI Logo.png
 colors:
-  primary-color: "#a6192e"
-  secondary-color: "#a6192e"
+  primary-color: "#c3404f"
+  secondary-color: "#ba2b38"
   media-colors:
     - title: media-color-one
-      color: "#a6192e"
+      color: "#8c3939"
     - title: media-color-two
-      color: "#dfcb8f"
+      color: "#bd0e23"
     - title: media-color-three
-      color: "#d00282"
+      color: "#a90a17"
     - title: media-color-four
-      color: "#a30372"
+      color: "#8e0d0d"
     - title: media-color-five
-      color: "#f1ab86"
+      color: "#e09999"
 description: >-
   The Centre for Healthcare Innovation Co-Learning Network was launched on the
   21st of October 2016 with 21 partners from diverse yet synergistic expertise,
