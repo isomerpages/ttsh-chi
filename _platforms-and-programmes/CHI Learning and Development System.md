@@ -72,10 +72,11 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 </div></div><div>
 <div>
 	<h2>About CHILD</h2>
+
+<h4> LEARN-SHARE-CONNECT</h4>
 <div class="row">
 <div class="col"> 
 		<div class="header">
-	<h4> LEARN-SHARE-CONNECT</h4>
 <p style="font-size: 1.25em">Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, the<b> CHI Learning &amp; Development (CHILD) System </b> serves as an open repository for <b>healthcare innovation, improvement and productivity</b> project write-ups, best practices and learning experiences.</p>
 			
  </div><br>
