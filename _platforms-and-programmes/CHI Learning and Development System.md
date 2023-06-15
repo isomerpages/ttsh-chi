@@ -66,7 +66,7 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 
 </div>
 	<div class="col"> 
-<img alt="3rd" style="width:150px; height:150px;" src="/images/CHILD%20pictures/connect.svg">
+<img alt="3rd" style="width:150px; height:150px;" src="/images/CHILD%20pictures/dologo.png">
 	<div style="text-align:center;" class="header"><b>Connect with other like-minded innovators to create a bigger impact!
 </b></div>
 </div></div><div>
