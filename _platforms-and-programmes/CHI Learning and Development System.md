@@ -36,7 +36,7 @@ description: ""
 </div>
 	<div class="col"> 
 		<div class="header"><p style="vertical-align:center;text-align: center;"><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!
-<br><br>
+<br><br><br>
 Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
 
  </div>
@@ -48,7 +48,7 @@ Make CHILD your first stop in any innovation journey – search for what has alr
  
 
 <div style="text-align: center;">
-<a href="https://youtu.be/-_j56iZxDIg"><img src="/images/CHILD%20pictures/thumbnail%20w%20play%20button.png" style="width:730px; height:411px;" alt="CHI"></a><br>    </div>
+<a href="https://youtu.be/-_j56iZxDIg"><img src="/images/CHILD%20pictures/thumbnail%20w%20play%20button.png" style="width:584px; height:328.8px;" alt="CHI"></a><br>    </div>
  
 <div class="row">
 <div class="col"> 
