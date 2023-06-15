@@ -74,13 +74,13 @@ input:checked + label + .accordion-content {
 		</div>
 	<input id="title3" type="checkbox"><label for="title3">Management Fellowship Programme (MFP)</label>
 	<div class="accordion-content">
-	<div class="para">MFP started in 2009, aimed to develop and nurture high performing managers and clinicians to take on future healthcare leadership roles. 
+	<div class="para">MFP started in 2009, aimed to develop and nurture high performing managers and clinicians to take on future healthcare leadership roles.  
 </div>
 	</div>
 
 </div>
 
 
-The introduction of HMAP, MEP and MFP establishes a comprehensive developmental framework catering to different levels, promoting a holistic approach of growth and career advancement. The MDPs prepare and empower young, aspiring staff with the relevant knowledge, experience and exposure they require for the prospective roles.  <br><br>
+The introduction of HMAP, MEP and MFP establishes a comprehensive developmental framework catering to different levels, promoting a holistic approach of growth and career advancement. The MDPs prepare and empower young, aspiring staff with the relevant knowledge, experience and exposure they require for the prospective roles.   <br><br>
 MDO garners strong support from respective Programme Advisors, Programme Sponsors, HR partners and MDP Committee comprising of senior leaders from the NHG Institutions and TTSH. This collective leadership is instrumental in facilitating the leadership pipeline planning, transforming aspiring leaders to spearhead changes within healthcare. <br><br>
-MDO is committed to the mission in building a pipeline of future-ready leaders for the organisation, co-creating the future of healthcare.
+MDO is committed to the mission in building a pipeline of future-ready leaders for the organisation, co-creating the future of healthcare.   
