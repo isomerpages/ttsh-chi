@@ -10,7 +10,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 <div class="row">
 <div class="col"> 
 <img alt="2019" src="/images/tf%20heal%202019.jpg"><br>
-		<div class="header"><b>Temasek Foundation Healthcare Executives in Asia Leadership (TF HEAL) Innovation Programme 2019 </b></div>
+		<div class="header"><b>Temasek Foundation Healthcare Executives in Asia Leadership (TF HEAL) Innovation Programme 2019 </b></div><br>
 		<div class="para"><em>08 - 10 October 2019</em>
 </div>
 <br>
