@@ -263,7 +263,7 @@ CHI Faculty
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass</label>
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">Faculty 1</label>
 <div>			 
 <style>
 img {
@@ -283,8 +283,8 @@ p {
 </p>
 
 
- </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass</label>
-    <div><p><strong>17 Feb 2023</strong></p>			 
+ </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">Faculty 2</label>
+    <div>			 
 <style>
 img {
   float: left;
@@ -317,7 +317,7 @@ p {
 </div></li>
 
 
-<li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">12th Masterclass</label>
+<li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">Faculty 3</label>
     <div style="overflow: scroll;max-width: 600px;max-height: 300px;"><p><strong></strong></p>			 
 <style>
 img {
@@ -345,8 +345,8 @@ p {
 
 <hr>
 			
- </div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">11th Masterclass</label>
-    <div><p><strong>23 Oct 2018</strong></p>			 
+ </div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">Faculty 4</label>
+    <div>		 
 <style>
 img {
   float: left;
@@ -367,8 +367,8 @@ Director of the University Health Network, Toronto, Canada</em>
 </p>
 
 <hr>
-		</div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">10th Masterclass</label>
-    <div><p><strong>11 Jul 2018</strong></p>			 
+		</div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">Faculty 5</label>
+    <div>			 
 <style>
 img {
   float: left;
