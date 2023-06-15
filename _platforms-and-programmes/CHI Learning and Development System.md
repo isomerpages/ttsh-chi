@@ -71,7 +71,7 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 </b></div>
 </div></div><div>
 <div>
-<br>
+
 <h2>About CHILD</h2>
 <h4> SHARE-LEARN-DO</h4>
 <div class="row">
