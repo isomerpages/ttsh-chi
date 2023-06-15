@@ -92,7 +92,7 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 	
 <div>
 	<h2>Any Queries?</h2>
-	If you have any queries, please contact the CHILD team at <a href="mailto:child@chi.sg">child@chi.sg</a> <br><br>
+	<p style="font-size: 1.25em">If you have any queries, please contact the CHILD team at <a href="mailto:child@chi.sg">child@chi.sg</a></p> <br><br>
 		
 </div></div></div></div></div>
 
