@@ -318,7 +318,7 @@ p {
 
 
 <li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">12th Masterclass</label>
-    <div><p><strong></strong></p>			 
+    <div style="overflow: scroll;max-width: 600px;max-height: 300px;"><p><strong></strong></p>			 
 <style>
 img {
   float: left;
