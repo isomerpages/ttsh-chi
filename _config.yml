@@ -6,13 +6,13 @@ colors:
   secondary-color: "#ba2b38"
   media-colors:
     - title: media-color-one
-      color: "#8c3939"
+      color: "#b93838"
     - title: media-color-two
       color: "#bd0e23"
     - title: media-color-three
       color: "#a90a17"
     - title: media-color-four
-      color: "#8e0d0d"
+      color: "#ca4343"
     - title: media-color-five
       color: "#bc3f3f"
 description: >-
