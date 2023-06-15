@@ -192,7 +192,7 @@ th, td {
     <tr>
       <th scope="col"><a href="https://www.ntu.edu.sg/medicine"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/lkc%20logo.svg"></button></a><br> </th>
       <th scope="col"><a href="https://www.ntuclearninghub.com/healthcare-academy"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Strategic%20Partners/healthcare%20academy.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.ial.edu.sg/"><button class="button button1"><img alt="CHI" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.ial.edu.sg/"><button class="button button1"><img alt="CHI" style="width:180px; height:180px;" src="/images/Logos/Strategic%20Partners/ial_suss.svg"></button></a><br></th>
     </tr>
   </thead>
   <tbody>
