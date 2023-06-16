@@ -4,47 +4,95 @@ permalink: /permalink/
 description: ""
 ---
 <style>
+.button {
+  background-color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+img {
+  width: 150px;
+  height: 180px;
+}
+
+.active,
+.button:hover {
+  background-color: white;
+}
 
 input {
-	display: none;
+  display: none;
 }
+
 label {
-	display: block;
-	padding: 8px 22px;
-	margin: 0 0 5px 0;
-	cursor: pointor;
-	background: #F0F4F6; *colour*
-	border-radius: 3px;
-	color: #484848; *colour of text*
-	transition: ease .5s;
-	font-size: 1.5em;
+  position: relative;
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #F0F4F6;
+  border-radius: 3px;
+  width: 100%;
+  color: #484848;
+  transition: height 0.4s;
+  font-size: 1.5em;
 }
 
 label:hover {
-	background: #4a96b0;
-	color: ##D1C052;
+  background: #BD2D37;
+  color: #FFF;
 }
 
 .accordion-content {
-	/* background: ##D1C052; */
-	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
-	margin: 0 0 1px 0;
-	border-radius: 3px;
+  padding: 10px 0px 30px 30px;
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+	font-size: 1.25em;
+	line-height: 2.2rem;
+}
+
+input + label::before {
+  content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.1rem;
+  padding: 0;
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.4s ease-in-out;
+}
+
+input:checked + label::before {
+  content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
+  transform: translateY(-50%) rotateZ(180deg);
 }
 
 input + label + .accordion-content {
-	display: none;
+  display: none;
 }
 
 input:checked + label + .accordion-content {
-	display: none;
+  display: block;
 }
 
-input:checked + label + .accordion-content {
-	display: block;
+th, td {
+  border-style: hidden;
 }
-
 </style>
 <!-- End of accordion -->
 
