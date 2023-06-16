@@ -48,7 +48,7 @@ label {
   border-radius: 3px;
   width: 100%;
   color: #484848;
-  transition: ease .5s;
+  transition: ease .4s;
   font-size: 1.5em;
 }
 
