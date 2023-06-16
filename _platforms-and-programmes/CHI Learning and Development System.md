@@ -27,7 +27,7 @@ description: ""
 	
 <div>
   <div class="row">
-    <div class="col"> 
+    <div style="display: flex; align-items: center; justify-content: center;" class="col">
       <img alt="QR" style="width: 315px; height: 315px;" src="/images/CHILD%20pictures/picture4.png">
       <div class="header">
         <b></b>
@@ -40,6 +40,7 @@ description: ""
     </div>
   </div>
 </div>
+
 
 
 
