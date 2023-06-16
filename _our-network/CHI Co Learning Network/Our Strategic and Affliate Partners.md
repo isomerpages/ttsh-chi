@@ -77,11 +77,13 @@ input + label::before {
   right: 10px; /* Adjusted the right positioning of the icon */
   top: 50%; /* Positioned the icon vertically in the middle */
   transform: translateY(-50%);
+	overflow: hidden;
   transition: transform 0.4s ease-in-out;
 }
 
 input:checked + label::before {
   content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
+	overflow: hidden;
   transform: translateY(-50%) rotateZ(180deg);
 }
 
