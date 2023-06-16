@@ -33,9 +33,10 @@ description: ""
         <b></b>
       </div>
     </div>
-    <div style="display: flex; align-items: center; justify-content: center;" class="col">
-      <div style="text-align: center;" class="header">
-        <p><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!<br><br> Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
+    <div style="display: flex; flex-direction: column; justify-content: space-between;" class="col">
+      <div class="header">
+        <p style="text-align: center; align-self: flex-start;"><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!</p>
+        <p style="text-align: center; align-self: flex-end;">Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
       </div>
     </div>
   </div>
