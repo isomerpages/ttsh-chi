@@ -41,11 +41,6 @@ description: ""
   </div>
 </div>
 
-
-
-
-
-
 </div><div></div>
 		
 <h3>What is CHILD &amp; What can CHILD do for you?</h3>
