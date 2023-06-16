@@ -49,7 +49,7 @@ description: ""
 		
 <h3>What is CHILD &amp; What can CHILD do for you?</h3>
 <p style="font-size: 1.25em">CHILD is a <b>central knowledge management (KM) repository </b>for 
- healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas.</b></p><br>
+ healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas.</b></p>
  
 
 <div style="text-align: center;">
