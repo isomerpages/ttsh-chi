@@ -26,7 +26,7 @@ description: ""
 </div></div><div>
 	
 <div>
-  <div style="display: flex; align-items: stretch;" class="row">
+  <div style="display: flex; align-items: center;" class="row">
     <div class="col"> 
       <img alt="QR" style="width: 315px; height: 315px;" src="/images/CHILD%20pictures/picture4.png">
       <div style="display: flex; flex-direction: column; justify-content: space-between;" class="header">
@@ -34,15 +34,16 @@ description: ""
         <div style="flex: 1;"></div>
       </div>
     </div>
-    <div style="display: flex;" class="col">
-      <div style="display: flex; align-items: center; justify-content: center;" class="header">
-        <p style="text-align: justify; margin: 0;">
+    <div style="display: flex; align-items: center;" class="col">
+      <div style="display: flex; justify-content: center; text-align: center;" class="header">
+        <p style="margin: 0;">
           <a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!<br><br> Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.
         </p>
       </div>
     </div>
   </div>
 </div>
+
 
 
 </div><div></div>
