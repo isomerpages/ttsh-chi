@@ -48,7 +48,7 @@ label {
   border-radius: 3px;
   width: 100%;
   color: #484848;
-  transition: ease .5s;
+  transition: ease 0.4s;
   font-size: 1.5em;
 }
 
@@ -77,7 +77,7 @@ input + label::before {
   right: 10px; /* Adjusted the right positioning of the icon */
   top: 50%; /* Positioned the icon vertically in the middle */
   transform: translateY(-50%);
-  transition: transform 0.4s ease-in-out;
+  transition: height 0.4s ease-in-out;
 }
 
 input:checked + label::before {
