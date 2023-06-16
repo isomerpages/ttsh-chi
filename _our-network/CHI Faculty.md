@@ -154,19 +154,19 @@ CHI Faculty
 
 <style>
   ul.jekyllcodex_accordion {
-    position: center;
+    position: relative;
     margin: 1.4rem 0 !important;
     border-bottom: 1px solid #DBDFE4;
     padding-bottom: 0;
-	  font-size: 1.25em;
-	
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25em;
   }
 
   ul.jekyllcodex_accordion li {
     border-top: 1px solid #DBDFE4;
     list-style: none;
     margin: 0 auto 0 0 !important;
-
   }
 
   ul.jekyllcodex_accordion li input {
@@ -178,53 +178,53 @@ CHI Faculty
     cursor: pointer;
     padding: 16px 0;
     margin: 0;
-    font-size: 18px;
-    color: #000000;
+    font-size: 1.25em;
     margin-right: 41px;
-	  font-size: 1.25em
-	
+    align-items: center;
+    justify-content: center;
   }
 
   ul.jekyllcodex_accordion li div {
     padding: 0;
     height: 0;
     overflow: hidden;
-    transition: height 0.8s ease-in-out;
+    transition: height 0.4s ease-in-out;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label {
+  ul.jekyllcodex_accordion li input:checked + label {
     font-weight: 600;
     margin-right: 41px;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label+div {
+  ul.jekyllcodex_accordion li input:checked + label + div {
     display: block;
     height: auto;
     padding: 0;
     overflow: visible;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label+div p {
+  ul.jekyllcodex_accordion li input:checked + label + div p {
     margin-bottom: 24px;
     margin-right: 41px;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label+div p:where(ul.jekyllcodex_accordion li input:checked+label+div p a) {
+  ul.jekyllcodex_accordion li input:checked + label + div p:where(ul.jekyllcodex_accordion li input:checked + label + div p a) {
     margin: 32px 0;
   }
 
   ul.jekyllcodex_accordion li label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
-    color: #A6192E;
     font-weight: 400;
-    font-size: 1.25em
+    font-size: 1.25em;
     line-height: 1.1rem;
     padding: 0;
     position: absolute;
     right: 0.5rem;
+    color: #A6192E;
+    transition: transform 0.4s ease-in-out;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label::before {
+  ul.jekyllcodex_accordion li input:checked + label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
     transform: rotateZ(180deg);
     color: #A6192E;
@@ -241,23 +241,9 @@ CHI Faculty
   }
 
   ul.jekyllcodex_accordion li:hover label {
-      color: #A6192E;
+    color: #A6192E;
   }
-  img {
-  float: left;
-	vertical-align: middle;
-}
-  p {
-	overflow: auto;
-  max-width: 500px;
-  max-height: 300px;
-}
-	.scroll{
-	overflow: scroll;
-  max-width: 300px;
-  max-height: 200px;
-}
-  </style>
+</style>
 
 
 <ul class="jekyllcodex_accordion">
