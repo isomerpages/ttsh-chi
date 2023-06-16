@@ -27,9 +27,9 @@ description: ""
 	
 <div>
   <div style="display: flex; justify-content: center;" class="row">
-    <div style="display: flex; align-items: center;" class="col">
-      <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-        <img alt="QR" style="width: 282px; height: 282px;" src="/images/CHILD%20pictures/picture4.png">
+    <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
+      <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
+        <img alt="QR" style="width: 282px; height: 282px;margin-left: auto;margin-right: auto;" src="/images/CHILD%20pictures/picture4.png">
         <div class="header">
           <b></b>
         </div>
