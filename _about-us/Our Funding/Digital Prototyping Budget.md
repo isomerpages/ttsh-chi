@@ -43,10 +43,7 @@ DPB is managed and administered by the<a href="/about-us/our-offices/chi-dsho/" 
   overflow: hidden;
 }
 
-img {
-  width: 150px;
-  height: 180px;
-}
+
 
 .active,
 .button:hover {
