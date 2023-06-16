@@ -48,7 +48,7 @@ label {
   border-radius: 3px;
   width: 100%;
   color: #484848;
-  transition: ease 0.4s;
+  transition: height 0.4s;
   font-size: 1.5em;
 }
 
@@ -63,10 +63,6 @@ label:hover {
   border-radius: 3px;
 }
 
-input + label {
-  padding-right: 30px; /* Added padding to accommodate the icon */
-}
-
 input + label::before {
   content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
   font-weight: 400;
@@ -74,10 +70,10 @@ input + label::before {
   line-height: 1.1rem;
   padding: 0;
   position: absolute;
-  right: 10px; /* Adjusted the right positioning of the icon */
-  top: 50%; /* Positioned the icon vertically in the middle */
+  right: 0.5rem;
+  top: 50%;
   transform: translateY(-50%);
-  transition: height 0.4s ease-in-out;
+  transition: transform 0.4s ease-in-out;
 }
 
 input:checked + label::before {
@@ -97,6 +93,8 @@ th, td {
   border-style: hidden;
 }
 </style>
+
+
 
 
 
