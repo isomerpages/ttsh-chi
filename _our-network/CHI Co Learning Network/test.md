@@ -84,15 +84,22 @@ label:hover {
 
 input + label:before {
 	content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
+	font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.1rem;
+  padding: 0;
 	position: absolute;
-	top: 50%;
-	right: 10px;
+  right: 0.5rem;
 	transform: translateY(-50%);
+	 transition: height 0.4s ease-in-out;
 }
 
 input:checked + label:before {
 	content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
     transform: rotateZ(180deg);
+	 margin-bottom: 24px;
+   margin-right: 41px;
+	 transition: height 0.4s ease-in-out;
 }
 
 input + label + .accordion-content {
