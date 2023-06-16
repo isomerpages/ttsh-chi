@@ -29,7 +29,7 @@ description: ""
   <div style="display: flex; justify-content: center;" class="row">
     <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
       <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
-        <img alt="QR" style="width: 300px; height: 300px;margin-left: auto;margin-right: auto;" src="/images/CHILD%20pictures/picture4.png">
+        <img alt="QR" style="width: 350px; height: 350px;margin-left: auto;margin-right: auto;" src="/images/CHILD%20pictures/picture4.png">
         <div class="header">
           <b></b>
         </div>
