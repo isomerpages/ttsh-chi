@@ -35,12 +35,12 @@ th:nth-child(odd),td:nth-child(odd) {
 </p><li>	Building leadership in healthcare innovation</li>
 <li>	Workforce transformation, through:</li>
 	<p></p>
-	<ul style="padding-left: 20px;"><li> Care redesign (clinical / operational processes and models)<br>
+	<ul style="padding-left: 20px;"><li> Care Redesign (clinical / operational processes and models)<br>
 </li>
-		<li>Use of automation / IT / robotics / products / devices</li>
+		<li>Use of automation / IT / Robotics / Products / Devices</li>
 
 <li>Job redesign</li></ul>
-<li>	Use of different pedagogies for training and transforming our workforce.<br></li>
+<li>	Use of different pedagogies for Training and Transforming our Workforce.<br></li>
 
 <p></p><p style="font-size: 1.25em">NTF HIP provides funding through five tracks which support the strategic thrusts of CHI.</p>
 
