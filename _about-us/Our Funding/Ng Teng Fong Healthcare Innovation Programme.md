@@ -108,6 +108,7 @@ label:hover {
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 	font-size: 1.25em;
+	line-height: 2.2rem;
 }
 
 input + label + .accordion-content {
