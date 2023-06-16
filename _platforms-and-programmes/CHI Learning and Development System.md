@@ -26,21 +26,23 @@ description: ""
 </div></div><div>
 	
 <div>
-	<div class="row">
-<div class="col"> 
-<img alt="QR" style="width:315px; height:315px;" src="/images/CHILD%20pictures/picture4.png">
-		<div class="header"><b>
- </b></div>
-
-
+  <div class="row">
+    <div class="col"> 
+      <img alt="QR" style="width: 315px; height: 315px;" src="/images/CHILD%20pictures/picture4.png">
+      <div class="header">
+        <b></b>
+      </div>
+    </div>
+    <div class="col">
+      <div style="display: flex; align-items: center; justify-content: center;" class="header">
+        <p style="text-align: center;"><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!<br><br> Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
+      </div>
+    </div>
+  </div>
 </div>
-	<div class="col"> 
-		<div class="header"><p style="vertical-align:center;text-align: center;"><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!
-<br><br>
-Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
 
- </div>
-		</div></div><div></div></div>
+
+</div><div></div>
 		
 <h3>What is CHILD &amp; What can CHILD do for you?</h3>
 <p style="font-size: 1.25em">CHILD is a <b>central knowledge management (KM) repository </b>for 
@@ -95,7 +97,7 @@ Make CHILD your first stop in any innovation journey – search for what has alr
 	<h2>Any Queries?</h2>
 	<p style="font-size: 1.25em">If you have any queries, please contact the CHILD team at <a href="mailto:child@chi.sg">child@chi.sg</a></p> <br><br>
 		
-</div></div></div></div></div>
+</div></div></div></div>
 
 	
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
