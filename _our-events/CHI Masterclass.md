@@ -15,9 +15,9 @@ description: ""
     margin: 1.4rem 0 !important;
     border-bottom: 1px solid #DBDFE4;
     padding-bottom: 0;
-	 	align-items: center;
+    align-items: center;
     justify-content: center;
-	  font-size: 1.25em;
+    font-size: 1.25em;
   }
 
   ul.jekyllcodex_accordion li {
@@ -38,7 +38,7 @@ description: ""
     font-size: 1.25em;
     color: #a6192e;
     margin-right: 41px;
-	  align-items: center;
+    align-items: center;
     justify-content: center;
   }
 
@@ -47,28 +47,26 @@ description: ""
     height: 0;
     overflow: hidden;
     transition: height 0.4s ease-in-out;
-	
   }
 
-  ul.jekyllcodex_accordion li input:checked+label {
+  ul.jekyllcodex_accordion li input:checked + label {
     font-weight: 600;
     margin-right: 41px;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label+div {
+  ul.jekyllcodex_accordion li input:checked + label + div {
     display: block;
     height: auto;
     padding: 0;
     overflow: visible;
-	
   }
 
-  ul.jekyllcodex_accordion li input:checked+label+div p {
+  ul.jekyllcodex_accordion li input:checked + label + div p {
     margin-bottom: 24px;
     margin-right: 41px;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label+div p:where(ul.jekyllcodex_accordion li input:checked+label+div p a) {
+  ul.jekyllcodex_accordion li input:checked + label + div p:where(ul.jekyllcodex_accordion li input:checked + label + div p a) {
     margin: 32px 0;
   }
 
@@ -80,13 +78,14 @@ description: ""
     padding: 0;
     position: absolute;
     right: 0.5rem;
-	  color: #A6192E;
+    color: #A6192E;
+    transition: transform 0.4s ease-in-out;
   }
 
-  ul.jekyllcodex_accordion li input:checked+label::before {
+  ul.jekyllcodex_accordion li input:checked + label::before {
     content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
     transform: rotateZ(180deg);
-	  color: #A6192E;
+    color: #A6192E;
   }
 
   ul.jekyllcodex_accordion li ul li {
@@ -100,9 +99,11 @@ description: ""
   }
 
   ul.jekyllcodex_accordion li:hover label {
-      color: #A6192E;
+    color: #A6192E;
   }
 </style>
+
+
 
 <ul class="jekyllcodex_accordion">
   
