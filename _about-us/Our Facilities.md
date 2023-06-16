@@ -20,7 +20,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 	<div class="col"> 
 <img alt="CHI Living Lab" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/chill%20lab.gif"><br>
 		<div class="header"><b>CHI Living Lab<br></b></div><br>
-		<div class="para">CHI Living Lab is a makerspace made easily accessible for staff, patients, caregivers and community partners to co-create and prototype ideas. 
+		<div class="para">CHI Living Lab is a collaborative space for staff, patients, caregivers, and community partners through our people-centred approach to co-create and design ideas and products for early-stage testing, improvement and innovation in care delivery. 
 </div>
 <br>
 
@@ -53,7 +53,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 	<div class="col"> 
 <img alt="Innospace" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innospace.jpg"><br>
 	<div class="header"><b>Innospace</b></div><br>
-	<div class="para">Innospace encourages staff to try out different configuration of medical spaces and design the most optimal space for clinical treatments.
+	<div class="para">InnoSpace encourages staff to make use of wall partitions to try out different configurations of spaces and design the most optimal space to provide patient-centred care.
 </div>
 <br></div></div>
 
