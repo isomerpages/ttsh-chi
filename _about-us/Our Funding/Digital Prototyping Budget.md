@@ -4,7 +4,7 @@ permalink: /about-us/our-funding/dpb/
 description: ""
 third_nav_title: Our Funding
 ---
-<h3>About the Digital Prototyping Budget </h3>
+<h2>About the Digital Prototyping Budget </h2>
 The Digital Prototyping Budget (DPB) is a seed fund set up to encourage our staff to ideate and develop meaningful digital innovation projects in an agile manner before we adopt or embed them into our roadmaps to scale.
 
 DPB provides seed funding to:<br>
