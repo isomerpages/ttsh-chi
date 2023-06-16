@@ -21,7 +21,7 @@ The technologies we are focusing on are:
 <li>Operational Tech &amp; Robotics</li>
 </ol>
 
-DPB is managed and administered by the<a href="/about-us/our-offices/chi-dsho/" target="_blank"> <b><u>Digital and Smart Health Office</u></b></a>  for use in the following project categories: Proof of Concept (POC) and/or Proof of Value (POV) 
+DPB is managed and administered by the<a href="/about-us/our-offices/chi-dsho/" target="_blank"> Digital and Smart Health Office</a>  for use in the following project categories: Proof of Concept (POC) and/or Proof of Value (POV).
 
 <style>
 .button {
