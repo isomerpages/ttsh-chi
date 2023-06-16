@@ -74,7 +74,7 @@ label:hover {
   padding: 10px 0px 30px 30px;
   margin: 0 0 1px 0;
   border-radius: 3px;
-		font-size: 1.25em;
+	font-size: 1.25em;
 	line-height: 2.2rem;
 }
 
