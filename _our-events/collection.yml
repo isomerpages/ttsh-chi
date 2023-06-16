@@ -2,7 +2,6 @@ collections:
   our-events:
     output: true
     order:
-      - Test.md
       - CHI Conference/.keep
       - CHI Conference/CHI Conference (CHI INNOVATE).md
       - CHI Conference/Past CHI Innovate Conferences.md
