@@ -37,7 +37,7 @@ description: ""
     </div>
    <div class="col">
       <div style="display: flex; align-items: center; justify-content: center;" class="header">
-        <p style="text-align: center; padding: 10px 0;"><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!<br><br> Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
+        <p style="text-align: center; padding: 30px 0;"><a href="www.child.chi.sg">CHILD</a> has already collected <u><b>over 1,000</b></u> healthcare innovation projects and solutions from across Singapore!<br><br> Make CHILD your first stop in any innovation journey – search for what has already been done, and connect with who did it.</p>
       </div>
     </div>
   </div>
