@@ -6,115 +6,99 @@ third_nav_title: CHI Co Learning Network
 ---
 <style>
 .button {
-	background-color: white;
-	cursor: pointer;
-	padding: 5px;
-	width: 100%;
-	border: none;
-	text-align: left;
-	outline: none;
-	font-size: 20px;
-	transition: 0.4s;
+  background-color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
 }
 
 .panel {
-	padding: 0 18px;
-	display: none;
-	background-color: white;
-	overflow: hidden;
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
 }
 
 img {
-	width: 150px;
-	height: 180px;
-}
-
-.button {
-	background-color: white;
-	cursor: pointer;
-	padding: 5px;
-	width: 100%;
-	border: none;
-	text-align: left;
-	outline: none;
-	font-size: 20px;
-	transition: 0.4s;
+  width: 150px;
+  height: 180px;
 }
 
 .active,
 .button:hover {
-	background-color: white;
-}
-
-.panel {
-	padding: 0 18px;
-	display: none;
-	background-color: white;
-	overflow: hidden;
+  background-color: white;
 }
 
 input {
-	display: none;
+  display: none;
 }
 
 label {
-	position: relative;
-	display: block;
-	padding: 8px 22px;
-	margin: 0 0 5px 0;
-	cursor: pointer;
-	background: #F0F4F6;
-	border-radius: 3px;
-	width: 100%;
-	color: #484848;
-	transition: ease .5s;
-	font-size: 1.5em;
+  position: relative;
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #F0F4F6;
+  border-radius: 3px;
+  width: 100%;
+  color: #484848;
+  transition: ease .5s;
+  font-size: 1.5em;
 }
 
 label:hover {
-	background: #BD2D37;
-	color: #FFF;
+  background: #BD2D37;
+  color: #FFF;
 }
 
 .accordion-content {
-	padding: 10px 0px 30px 30px;
-	margin: 0 0 1px 0;
-	border-radius: 3px;
+  padding: 10px 0px 30px 30px;
+  margin: 0 0 1px 0;
+  border-radius: 3px;
 }
 
-input + label:before {
-	content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
-	font-weight: 400;
+input + label {
+  padding-right: 30px; /* Added padding to accommodate the icon */
+}
+
+input + label::before {
+  content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
+  font-weight: 400;
   font-size: 1.25em;
   line-height: 1.1rem;
   padding: 0;
-	position: absolute;
-  right: 0.5rem;
-	transform: translateY(-50%);
-	 transition: height 0.4s ease-in-out;
+  position: absolute;
+  right: 10px; /* Adjusted the right positioning of the icon */
+  top: 50%; /* Positioned the icon vertically in the middle */
+  transform: translateY(-50%);
+  transition: transform 0.4s ease-in-out;
 }
 
-input:checked + label:before {
-	content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
-    transform: rotateZ(180deg);
-	 margin-bottom: 24px;
-   margin-right: 41px;
-	 transition: height 0.4s ease-in-out;
+input:checked + label::before {
+  content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
+  transform: translateY(-50%) rotateZ(180deg);
 }
 
 input + label + .accordion-content {
-	display: none;
+  display: none;
 }
 
 input:checked + label + .accordion-content {
-	display: block;
+  display: block;
 }
 
-th,
-td {
-	border-style: hidden;
+th, td {
+  border-style: hidden;
 }
 </style>
+
+
 
 
 
