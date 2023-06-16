@@ -5,7 +5,6 @@ description: ""
 ---
 # Other Leadership Programmes
 
-The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.
 
 <div class="row">
 <div class="col"> 
