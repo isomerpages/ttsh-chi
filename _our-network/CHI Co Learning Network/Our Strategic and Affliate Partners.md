@@ -24,8 +24,8 @@ third_nav_title: CHI Co Learning Network
 }
 
 img {
-  width: 150px;
-  height: 180px;
+  width: 100%; /* Set the image width to 100% to fill the container */
+  height: auto; /* Allow the height to adjust automatically */
 }
 
 .active,
@@ -98,6 +98,7 @@ th, td {
   border-style: hidden;
 }
 </style>
+
 <!-- End of accordion -->
 
 <div class="container">
