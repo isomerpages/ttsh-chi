@@ -14,6 +14,8 @@ third_nav_title: CHI Co Learning Network
   outline: none;
   font-size: 20px;
   transition: 0.4s;
+  display: flex; /* Added display flex */
+  align-items: center; /* Center align the content vertically */
 }
 
 .panel {
@@ -24,8 +26,9 @@ third_nav_title: CHI Co Learning Network
 }
 
 img {
-  width: 150px;
-  height: 180px;
+  width: 100%;
+  height: 100%; /* Set the height to 100% to fill the container */
+  object-fit: cover; /* Ensure the image fills the space without distortion */
 }
 
 .active,
@@ -76,13 +79,13 @@ input + label::before {
   right: 10px; /* Adjusted the right positioning of the icon */
   top: 50%; /* Positioned the icon vertically in the middle */
   transform: translateY(-50%);
-	overflow: hidden;
+  overflow: hidden;
   transition: transform 0.4s ease-in-out;
 }
 
 input:checked + label::before {
   content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
-	overflow: hidden;
+  overflow: hidden;
   transform: translateY(-50%) rotateZ(180deg);
 }
 
