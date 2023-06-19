@@ -8,7 +8,6 @@ third_nav_title: CHI Co Learning Network
 .button {
   background-color: white;
   cursor: pointer;
-  padding: 5px;
   width: 100%;
   border: none;
   text-align: left;
