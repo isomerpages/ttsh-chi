@@ -1,5 +1,5 @@
 ---
-title: Our Strategic and Affliate Partners
+title: Our Strategic and Affliate Partners (DELETE)
 permalink: /our-network/strategicandaffliates/
 description: ""
 third_nav_title: CHI Co Learning Network
