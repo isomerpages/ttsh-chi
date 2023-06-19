@@ -11,7 +11,7 @@ The annual CHI conferences aim to encourage thought leadership by bringing toget
 
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" src="/images/innovate%202022%20(right).png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2023" style="width:251.6px;height:128px;" src="/images/innovate%202022%20(right).png"></a><br>
 		<div class="header"><b>CHI INNOVATE 2022 </b></div>Centre for Healthcare Innovation
 		<div class="para"><em>18 April 2022 – 4 November 2022</em><br><br>
 Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a series of 4 events promises to be even more engaging and agile to get you into the conversation on innovation, and how to make your innovation impactful! 
@@ -22,7 +22,7 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2021" src="/images/innovate%20(right).jpg"></a>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2021" style="width:251.6px;height:128px;" src="/images/innovate%20(right).jpg"></a>
 		<br>
 	<div class="header"><b>CHI INNOVATE 2021</b></div>Virtual Sessions
 	<div class="para"><em>23 August 2021 - 02 December 2021</em>
@@ -33,7 +33,7 @@ Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a serie
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" src="/images/Logos/2020_banner-right.jpg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2020" style="width:251.6px;height:128px;" src="/images/Logos/2020_banner-right.jpg"></a><br>
 	<div class="header"><b>CHI INNOVATE 2020</b></div>Virtual Sessions
 	<div class="para"><em>29 - 30 July 2020</em>
 <br><br>​Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", CHI INNOVATE 2020’s webinar series on 29-30 July featured 19 speakers from across industries and countries.<br>
@@ -43,7 +43,7 @@ View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VO
 
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2019" src="/images/chi%20innovate%20badge%20website.png"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="CHI Innovate 2019" style="width:251.6px;height:128px;" src="/images/chi%20innovate%20badge%20website.png"></a><br>
 		<div class="header"><b>CHI INNOVATE 2019 </b></div>Centre for Healthcare Innovation
 		<div class="para"><em>09-10 May 2019</em><br><br>Themed "Change Our Future!", CHI INNOVATE 2019 focused on co-creating an innovative, transformative and productive healthcare workforce of the future. The conference featured four pillars to engage and inspire the audience to change the way we work (InnoWork), collaborate (InnoConnect), train (InnoLearn) and lead (InnoLead). <br>View event highlights 
  <a href="https://chiinnovate2023.klobbi.com/">here!</a>
@@ -52,7 +52,7 @@ View the webinar series <a href="https://www.youtube.com/playlist?list=PLTrhD5VO
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="Fh 2017" src="/images/events_conference1.jpg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="Fh 2017" style="width:251.6px;height:128px;" src="/images/events_conference1.jpg"></a><br>
 	<div class="header"><b>FutureHealth 2017</b></div>Lee Kong Chian School of Medicine
 	<div class="para"><em>08 - 10 November 2017</em><br><br>
 Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School of Medicine and NTU Institute for Health Technologies, FutureHealth 2017 is a premier conference that focuses on healthcare transformation through new technologies and workforce innovations.
@@ -61,7 +61,7 @@ Jointly organised by the Centre for Healthcare Innovation, Lee Kong Chian School
 
 </div>
 	<div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="nsph2016" src="/images/events_conference2.jpg"></a><br>
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="nsph2016" style="width:251.6px;height:128px;" src="/images/events_conference2.jpg"></a><br>
 	<div class="header"><b>National Seminar on Productivity in Healthcare (NSPH) 2016</b></div>
 	<div class="para"><em>20 - 28 October 2016</em><br><br>
 The inaugural CHI Conference 2016 was held in conjunction the National Seminar on Productivity in Healthcare (NSPH), which is a biennial national event that aims to promote a culture of productivity and innovation in the healthcare and community care sector. The theme of NSPH 2016 was “Driving Value in Healthcare”. 
