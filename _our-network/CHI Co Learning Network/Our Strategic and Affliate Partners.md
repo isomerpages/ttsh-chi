@@ -105,7 +105,7 @@ th, td {
 
 
 
-<h2 id="our-main-plans">CHI Partners</h2>
+<h2 id="our-main-plans">Our Strategic Partners</h2>
 <p style="font-size: 1.25em">The CHI Co-Learning Network comprises of 38 local and international like-minded innovation units across a multitude of industries. Bringing with them diverse yet synergistic expertise, partners in the Co-Learning network come together to establish an open community for co-learning and co-creating best practices in healthcare.</p>
 	
 <div>
@@ -320,7 +320,7 @@ input:checked + label + .accordion-content {
 
 
 
-<h2 id="our-main-plans">CHI Affiliates</h2>
+<h2 id="our-main-plans">Our Affiliates</h2>
 <p style="font-size: 1.25em"></p>
 	
 <div>
