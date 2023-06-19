@@ -152,10 +152,6 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
   overflow: hidden;
 }
 
-img {
-  width: 150px;
-  height: 180px;
-}
 
 .active,
 .button:hover {
