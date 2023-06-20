@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Offices
 ---
 <h2>Organisational Development</h2>
-<h3>Building Organisation Health to Achieve Organisation Excellence</h3>
+<h4><em>Building Organisation Health to Achieve Organisation Excellence</em></h4>
 
 Organisational Development (OD) in Tan Tock Seng Hospital (TTSH) builds organisation health for organisation excellence –and focuses on building “Better People to deliver Better Care”, empowering “Better Communities towards Better Health and Better Value”.    <br><br>
 
