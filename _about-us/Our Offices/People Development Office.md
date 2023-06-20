@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Our Offices
 ---
 <h2>People Development Office</h2>
+<h4><em>Co-Learn, Transform, Create a Resilient Workforce</em></h4>
 
+The People Development team plays a crucial role in transforming the healthcare workforce in preparation for tomorrow’s challenges.
+<br><br>
+The team drives workforce transformation for Tan Tock Seng Hospital and Central Health through the yearly “Learning Needs Analysis” exercise, which caters to the business needs of the various healthcare family groups, as well as the specific needs and aspirations of our staff. This is supported by the curation and administration of a comprehensive suite of both in-house and external programmes, that have been specially designed by domain experts. 
+<br><br>
+As believers of colearning and sharing, the team manages the facilities of the Ng Teng Fong Centre for Healthcare Innovation, a premier MICE venue to support training, conferences and events.
 
-The People Development team plays a crucial role in the Workforce Transformation of TTSH and Central Health.
-<br><br>
-We drive capability development through the yearly Learning Needs Analysis exercise, which caters to the business needs of the various family groups and also the specific needs and aspirations of our staff. This is supported by the delivery and the administration of a comprehensive suite of both in-house and external programmes. We also work with external partners in the delivery and design of programmes.
-<br><br>
-Capability development also comes in the form of scholarships and leadership programs which the PD team administers. We run the CHI signature programs which comprises of the CHI Healthcare Advanced Management Programme (CHAMP) and Fellowship. These bespoke programmes equip the participants with the necessary mindset, skills and tools to drive clinical innovation and digital transformation. For the larger population, we foster common values, language and culture through our induction and onboarding programs for new staff.
-<br><br>
-The CHI building is a premier MICE venue to support training, conferences and events, which the People Development manages.
