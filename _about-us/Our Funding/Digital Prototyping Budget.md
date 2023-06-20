@@ -7,21 +7,17 @@ third_nav_title: Our Funding
 <h2>About the Digital Prototyping Budget </h2>
 The Digital Prototyping Budget (DPB) is a seed fund set up to encourage our staff to ideate and develop meaningful digital innovation projects in an agile manner before we adopt or embed them into our roadmaps to scale.
 
-DPB provides seed funding to:<br>
-*	Start small and agile in creating digital innovations<br>
-*	Allow ideas to flow through rapid prototyping thereby increasing pool of ideas, innovation &amp; projects to drive subsequent derivative technology resulting in a radical change in user's capability or work culture.
-
-The technologies we are focusing on are:
-![](/images/picture1.png)
+Have a problem to solve and an idea of how to test it out? The DPB might be able to support you for proof-of-concept in the following technology focus areas:
 <ol>
 <li>Artificial Intelligence &amp; Analytics (AiDA)</li>
-<li>Digital Services</li>
 <li>Telehealth</li>
 <li>Medical Tech &amp; Robotics</li>
 <li>Operational Tech &amp; Robotics</li>
+<li>Digital Services</li>
+<li>Extended Reality (XR)</li>
 </ol>
 
-DPB is managed and administered by the<a href="/about-us/our-offices/chi-dsho/" target="_blank"> Digital and Smart Health Office</a>  for use in the following project categories: Proof of Concept (POC) and/or Proof of Value (POV).
+![](/images/picture1.png)
 
 <style>
 .button {
@@ -118,14 +114,8 @@ th, td {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Eligibility Criteria</label>
 	<div class="accordion-content">
-	<div class="para">All TTSH staff may apply to DPB. Funding will also be applicable to non-staff (e.g. research collaborator, community partners, patients, caregivers, volunteers, students) if the fund recipient is part of a larger umbrella TTSH programme where a TTSH staff is the Project Owner / Principal Investigator.<br><br>
-Project owner who is looking to test out any of the following technologies that can be adopted into SIPs when its proof-of-concept results in a working prototype/workflow, or when its proof of value results in a validated prototype/workflow. The technologies we are focusing on are:<br><br>
-1.	Artificial Intelligence &amp; Analytics (AiDA)<br>
-2.	Digital Services<br>
-3.	Telehealth<br>
-4.	Medical Tech &amp; Robotics<br>
-5.	Operational Tech &amp; Robotics
-
+	<div class="para">All TTSH staff may apply to DPB. Funding will also be applicable to non-staff (e.g. research collaborator, community partners, patients, caregivers, volunteers, students) if the fund recipient is part of a larger umbrella TTSH programme where a TTSH staff is the Project Owner / Principal Investigator.<br>
+DPB is managed and administered by the <a href="/about-us/our-offices/chi-dsho/" target="_blank">Digital and Smart Health Office</a>, under the review and approval of Digital Innovation Technology (DIT) workgroups.
 </div>
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Contact Us</label>
