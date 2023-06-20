@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Offices
 ---
 <h2>Kaizen Office </h2>
-<h3>Facilitator, Coach, Change Agent</h3>
+<h4><em>Facilitator, Coach, Change Agent</em></h4>
 The Kaizen Office was formed in 2007 to help establish lean methodology for process improvement. This lean movement was required to prepare healthcare for greater demands and complexities in the future, brought about by an aging population. <br><br>
 Overtime, to ensure that our staff are constantly empowered and equipped to deal with complex problems in a VUCA* environment, we have also embraced Design Thinking and Change Management principles to strengthen our approach in facilitating improvement and innovation.<br><br>
 Today, we support healthcare in driving improvement and innovation through facilitating change and capability building.<br><br>
