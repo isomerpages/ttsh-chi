@@ -7,7 +7,7 @@ third_nav_title: Our Offices
 <h2>Digital and Smart Health Office</h2>
 
 The Digital &amp; Smart Health Office (DSHO) works towards incubating digital innovation, and accelerating transformation in healthcare.
-We drive Digital Transformation through the formulation and implementation of the “Digital Transformation Strategy”, and the “Hospital Without Walls” framework. In addition, we also provide services to staff to facilitate innovation, and improve value in our work, such as:<br><br>
+We drive Digital Transformation through the formulation and implementation of the Digital Transformation Strategy, and the Hospital Without Walls framework. In addition, we also provide services to staff to facilitate innovation, and improve value in our work, such as:<br><br>
 *	Funding of digital prototypes <br>
 *	Design consultancy and digital prototyping service<br>
 *	Robotic Process Automation (RPA) consulting &amp; development<br>
