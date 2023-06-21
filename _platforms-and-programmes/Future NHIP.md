@@ -84,7 +84,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <div>
 	<input id="title1" type="checkbox"><label for="title1"><h3>Announcements</h3></label>
 	<div class="accordion-content">
-	  <input id="title2" type="checkbox"><label for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
+	  <input style="font-size: 1.25em;" id="title2" type="checkbox"><label style="font-size: 1.25em;" for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
 	<div class="accordion-content">
 	<div class="para"><table class="table">
   <thead>
@@ -104,7 +104,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	</div>
 	<div>
-	<input id="title3" type="checkbox"><label for="title3">AUTOMATION, IT &amp; ROBOTICS INNOVATION – Featured Posters </label>
+	<input id="title3" type="checkbox"><label style="font-size: 1.25em;" for="title3">AUTOMATION, IT &amp; ROBOTICS INNOVATION – Featured Posters </label>
 	<div class="accordion-content">
 	<div class="para"><table class="table">
   <thead>
@@ -124,19 +124,19 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	</div>
 	<div>
-	<input id="title4" type="checkbox"><label for="title4">WORKFORCE TRANSFORMATION – Featured Posters </label>
+	<input id="title4" type="checkbox"><label style="font-size: 1.25em;" for="title4">WORKFORCE TRANSFORMATION – Featured Posters </label>
 	<div class="accordion-content">
 	<div class="para"><table class="table">
   <thead>
     <tr>
-      <th style="color: white; text-align:center;" scope="col">Project Title </th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
+      <th style="color: white; text-align:center;font-size: 1.25em;" scope="col">Project Title </th>
+      <th style="color: white; background-color: grey; text\-align:center;font-size: 1.25em;" scope="col">Project Title </th>
       </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="color: white; text-align:center;" scope="row">Text</td>
-			<td style="color: white; text-align:center;">Text</td>
+      <td style="color: white; text-align:center;font-size: 1.25em;" scope="row">Text</td>
+			<td style="color: white; text-align:center;font-size: 1.25em;">Text</td>
     </tr>
    
   </tbody>
@@ -209,6 +209,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
   text-align: left;
   outline: none;
   transition: 0.4s;
+	font-size: 1.25em;
 }
 
 .panel {
@@ -252,7 +253,6 @@ label:hover {
   margin: 0 0 1px 0;
   border-radius: 3px;
 	font-size: 1.25em;
-	line-height: 2.2rem;
 }
 
 input + label::before {
