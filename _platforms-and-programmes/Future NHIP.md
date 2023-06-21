@@ -224,19 +224,61 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 	  <input id="title2" type="checkbox"><label for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
 	<div class="accordion-content">
-	<div class="para">This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. 
+	<div class="para"><table class="table">
+  <thead>
+    <tr>
+      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: white; text-align:center;" scope="row">Text</td>
+			<td style="color: white; text-align:center;">Text</td>
+    </tr>
+   
+  </tbody>
+</table>
 </div>
 	</div>
 	<div>
 	<input id="title3" type="checkbox"><label for="title3">AUTOMATION, IT &amp; ROBOTICS INNOVATION – Featured Posters </label>
 	<div class="accordion-content">
-	<div class="para">If you have any queries, please contact the National HIP Secretariat at <a href="mailto:nhip@chi.sg">nhip@chi.sg</a> 
+	<div class="para"><table class="table">
+  <thead>
+    <tr>
+      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: white; text-align:center;" scope="row">Text</td>
+			<td style="color: white; text-align:center;">Text</td>
+    </tr>
+   
+  </tbody>
+</table> 
 </div>
 	</div>
 	<div>
 	<input id="title4" type="checkbox"><label for="title4">WORKFORCE TRANSFORMATION – Featured Posters </label>
 	<div class="accordion-content">
-	<div class="para">If you have any queries, please contact the National HIP Secretariat at <a href="mailto:nhip@chi.sg">nhip@chi.sg</a> 
+	<div class="para"><table class="table">
+  <thead>
+    <tr>
+      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: white; text-align:center;" scope="row">Text</td>
+			<td style="color: white; text-align:center;">Text</td>
+    </tr>
+   
+  </tbody>
+</table>
 </div>
 	</div>
 </div></div></div></div>
