@@ -82,7 +82,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <div class="container">
 <br><br>
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
+	<input id="title1" type="checkbox"><label for="title1"><h3>Announcements</h3></label>
 	<div class="accordion-content">
 	  <input id="title2" type="checkbox"><label for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
 	<div class="accordion-content">
@@ -293,7 +293,7 @@ input:checked + label + .accordion-content {
 </div>
 	</div>
 <div>
-	<input id="title5" type="checkbox"><label for="title5">Queries</label>
+	<input id="title6" type="checkbox"><label for="title6">Queries</label>
 	<div class="accordion-content">
 	<div class="para">If you have any queries, please contact the National HIP Secretariat at <a href="mailto:nhip@chi.sg">nhip@chi.sg</a> 
 </div>
