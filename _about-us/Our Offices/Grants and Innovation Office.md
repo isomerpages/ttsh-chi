@@ -117,13 +117,9 @@ th, td {
 	<div class="para">A national Knowledge Management (KM) solution funded by MOH to provide a central repository for healthcare institutions, industry players and academia to accelerate the sharing, exchange and co-creation of knowledge, as well as the development of emerging ideas. 
 </div>
 	</div>
-	<input id="title3" type="checkbox"><label for="title3">CHI Start-up Enterprise Link (CHISEL)</label>
+	<input id="title4" type="checkbox"><label for="title4">CHI Start-up Enterprise Link (CHISEL)</label>
 	<div class="accordion-content">
 	<div class="para">CHISEL is an end-to-end framework that converges healthcare needs and solutions to leapfrog the transition from market-ready status, to fit-for-mainstream use.<br><br>
 Within the community, CHISEL bridges the health x social care ecosystems to bring about innovations that support digital Communities of Care.
 </div>
 	</div>
-
-
-
-
