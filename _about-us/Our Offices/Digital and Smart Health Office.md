@@ -13,7 +13,7 @@ We drive Digital Transformation through the formulation and implementation of th
 *	Robotic Process Automation (RPA) consulting &amp; development<br>
 
 We work closely with ground staff in Tan Tock Seng Hospital (TTSH) to understand the challenges they face in their daily work, and actively explore potential partnerships with institutes of higher learning, academia and industry to overcome these challenges.<br><br>
-Connect with us at <a href="mailto:dsho@ttsh.com.sg">dsho@ttsh.com.sg</a> for collaboration opportunities. 
+
 
 <h3>Our Work</h3>
 
