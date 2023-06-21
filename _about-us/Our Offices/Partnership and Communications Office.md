@@ -15,4 +15,3 @@ The P&amp;C team will:<br><br>
 *	<b>Convene</b> like-minded innovators in promoting a culture of innovation through thought leadership with a flywheel of co-learning networks. The team frequently organises the sharing and exchange of the latest in healthcare developments, innovative initiatives and workforce transformation at CHI Signature programmes, such as the CHI Masterclass. Rich conversations with thought leaders and innovators are communicated to healthcare professionals and the community via CHI’s social media platforms, online publication PULSE@CHI, and the official podcast, CHI AMPED.<br><br>
 
 Together, we will meet current and future healthcare challenges through innovative and value-driven care delivery to the populations we serve.  <br><br>
-Connect with the team at <a href="mailto:chi@ttsh.com.sg">chi@ttsh.com.sg.</a>
