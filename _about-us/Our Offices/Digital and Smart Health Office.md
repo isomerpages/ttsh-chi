@@ -37,10 +37,6 @@ We work closely with ground staff in Tan Tock Seng Hospital (TTSH) to understand
   overflow: hidden;
 }
 
-img {
-  width: 150px;
-  height: 180px;
-}
 
 .active,
 .button:hover {
