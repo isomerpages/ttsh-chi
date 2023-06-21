@@ -80,7 +80,7 @@ FY21 CHI Fellowship Graduate
 	<div class="col"> 
 <div class="para"><em>“I liked the project clinics and the mentorship sessions as this is an area that a lot of us are still very new in; receiving periodic feedback has helped me to know my areas for improvement.”
 </em>
-</div><br><br>
+</div><br><br><br>
 	<div class="header"><b>Dr Li Zhenghao, Kelvin 
 <br>Associate Consultant, Ophthalmology
 <br>FY22 CHI Fellowship Graduate
