@@ -115,7 +115,11 @@ th, td {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Digital Transformation Strategy  </label>
 	<div class="accordion-content">
-	<div class="para">With guidance from the Digital Transformation Council, DSHO formulated the “Digital Transformation Strategy” which is the strategic mandate for all of TTSH’s digital transformation efforts. Founded on the Innovation Cycle, the strategy comprises of three thrusts: <br><br>
+	<div class="para">
+<img style="width:100%" alt="1" src="/images/slide2.PNG">
+
+		
+With guidance from the Digital Transformation Council, DSHO formulated the “Digital Transformation Strategy” which is the strategic mandate for all of TTSH’s digital transformation efforts. Founded on the Innovation Cycle, the strategy comprises of three thrusts: <br><br>
 
 •<u>Digital Culture</u> aims to cultivate digitally ready and savvy people<br>
 •	<u>Digital Data</u> aims to develop the data strategy for TTSH<br>
@@ -128,7 +132,9 @@ The strategy will contribute to achieving the TTSH and Central Health 2030 missi
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Hospital Without Walls </label>
 	<div class="accordion-content">
-	<div class="para">Hospital without Walls is a framework conceptualised in 2020, to drive digital transformation in TTSH. It leverages on digitalisation to transform and deliver care anytime, anywhere, where care follows the patient. <br><br>
+	<div class="para">
+		<img style="width:100%" alt="1" src="/images/slide1.PNG">
+		Hospital without Walls is a framework conceptualised in 2020, to drive digital transformation in TTSH. It leverages on digitalisation to transform and deliver care anytime, anywhere, where care follows the patient. <br><br>
 The framework encompasses a matrix of Strategic Innovation Programmes (SIP), and Digital Innovation Technologies (DIT), which are instrumental to effect end-to-end transformation in care delivery and user experience. <br><br>
 
 DITs are technology-driven communities of practice with dedicated innovation funding and expertise support. The digital tech areas we deep dive in include (and not limited to) Artificial Intelligence &amp; Data Analytics, Telehealth, MedTech &amp; Robotics, Ops Tech &amp; Robotics, Digital Services, Extended Reality. <br><br>
