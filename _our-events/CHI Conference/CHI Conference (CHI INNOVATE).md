@@ -42,4 +42,4 @@ Find out more
 }
 </style>
 
-<a href="/our-events/past-chi-innovate/"><button class="button button1">Past CHI INNOVATE Conferences</button></a><br>
+<a href="/our-events/past-chi-innovate/"><button class="button button1">Past CHI INNOVATE Conferences</button></a>
