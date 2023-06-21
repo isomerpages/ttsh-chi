@@ -80,17 +80,17 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	
 <div class="container">
-
+<br><br>
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
+	<input id="title1" type="checkbox"><label for="title1"><h3>Announcements</h3></label>
 	<div class="accordion-content">
 	  <input id="title2" type="checkbox"><label for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
 	<div class="accordion-content">
 	<div class="para"><table class="table">
   <thead>
     <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      <th style="color: white; text-align:center;" scope="col">Project Title </th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
       </tr>
   </thead>
   <tbody>
@@ -109,8 +109,8 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="para"><table class="table">
   <thead>
     <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      <th style="color: white; text-align:center;" scope="col">Project Title </th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
       </tr>
   </thead>
   <tbody>
@@ -129,8 +129,8 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="para"><table class="table">
   <thead>
     <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      <th style="color: white; text-align:center;" scope="col">Project Title </th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
       </tr>
   </thead>
   <tbody>
