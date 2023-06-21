@@ -2,6 +2,7 @@ collections:
   platforms-and-programmes:
     output: true
     order:
+      - Future NHIP.md
       - National Healthcare Innovation and Productivity Medals.md
       - CHI Learning and Development System.md
       - CHI Start Up Enterprise Link/.keep
