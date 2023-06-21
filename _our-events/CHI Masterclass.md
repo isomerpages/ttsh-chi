@@ -110,11 +110,8 @@ description: ""
   <!-- New accordion -->
 
   <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">16th Masterclass</label>
-    <div><p><strong>Test Test</strong></p>
-
-<p>test</p>
-
-<p><a class="btn" href="test" target="_blank" rel="noopener">Register Now</a> </p>
+    <div><p><strong>Stay tuned for the upcoming CHI Masterclass.</strong>
+			</p>Join our mailing list to be updated!<p></p>
 
 </div></li></ul>
 
