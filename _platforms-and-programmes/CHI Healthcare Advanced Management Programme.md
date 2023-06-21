@@ -66,7 +66,7 @@ th:nth-child(odd),td:nth-child(odd) {
 
 </div>
 	<div class="col"> 
-<em>“The carefully curated series of lectures offered an insightful perspective into the challenges at the workplace and how we might approach them. I enjoyed the sessions that fostered the interaction and building of ties with colleagues from the other family groups.”</em><br><br><br>
+<em>“The carefully curated series of lectures offered an insightful perspective into the challenges at the workplace and how we might approach them. I enjoyed the sessions that fostered the interaction and building of ties with colleagues from the other family groups.”</em><br><br><br><br>
 	<div class="header"><b>Mr Matthew Loh<br>Director, 
 Human Resource </b></div><br>
 
