@@ -141,7 +141,6 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
   transition: 0.4s;
 }
 
@@ -173,7 +172,7 @@ label {
   width: 100%;
   color: #484848;
   transition: height 0.4s;
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
 label:hover {
