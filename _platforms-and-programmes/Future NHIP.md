@@ -80,7 +80,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div>
 	
 <div class="container">
-
+<br><br>
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
 	<div class="accordion-content">
@@ -89,8 +89,8 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="para"><table class="table">
   <thead>
     <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      <th style="color: white; text-align:center;" scope="col">Project Title </th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
       </tr>
   </thead>
   <tbody>
@@ -109,8 +109,8 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="para"><table class="table">
   <thead>
     <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      <th style="color: white; text-align:center;" scope="col">Project Title </th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
       </tr>
   </thead>
   <tbody>
@@ -129,8 +129,8 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 	<div class="para"><table class="table">
   <thead>
     <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      <th style="color: white; text-align:center;" scope="col">Project Title </th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
       </tr>
   </thead>
   <tbody>
