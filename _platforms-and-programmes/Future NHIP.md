@@ -79,6 +79,73 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </table>
 </div>
 	
+<div class="container">
+
+<div>
+	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
+	<div class="accordion-content">
+	  <input id="title2" type="checkbox"><label for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
+	<div class="accordion-content">
+	<div class="para"><table class="table">
+  <thead>
+    <tr>
+      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: white; text-align:center;" scope="row">Text</td>
+			<td style="color: white; text-align:center;">Text</td>
+    </tr>
+   
+  </tbody>
+</table>
+</div>
+	</div>
+	<div>
+	<input id="title3" type="checkbox"><label for="title3">AUTOMATION, IT &amp; ROBOTICS INNOVATION – Featured Posters </label>
+	<div class="accordion-content">
+	<div class="para"><table class="table">
+  <thead>
+    <tr>
+      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: white; text-align:center;" scope="row">Text</td>
+			<td style="color: white; text-align:center;">Text</td>
+    </tr>
+   
+  </tbody>
+</table> 
+</div>
+	</div>
+	<div>
+	<input id="title4" type="checkbox"><label for="title4">WORKFORCE TRANSFORMATION – Featured Posters </label>
+	<div class="accordion-content">
+	<div class="para"><table class="table">
+  <thead>
+    <tr>
+      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
+      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: white; text-align:center;" scope="row">Text</td>
+			<td style="color: white; text-align:center;">Text</td>
+    </tr>
+   
+  </tbody>
+</table>
+</div>
+	</div>
+</div></div></div></div>
+	
+	
 <h4>OUR WINNERS ACROSS THE YEARS</h4>
 
 <div class="row">
@@ -217,72 +284,14 @@ input:checked + label + .accordion-content {
 </style>
 <!-- End of accordion -->
 
-<div class="container">
 
-<div>
-	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
-	<div class="accordion-content">
-	  <input id="title2" type="checkbox"><label for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
-	<div class="accordion-content">
-	<div class="para"><table class="table">
-  <thead>
-    <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="color: white; text-align:center;" scope="row">Text</td>
-			<td style="color: white; text-align:center;">Text</td>
-    </tr>
-   
-  </tbody>
-</table>
-</div>
-	</div>
-	<div>
-	<input id="title3" type="checkbox"><label for="title3">AUTOMATION, IT &amp; ROBOTICS INNOVATION – Featured Posters </label>
-	<div class="accordion-content">
-	<div class="para"><table class="table">
-  <thead>
-    <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="color: white; text-align:center;" scope="row">Text</td>
-			<td style="color: white; text-align:center;">Text</td>
-    </tr>
-   
-  </tbody>
-</table> 
-</div>
-	</div>
-	<div>
-	<input id="title4" type="checkbox"><label for="title4">WORKFORCE TRANSFORMATION – Featured Posters </label>
-	<div class="accordion-content">
-	<div class="para"><table class="table">
-  <thead>
-    <tr>
-      <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="color: white; text-align:center;" scope="row">Text</td>
-			<td style="color: white; text-align:center;">Text</td>
-    </tr>
-   
-  </tbody>
-</table>
-</div>
-	</div>
-</div></div></div></div>
 	
+<div>
+	<input id="title5" type="checkbox"><label for="title5">Learn More</label>
+	<div class="accordion-content">
+	<div class="para">Head over to the CHI Learning &amp; Development (CHILD) system for the full list of 2023 submissions. For past winning projects &amp; submissions of the National HIP Medals, also check them out on CHILD where we host over 1,000 healthcare innovation projects from across Singapore. 
+</div>
+	</div>
 <div>
 	<input id="title5" type="checkbox"><label for="title5">Queries</label>
 	<div class="accordion-content">
@@ -300,4 +309,4 @@ input:checked + label + .accordion-content {
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div></div></div></div>
+</div></div></div></div></div>
