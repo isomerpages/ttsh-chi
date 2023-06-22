@@ -111,7 +111,7 @@ description: ""
 
   <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">16th Masterclass</label>
     <div><p><strong>Stay tuned for the upcoming CHI Masterclass.</strong>
-			</p>Join our mailing list to be updated!<p></p>
+			</p><a href="https://for.sg/chi-mailinglist">Join our mailing list </a>to be updated!<p></p>
 
 </div></li></ul>
 
