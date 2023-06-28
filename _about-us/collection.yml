@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - CHI in Numbers.md
       - tetsdelete.md
       - Our Purpose & What We Do.md
       - Our Leadership.md
