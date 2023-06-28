@@ -2,12 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - CHI in Numbers.md
       - tetsdelete.md
       - Our Purpose & What We Do.md
       - Our Leadership.md
-      - Our Offices/Management Development Office.md
       - Our Offices/.keep
+      - Our Offices/Management Development Office.md
       - Our Offices/Clinical Research and Innovation Office.md
       - Our Offices/Digital and Smart Health Office.md
       - Our Offices/Grants and Innovation Office.md
@@ -16,3 +15,4 @@ collections:
       - Our Offices/Partnership and Communications Office.md
       - Our Offices/People Development Office.md
       - Our Facilities.md
+      - CHI in Numbers.md
