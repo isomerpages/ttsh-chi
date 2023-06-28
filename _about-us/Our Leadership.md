@@ -22,10 +22,6 @@ Our Leadership
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
-<td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Leadership Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
-</tr>
-	<tr>
 <td style="width: 150px;"><a href="nil"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></a></td>
 <td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Member of CHI Leadership Council<br>Deputy Dean Healthcare Innovation &amp; Vice Director <br>Siriraj Hospital <br><a href="nil" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
@@ -41,9 +37,17 @@ Our Leadership
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
 <td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Leadership Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
+	<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
+<td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Leadership Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
+</tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
 <td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
+</tr>
+<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
+<td><br><strong>Dr Teo YY </strong><br>Member of CHI Leadership Council<br>- <br>-<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 
 
