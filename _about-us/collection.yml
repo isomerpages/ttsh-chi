@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Purpose and What We Do/.keep
       - tetsdelete.md
       - Our Purpose & What We Do.md
       - Our Leadership.md
