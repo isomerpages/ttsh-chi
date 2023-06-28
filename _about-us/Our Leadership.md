@@ -46,8 +46,8 @@ Our Leadership
 <td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
-<td><br><strong>Dr Teo YY </strong><br>Member of CHI Leadership Council<br>- <br>-<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
+<td><br><strong>Prof Teo Yik-Ying </strong><br>Member of CHI Leadership Council<br>Dean of the Saw Swee Hock School of Public Health​<br>National University of Singapore <br><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 
 
