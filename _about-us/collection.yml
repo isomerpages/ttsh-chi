@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our Purpose and What We Do/CHI in Numbers.md
-      - Our Purpose and What We Do/Our Purpose & What We Do.md
       - Our Purpose and What We Do/.keep
+      - Our Purpose and What We Do/Our Purpose & What We Do.md
+      - Our Purpose and What We Do/CHI in Numbers.md
       - tetsdelete.md
       - Our Leadership.md
       - Our Offices/.keep
