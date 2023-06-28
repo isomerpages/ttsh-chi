@@ -79,6 +79,48 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 </div>
 <br>
 
+</div></div>
+<div class="row">
+<div class="col"> 
+<img alt="Kampung Square" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/kampongsq.gif"><br>
+    <div class="header"><b>3D Printing Lab</b></div><br>
+    <div class="para">-
+</div>
+<br>
 
+</div>
+	<div class="col"> 
+<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/learning%20studio%20seminar%20room-s18.jpg"><br>
+    <div class="header"><b>SIMTAC</b></div><br>
+    <div class="para">-
+</div>
+		</div>
+	<div class="col"> 
+<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
+    <div class="header"><b>VR Lab</b></div><br>
+    <div class="para">-
+</div>
+<br>
+</div></div>
+<div class="row">
+<div class="col"> 
+<img alt="Kampung Square" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/kampongsq.gif"><br>
+    <div class="header"><b>Skills Lab</b></div><br>
+    <div class="para">-
+</div>
+<br>
 
+</div>
+	<div class="col"> 
+<br>
+    <div class="header"><b></b></div><br>
+    <div class="para">-
+</div>
+		</div>
+	<div class="col"> 
+<br>
+    <div class="header"><b></b></div><br>
+    <div class="para">
+</div>
+<br>
 </div></div>
