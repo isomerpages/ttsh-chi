@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - tetsdelete.md
       - Our Purpose & What We Do.md
       - Our Leadership.md
       - Our Offices/Management Development Office.md
