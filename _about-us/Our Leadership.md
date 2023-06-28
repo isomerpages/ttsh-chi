@@ -21,18 +21,6 @@ Our Leadership
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
-<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
-<td><strong>Prof Hahrie Han </strong><br>Member of CHI Leadership Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>LinkedIn</small></a><br></td>
-</tr>
-<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
-<td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Leadership Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
-</tr>
-	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
-<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
-</tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
 <td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Leadership Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
@@ -44,6 +32,18 @@ Our Leadership
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
 <td><br><strong>Göran Henriks </strong><br>Member of CHI Leadership Council<br>Senior Strategic Advisor, Region Jonkoping County ​<br>Chief Executive of Learning &amp; Innovation  <br>Qulturum  <br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
+</tr>
+<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
+<td><strong>Prof Hahrie Han </strong><br>Member of CHI Leadership Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>LinkedIn</small></a><br></td>
+</tr>
+<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
+<td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Leadership Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
+</tr>
+<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
+<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 
 
