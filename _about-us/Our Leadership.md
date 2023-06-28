@@ -12,7 +12,7 @@ Our Leadership
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Chairman.png"></a></td>
-<td><strong>Prof Eugene Fidelis <u>Soh</u></strong><br>Chairman<br>CHI Co-Learning Network and CHI Council<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
+<td><strong>Prof Eugene Fidelis Soh</strong><br>Chairman<br>CHI Co-Learning Network and CHI Council<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
 </td></tr>
 </tbody>
 </table>
@@ -23,7 +23,7 @@ Our Leadership
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
-<td><strong>Prof Hahrie  <u>Han </u></strong><br>Member of CHI Leadership Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>Prof Hahrie Han </strong><br>Member of CHI Leadership Council<br>Prof of Political Science, Faculty Director - P3 Research Lab<br>John Hopkins University<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
