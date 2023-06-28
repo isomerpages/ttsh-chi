@@ -82,17 +82,26 @@ Our Leadership
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
-	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
-<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Innovation<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a> </td>
-</tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/siew-mien-chao-2292897"><img alt="andrew1" src="/images/Leaders/siew%20mien-01.png"></a></td>
 <td><strong>Chao Siew Mien</strong><br>Director, Clinical Research &amp; Innovation Office<br><a href="https://www.linkedin.com/in/siew-mien-chao-2292897" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
+<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/yihyng"><img alt="andrew1" src="/images/Leaders/dr%20ng%20yy-01.png"></a></td>
+<td><strong>Dr Ng Yih Yng</strong>
+<br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a> </td>
+</tr>
+	<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
+<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Innovation<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a> </td>
+</tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/wai-ling-ho-41384aaa"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
 <td><strong>Ho Wai Ling </strong><br>Deputy Director, Kaizen Office<br><a href="https://www.linkedin.com/in/wai-ling-ho-41384aaa" target="_blank"><small>LinkedIn</small></a> </td>
+</tr>
+	<tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
+<td><strong>Ronnie Yang </strong><br>Director, People Development &amp; Management Development Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/huey%20bing-01.png"></a></td>
@@ -102,15 +111,8 @@ Our Leadership
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/michelle-lee-754aa96a"><img alt="andrew1" src="/images/Leaders/michelle%20lee-01.png"></a></td>
 <td><strong>Michelle Lee </strong><br>Assistant Director, Partnership &amp; Communications<br><a href="https://www.linkedin.com/in/michelle-lee-754aa96a" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
-<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yihyng"><img alt="andrew1" src="/images/Leaders/dr%20ng%20yy-01.png"></a></td>
-<td><strong>Dr Ng Yih Yng</strong>
-<br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a> </td>
-</tr>
-	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
-<td><strong>Ronnie Yang </strong><br>Director, People Development &amp; Management Development Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a> </td>
-</tr>
+
+
 
 </tbody>
 </table>
