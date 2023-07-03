@@ -82,7 +82,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 <div class="container">
 <br><br>
 <div>
-	<input id="title1" type="checkbox"><label for="title1"><h3>Announcements</h3></label>
+	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
 	<div class="accordion-content">
 	  <input style="font-size: 1.25em;" id="title2" type="checkbox"><label style="font-size: 1.25em;" for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
 	<div class="accordion-content">
