@@ -86,10 +86,13 @@ input:checked + label + .accordion-content {
 }
 
 </style>
-Announcements
+<h2>Announcements</h2>
+
+<h4>CARE &amp; PROCESS REDESIGN – Featured Posters</h4>
+
 <div class="container">
 	<div class="accordion-content">
-	  <input style="font-size: 1.25em;" id="title2" type="checkbox"><label style="font-size: 1.25em;" for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
+	  <input style="font-size: 1.25em;" id="title2" type="checkbox"><label style="font-size: 1.25em;" for="title2">Featured Posters </label>
 	<div class="accordion-content">
 	<div class="para"><table class="table">
   <thead>
@@ -108,8 +111,10 @@ Announcements
 </table>
 </div>
 	</div>
+		
+<h4>AUTOMATION, IT &amp; ROBOTICS INNOVATION</h4>
 	<div>
-	<input id="title3" type="checkbox"><label style="font-size: 1.25em;" for="title3">AUTOMATION, IT &amp; ROBOTICS INNOVATION – Featured Posters </label>
+	<input id="title3" type="checkbox"><label style="font-size: 1.25em;" for="title3"> Featured Posters </label>
 	<div class="accordion-content">
 	<div class="para"><table class="table">
   <thead>
@@ -128,8 +133,9 @@ Announcements
 </table> 
 </div>
 	</div>
+	<h4>	WORKFORCE TRANSFORMATION</h4>
 	<div>
-	<input id="title4" type="checkbox"><label style="font-size: 1.25em;" for="title4">WORKFORCE TRANSFORMATION – Featured Posters </label>
+	<input id="title4" type="checkbox"><label style="font-size: 1.25em;" for="title4"> Featured Posters </label>
 	<div class="accordion-content">
 	<div class="para"><table class="table">
   <thead>
