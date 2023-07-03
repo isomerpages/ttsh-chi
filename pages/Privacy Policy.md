@@ -23,7 +23,7 @@ As a public healthcare institution, we share relevant data and participate in na
  
 Please be assured that if your personal data is collected, used or disclosed for these purposes, we will protect it as required under the PDPA and other relevant legislation such as the Private Hospitals and Medical Clinics Act.
 <br>Please refer to our <a href="https://corp.nhg.com.sg/Documents/NHG%20Personal%20Data%20Protection%20Policy.pdf">NHG Personal Data Protection Policy</a> for further information on our data protection commitment.
-<br>If you have any concern, query or complaint about our personal data protection policies and practices, please contact:<br><br>
+<br>If you have any concern, query or complaint about our personal data protection policies and practices, please contact:<br>
 
 Quality Service Manager<br>
 11 Jalan Tan Tock Seng<br>
