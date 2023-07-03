@@ -43,7 +43,7 @@ th:nth-child(odd),td:nth-child(odd) {
     <tr>
       <td scope="row">Care &amp; Process Redesign​<br>•	Lean in Practice<br> •	Improvement Science<br><br>Collective Leadership<br>•	Know Thy Self
       </td><td>Automation, IT, Robotic Innovation <br> •	Introduction to Automation &amp; IT <br>•	Management of Digital Innovation<br><br>Job Redesign<br>•	Translating Design into Implementation<br>•	Job Instructions / Relations / Method </td>
-      <td>Project Development<br>•	Mentoring by Project Mentor  <br><br>Peer Review <br> Panel Critique   </td>
+      <td>Project Development<br>•	Mentoring by Project Mentor  <br><br>Project Milestone<br>Project Clinic <br> Panel Critique   </td>
     </tr>
    
   </tbody>
