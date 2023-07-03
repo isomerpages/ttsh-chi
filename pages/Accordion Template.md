@@ -3,6 +3,7 @@ title: Accordion Template
 permalink: /permalink/
 description: ""
 ---
+<!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
 <style>
 .button {
   background-color: white;
@@ -90,85 +91,34 @@ input:checked + label + .accordion-content {
   display: block;
 }
 
-th, td {
-  border-style: hidden;
-}
 </style>
-<!-- End of accordion -->
+<!--END OF REQUIRED CODE.\-->
+
+
+<!--ENTIRE ACCORDION CODE-->
 
 <div class="container">
-
-<h1><b>Accordian Table Template</b></h1>
-
-<p><strong>HEader Text </strong><br>  Sample text Sample text Sample text Sample text Sample text Sample text Sample text Sample text Sample textSample textSample text Sample text  .</p>
-	
-<p><strong>Header 2</strong><br>  Sample text Sample text Sample textSample textSample textSample textSample text.</p>
-<p><strong>Header 3</strong><br>  Sample text Sample text Sample text Sample text Sample text Sample text Sample text Sample text.</p>
-
-<h2 id="our-main-plans">Accordian Table Heading Text</h2>
+<!--ONE BOX. Must match the <label> code with the id code -->
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Tab 1</label>
+	<input id="title1" type="checkbox"><label for="title1">	Healthcare Management Associate Programme (HMAP)   </label>
 	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text.</p>
-	</div>
-	<input id="title2" type="checkbox"><label for="title2">Tab 2</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text.</p>
-	</div>
-	<input id="title3" type="checkbox"><label for="title3">Tab 3</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text. Sample text Sample text Sample text Sample text Sample text Sample text Sample text. .</p>
-	</div>
-	<input id="title4" type="checkbox"><label for="title4">Tab 4</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
-	</div>
-	<input id="title5" type="checkbox"><label for="title5">Tab 5</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text..</p>
-	</div>
+	<div class="para">HMAP started in 2009, aimed at grooming graduates with outstanding leadership qualities for a challenging and fulfilling career ahead in the National Healthcare Group (NHG). HMAP represents a collaborative effort with other healthcare institutions within the NHG, cultivating the growth of a collective programme to expand the range of learning and network building opportunities. 
 </div>
-
-	
-	
-<a id="If another Accordian Table is needed"></a>
-
-<h2>If another Accordian Table is needed</h2>
-<div>
-	<input id="title6" type="checkbox"><label for="title6">Title 1 with Picture</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text
-			</p>
-	</div>
-	<input id="title7" type="checkbox"><label for="title7">Title 2</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text.</p>
-	</div>
-	<input id="title8" type="checkbox"><label for="title8">Title 3</label>
-	<div class="accordion-content">
-		<p>Sample text Sample text Sample text Sample text Sample text Sample text Sample text.</p>
-	</div>
 </div>
-
-	
-<a id="If a 3rd Table is needed"></a>
-
-<h2>If a 3rd Table is needed</h2>
-<div>
-	<input id="title9" type="checkbox"><label for="title9">Title 4</label>
+<!--ONE BOX END-->
+<!--2ND BOX-->
+<input id="title2" type="checkbox"><label for="title2">Management Executive Programme (MEP) </label>
 	<div class="accordion-content">
-		<p>Text Text Text.</p>
-	</div>
-	<input id="title10" type="checkbox"><label for="title10">Title 5</label>
+	<div class="para">MEP started in 2012, aimed at building capabilities of high performing executives to take on managerial roles.  
+</div>
+</div>
+<!--2ND BOX END-->
+<!--3RD BOX-->
+<input id="title3" type="checkbox"><label for="title3">Management Fellowship Programme (MFP)</label>
 	<div class="accordion-content">
-		<p>Text Text Text with Paragraph</p>
-		<p>A second Paragraph.</p>
-		<p>And a Third One.</p>
+	<div class="para">MFP started in 2009, aimed to develop and nurture high performing managers and clinicians to take on future healthcare leadership roles.  
+</div>
 	</div>
+<!--3RD BOX END-->
 </div>
-
-
-
-</div>
-
-Therefore for example,
+<!--ACCORDION END--></div>
