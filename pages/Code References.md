@@ -3,6 +3,7 @@ title: Code References
 permalink: /permalink/
 description: ""
 ---
+<!--Style table START. This is used to define what style ur buttons/tables/accordion would look like.-->
 <style>
 .button {
   background-color: #eee;
@@ -28,9 +29,16 @@ description: ""
   overflow: hidden;
 }
 </style>
+<!--style end-->
 
+
+<!--BUTTON START (can replace img with text also)-->
 <a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br>
+<!--BUTTON END-->
 
+
+
+<!--TABLE START-->
 <table class="table">
   <thead bgcolor="white">
     <tr>
@@ -48,9 +56,9 @@ description: ""
    
   </tbody>
 </table>
+<!--TABLE END-->
 
-
-
+<!--TABLE START-->
 <table class="table">
   <thead bgcolor="grey">
     <tr>
@@ -68,9 +76,9 @@ description: ""
    
   </tbody>
 </table>
+<!--TABLE END-->
 
-
-
+<!--TABLE START (No buttons)-->
 <table class="table table-borderless">
   <thead>
     <tr>
@@ -89,7 +97,7 @@ description: ""
   </tbody>
 </table>
 
-
+<!--TABLE END -->
 
 
 
@@ -98,7 +106,6 @@ CHI Co-Learning Network
 
 The **CHI Co-Learning Network** was officially launched on 21 October 2016 with the objective of deepening co-learning and collaboration. Through the network, our partners can collaborate on innovation projects, form communities of practice and exchange knowledge. This will help to drive workforce transformation within and beyond the healthcare industry. The CHI Co-Learning Network comprises of 38 local and international like-minded innovation units across a multitude of industries. Bringing with them diverse yet synergistic expertise, partners in the Co-Learning network come together to establish an open community for co-learning and co-creating best practices in healthcare.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fk06p3q3q4Q" height="315" width="560"></iframe>
 
 <style>
 
@@ -568,6 +575,10 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
+	
+
+<!-- scroll with picture at side( can edit as u want)-->
+	
 <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
@@ -586,3 +597,5 @@ p {
 				Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC<br>
 			Through this session, Patrick highlights the 5Cs of Community Leadership (Care, Connect, Create, Cultivate and Collaborate) and will be sharing hard truths and provide tips on how one can better engage and connect in the community. The session also touches on how we can be more genuine and effective leaders/partners as we roll up our sleeves towards population health and a Healthier SG.
 </p></div></div>
+
+<!--end-->
