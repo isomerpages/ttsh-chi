@@ -426,7 +426,7 @@ input:checked + label + .accordion-content {
      
   </tr></thead><tbody>
   <tr><td scope="row"><a href="https://www.sif.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/singapore%20international.svg"></button></a><br>
-      </td><td><a href="https://www.temasekfoundation.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Affliates/temasek.svg"></button></a><br></td>
+      </td><td><a href="https://www.temasekfoundation.org.sg/"><button class="button button1"><img alt="CHI" style="width:200px; height:230px; padding-top:8%;" src="/images/Logos/Affliates/temasek.svg"></button></a><br></td>
 		      <td><a href=""><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/hd_transparent_picture.png"></button></a><br></td>
  
  
