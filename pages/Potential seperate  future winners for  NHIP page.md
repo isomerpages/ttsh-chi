@@ -87,6 +87,8 @@ input:checked + label + .accordion-content {
 
 </style>
 <h2>Announcements</h2>
+Our 2023 winners for the NHIP award + short writeups 
+
 
 <h4>CARE &amp; PROCESS REDESIGN – Featured Posters</h4>
 
