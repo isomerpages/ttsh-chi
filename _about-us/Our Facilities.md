@@ -9,6 +9,16 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 
 <div class="row">
 <div class="col"> 
+
+<img alt="3dprint" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
+	<div class="header"><b>3D Printing</b></div><br>
+	<div class="para">
+
+</div>
+<br>
+
+</div>
+	<div class="col"> 
 <img alt="Auditorium" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/auditorium.gif"><br>
 	<div class="header"><b>Auditorium</b></div><br>
 	<div class="para">Inspired by the Greek amphitheatre, the 537 – seat auditorium is designed without a stage, and has a tiered, curved seating that allows the audience to see each other, creating an atmosphere of engagement.
@@ -18,94 +28,88 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 
 </div>
 	<div class="col"> 
-<img alt="CHI Living Lab" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/chill%20lab.gif"><br>
-		<div class="header"><b>CHI Living Lab<br></b></div><br>
-		<div class="para">CHI Living Lab is a collaborative space for staff, patients, caregivers, and community partners through our people-centred approach to co-create and design ideas and products for early-stage testing, improvement and innovation in care delivery. 
+<img alt="chrip" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/chill%20lab.gif"><br>
+    <div class="header"><b>CHI Living Lab</b></div><br>
+    <div class="para">CHI Living Lab is a collaborative space for staff, patients, caregivers, and community partners through our people-centred approach to co-create and design ideas and products for early-stage testing, improvement and innovation in care delivery. 
+</div>
+<br>
+
+</div></div>
+
+
+<div class="row">
+<div class="col"> 
+<img alt="Hall" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
+	<div class="header"><b>CHI Reimagination Plaza (CHIRP)</b></div><br>
+	<div class="para">CHIRP is a shared space for reimagining new sustainable models of care. Here, the mission is to tap digitalisation and technologies to create a Hospital without Walls, an ideology for the right and best care to be administered anywhere, anytime.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<img alt="Hall" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/hallchi.jpg"><br>
-		<div class="header"><b>Hall</b></div><br>
-		<div class="para">The three halls are highly versatile. They can be configured to suit different event needs such as retreats, workshops, training, events etc. The halls can also be opened up into one large space.
+<img alt="harvard" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/hallchi.jpg"><br>
+	<div class="header"><b>Hall </b></div><br>
+	<div class="para">The three halls are highly versatile. They can be configured to suit different event needs such as retreats, workshops, training, events etc. The halls can also be opened up into one large space.
 </div>
-<br></div></div>
+<br>
 
-
-<div class="row">
-<div class="col"> 
-<img alt="Harvard Room" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/harvard.jpg"><br>
+</div>
+	<div class="col"> 
+<img alt="Innocan" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/harvard.jpg"><br>
 	<div class="header"><b>Harvard Room</b></div><br>
 	<div class="para">Harvard Room derives its inspiration from seminar rooms in Harvard University. It has tiered horseshoes design with attendees facing a central space for the presenter, which increases interaction
 </div>
-<br>
-
-</div>
-	<div class="col"> 
-<img alt="Innocanvas" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innocanvas.JPG"><br>
-	<div class="header"><b>Innocanvas </b></div><br>
-	<div class="para"> Innocanvas is a living canvas which showcases a range of hospital-based and community-based innovations in TTSH as well as from CHI and Central Health partners.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<img alt="Innospace" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innospace.jpg"><br>
-	<div class="header"><b>Innospace</b></div><br>
-	<div class="para">InnoSpace encourages staff to make use of wall partitions to try out different configurations of spaces and design the most optimal space to provide patient-centred care.
-</div>
 <br></div></div>
 
 <div class="row">
 <div class="col"> 
-<img alt="Kampung Square" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/kampongsq.gif"><br>
-    <div class="header"><b>Kampung Square</b></div><br>
-    <div class="para">Kampung Square is a bustling space that brings people together. It’s designed as a natural extension of the auditorium to encourage continued dialogues.
+<img alt="innospace" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innocanvas.JPG"><br>
+    <div class="header"><b>Innocanvas</b></div><br>
+    <div class="para">Innocanvas is a living canvas which showcases a range of hospital-based and community-based innovations in TTSH as well as from CHI and Central Health partners.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/learning%20studio%20seminar%20room-s18.jpg"><br>
-    <div class="header"><b>Learning Studios</b></div><br>
-    <div class="para">There are Learning Studios built for seminars, workshops and tutorials. It offers a wide variety of configuration ranging from theatre, classroom, cluster, to tutorial layout.
+<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innospace.jpg"><br>
+    <div class="header"><b>Innospace</b></div><br>
+    <div class="para">InnoSpace encourages staff to make use of wall partitions to try out different configurations of spaces and design the most optimal space to provide patient-centred care.
 </div>
 		</div>
 	<div class="col"> 
-<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
-    <div class="header"><b>CHI Reimagination Plaza (CHIRP)</b></div><br>
-    <div class="para">CHIRP is a shared space for reimagining new sustainable models of care. Here, the mission is to tap digitalisation and technologies to create a Hospital without Walls, an ideology for the right and best care to be administered anywhere, anytime.
+<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/kampongsq.gif"><br>
+    <div class="header"><b>Kampung Square</b></div><br>
+    <div class="para">Kampung Square is a bustling space that brings people together. It’s designed as a natural extension of the auditorium to encourage continued dialogues.
 </div>
 <br>
 
 </div></div>
 <div class="row">
 <div class="col"> 
-<img alt="Kampung Square" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/kampongsq.gif"><br>
-    <div class="header"><b>3D Printing Lab</b></div><br>
-    <div class="para">-
+<img alt="Kampung Square" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/learning%20studio%20seminar%20room-s18.jpg"><br>
+    <div class="header"><b>Learning Studios</b></div><br>
+    <div class="para">There are Learning Studios built for seminars, workshops and tutorials. It offers a wide variety of configuration ranging from theatre, classroom, cluster, to tutorial layout.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/learning%20studio%20seminar%20room-s18.jpg"><br>
+<img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
     <div class="header"><b>SIMTAC</b></div><br>
     <div class="para">-
 </div>
 		</div>
 	<div class="col"> 
 <img alt="Learning Studios" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
-    <div class="header"><b>VR Lab</b></div><br>
+    <div class="header"><b>SKills Lab</b></div><br>
     <div class="para">-
 </div>
 <br>
 </div></div>
 <div class="row">
 <div class="col"> 
-<img alt="Kampung Square" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/kampongsq.gif"><br>
-    <div class="header"><b>Skills Lab</b></div><br>
+<img alt="Kampung Square" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
+    <div class="header"><b>VR Lab</b></div><br>
     <div class="para">-
 </div>
 <br>
