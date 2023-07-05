@@ -78,72 +78,57 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
   </tbody>
 </table>
 </div>
+
+<h3>AWARD WINNER CATOGRY</h3>	
+<div class="row">
+<div class="col"> 
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
+		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>Winner<br> org </b></center></div>
+		<div class="para">
+</div>
+
+
+</div>
+	<div class="col"> 
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa"><img alt="2021" style="width:352px; height:182px;" src="/images/Nhip/2021gif.gif"></a>
+	<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>Winner<br> org</b></center></div>
+	<div class="para">
+		</div></div>
+<h3>AWARD WINNER CATOGRY</h3>
+<div class="row">
+<div class="col"> 
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
+		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>Winner<br> org </b></center></div>
+		<div class="para">
+</div>
+
+
+</div>
+	<div class="col"> 
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa"><img alt="2021" style="width:352px; height:182px;" src="/images/Nhip/2021gif.gif"></a>
+	<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>Winner<br> org</b></center></div>
+	<div class="para">
+		</div></div>
+<h3>AWARD WINNER CATOGRY</h3>
+<div class="row">
+<div class="col"> 
+<a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
+		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>Winner<br> org </b></center></div>
+		<div class="para">
+</div>
+
+
+</div>
+	<div class="col"> 
+<a href="https://youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa"><img alt="2021" style="width:352px; height:182px;" src="/images/Nhip/2021gif.gif"></a>
+	<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>Winner<br> org</b></center></div>
+	<div class="para">
+	</div></div></div>	
 	
 <div class="container">
 <br><br>
-<div>
-	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
-	<div class="accordion-content">
-	  <input style="font-size: 1.25em;" id="title2" type="checkbox"><label style="font-size: 1.25em;" for="title2">CARE &amp; PROCESS REDESIGN – Featured Posters </label>
-	<div class="accordion-content">
-	<div class="para"><table class="table">
-  <thead>
-    <tr>
-      <th style="color: white; text-align:center;" scope="col">Project Title </th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="color: white; text-align:center;" scope="row">Text</td>
-			<td style="color: white; text-align:center;">Text</td>
-    </tr>
-   
-  </tbody>
-</table>
-</div>
-	</div>
-	<div>
-	<input id="title3" type="checkbox"><label style="font-size: 1.25em;" for="title3">AUTOMATION, IT &amp; ROBOTICS INNOVATION – Featured Posters </label>
-	<div class="accordion-content">
-	<div class="para"><table class="table">
-  <thead>
-    <tr>
-      <th style="color: white; text-align:center;" scope="col">Project Title </th>
-      <th style="color: white; background-color: grey; text\-align:center;" scope="col">Project Title </th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="color: white; text-align:center;" scope="row">Text</td>
-			<td style="color: white; text-align:center;">Text</td>
-    </tr>
-   
-  </tbody>
-</table> 
-</div>
-	</div>
-	<div>
-	<input id="title4" type="checkbox"><label style="font-size: 1.25em;" for="title4">WORKFORCE TRANSFORMATION – Featured Posters </label>
-	<div class="accordion-content">
-	<div class="para"><table class="table">
-  <thead>
-    <tr>
-      <th style="color: white; text-align:center;font-size: 1.25em;" scope="col">Project Title </th>
-      <th style="color: white; background-color: grey; text\-align:center;font-size: 1.25em;" scope="col">Project Title </th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="color: white; text-align:center;font-size: 1.25em;" scope="row">Text</td>
-			<td style="color: white; text-align:center;font-size: 1.25em;">Text</td>
-    </tr>
-   
-  </tbody>
-</table>
-</div>
-	</div>
-</div></div></div></div>
+
+	
 	
 	
 <h4>OUR WINNERS ACROSS THE YEARS</h4>
@@ -309,4 +294,4 @@ input:checked + label + .accordion-content {
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div></div></div></div></div>
+</div></div></div></div></div></div></div>
