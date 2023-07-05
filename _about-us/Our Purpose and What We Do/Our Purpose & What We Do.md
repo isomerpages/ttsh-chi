@@ -56,6 +56,8 @@ th:nth-child(odd),td:nth-child(odd) {
    
   </tbody>
 </table>
+<h4>Our Contributions</h4>
+
 <img alt="cycle" style="width:378px;" src="/images/chi%20in%20numbers.png"><br>
 
 
