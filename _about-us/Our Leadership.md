@@ -63,7 +63,7 @@ Our Leadership
 <td><br><strong>Dr Ng Yih Yng  </strong><br>Deputy Clinical Director<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/ronnie.png"></a></td>
 <td><br><strong>Ronnie Yang  </strong><br>Deputy Executive Director<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ Our Leadership
 <td><strong>Ho Wai Ling </strong><br>Deputy Director, Kaizen Office<br><a href="https://www.linkedin.com/in/wai-ling-ho-41384aaa" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/ronnie.png"></a></td>
 <td><strong>Ronnie Yang </strong><br>Director, People Development &amp; Management Development Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
