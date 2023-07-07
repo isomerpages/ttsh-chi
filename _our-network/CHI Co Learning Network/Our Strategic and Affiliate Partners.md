@@ -185,7 +185,7 @@ th, td {
   <tbody>
     <tr>
       <td scope="row"><a href="https://www.a-star.edu.sg/sb/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></button></a><br>
-      </td><td><a href="https://www.sthealthcare.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></button></a><br></td>
+      </td>
       <td><a href="https://www.wsg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/workforce%20sg.svg"></button></a><br></td>
     </tr>
    
@@ -209,6 +209,7 @@ th, td {
     <tr>
       <td scope="row"><a href="https://www.philips.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/philips.svg"></button></a><br>
       </td><td><a href="https://www.pwc.com/sg/en/industries/healthcare.html"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/pwcpwcpwc.svg"></button></a><br></td>
+		<td><a href="https://www.sthealthcare.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/st%20healthcare.svg"></button></a><br></td></tr><tr>
       <td><a href="https://www.workplace.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Industry%20Knowledge/workplace.svg"></button></a><br></td>
     </tr>
    
