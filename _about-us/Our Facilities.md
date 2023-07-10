@@ -11,7 +11,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 <div class="col"> 
 
 <img alt="3dprint" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/3dlabs.gif"><br>
-	<div class="header"><b>3D Printing</b></div><br>
+	<div class="header"><b>3D Medical Printing Centre</b></div><br>
 	<div class="para"> The TTSH Medical 3D Printing Centre is an in-house facility that designs and produces 3D-printed models surgical guides and splints to meet clinical, education and research needs.
 
 </div>
