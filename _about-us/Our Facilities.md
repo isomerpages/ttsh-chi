@@ -108,9 +108,9 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 </div></div>
 <div class="row">
 <div class="col"> 
-<img alt="vrlab" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
+<img alt="vrlab" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/vrvrvr.gif"><br>
     <div class="header"><b>VR Lab</b></div><br>
-    <div class="para">-
+    <div class="para">The VR Lab allows innovators to test-bed and deploy extended reality (XR) solutions including Augmented Reality (AR), Virtual Reality (VR) and Mixed Reality (MR).
 </div>
 <br>
 
