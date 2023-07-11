@@ -122,7 +122,6 @@ Council members contribute their expertise by providing insightful guidance, dev
 
     p {
       overflow: auto;
-      max-width: 500px;
       max-height: 300px;
     }
   </style>
@@ -142,7 +141,6 @@ Council members contribute their expertise by providing insightful guidance, dev
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
@@ -168,7 +166,6 @@ To change healthcare, Eugene inspired the set up of the Centre for Healthcare In
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
@@ -195,7 +192,6 @@ Siriraj Hospital is the first and largest university hospital in Thailand, with 
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
@@ -223,7 +219,6 @@ Goran is a Senior Fellow at the Institute for Healthcare Improvement (IHI), and 
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
@@ -249,7 +244,6 @@ Through her research, she has partnered with a wide range of civic and political
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
@@ -278,7 +272,6 @@ Chief Clinical Informatics Officer<br>NHS South East London Integrated Care Boar
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
@@ -305,7 +298,6 @@ Physician, NHS;<br>United Kingdom
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
@@ -333,7 +325,6 @@ He has consulted for health care systems across the US, Europe, Australia, the M
           }
           p {
             overflow: auto;
-            max-width: 550px;
             max-height: 300px;
             font-size: 1em;
           }
