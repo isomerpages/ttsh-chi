@@ -24,9 +24,22 @@ description: ""
 
     ul.jekyllcodex_accordion li label {
       display: flex;
-	    justify-content: flex-start;
+	    justify-content: space-around;
+	    align-items: center;
       cursor: pointer;
       padding: 16px 0;
+      margin: 0;
+      font-size: 18px;
+      color: #000000;
+      margin-right: 41px;
+      font-size: 1.25em;
+    }
+	
+    ul.jekyllcodex_accordion li label img {
+      display: flex;
+	    justify-content: space-around;
+	    align-items: center;
+      cursor: pointer;
       margin: 0;
       font-size: 18px;
       color: #000000;
@@ -50,7 +63,9 @@ description: ""
       display: block;
       height: auto;
       padding: 0;
-      overflow: visible;
+     overflow: visible;
+	   margin: none;
+	
     }
 
     ul.jekyllcodex_accordion li input:checked+label+div p {
@@ -96,6 +111,7 @@ description: ""
     img {
       float: left;
       margin-right: 15px;
+	
     }
 
     p {
