@@ -279,7 +279,7 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
             font-size: 1em;
           }
 				</style>
-<p style="float:left; overflow: auto;max-width: 250px;max-height: 281px;font-size: 16px;margin-top: 1px;line-height: 1.5;">Chief Medical Officer &amp; 
+<p style="float:left; overflow: auto;max-width: 250px;max-height: 281px;font-size: 16px;margin-top: 1px;line-height: 1.5;padding: 1px;">Chief Medical Officer &amp; 
 Chief Clinical Informatics Officer<br>NHS South East London Integrated Care Board<br>Executive Clinical Director<br>Imperial College Health Partners<br>United Kingdom
 </p>
 <p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
