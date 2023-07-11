@@ -3,7 +3,7 @@ title: CHI Leadership Council
 permalink: /our-network/chileadershipnetwork/
 description: ""
 ---
-<div>
+<div style="font-size:1.25em">
 	<h2>About the CHI Leadership Council</h2>
 	<div>
 The Centre for Healthcare Innovation (CHI) Leadership Council is regarded as an international advisory panel to CHI’s network of co-learning partners.<br><br>
