@@ -324,6 +324,7 @@ He has consulted for health care systems across the US, Europe, Australia, the M
             font-size: 1em;
           }
         </style>
+<p style="float:left; overflow: auto;max-width: 250px;max-height: 281px;font-size: 16px;margin-top: 1px;line-height: 1.5;">Dean, Saw Swee Hock <br>School of Public Health <br>National University of Singapore <br>Singapore </p>
 <p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
 Professor Yik-Ying Teo is the Dean of the Saw Swee Hock School of Public Health at the National University of Singapore.<br><br>
 Prior to his Deanship, he was the Founding Director of the School’s Centre for Health Services and Policy Research (CHSPR) and also served as the Director of the Centre for Infectious Disease Epidemiology and Research (CIDER) from 2015 to 2017.<br><br>
