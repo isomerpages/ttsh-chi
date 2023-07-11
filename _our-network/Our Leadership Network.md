@@ -23,7 +23,8 @@ description: ""
     }
 
     ul.jekyllcodex_accordion li label {
-
+      display: flex;
+	    justify-content: flex-start;
       cursor: pointer;
       padding: 16px 0;
       margin: 0;
