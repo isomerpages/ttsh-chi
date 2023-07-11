@@ -134,7 +134,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       <input id="accordion-b0" type="checkbox">
       <label for="accordion-b0">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
-Prof Eugene Fidelis Soh<br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
+				Prof Eugene Fidelis Soh<br><br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
       </label>
       <div>
         <style>
@@ -148,6 +148,58 @@ Prof Eugene Fidelis Soh<br>Chairman, CHI Co-Learning Network<br>Deputy Group Chi
             font-size: 1em;
           }
         </style> <p>Eugene serves in various leadership roles in public healthcare. He contributes to the development of population health systems, integrated care, hospital management and healthcare innovation. <br><br>
+
+With the National Healthcare Group, Eugene joins up care with partners to serve 1.5 million local residents in Central and North Singapore. At Tan Tock Seng Hospital, he leads the development of future tertiary care models, digitalisation and workforce transformation towards a Hospital Without Walls. <br><br>
+
+To change healthcare, Eugene inspired the set up of the Centre for Healthcare Innovation by bringing together innovation partners from across the health system, across industries and across borders to co-learn and co-create value. 
+        </p>
+      </div>
+    </li>
+	    <li>
+      <input id="accordion-b02" type="checkbox">
+      <label for="accordion-b02">
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
+				Prof Eugene Fidelis Soh<br>Chairman of CHI Leadership Council
+      </label>
+      <div>
+        <style>
+          img {
+            float: left;
+            vertical-align: middle;
+          }
+          p {
+            overflow: auto;
+            max-height: 300px;
+            font-size: 1em;
+          }
+        </style> 
+				<b>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br></b>
+<p>Eugene serves in various leadership roles in public healthcare. He contributes to the development of population health systems, integrated care, hospital management and healthcare innovation. <br><br>
+
+With the National Healthcare Group, Eugene joins up care with partners to serve 1.5 million local residents in Central and North Singapore. At Tan Tock Seng Hospital, he leads the development of future tertiary care models, digitalisation and workforce transformation towards a Hospital Without Walls. <br><br>
+
+To change healthcare, Eugene inspired the set up of the Centre for Healthcare Innovation by bringing together innovation partners from across the health system, across industries and across borders to co-learn and co-create value. 
+        </p>
+      </div>
+    </li>
+	    <li>
+      <input id="accordion-b01" type="checkbox">
+      <label for="accordion-b01">
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
+				Prof Eugene Fidelis Soh<br>Chairman of CHI Leadership Council
+      </label>
+      <div>
+        <style>
+          img {
+            float: left;
+            vertical-align: middle;
+          }
+          p {
+            overflow: auto;
+            max-height: 300px;
+            font-size: 1em;
+          }
+        </style> <img>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br><p>Eugene serves in various leadership roles in public healthcare. He contributes to the development of population health systems, integrated care, hospital management and healthcare innovation. <br><br>
 
 With the National Healthcare Group, Eugene joins up care with partners to serve 1.5 million local residents in Central and North Singapore. At Tan Tock Seng Hospital, he leads the development of future tertiary care models, digitalisation and workforce transformation towards a Hospital Without Walls. <br><br>
 
