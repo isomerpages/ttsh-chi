@@ -23,8 +23,7 @@ description: ""
     }
 
     ul.jekyllcodex_accordion li label {
-      display: flex;
-      align-items: center;
+
       cursor: pointer;
       padding: 16px 0;
       margin: 0;
@@ -95,10 +94,7 @@ description: ""
 
     img {
       float: left;
-      vertical-align: middle;
       margin-right: 15px;
-      width: 242px;
-      height: 148px;
     }
 
     p {
