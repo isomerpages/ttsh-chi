@@ -134,7 +134,7 @@ Our Leadership
 <td><strong>Celine Ong  </strong><br>Associate Director<br>Director, Centre for Health Activation <br><a href="https://www.linkedin.com/in/celine-ong-wei-hui" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/eiseli-loh-69099a36"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/eiseli-loh-69099a36"><img alt="andrew1" src="/images/Leaders/eiseli.png"></a></td>
 <td><strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
