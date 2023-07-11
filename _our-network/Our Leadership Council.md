@@ -17,7 +17,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       margin: 1.4rem 0 !important;
       border-bottom: 1px solid #DBDFE4;
       padding-bottom: 0;
-      font-size: 1.25em;
+      font-size: 1.15em;
     }
 
     ul.jekyllcodex_accordion li {
