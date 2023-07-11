@@ -123,6 +123,35 @@ description: ""
 
 
   <ul class="jekyllcodex_accordion">
+	    <li>
+      <input id="accordion-b0" type="checkbox">
+      <label for="accordion-b0">
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
+        	Prof Eugene Fidelis Soh
+      </label>
+      <div>
+        <p><strong>27 March 2023</strong></p>
+        <style>
+          img {
+            float: left;
+            vertical-align: middle;
+          }
+          p {
+            overflow: auto;
+            max-width: 550px;
+            max-height: 300px;
+            font-size: 1em;
+          }
+        </style>
+        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+        <p>
+          <b><u>The 5Cs of Community Leadership</u></b><br>
+          <b>Mr Patrick Tay</b><br>
+          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
+          Description
+        </p>
+      </div>
+    </li>
     <li>
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
