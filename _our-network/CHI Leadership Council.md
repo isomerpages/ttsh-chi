@@ -79,10 +79,12 @@ Council members contribute their expertise by providing insightful guidance, dev
     ul.jekyllcodex_accordion li input:checked+label+div p {
       margin-bottom: 24px;
       margin-right: 20px;
+	    margin-top: 1px;
     }
 
     ul.jekyllcodex_accordion li input:checked+label+div p:where(ul.jekyllcodex_accordion li input:checked+label+div p a) {
       margin: 0;
+		  margin-top: 1px;
     }
 
     ul.jekyllcodex_accordion li label::before {
