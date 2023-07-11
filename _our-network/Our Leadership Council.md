@@ -338,7 +338,6 @@ He has consulted for health care systems across the US, Europe, Australia, the M
             font-size: 1em;
           }
         </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
         <p>
 Professor Yik-Ying Teo is the Dean of the Saw Swee Hock School of Public Health at the National University of Singapore.<br>
 
