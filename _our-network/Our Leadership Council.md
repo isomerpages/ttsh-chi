@@ -146,13 +146,11 @@ Council members contribute their expertise by providing insightful guidance, dev
             max-height: 300px;
             font-size: 1em;
           }
-        </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
-        <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+        </style> <p>Eugene serves in various leadership roles in public healthcare. He contributes to the development of population health systems, integrated care, hospital management and healthcare innovation. <br>
+
+With the National Healthcare Group, Eugene joins up care with partners to serve 1.5 million local residents in Central and North Singapore. At Tan Tock Seng Hospital, he leads the development of future tertiary care models, digitalisation and workforce transformation towards a Hospital Without Walls. <br>
+
+To change healthcare, Eugene inspired the set up of the Centre for Healthcare Innovation by bringing together innovation partners from across the health system, across industries and across borders to co-learn and co-create value. 
         </p>
       </div>
     </li>
@@ -160,10 +158,9 @@ Council members contribute their expertise by providing insightful guidance, dev
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/prof%20cherdchai-01.png">
-        A/Prof Cherdchai Nopmaneejumruslers as
+        A/Prof Cherdchai Nopmaneejumruslers <br>Deputy Dean of Service Innovation and Corporate Value, Siriraj Hospital <br>Thailand
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
@@ -176,12 +173,10 @@ Council members contribute their expertise by providing insightful guidance, dev
             font-size: 1em;
           }
         </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
-        <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+<p>
+A/Prof Cherdchai is a respiratory physician by training, and has more than 20 years of experience in Quality improvement, and was instrumental in the setup of R2R unit and methodology.<br>
+
+Siriraj Hospital is the first and largest university hospital in Thailand, with almost 2,000 beds and 15,000 employees. It is also the first 5G Smart hospital in the region, with a strong partnership with Huawei Technologies and the National Broadcasting &amp; Telecommunications Commission.
         </p>
       </div>
     </li>
@@ -189,10 +184,10 @@ Council members contribute their expertise by providing insightful guidance, dev
       <input id="accordion-b2" type="checkbox">
       <label for="accordion-b2">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/go╠êran%20henriks_01%20copy.png">
-        Göran Henriks
+        Göran Henriks<br>Chief Executive of Learning and Innovation, County Council;<br>Senior Strategic Advisor, <br>Region Jönköping County;
+<br>Sweden
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
@@ -205,12 +200,12 @@ Council members contribute their expertise by providing insightful guidance, dev
             font-size: 1em;
           }
         </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
         <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+Goran has more than 30 years of experience in management in the Swedish healthcare system. He was the Chief Executive of Qulturum, a centre for quality, leadership, and management development in Jönköping County for 27 years and recently assumed the position as Senior Strategic Advisor for Region Jönköping.<br>
+
+Goran has also been Jönköping's project director for the Pursuing Perfection initiative over the last four years.<br>
+
+Goran is a Senior Fellow at the Institute for Healthcare Improvement (IHI), and is also part of the Strategic Committee ta the International Forum on Quality and Safety in Healthcare organized by the British Medical Journal and IHI.
         </p>
       </div>
     </li>
@@ -218,10 +213,9 @@ Council members contribute their expertise by providing insightful guidance, dev
       <input id="accordion-b3" type="checkbox">
       <label for="accordion-b3">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/prof%20hahrie%20han-01-min.png">
-        Prof Hahrie Han
+        Prof Hahrie Han <br>Professor and Director <br>Stavros Niarchos Foundation Agora Institute <br>Johns Hopkins University<br>United States 
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
@@ -234,12 +228,10 @@ Council members contribute their expertise by providing insightful guidance, dev
             font-size: 1em;
           }
         </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
         <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+Hahrie is a scholar and award-winning author who specializes in the study of organising, social movements, and democracy. She was named the 2022 Social Innovation Thought Leader of the Year by the World Economic Forum's Schwab Foundation and is an elected member of the American Academy of Arts and Sciences. <br>
+
+Through her research, she has partnered with a wide range of civic and political organizations and movements around the world, including those in the United States, Europe, Australia, New Zealand, the United Kingdom, and elsewhere. She served on the Obama-Biden Transition Team in 2008-09 and has worked with multiple campaigns.
         </p>
       </div>
     </li>
@@ -247,10 +239,9 @@ Council members contribute their expertise by providing insightful guidance, dev
       <input id="accordion-b4" type="checkbox">
       <label for="accordion-b4">
         <img alt="andrew1" style="width:126px;height:125px;" src="/images/Leaders/prof%20jonathon%20gray-01.png">
-        Prof Jonathan Gray
+        Prof Jonathan Gray <br>Director of Improvement &amp; Innovation <br>Cardiff &amp; Vale University Health Board<br>United Kingdom
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
@@ -263,12 +254,12 @@ Council members contribute their expertise by providing insightful guidance, dev
             font-size: 1em;
           }
         </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
         <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+Jonathon is a passionate leader of large scale change, and brings over twenty years of experience as a clinician, academic, executive team member, and as a director of local, national and international improvement and innovation.<br>
+
+Notably in 2020 during the Covid-19 pandemic, he led the design, build and operation of Cardiff’s surge hospital. Built in a sports stadium in 4 weeks, the Dragons Heart Hospital was the largest hospital in Wales, and the second largest in the United Kingdom. <br>
+
+Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI Fellowship, CHI Faculty, and the setup of the Health &amp; Social Change Academy. 
         </p>
       </div>
     </li>
