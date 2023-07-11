@@ -127,7 +127,7 @@ description: ""
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/prof%20cherdchai-01.png">
-        A/Prof Cherdchai Nopmaneejumruslers
+        A/Prof Cherdchai Nopmaneejumruslers as
       </label>
       <div>
         <p><strong>27 March 2023</strong></p>
