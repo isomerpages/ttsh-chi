@@ -122,6 +122,7 @@ Council members contribute their expertise by providing insightful guidance, dev
     p {
       overflow: auto;
       max-height: 300px;
+	    font-size: 16px;
     }
   </style>
 
