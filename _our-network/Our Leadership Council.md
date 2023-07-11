@@ -87,7 +87,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
       color: #A6192E;
       font-weight: 400;
-      font-size: 1.25em;
+      font-size: 1.15em;
       line-height: 1.1rem;
       padding: 0;
       position: absolute;
