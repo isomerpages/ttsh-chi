@@ -56,14 +56,6 @@ th:nth-child(odd),td:nth-child(odd) {
    
   </tbody>
 </table>
-<h1>Our Contributions</h1>
+<h1>Our Work in Numbers</h1>
 
 <img alt="cycle" style="width:378px;" src="/images/chi%20in%20numbers.png"><br>
-
-
-
-short write up about CHI in numbers 
-short write up about CHI in numbers 
-short write up about CHI in numbers 
-short write up about CHI in numbers 
-short write up about CHI in numbers
