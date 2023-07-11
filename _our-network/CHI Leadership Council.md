@@ -130,7 +130,7 @@ Council members contribute their expertise by providing insightful guidance, dev
 	    <li>
       <input id="accordion-b0" type="checkbox">
       <label for="accordion-b0">
-        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">Prof Eugene Fidelis Soh<br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png"><b>Prof Eugene Fidelis Soh</b><br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
       </label>
       <div>
         <style>
