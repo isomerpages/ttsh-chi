@@ -285,7 +285,7 @@ Chief Clinical Informatics Officer<br>NHS South East London Integrated Care Boar
 <p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
 Jonty is a practicing GP, author and broadcaster whose ongoing work on the frontline of primary care allows him to retain perspective on both the challenges facing healthcare providers and the needs of patients. <br><br>
  Jonty has worked as a system leader in London for nearly fifteen years, with experience and passion for digital innovation and data driven population health improvement.
-        </p><br>
+        </p>
       </div><br>
     </li>
 	    <li>
