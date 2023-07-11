@@ -291,8 +291,8 @@ Jonty has worked as a system leader in London for nearly fifteen years, with exp
       </div>
     </li>
 	    <li>
-      <input id="accordion-b1" type="checkbox">
-      <label for="accordion-b1">
+      <input id="accordion-b6" type="checkbox">
+      <label for="accordion-b6">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/dr%20junaid%20bajwa-01.png">
         Dr Junaid Bajwa<br>Chief Medical Scientist, Microsoft Research;
 Physician, NHS;<br>United Kingdom 
@@ -320,8 +320,8 @@ He has consulted for health care systems across the US, Europe, Australia, the M
       </div>
     </li>
 	    <li>
-      <input id="accordion-b1" type="checkbox">
-      <label for="accordion-b1">
+      <input id="accordion-b7" type="checkbox">
+      <label for="accordion-b7">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/profteoyy.png">
         Prof Teo Yik-Ying<br>Dean, Saw Swee Hock <br>School of Public Health <br>National University of Singapore <br>Singapore 
       </label>
