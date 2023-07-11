@@ -131,7 +131,8 @@ Council members contribute their expertise by providing insightful guidance, dev
 	    <li>
       <input id="accordion-b0" type="checkbox">
       <label for="accordion-b0">
-        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png"><b>Prof Eugene Fidelis Soh</b><br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
+Prof Eugene Fidelis Soh<br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
       </label>
       <div>
         <style>
@@ -156,7 +157,7 @@ To change healthcare, Eugene inspired the set up of the Centre for Healthcare In
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/prof%20cherdchai-01.png">
-        A/Prof Cherdchai Nopmaneejumruslers <br>Deputy Dean of Service Innovation and Corporate Value, Siriraj Hospital <br>Thailand
+A/Prof Cherdchai Nopmaneejumruslers <br>Deputy Dean of Service Innovation and Corporate Value, Siriraj Hospital <br>Thailand
       </label>
       <div>
         <style>
