@@ -281,11 +281,12 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
 				</style>
 <p style="float:left; overflow: auto;max-width: 250px;max-height: 281px;font-size: 16px;margin-top: 1px;line-height: 1.5;">Chief Medical Officer &amp; 
 Chief Clinical Informatics Officer<br>NHS South East London Integrated Care Board<br>Executive Clinical Director<br>Imperial College Health Partners<br>United Kingdom
-</p><p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
+</p>
+<p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
 Jonty is a practicing GP, author and broadcaster whose ongoing work on the frontline of primary care allows him to retain perspective on both the challenges facing healthcare providers and the needs of patients. <br><br>
  Jonty has worked as a system leader in London for nearly fifteen years, with experience and passion for digital innovation and data driven population health improvement.
-        </p>
-      </div>
+        </p><br>
+      </div><br>
     </li>
 	    <li>
       <input id="accordion-b6" type="checkbox">
@@ -310,7 +311,7 @@ Jonty is a practicing GP, author and broadcaster whose ongoing work on the front
 Junaid is the Chief Medical Scientist at Microsoft Research and a practising physician in the the UK’s National Health Service. <br><br>
 Junaid has worked across primary care, secondary care, and public health settings in addition to acting as a payer, and policy maker within the UK, where he specialized in informatics, digital transformation, and leadership. <br><br>
 He has consulted for health care systems across the US, Europe, Australia, the Middle East, Singapore, and Europe. Academically, he is a Clinical Associate Professor at UCL (University College London), an Associate Fellow at the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center), and a Visiting Scientist at the Harvard School of Public Health.
-        </p>
+ </p>
       </div>
     </li>
 	    <li>
