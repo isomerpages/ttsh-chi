@@ -9,7 +9,16 @@ The environment confronting business leaders of today continues to be volatile. 
 
 Partnership between the Centre for Healthcare Innovation &amp; Nanyang Business School
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8ktdO-_gGR8" height="315" width="560"></iframe>
+ <style>
+    .video-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
+<div class="video-container">
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8ktdO-_gGR8" height="315" width="560"></iframe></div>
 
 <h3>Programme Focus </h3>
 This Multilevel design is built on collective leadership mental models, language, and tools, incorporating case studies, Action-Learning Projects (ALP), learning journals, coaching and fireside chats, to drive Learning Without Walls:
