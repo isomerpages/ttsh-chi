@@ -113,7 +113,7 @@ description: ""
     <li>
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
-        <img alt="andrew1" style="width:126px;height:125px;float:left" src="/images/Leaders/prof%20cherdchai-01.png">
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/prof%20cherdchai-01.png">
         A/Prof Cherdchai Nopmaneejumruslers
       </label>
       <div>
@@ -142,7 +142,7 @@ description: ""
 		    <li>
       <input id="accordion-b2" type="checkbox">
       <label for="accordion-b2">
-        <img alt="andrew1" style="width:126px;height:125px;" src="/images/Leaders/go╠êran%20henriks_01%20copy.png">
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/go╠êran%20henriks_01%20copy.png">
         Göran Henriks
       </label>
       <div>
@@ -200,7 +200,7 @@ description: ""
 	    <li>
       <input id="accordion-b4" type="checkbox">
       <label for="accordion-b4">
-        <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/prof%20jonathon%20gray-01.png">
+        <img alt="andrew1" style="width:126px;height:125px;" src="/images/Leaders/prof%20jonathon%20gray-01.png">
         Prof Jonathan Gray
       </label>
       <div>
