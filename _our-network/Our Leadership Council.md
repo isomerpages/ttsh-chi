@@ -3,6 +3,14 @@ title: Our Leadership Council
 permalink: /our-network/ourleadershipnetwork/
 description: ""
 ---
+<div>
+	<h2>About the CHI Leadership Council</h2>
+	<div>
+The Centre for Healthcare Innovation (CHI) Leadership Council is regarded as an international advisory panel to CHI’s network of co-learning partners.<br><br>
+Comprised of distinguished thought leaders in their respective fields, Council members demonstrate commitment to pioneering systems innovation and driving change. They provide thought leadership to CHI and its partners in spearheading transformation across the health system, while fostering co-learning, collaborations, and facilitating innovation.<br><br>
+Council members contribute their expertise by providing insightful guidance, developing new paradigms for change, and collaborating in the shared mission to advance health and social care transformation in Singapore.
+</div></div>
+
 <style>
     ul.jekyllcodex_accordion {
       position: center;
@@ -29,7 +37,6 @@ description: ""
       cursor: pointer;
       padding: 16px 0;
       margin: 0;
-      font-size: 18px;
       color: #000000;
       margin-right: 41px;
       font-size: 1.25em;
@@ -41,7 +48,6 @@ description: ""
 	    align-items: center;
       cursor: pointer;
       margin: 0;
-      font-size: 18px;
       color: #000000;
       margin-right: 41px;
       font-size: 1.25em;
@@ -126,11 +132,9 @@ description: ""
 	    <li>
       <input id="accordion-b0" type="checkbox">
       <label for="accordion-b0">
-        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
-        	Prof Eugene Fidelis Soh
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">Prof Eugene Fidelis Soh<br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
