@@ -113,7 +113,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">A/Prof Cherdchai Nopmaneejumruslers</label>
+<li><img alt="andrew1" style="width:126.007px;height:125px;" src="/images/Leaders/prof%20cherdchai-01.png"><input id="accordion-b1" type="checkbox"><label for="accordion-b1">A/Prof Cherdchai Nopmaneejumruslers</label>
 <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
