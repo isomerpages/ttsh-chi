@@ -3,8 +3,6 @@ title: Our Leadership Network
 permalink: /our-network/ourleadershipnetwork/
 description: ""
 ---
-
-
 <script src="https://d33wubrfki0l68.cloudfront.net/js/1fb06e903e758278c0f8afeb52f021bb3bdf2f3d/jquery/jquery.min.js"></script>
 
 <h3 id="b">Our Leadership Network </h3>
@@ -115,7 +113,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   
   <!-- Beginning of accordion tab -->
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass - The 5Cs of Community Leadership</label>
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">A/Prof Cherdchai Nopmaneejumruslers</label>
 <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
@@ -137,7 +135,7 @@ p {
 </p>
 
 
- </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass - Population Health</label>
+ </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">Göran Henriks</label>
     <div><p><strong>17 Feb 2023</strong></p>			 
 <style>
 img {
@@ -163,7 +161,7 @@ Clinical Director, Imperial College Health Partners </em>
 </p>
 
 <hr>
-	</div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass - The Future of Healthcare</label>
+	</div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">Prof Hahrie Han</label>
     <div><p><strong>7 Jul 2022</strong></p>			 
 <style>
 img {
@@ -184,7 +182,7 @@ p {
 
 <hr>
 			
- </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">12th Masterclass - Sustainability in Healthcare Transformation </label>
+ </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">Prof Jonathan Gray </label>
     <div><p><strong>9 Oct 2019</strong></p>			 
 <style>
 img {
@@ -217,7 +215,7 @@ The driving forces behind the transformation at Karolinska University Hospital a
 
 <hr>
 			
- </div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">11th Masterclass - Integrating Care Across the Care Continuum</label>
+ </div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">Dr Jonty Heaversedge</label>
     <div><p><strong>23 Oct 2018</strong></p>			 
 <style>
 img {
@@ -239,7 +237,7 @@ Director of the University Health Network, Toronto, Canada</em>
 </p>
 
 <hr>
-		</div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">10th Masterclass - The Blueprint for Successful MedTech Innovation</label>
+		</div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">Dr Junaid Bajwa</label>
     <div><p><strong>11 Jul 2018</strong></p>			 
 <style>
 img {
@@ -261,7 +259,7 @@ p {
 
 <hr>
 			
- </div></li><li><input id="accordion-b7" type="checkbox"><label for="accordion-b7">9th Masterclass - Key Concepts in Systems Thinking</label>
+ </div></li><li><input id="accordion-b7" type="checkbox"><label for="accordion-b7">Prof Teo Yik-Ying</label>
     <div><p><strong>21 Feb 2018</strong></p>			 
 <style>
 img {
@@ -286,152 +284,7 @@ Massachusetts Institute of Technology Sloan School of Management</em><br>
 </p>
 
 <hr>
-		</div></li><li><input id="accordion-b8" type="checkbox"><label for="accordion-b8">8th Masterclass - Integrated Care Provision</label>
-    <div><p><strong>12 Jan 2018</strong></p>			 
-<style>
-img {
-  float: left;
-	vertical-align: middle;
-}
-p {
-	overflow: auto;
-  max-width: 600px;
-  max-height: 300px;
-}
-</style>
-<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/8th-chi-masterclass-image.png"><p>
-<b><u>An Overview on the Gesundes Kinzigtal (GK) Model of Integrated Care Provision</u></b> <br>
-			<b>Dr Martin Wetzel</b><br>
-				<em>Co-initiator and Founder,<br> Medical Quality Network
-Kinzigtaal Medical Initiative (MQNK)</em><br>
-			Gesundes Kinzigtal (GK) is a joint venture between MQNK and a Hamburg-based healthcare management company, OptiMedis AG. Gesundes Kinzigtal is one of the few population-based integrated care approaches in Germany, and has proven to be successful in slowing the rise in healthcare costs for the population it serves – 16.9% in savings and a reduction in emergency hospital admissions.<br>Under the GK programme, health professionals are trained in shared decision-making to ensure that patients are actively involved in their own care. A system-wide electronic health record is also in place to support effective co-ordination of care across providers and care settings to support effective co-ordination of care.<br>In this CHI Masterclass, Dr Wetzel will give an overview on the GK Model of Integrated Care Provision, especially on how physicians and partners can work together to improve health outcomes of the population, efficiency of services, and experience of care, thereby slowing the rise in healthcare costs for the population it serves.
-
-</p>
-
-<hr>
-			
- </div></li><li><input id="accordion-b9" type="checkbox"><label for="accordion-b9">7th Masterclass - Value Based Healthcare</label>
-    <div><p><strong>11 Oct 2017 </strong></p>			 
-<style>
-img {
-  float: left;
-	vertical-align: middle;
-}
-p {
-	overflow: auto;
-  max-width: 600px;
-  max-height: 300px;
-}
-</style>
-<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/7th_events_masterclasses.jpg"><p>
-<b><u>Value Based Healthcare, A Tough but Necessary Journey – The UK Story</u></b> <br>
-			<b>Dr Anant Jani</b><br>
-				<em>Executive Director<br>Better Value Healthcare
-</em><br><br>
-At a time when demand for healthcare services is increasing and resources available to deliver care are stagnant or decreasing, we must look to a new paradigm to ensure we can continue delivering care to the same, and ideally better, standards to the patients and populations we are accountable to. In these challenging times, a focus on quality and safety is necessary but not sufficient. We must shift our focus to a value-based healthcare paradigm, which will help us deliver better outcomes while optimizing resource utilization.<br>In this CHI Masterclass, Dr Anant Jani will give an overview of some of the approaches being taken in the UK to introduce value-based healthcare in approaches being taken in the UK to introduce value-based healthcare in hospital-based systems. He will talk about the successes and failures and will also focus on the importance of culture change as a key enablers for introducing value based healthcare.
-
-</p>
-
-<hr>
-		</div></li><li><input id="accordion-b10" type="checkbox"><label for="accordion-b10">6th Masterclass - Building a Healthcare Team</label>
-    <div><p><strong>28 Sep 2017</strong></p>			 
-<style>
-img {
-  float: left;
-	vertical-align: middle;
-}
-p {
-	overflow: auto;
-  max-width: 600px;
-  max-height: 300px;
-}
-</style>
-<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/6th_events_masterclasses.jpg"><p>
-<b><u>Building a Healthcare Team in the Community </u></b> <br>
-			<b>Mr Stephen M.R. Covey </b><br>
-				<em>Trust Expert,<br>
-Executive Thought Leader,<br>
-and #1 Bestselling Author</em>
-<br><br>
-As we expand healthcare beyond the hospital walls, it is important that we build trust and relationships with our partner and the communities beyond the hospital. Currently 10% of our workforce has jobs that connect and deliver care to the partners and the community, but this number is expected to rise.<br>In light of the aging population in Singapore, this session will focus on population health and ways which we can provide multi-disciplinary healthcare in the community. Stephen M.R. Convey will share about how we can build trust and collaboration with partners and community at large, through the transformation of our workforce.
-
-</p>
-
-<hr>
-			
- </div></li><li><input id="accordion-b11" type="checkbox"><label for="accordion-b11">5th Masterclass - Collective Leadership</label>
-    <div><p><strong>1 July 2016</strong></p>			 
-<style>
-img {
-  float: left;
-	vertical-align: middle;
-}
-p {
-	overflow: auto;
-  max-width: 600px;
-  max-height: 300px;
-}
-</style>
-<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/5th_events_masterclasses.jpg"><p>
-<b><u>Collective Leadership for a Caring Kampung, and What it Means for You?</u></b> <br>
-			<b>Dr Douglas O’Loughlin</b><br>
-				<em>Institute of Leadership &amp; Organisation Development Civil Service College</em><br><br>
-In large and complex organisations, it is increasingly evident that the success of the organisation cannot be the responsibility of top leaders alone, and that the responsibility should be collective. Collective leadership is a state where everyone takes responsibility for the success of the organisation as a whole and not just for their own work area. In a large and complex organisation like TTSH, a culture of collective leadership would help to reduce blind spots and bottlenecks.<br>If leadership can be described as an action that makes a team or organisation more effective and healthy, then let's continue on our paths of expanding where leadership happens. Staff get more comfortable making decisions that would serve the greater good, leaders build more trust and leadership capacity.<br>In order for this to happen, some of our mental models and behaviours might require some changes. Leaders, and eventually all staff, come to see themselves as stewards of psychological safety, quality of conversations, and healthy conflict. Interactions are more meaningful, meetings are more spirited, and our patients and their families are more connected with us. By the way, leaders do not give up control, but paradoxically gain more control by adopting these practices, and develop their ability to flex between collective and positional leadership, depending on the situation and context.<br>In this CHI Masterclass on collective leadership, we will explore ways of expanding your culture of collective leadership, so each and every one of us in our 'Kampung' can better manage the increasing complexity of health care, for our patients, our people, and our community.<br>In this interactive session we will inquire into questions such as:<br>
-•	Why collective leadership, and what does it look and feel like in healthcare?<br>
-•	How can understanding systems dynamics enhance partnership and leadership in TTSH?<br>
-•	What are the mind-sets and power shifts of collective leadership?<br>
-•	Where do we start and what can we do?
-
-</p>
-
-<hr>
-		</div></li><li><input id="accordion-b12" type="checkbox"><label for="accordion-b12">4th Masterclass - Design Thinking</label>
-    <div><p><strong>24 Jun 2015</strong></p>			 
-<style>
-img {
-  float: left;
-	vertical-align: middle;
-}
-p {
-	overflow: auto;
-  max-width: 600px;
-  max-height: 300px;
-}
-</style>
-<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/4th_events_masterclasses.jpg"><p>
-<b><u>Design Thinking for Healthcare – What’s Required?</u></b> <br>
-			<b>Ms Joanne Teh</b><br>
-				<em>Asian Insights &amp; Design Innovation,<br>
-DesignSingapore Council</em><br><br>
-In the recent years, design thinking has gained widespread currency amongst global leaders as a tool for innovation. In Singapore, it has also started to gain traction, especially in the Healthcare space. Using a case study, the speaker will share design thinking journey taken by one hospital, the mind-set required for innovation, as well as advice on where and how to start! 
-</p>
-
-<hr>
+		</div></li>
 	
 
-</div></li>
-<li><input id="accordion-b13" type="checkbox"><label for="accordion-b13">3rd Masterclass - Innovation</label>
-    <div><p><strong>20 Apr 2015</strong></p>			 
-<style>
-img {
-  float: left;
-	vertical-align: middle;
-}
-p {
-	overflow: auto;
-  max-width: 600px;
-  max-height: 300px;
-}
-</style>
-<img style="width:290px;height:178px;margin-right:15px;" alt="chi" src="/images/Masterclass/3rd_events_masterclasses.jpg"><p>
-<b><u>Innovation, The Ko Awatea Story</u></b> <br>
-			<b>Prof Jonathon Gray</b><br><em>Ko Awatea (New Zealand)
-Director, Innovative Centre for Health Systems Improvement, Ko Awatea</em><br>
-<br>Ko Awatea is the Centre of Health System Improvement and Innovation for the Counties Manukau District Health Board (New Zealand), set up to improve value and drive transformational change required to keep pace with the rising demand for health services managed within tight financial constraints.<br>Ko Awatea leads and supports healthcare transformation using a collaborative approach to encourage innovation, quality improvement and knowledge transfer. Ko Awatea is also a centre of education dedicated to meeting the needs of students, CMH staff and visitors through education, leadership and professional development.
-
-</p>
-
-<hr>
-	
-
-</div></li></ul>
+</ul>
