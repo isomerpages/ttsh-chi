@@ -267,10 +267,10 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
       <input id="accordion-b5" type="checkbox">
       <label for="accordion-b5">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/jonty_heaversedge-01.png">
-       Dr Jonty Heaversedge
+       Dr Jonty Heaversedge<br>Chief Medical Officer &amp; 
+Chief Clinical Informatics Officer<br>NHS South East London Integrated Care Board<br>Executive Clinical Director<br>Imperial College Health Partners<br>United Kingdom
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
@@ -282,13 +282,11 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
             max-height: 300px;
             font-size: 1em;
           }
-        </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
+				</style>
         <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+Jonty is a practicing GP, author and broadcaster whose ongoing work on the frontline of primary care allows him to retain perspective on both the challenges facing healthcare providers and the needs of patients. <br>
+ 
+Jonty has worked as a system leader in London for nearly fifteen years, with experience and passion for digital innovation and data driven population health improvement.
         </p>
       </div>
     </li>
@@ -296,10 +294,10 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/dr%20junaid%20bajwa-01.png">
-        Dr Junaid Bajwa
+        Dr Junaid Bajwa<br>Chief Medical Scientist, Microsoft Research;
+Physician, NHS;<br>United Kingdom 
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
@@ -312,12 +310,12 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
             font-size: 1em;
           }
         </style>
-        <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
         <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+Junaid is the Chief Medical Scientist at Microsoft Research and a practising physician in the the UK’s National Health Service. <br>
+
+Junaid has worked across primary care, secondary care, and public health settings in addition to acting as a payer, and policy maker within the UK, where he specialized in informatics, digital transformation, and leadership. <br>
+
+He has consulted for health care systems across the US, Europe, Australia, the Middle East, Singapore, and Europe. Academically, he is a Clinical Associate Professor at UCL (University College London), an Associate Fellow at the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center), and a Visiting Scientist at the Harvard School of Public Health.
         </p>
       </div>
     </li>
@@ -325,10 +323,9 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/profteoyy.png">
-        Prof Teo Yik-Ying
+        Prof Teo Yik-Ying<br>Dean, Saw Swee Hock <br>School of Public Health <br>National University of Singapore <br>Singapore 
       </label>
       <div>
-        <p><strong>27 March 2023</strong></p>
         <style>
           img {
             float: left;
@@ -343,10 +340,11 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
         </style>
         <img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg">
         <p>
-          <b><u>The 5Cs of Community Leadership</u></b><br>
-          <b>Mr Patrick Tay</b><br>
-          <em>Assistant Secretary-General of NTUC and Member of Parliament of Pioneer SMC</em><br><br>
-          Description
+Professor Yik-Ying Teo is the Dean of the Saw Swee Hock School of Public Health at the National University of Singapore.<br>
+
+Prior to his Deanship, he was the Founding Director of the School’s Centre for Health Services and Policy Research (CHSPR) and also served as the Director of the Centre for Infectious Disease Epidemiology and Research (CIDER) from 2015 to 2017.<br>
+
+He is presently a member on the Council of Scientists for the International Human Frontier Science Program, as well as a governing board member of the Regional Centre for Tropical Medicine and Public Health Network for Southeast Asia.
         </p>
       </div>
     </li>
