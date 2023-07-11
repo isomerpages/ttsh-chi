@@ -92,7 +92,7 @@ Our Leadership
 <br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/CHI%20Logo.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="images/Leaders/casperr.png"></a></td>
 <td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Innovation<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
