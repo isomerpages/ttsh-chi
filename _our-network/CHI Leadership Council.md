@@ -18,6 +18,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       border-bottom: 1px solid #DBDFE4;
       padding-bottom: 0;
       font-size: 16px;
+    	line-height: 1.5;
     }
 
     ul.jekyllcodex_accordion li {
@@ -40,6 +41,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       color: #000000;
       margin-right: 41px;
       font-size: 16px;
+    	line-height: 1.5;
     }
 	
     ul.jekyllcodex_accordion li label img {
