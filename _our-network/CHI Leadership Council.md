@@ -202,9 +202,9 @@ To change healthcare, Eugene inspired the set up of the Centre for Healthcare In
             max-height: 300px;
             font-size: 16px;
           }
-        </style> <p style="float:left; overflow: auto;max-width: 250px;max-height: 281px;font-size: 16px;margin-top: 1px;">Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
+        </style> <p style="float:left; overflow: auto;max-width: 250px;max-height: 281px;font-size: 16px;margin-top: 1px;line-height: 1.5;">Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
 </p>
-<p>
+<p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
 Eugene serves in various leadership roles in public healthcare. He contributes to the development of population health systems, integrated care, hospital management and healthcare innovation.
 With the National Healthcare Group, Eugene joins up care with partners to serve 1.5 million local residents in Central and North Singapore. At Tan Tock Seng Hospital, he leads the development of future tertiary care models, digitalisation and workforce transformation towards a Hospital Without Walls. <br><br>
 To change healthcare, Eugene inspired the set up of the Centre for Healthcare Innovation by bringing together innovation partners from across the health system, across industries and across borders to co-learn and co-create value. 
