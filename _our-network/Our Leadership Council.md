@@ -39,7 +39,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       margin: 0;
       color: #000000;
       margin-right: 41px;
-      font-size: 1.25em;
+      font-size: 1.15em;
     }
 	
     ul.jekyllcodex_accordion li label img {
@@ -50,7 +50,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       margin: 0;
       color: #000000;
       margin-right: 41px;
-      font-size: 1.25em;
+      font-size: 1.15em;
     }
 
     ul.jekyllcodex_accordion li div {
