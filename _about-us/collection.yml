@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Purpose and What We Do/.keep
+      - Our Purpose and What We Do/Our Purpose & What We Do.md
+      - Our Purpose and What We Do/CHI Innovation Cycle.md
+      - Our Leadership.md
+      - Our Offices/.keep
+      - Our Offices/Clinical Research and Innovation Office.md
+      - Our Offices/Digital and Smart Health Office.md
+      - Our Offices/Grants and Innovation Office.md
+      - Our Offices/Kaizen Office.md
+      - Our Offices/Management Development Office.md
+      - Our Offices/Organisation Development Office.md
+      - Our Offices/Partnership and Communications Office.md
+      - Our Offices/People Development Office.md
+      - Our Facilities.md

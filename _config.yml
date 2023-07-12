@@ -1,40 +1,61 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Centre for Healthcare Innovation
+url: https://www.chi.sg
+favicon: /images/CHI Logo.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#a6192e"
+  secondary-color: "#a6192e"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#a76f5e"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#bb372e"
     - title: media-color-three
-      color: '#00838f'
+      color: "#bc8885"
     - title: media-color-four
-      color: '#00838f'
+      color: "#9b9b9b"
     - title: media-color-five
-      color: '#00838f'
+      color: "#94795d"
+description: >-
+  The Centre for Healthcare Innovation Co-Learning Network was launched on the
+  21st of October 2016 with 21 partners from diverse yet synergistic expertise,
+  from healthcare to other industries, from providers to agencies, and from
+  local to international.
 
-description: An Isomer site of the Singapore Government
 
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+  The CHI Co–Learning Network will be an open learning platform for like-minded practitioners and enablers to co-learn and co-create innovative solutions to meet current and future healthcare challenges, while delivering value to patients and populations. 
+
+
+  Dedicated to drive healthcare innovation, the CHI Co-Learning Network has three strategic thrusts
+
+  1) Build Thought Leadership 
+
+  2) Drive Workforce Transformation 
+
+  3) Enable Healthcare Training
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +67,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3t2xy7yc0hc1m.amplifyapp.com
 prod: https://master.d3t2xy7yc0hc1m.amplifyapp.com
+shareicon: /images/CHI Logo.png
+is_government: false
+facebook-pixel: ""
+google_analytics: "UA-148069505-1"
+linkedin-insights: ""
+resources_name: newsroom
+google_analytics_ga4: ""

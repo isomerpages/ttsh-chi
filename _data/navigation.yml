@@ -1,15 +1,27 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/CHI Logo® Colour.png
 links:
+  - title: About Us
+    url: /about-us/our-purpose/
+    sublinks:
+      - title: Our Purpose & What We Do
+        url: /about-us/our-purpose/
+      - title: Our Leadership
+        url: /about-us/our-leadership/
+      - title: Our Offices
+        url: /about-us/our-offices/chi-crio/
+      - title: Our Facilities
+        url: /about-us/chi-facilities/
+      - title: Join Our Mailing List
+        url: https://for.sg/chi-mailinglist
+      - title: CHI SWAG
+        url: https://chi-swag.com/
+  - title: Our Network
+    collection: our-network
+  - title: Platforms And Programmes
+    collection: platforms-and-programmes
+  - title: Events
+    collection: our-events
+  - title: Resource Room
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
