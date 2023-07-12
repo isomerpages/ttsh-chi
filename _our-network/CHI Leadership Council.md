@@ -130,6 +130,7 @@ Council members contribute their expertise by providing insightful guidance, dev
     }
   </style>
 
+<h2> Our CHI Leadership Council Members</h2>
 
   <ul class="jekyllcodex_accordion">
 	    <li>
