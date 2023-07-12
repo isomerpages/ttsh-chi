@@ -13,8 +13,8 @@ OD is key to shaping both excellent hospital care and population health.  Changi
 
 With its focus on building “Better People and empowering Better Communities”, OD’s efforts are largely in these areas: <br>
 
-*	Building collective leadership founded on meaningful relationships where everyone assumes collective responsibility for the success of TTSH &amp; Central Health.<br><br>
+*	Building collective leadership founded on meaningful relationships where everyone assumes collective responsibility for the success of TTSH &amp; Central Health.<br>
 
-*	Building TTSH’s capability and capacity to learn, adapt and renew through formal and informal learning programmes, structures and platforms, supported by Communities of Practice. <br><br>
+*	Building TTSH’s capability and capacity to learn, adapt and renew through formal and informal learning programmes, structures and platforms, supported by Communities of Practice. <br>
 
 *	Building formal and informal workforce to do their jobs well, better and differently through value creation tools, technology enablement and innovation. The goal is a future-ready workforce.
