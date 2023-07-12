@@ -39,7 +39,8 @@ Our Leadership
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
-<td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Leadership Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Dr Jonty Heaversedge  </strong><br>Member of CHI Leadership Council<br>CMO &amp; CCIO<br>South East London, Integrated Care System <br>Clinical Director<br>
+Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
