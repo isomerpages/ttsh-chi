@@ -8,7 +8,7 @@ third_nav_title: Our Offices
 <h4><em>Connect, Collaborate, Convene</em></h4>
 The Partnership &amp; Communications (P&amp;C) Office connects innovators and adopters, drive collaborations between partners in the industry with healthcare stakeholders, convene healthcare professionals and industry players to build thought leadership, and together achieve better health and healthcare for the people. <br><br>
 The team manages the CHI Co-Learning network of local and international partners from Academia, Strategic Agencies, Healthcare Clusters, Community Partners and Industry Knowledge Partners.<br><br>
-The P&amp;C team will:<br><br>
+The P&amp;C team will:<br>
 
 * <b>Connect</b> healthcare stakeholders with industry partners to drive innovative developments or co-learning opportunity. When presented with an innovative idea/process that requires further development with expertise beyond the innovator’s expertise, the P&amp;C team will connect with relevant partners to enable the advancement of an innovative idea.<br>
 *	<b>Collaborate</b> and form value-enabling alliances for healthcare transformation. The team brokers opportunities for partnerships, sponsorships, co-learning initiatives, grants, and events to catalyse value based outcomes<br>
