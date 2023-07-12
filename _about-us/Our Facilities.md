@@ -39,7 +39,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 
 <div class="row">
 <div class="col"> 
-<img alt="chrp" style="width:500px; height:200px; padding-top:8%;" src="/images/office-desk-animation.gif"><br>
+<img alt="chrp" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/chirpp.gif"><br>
 	<div class="header"><b>CHI Reimagination Plaza (CHIRP)</b></div><br>
 	<div class="para">CHIRP is a shared space for reimagining new sustainable models of care. Here, the mission is to tap digitalisation and technologies to create a Hospital without Walls, an ideology for the right and best care to be administered anywhere, anytime.
 </div>
@@ -107,5 +107,3 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 <br>
 </div></div>
 <br>
-
-
