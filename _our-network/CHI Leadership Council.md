@@ -252,7 +252,7 @@ Through her research, she has partnered with a wide range of civic and political
         </style>
 <p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
 Jonathon is a passionate leader of large scale change, and brings over twenty years of experience as a clinician, academic, executive team member, and as a director of local, national and international improvement and innovation.<br><br>
-Notably in 2020 during the Covid-19 pandemic, he led the design, build and operation of Cardiff’s surge hospital. Built in a sports stadium in 4 weeks, the Dragons Heart Hospital was the largest hospital in Wales, and the second largest in the United Kingdom. <br><br>
+Notably in 2020 during the Covid-19 pandemic, he led the design, build and operation of Cardiff’s surge hospital. Built in a sports stadium in 4 weeks, the Dragons Heart Hospital was the largest hospital in Wales, and the second largest in the United Kingdom. Jonathon now runs ‘CLIMB’ the national program designed to support young system leaders who ‘ran towards the fire’.<br><br>
 Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI Fellowship, CHI Faculty, and the setup of the Health &amp; Social Change Academy. 
         </p>
       </div>
