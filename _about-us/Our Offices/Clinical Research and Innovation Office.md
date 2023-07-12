@@ -31,10 +31,7 @@ CRIO is committed to constantly upgrade our capabilities to support both investi
   overflow: hidden;
 }
 
-img {
-  width: 150px;
-  height: 180px;
-}
+
 
 .active,
 .button:hover {
@@ -135,4 +132,4 @@ The Research Centre offers various facilities such as examination rooms, infusio
 		
 <img alt="1" src="/images/phfeng%20research%20centre.png">
 	
-	</div></div></div></div></div>
+</div></div></div></div></div>
