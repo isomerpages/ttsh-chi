@@ -5,7 +5,7 @@ description: ""
 ---
 <h2>CHI Healthcare Advanced Management Programme (CHAMP) </h2>
 
-The environment confronting business leaders of today continues to be volatile. To be successful, leaders need to consider new ways of making decisions and motivating people. The CHI Healthcare Advanced Management Programme (CHAMP) will engage, enable, and empower healthcare leaders through collective leadership &amp; collective learning, that will equip them with the knowledge, skills, and abilities to transform healthcare.<br><br>
+The environment confronting business leaders of today continues to be volatile. To be successful, leaders need to consider new ways of making decisions and motivating people. The CHI Healthcare Advanced Management Programme (CHAMP) will engage, enable, and empower healthcare leaders through collective leadership &amp; collective learning, that will equip them with the knowledge, skills, and abilities to transform healthcare.<br>
 
 Partnership between the Centre for Healthcare Innovation &amp; Nanyang Business School
 
