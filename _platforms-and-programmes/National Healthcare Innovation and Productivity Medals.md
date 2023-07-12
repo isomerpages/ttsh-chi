@@ -130,7 +130,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 </div></div>
 
 
-<p style="font-size: 1.25em">For posters of past winning projects &amp; submissions of the National HIP Medals, check them out on the <a href="to be added">CHI Learning &amp; Development System </a> where we host over 1,000 healthcare innovation projects from across Singapore.</p>
+<p style="font-size: 1.25em">For posters of past winning projects &amp; submissions of the National HIP Medals, check them out on the <a href="www.child.chi.sg">CHI Learning &amp; Development System </a> where we host over 1,000 healthcare innovation projects from across Singapore.</p>
 
 <style>
 .button {
