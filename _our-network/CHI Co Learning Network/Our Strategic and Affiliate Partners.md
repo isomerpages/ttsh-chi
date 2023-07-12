@@ -220,7 +220,7 @@ th, td {
 </div>
 
 <div>
-	<input id="title7" type="checkbox"><label for="title7">Collaborating Partners</label>
+	<input id="title7" type="checkbox"><label for="title7">Collaborating Centres</label>
 	<div class="accordion-content">
 	<table class="table">
   <thead bgcolor="white">
