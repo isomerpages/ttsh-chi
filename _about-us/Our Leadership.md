@@ -156,4 +156,3 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tbody>
 </table>
 
-<p class="right-side-updated">Last updated on 9 June 2023</p>
