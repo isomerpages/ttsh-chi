@@ -106,25 +106,6 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 </div>
 <br>
 </div></div>
-<div class="row">
-<div class="col"> 
-<img alt="skillslab" style="width:500px; height:200px; padding-top:8%;" src="images/Facilities/pb230049.jpg"><br>
-    <div class="header"><b>Skills Lab</b></div><br>
-    <div class="para">-
-</div>
 <br>
 
-</div>
-	<div class="col"> 
-<br>
-    <div class="header"><b></b></div><br>
-    <div class="para">
-</div>
-		</div>
-	<div class="col"> 
-<br>
-    <div class="header"><b></b></div><br>
-    <div class="para">
-</div>
-<br>
-</div></div>
+
