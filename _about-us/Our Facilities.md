@@ -95,7 +95,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 </div>
 	<div class="col"> 
 <img alt="simtac" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/skillslab.gif"><br>
-    <div class="header"><b>Simulation &amp; Integrated Medical Training Advancement Centre(SIMTAC)</b></div><br>
+    <div class="header"><b>Simulation &amp; Integrated Medical Training Advancement Centre (SIMTAC)</b></div><br>
     <div class="para">SIMTAC will be the hub to support, facilitate and advance the use of Simulation Based Healthcare Education (SBHE) in the National Healthcare Group (NHG), Singapore.
 </div>
 		</div>
