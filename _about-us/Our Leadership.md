@@ -22,8 +22,8 @@ Our Leadership
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
-<td style="width: 150px;"><a href="nil"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></a></td>
-<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Member of CHI Leadership Council<br>Deputy Dean Healthcare Innovation &amp; Vice Director <br>Siriraj Hospital <br><a href="nil" target="_blank"><small>LinkedIn</small></a><br></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></td>
+<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Member of CHI Leadership Council<br>Deputy Dean Healthcare Innovation &amp; Vice Director <br>Siriraj Hospital <br><br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
