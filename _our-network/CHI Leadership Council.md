@@ -136,7 +136,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       <input id="accordion-b01" type="checkbox">
       <label for="accordion-b01">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
-				Prof Eugene Fidelis Soh<br>Chairman, CHI Co-Learning Network<br>Deputy Group Chief Executive Officer,<br>National Healthcare Group<br>Chief Executive Officer<br>Tan Tock Seng Hospital<br>Singapore <br>
+				Prof Eugene Fidelis Soh<br>Chairman Of CHI Leadership Council
       </label>
       <div>
         <style>
@@ -162,7 +162,7 @@ To change healthcare, Eugene inspired the set up of the Centre for Healthcare In
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/prof%20cherdchai-01.png">
-A/Prof Cherdchai Nopmaneejumruslers <br>Member, CHI Leadership Council<br>Deputy Dean of Service Innovation and Corporate Value, Siriraj Hospital <br>Thailand
+A/Prof Cherdchai Nopmaneejumruslers <br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -186,7 +186,7 @@ Siriraj Hospital is the first and largest university hospital in Thailand, with 
       <input id="accordion-b2" type="checkbox">
       <label for="accordion-b2">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/go╠êran%20henriks_01%20copy.png">
-        Göran Henriks<br>Member, CHI Leadership Council<br>Chief Executive of Learning and Innovation, County Council;<br>Senior Strategic Advisor, <br>Region Jönköping County;<br>Sweden
+        Göran Henriks<br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -211,7 +211,7 @@ Goran is a Senior Fellow at the Institute for Healthcare Improvement (IHI), and 
       <input id="accordion-b3" type="checkbox">
       <label for="accordion-b3">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/prof%20hahrie%20han-01-min.png">
-        Prof Hahrie Han <br>Member, CHI Leadership Council<br>Professor and Director <br>Stavros Niarchos Foundation Agora Institute <br>Johns Hopkins University<br>United States
+        Prof Hahrie Han <br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -235,7 +235,7 @@ Through her research, she has partnered with a wide range of civic and political
       <input id="accordion-b4" type="checkbox">
       <label for="accordion-b4">
         <img alt="andrew1" style="width:126px;height:125px;" src="/images/Leaders/prof%20jonathon%20gray-01.png">
-        Prof Jonathan Gray <br>Member, CHI Leadership Council<br>Director of Improvement &amp; Innovation <br>Cardiff &amp; Vale University Health Board<br>United Kingdom
+        Prof Jonathan Gray <br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -260,8 +260,7 @@ Jonathon is also a CHI Consultant, supporting keys initiatives such as the CHI F
       <input id="accordion-b5" type="checkbox">
       <label for="accordion-b5">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/jonty_heaversedge-01.png">
-       Dr Jonty Heaversedge<br>Member, CHI Leadership Council<br>Chief Medical Officer &amp; 
-Chief Clinical Informatics Officer<br>NHS South East London Integrated Care Board<br>Executive Clinical Director<br>Imperial College Health Partners<br>United Kingdom
+       Dr Jonty Heaversedge<br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -285,7 +284,7 @@ Jonty is a practicing GP, author and broadcaster whose ongoing work on the front
       <input id="accordion-b6" type="checkbox">
       <label for="accordion-b6">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/dr%20junaid%20bajwa-01.png">
-        Dr Junaid Bajwa<br>Member, CHI Leadership Council<br>Chief Medical Scientist, Microsoft Research; Physician, NHS;<br>United Kingdom 
+        Dr Junaid Bajwa<br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -310,7 +309,7 @@ He has consulted for health care systems across the US, Europe, Australia, the M
       <input id="accordion-b7" type="checkbox">
       <label for="accordion-b7">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/profteoyy.png">
-        Prof Teo Yik-Ying<br>Member, CHI Leadership Council<br>Dean, Saw Swee Hock <br>School of Public Health <br>National University of Singapore <br>Singapore
+        Prof Teo Yik-Ying<br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -324,7 +323,6 @@ He has consulted for health care systems across the US, Europe, Australia, the M
             font-size: 1em;
           }
         </style>
-<p style="float:left; overflow: auto;max-width: 250px;max-height: 281px;font-size: 16px;margin-top: 1px;line-height: 1.5;">Dean, Saw Swee Hock <br>School of Public Health <br>National University of Singapore <br>Singapore </p>
 <p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
 Professor Yik-Ying Teo is the Dean of the Saw Swee Hock School of Public Health at the National University of Singapore.<br><br>
 Prior to his Deanship, he was the Founding Director of the School’s Centre for Health Services and Policy Research (CHSPR) and also served as the Director of the Centre for Infectious Disease Epidemiology and Research (CIDER) from 2015 to 2017.<br><br>
