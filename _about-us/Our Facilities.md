@@ -77,40 +77,40 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 </div>
 		</div>
 	<div class="col"> 
+<img alt="vrlab" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/vrvrvr.gif"><br>
+    <div class="header"><b>Innospace - VR Lab</b></div><br>
+    <div class="para">The VR Lab allows innovators to test-bed and deploy extended reality (XR) solutions including Augmented Reality (AR), Virtual Reality (VR) and Mixed Reality (MR).
+</div>
+<br>
+
+</div></div>
+<div class="row">
+<div class="col"> 
 <img alt="square" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/kampongsq.gif"><br>
     <div class="header"><b>Kampung Square</b></div><br>
     <div class="para">Kampung Square is a bustling space that brings people together. It’s designed as a natural extension of the auditorium to encourage continued dialogues.
 </div>
 <br>
 
-</div></div>
-<div class="row">
-<div class="col"> 
+</div>
+	<div class="col"> 
 <img alt="studio" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/learning%20studio%20seminar%20room-s18.jpg"><br>
     <div class="header"><b>Learning Studios</b></div><br>
     <div class="para">There are Learning Studios built for seminars, workshops and tutorials. It offers a wide variety of configuration ranging from theatre, classroom, cluster, to tutorial layout.
 </div>
-<br>
-
-</div>
+		</div>
 	<div class="col"> 
 <img alt="simtac" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/skillslab.gif"><br>
     <div class="header"><b>Simulation &amp; Integrated Medical Training Advancement Centre (SIMTAC)</b></div><br>
     <div class="para">SIMTAC will be the hub to support, facilitate and advance the use of Simulation Based Healthcare Education (SBHE) in the National Healthcare Group (NHG), Singapore.
 </div>
-		</div>
-	<div class="col"> 
-<img alt="skillslab" style="width:500px; height:200px; padding-top:8%;" src="images/Facilities/pb230049.jpg"><br>
-    <div class="header"><b>Skills Lab</b></div><br>
-    <div class="para">-
-</div>
 <br>
 </div></div>
 <div class="row">
 <div class="col"> 
-<img alt="vrlab" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/vrvrvr.gif"><br>
-    <div class="header"><b>VR Lab</b></div><br>
-    <div class="para">The VR Lab allows innovators to test-bed and deploy extended reality (XR) solutions including Augmented Reality (AR), Virtual Reality (VR) and Mixed Reality (MR).
+<img alt="skillslab" style="width:500px; height:200px; padding-top:8%;" src="images/Facilities/pb230049.jpg"><br>
+    <div class="header"><b>Skills Lab</b></div><br>
+    <div class="para">-
 </div>
 <br>
 
