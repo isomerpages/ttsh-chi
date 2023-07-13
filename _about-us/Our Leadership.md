@@ -120,7 +120,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tbody>
 </table>
 
-<h4>Our Associates </h4>
+<h4>Our Consultants and Associates </h4>
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
