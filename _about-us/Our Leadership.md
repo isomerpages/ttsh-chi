@@ -138,7 +138,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eiseli-loh-69099a36"><img alt="andrew1" src="/images/Leaders/eiseli.png"></a></td>
-<td><strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a> </td>
+<td><strong>Eiseli Loh </strong><br>Associate Director<br>Group Integrated Care<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Leaders/dr%20hoi%20shu%20yin-01.png"></a></td>
@@ -150,7 +150,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119"><img alt="andrew1" src="/images/Leaders/dr%20loh%20yong%20joo-01.png"></a></td>
-<td><strong>Dr Loh Yong Joo</strong><br>Associate Clinical Director<br><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119" target="_blank"><small>LinkedIn</small></a></td>
+<td><strong>Dr Loh Yong Joo</strong><br>Associate Clinical Director<br>Clinical Director, Games for Health Innovation Centre (ALIVE)<br><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 
 </tbody>
