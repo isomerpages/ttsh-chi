@@ -202,9 +202,9 @@ Siriraj Hospital is the first and largest university hospital in Thailand, with 
           }
         </style>
 <p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
-Goran has more than 30 years of experience in management in the Swedish healthcare system. He was the Chief Executive of Qulturum, a centre for quality, leadership, and management development in Jönköping County for 27 years and recently assumed the position as Senior Strategic Advisor for Region Jönköping.<br><br>
-Goran has also been Jönköping's project director for the Pursuing Perfection initiative over the last four years.<br><br>
-Goran is a Senior Fellow at the Institute for Healthcare Improvement (IHI), and is also part of the Strategic Committee ta the International Forum on Quality and Safety in Healthcare organized by the British Medical Journal and IHI.
+Göran has more than 30 years of experience in management in the Swedish healthcare system. He was the Chief Executive of Qulturum, a centre for quality, leadership, and management development in Jönköping County for 27 years and recently assumed the position as Senior Strategic Advisor for Region Jönköping.<br><br>
+Göran has also been Jönköping's project director for the Pursuing Perfection initiative over the last four years.<br><br>
+Göran is a Senior Fellow at the Institute for Healthcare Improvement (IHI), and is also part of the Strategic Committee ta the International Forum on Quality and Safety in Healthcare organized by the British Medical Journal and IHI.
         </p>
       </div>
     </li>
