@@ -46,7 +46,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
-<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br>Chief Medical Scientist <br>Microsoft Research  Board<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br>Chief Medical Scientist <br>Microsoft Research <br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
@@ -120,7 +120,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tbody>
 </table>
 
-<h4>Our Associates </h4>
+<h4>Our Consultants and Associates </h4>
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
@@ -138,7 +138,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eiseli-loh-69099a36"><img alt="andrew1" src="/images/Leaders/eiseli.png"></a></td>
-<td><strong>Eiseli Loh </strong><br>Associate Director<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a> </td>
+<td><strong>Eiseli Loh </strong><br>Associate Director<br>Group Integrated Care<br><a href="https://www.linkedin.com/in/eiseli-loh-69099a36" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Leaders/dr%20hoi%20shu%20yin-01.png"></a></td>
@@ -150,9 +150,8 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119"><img alt="andrew1" src="/images/Leaders/dr%20loh%20yong%20joo-01.png"></a></td>
-<td><strong>Dr Loh Yong Joo</strong><br>Associate Clinical Director<br><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119" target="_blank"><small>LinkedIn</small></a></td>
+<td><strong>Dr Loh Yong Joo</strong><br>Associate Clinical Director<br>Clinical Director, Games for Health Innovation Centre (ALIVE)<br><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 
 </tbody>
 </table>
-
