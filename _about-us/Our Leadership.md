@@ -112,7 +112,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/michelle-lee-754aa96a"><img alt="andrew1" src="/images/Leaders/michelle%20lee-01.png"></a></td>
-<td><strong>Michelle Lee </strong><br>Assistant Director, Partnership &amp; Communications<br><a href="https://www.linkedin.com/in/michelle-lee-754aa96a" target="_blank"><small>LinkedIn</small></a></td>
+<td><strong>Michelle Lee </strong><br>Deputy Director, Partnership &amp; Communications<br><a href="https://www.linkedin.com/in/michelle-lee-754aa96a" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 
 
