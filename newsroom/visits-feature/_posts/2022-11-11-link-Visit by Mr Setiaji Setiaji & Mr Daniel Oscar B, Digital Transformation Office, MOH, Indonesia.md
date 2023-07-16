@@ -5,6 +5,5 @@ date: 2022-11-11
 layout: link
 description: ""
 image: ""
-external: "https://https://www.linkedin.com/feed/update/urn:li:activity:6998819\
-  391605800960/ "
+external: https://linkedin.com/feed/update/urn:li:activity:6998819391605800960/
 ---

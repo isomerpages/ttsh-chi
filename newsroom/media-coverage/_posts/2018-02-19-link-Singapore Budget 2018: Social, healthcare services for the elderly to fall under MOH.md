@@ -5,5 +5,5 @@ date: 2018-02-19
 layout: link
 description: ""
 image: ""
-external: https://https://www.straitstimes.com/singapore/health/singapore-budget-2018-social-healthcare-services-for-the-elderly-to-fall-under-moh
+external: https://straitstimes.com/singapore/health/singapore-budget-2018-social-healthcare-services-for-the-elderly-to-fall-under-moh
 ---

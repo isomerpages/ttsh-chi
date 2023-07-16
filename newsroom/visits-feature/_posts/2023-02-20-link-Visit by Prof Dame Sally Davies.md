@@ -4,6 +4,5 @@ date: 2023-02-20
 layout: link
 description: ""
 image: ""
-external: "https://https://www.linkedin.com/feed/update/urn:li:activity:7033740\
-  886035349504/ "
+external: https://linkedin.com/feed/update/urn:li:activity:7033740886035349504/
 ---
