@@ -23,9 +23,9 @@ Our Leadership
 <tbody>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></td>
-<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Deputy Dean for Service Innovation and Organisational Value <br>
-Siriraj Hospital, Mahidol University <br>
-Bangkok, Thailand <br></td>
+<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Deputy Dean of Service Innovation and Corporate Value <br>
+Siriraj Hospital <br>
+Thailand <br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
