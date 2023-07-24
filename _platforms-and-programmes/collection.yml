@@ -2,7 +2,6 @@ collections:
   platforms-and-programmes:
     output: true
     order:
-      - CHIEF.md
       - National Healthcare Innovation and Productivity Medals.md
       - CHI Learning and Development System.md
       - CHI Start Up Enterprise Link/.keep
@@ -10,6 +9,7 @@ collections:
       - CHI Start Up Enterprise Link/Healthcare InnoMatch 2023.md
       - CHI Fellowship in Healthcare Innovation and Leadership.md
       - CHI Healthcare Advanced Management Programme.md
+      - CHIEF.md
       - Other Leadership Programmes.md
       - Our Funding Programmes/.keep
       - Our Funding Programmes/Digital Prototyping Budget.md
