@@ -96,6 +96,9 @@ input:checked + label + .accordion-content {
 th, td {
   border-style: hidden;
 }
+ a[download]::after {
+   display: none;
+  }
 </style>
 
 <div>
