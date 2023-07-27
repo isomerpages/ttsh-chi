@@ -112,7 +112,7 @@ th, td {
 </div>
 	</div></div>
 	
-<br><br>
+<br>
 	
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
