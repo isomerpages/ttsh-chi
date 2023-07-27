@@ -104,6 +104,6 @@ th, td {
 	<input id="title1" type="checkbox"><label for="title1">	CHI Evaluation Framework</label>
 	<div class="accordion-content">
 	<div class="para">
-		<a href="/files/chief%20guidance%20document.pdf" target="_blank"><img style="width:100%" alt="1" src="/images/photo_2023-07-28_06-12-56.jpg"></a>
+		<a href="/files/chief%20guidance%20document.pdf" download=""><img style="width:100%" alt="1" src="/images/photo_2023-07-28_06-12-56.jpg"></a>
 </div>
 	</div></div>
