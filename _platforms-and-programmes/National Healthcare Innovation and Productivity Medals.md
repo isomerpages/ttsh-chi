@@ -241,6 +241,7 @@ input:checked + label + .accordion-content {
 	<ul>
 		<li><a href="/platformprogrammes/chisel/">CHI Start Up and Enterprise Link (CHISEL)</a></li>
 			<li><a href="/platformprogrammes/child/">CHI Learning and Development System (CHILD)</a></li>
+		<li><a href="/platformprogrammes/chief/">CHI Evaluation Framework</a></li>
 			<li><a href="/platformprogrammes/chi-fellowship/">CHI Fellowship in Healthcare Innovation and Leadership</a></li>
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>

@@ -164,6 +164,8 @@ th, td {
   <tbody>
     <tr>
       <td scope="row"><a href="https://www.nyp.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/nanyang%20poly.svg"></button></a><br>
+      </td>
+      <td scope="row"><a href="https://sph.nus.edu.sg"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/nusnus.svg"></button></a><br>
       </td><td><a href="https://www.singaporetech.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br></td></tr>
    
   </tbody>
@@ -178,13 +180,15 @@ th, td {
   <thead bgcolor="white">
     <tr>
       <th scope="col"><a href="https://designsingapore.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/designsg.svg"></button></a><br> </th>
+			<th scope="col"><a href="https://hpb.gov.sg"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/hpblogo.svg"></button></a><br></th>
       <th scope="col"><a href="https://www.enterprisesg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/enterprise%20singapore.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.ihis.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/ihis%20healthcare.svg"></button></a><br></th>
-    </tr>
-  </thead>
+      
+  </tr></thead>
   <tbody>
     <tr>
-      <td scope="row"><a href="https://www.a-star.edu.sg/sb/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></button></a><br>
+			<td scope="row"><a href="https://www.ihis.com.sg"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/synapxe.svg"></button></a><br>
+      </td>
+			 <td scope="row"><a href="https://www.a-star.edu.sg/sb/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/singapore%20biodesign.svg"></button></a><br>
       </td>
       <td><a href="https://www.wsg.gov.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/workforce%20sg.svg"></button></a><br></td>
     </tr>
