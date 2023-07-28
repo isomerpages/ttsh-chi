@@ -9,14 +9,14 @@ The first of its kind, the CHI Health and Social Change Academy (HSCA), through 
 
 <b>Comm-PACT"</b> , as a capability building suite, brings together care providers, health and social partners and residents, as communities, into a **social learning space** for (the):
 
-<li><b>Population</b> – Drive integration of health and social care, focus on health of vulnerable groups, and improve overall health of residents.
+<li><b>Population</b> – Drive integration of health and social care, focus on health of vulnerable groups, and improve overall health of residents.</li>
 
-</li><li><b>Activation</b> – Enable communities and individuals to take action to improve and maintain their health.
+<li><b>Activation</b> – Enable communities and individuals to take action to improve and maintain their health.</li>
 
-</li><li><b>Collaboration</b> – Build collective leadership and collaborative partnerships through engagement, teaming and networks.
+<li><b>Collaboration</b> – Build collective leadership and collaborative partnerships through engagement, teaming and networks.</li>
 
-</li><li><b>Transformation</b> – Harness the power of social movements to scale health and wellbeing of the population.
+<li><b>Transformation</b> – Harness the power of social movements to scale health and wellbeing of the population.</li>
 
 Through its nine stackable modules, HSCA will equip participants with essential skills, knowledge, and tools to be activators, collaborators and agents of transformation for community health.
 
-Stay tuned to more information.</li>
+Stay tuned to more information.
