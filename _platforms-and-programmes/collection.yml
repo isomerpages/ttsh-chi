@@ -2,7 +2,6 @@ collections:
   platforms-and-programmes:
     output: true
     order:
-      - Health & Social Change Academy.md
       - National Healthcare Innovation and Productivity Medals.md
       - CHI Learning and Development System.md
       - CHI Start Up Enterprise Link/.keep
@@ -11,6 +10,7 @@ collections:
       - CHI Evaluation Framework.md
       - CHI Fellowship in Healthcare Innovation and Leadership.md
       - CHI Healthcare Advanced Management Programme.md
+      - Health & Social Change Academy.md
       - Other Leadership Programmes.md
       - Our Funding Programmes/.keep
       - Our Funding Programmes/Digital Prototyping Budget.md
