@@ -19,4 +19,4 @@ The first of its kind, the CHI Health and Social Change Academy (HSCA), through 
 
 Through its nine stackable modules, HSCA will equip participants with essential skills, knowledge, and tools to be activators, collaborators and agents of transformation for community health.
 
-Stay tuned to more information. 
+Stay tuned to more information.
