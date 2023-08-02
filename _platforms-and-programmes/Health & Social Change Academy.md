@@ -5,7 +5,7 @@ description: ""
 ---
 ## CHI Health &amp; Social Change Academy 
 
-The first of its kind, the CHI Health and Social Change Academy, through **“Comm-PACT”** is an important step towards levelling up capabilities to scale our efforts in building CoCs for a Healthier SG.
+The first of its kind, the CHI Health and Social Change Academy, through **“Comm-PACT”** is an important step towards levelling up capabilities to scale our efforts in building Communities of Care for a Healthier SG.
 
 <b>"Comm-PACT"</b> , as a capability building suite, brings together care providers, health and social partners and residents, as communities, into a **social learning space** for (the):
 
