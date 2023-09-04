@@ -12,7 +12,7 @@ Our Leadership
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Chairman.png"></a></td>
-<td><strong>Prof Eugene Fidelis Soh</strong><br>Chairman<br>CHI Co-Learning Network and CHI Council<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
+<td><strong>Prof Eugene Fidelis Soh</strong><br>Chairman<br>Centre for Healthcare Innovation<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
 </td></tr>
 </tbody>
 </table>
