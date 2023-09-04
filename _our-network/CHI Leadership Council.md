@@ -137,7 +137,7 @@ Council members contribute their expertise by providing insightful guidance, dev
       <input id="accordion-b01" type="checkbox">
       <label for="accordion-b01">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
-				Prof Eugene Fidelis Soh<br>Chairman Of CHI Leadership Council
+				Prof Eugene Fidelis Soh<br>Chair, CHI Leadership Council
       </label>
       <div>
         <style>
