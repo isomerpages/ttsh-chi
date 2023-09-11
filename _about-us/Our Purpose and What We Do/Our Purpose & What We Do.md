@@ -58,4 +58,4 @@ th:nth-child(odd),td:nth-child(odd) {
 </table>
 <h1>Our Work in Numbers</h1>
 
-<img alt="cycle" style="width:378px;" src="/images/chi%20in%20numbers.png"><br>
+![](/images/chi%20in%20numbers_v2.png)
