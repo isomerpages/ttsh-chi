@@ -57,5 +57,6 @@ th:nth-child(odd),td:nth-child(odd) {
   </tbody>
 </table>
 <h1>Our Work in Numbers</h1>
+Updated as of July 2023.
 
-<img alt="cycle" style="width:378px;" src="/images/chi%20in%20numbers.png"><br>
+<img alt="cycle" style="width:378px;" src="/images/chi%20in%20numbers_v2.png"><br>
