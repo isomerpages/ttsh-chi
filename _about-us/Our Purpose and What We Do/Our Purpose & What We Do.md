@@ -59,3 +59,4 @@ th:nth-child(odd),td:nth-child(odd) {
 <h1>Our Work in Numbers</h1>
 
 ![](/images/chi%20in%20numbers_v2.png)
+*Updated as of July 2023. *
