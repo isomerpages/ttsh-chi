@@ -16,6 +16,8 @@ Through “Comm-PACT”, a capability building suite of 9 stackable modules acro
 
 ![](/images/commpact.png) 
 
-## Our Partners
+<h3> Academy Programme and Schedule </h3>
+
+<h3> Our Partners</h3>
 
 ![](/images/hsca%20partners.png)
