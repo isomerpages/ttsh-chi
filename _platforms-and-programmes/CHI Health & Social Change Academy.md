@@ -3,7 +3,7 @@ title: CHI Health & Social Change Academy
 permalink: /platforms-and-programmes/healthandsocialchange/
 description: ""
 ---
-## CHI Health and Social Change Academy 
+## About the Health and Social Change Academy (HSCA) 
 
 
 The first of its kind, the CHI Health and Social Change Academy (HSCA) equips participants with essential skills, knowledge, and tools to be activators, collaborators and agents of transformation for happier and healthier communities.
