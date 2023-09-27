@@ -8,7 +8,6 @@ description: ""
 
 The first of its kind, the CHI Health and Social Change Academy (HSCA) equips participants with essential skills, knowledge, and tools to be activators, collaborators and agents of transformation for happier and healthier communities.
 
-<br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mUKfVF3YQeo?si=SIukPBF-fAnRfvL0" height="315" width="560"></iframe>
 <br> 
 
