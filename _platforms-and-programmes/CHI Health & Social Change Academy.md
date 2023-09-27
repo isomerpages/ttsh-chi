@@ -5,18 +5,14 @@ description: ""
 ---
 ## CHI Health &amp; Social Change Academy 
 
-The first of its kind, the CHI Health and Social Change Academy, through **“Comm-PACT”** is an important step towards levelling up capabilities to scale our efforts in building Communities of Care for a Healthier SG.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mUKfVF3YQeo?si=PE7KfsMGs9S13fkI" height="315" width="560"></iframe>
 
-<b>"Comm-PACT"</b> , as a capability building suite, brings together care providers, health and social partners and residents, as communities, into a **social learning space** for (the):
+The first of its kind, the CHI Health and Social Change Academy (HSCA) equips participants with essential skills, knowledge, and tools to be activators, collaborators and agents of transformation for happier and healthier communities.
 
-<li><b>Population</b> – Drive integration of health and social care, focus on health of vulnerable groups, and improve overall health of residents.</li>
+Through “Comm-PACT”, a capability building suite of 9 stackable modules across 4 strategic programmes, the Health and Social Change Academy is an important step towards levelling up capabilities to scale our efforts in building Communities of Care (CoCs) for a Healthier SG.
 
-<li><b>Activation</b> – Enable communities and individuals to take action to improve and maintain their health.</li>
+![](/images/commpact.png) 
 
-<li><b>Collaboration</b> – Build collective leadership and collaborative partnerships through engagement, teaming and networks.</li>
+**Our Partners **
 
-<li><b>Transformation</b> – Harness the power of social movements to scale health and wellbeing of the population.</li>
-
-Through its nine stackable modules, the Academy will equip participants with essential skills, knowledge, and tools to be activators, collaborators and agents of transformation for community health.
-
-Stay tuned for more information.
+![](/images/hsca%20partners.png)
