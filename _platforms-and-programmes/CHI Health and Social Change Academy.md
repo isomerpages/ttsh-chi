@@ -25,7 +25,17 @@ Through “Comm-PACT”, a capability building suite of 9 stackable modules acro
 
 <h3> Academy Programme and Schedule </h3>
 
-To be updated. 
+
+
+| Modules | Sign up if you want to | Schedule |
+| -------- | -------- | -------- |
+| Population Health for Leaders     | Text     | Text     |
+| Population Health in Action     | Text     | Text     |
+| Getting Started on Preventive Health   | Text     | Text     |
+| Getting Started on Social Prescibing    | Text     | Text     |
+| Leading as a Collective   | Text     | Text     |
+| Movement for Health &amp; Social Impact  | Text     | Text     |
+
 
 <h3> Our Partners</h3>
 
