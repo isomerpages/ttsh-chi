@@ -34,7 +34,7 @@ Through “Comm-PACT”, a capability building suite of 9 stackable modules acro
 | Leading as a Collective   | • Build shared vision <br> • Engage in trusting one-to-one relationships <br> • Team with diverse partners <br> • Network to access resources   | 5 - 8 Mar 2024    |
 | Movement for Health &amp; Social Impact  | Learn how to design and lead large-scale change     | Q2, 2024     |
 
-Connect with us here: https://for.sg/chi-hsca
+Connect with us [here](https://for.sg/chi-hsca)!
 
 <h3> Our Partners</h3>
 
