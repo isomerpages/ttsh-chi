@@ -38,4 +38,4 @@ Connect with us [here](https://for.sg/chi-hsca)!
 
 <h3> Our Partners</h3>
 
-![](/images/hsca%20partners.png)
+![](/images/hsca%20partners_v2.PNG)
