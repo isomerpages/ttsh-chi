@@ -25,14 +25,12 @@ Through “Comm-PACT”, a capability building suite of 9 stackable modules acro
 
 <h3> Academy Programme and Schedule </h3>
 
-
-
 | Modules | Sign up if you want to | Schedule |
 | -------- | -------- | -------- |
-| Population Health for Leaders     | Text     | Text     |
-| Population Health in Action     | Text     | Text     |
-| Getting Started on Preventive Health   | Text     | Text     |
-| Getting Started on Social Prescibing    | Text     | Text     |
+| Population Health for Leaders     | Understand what Population Health is   | 16 Jan 2023 <br> 26 Sep - 27 Sep 2023     |
+| Population Health in Action     | Understand how to incorporate population health thinking and apply population health tools in your new programme    | Q1 - Q2, 2024     |
+| Getting Started on Preventive Health   | Develop preventive health programmes for your patients or clients     | Q1, 2024     |
+| Getting Started on Social Prescribing    | Text     | Text     |
 | Leading as a Collective   | Text     | Text     |
 | Movement for Health &amp; Social Impact  | Text     | Text     |
 
