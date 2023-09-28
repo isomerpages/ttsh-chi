@@ -27,12 +27,12 @@ Through “Comm-PACT”, a capability building suite of 9 stackable modules acro
 
 | Modules | Sign up if you want to | Schedule |
 | -------- | -------- | -------- |
-| Population Health for Leaders     | Understand what Population Health is   | 16 Jan 2023, 26 Sep - 27 Sep 2023     |
-| Population Health in Action     | Understand how to incorporate population health thinking and apply population health tools in your new programme    | Q1 - Q2, 2024     |
-| Getting Started on Preventive Health   | Develop preventive health programmes for your patients or clients     | Q1, 2024     |
-| Getting Started on Social Prescribing    | • Learn tools to perform social prescribing and link work <br> • Develop Preventive Health Programmes     | 25 Mar 2024    |
-| Leading as a Collective   | • Build shared vision <br> • Engage in trusting one-to-one relationships <br> • Team with diverse partners <br> • Network to access resources   | 5 - 8 Mar 2024    |
-| Movement for Health &amp; Social Impact  | Learn how to design and lead large-scale change     | Q2, 2024     |
+| **Population Health for Leaders**     | Understand what Population Health is   | 16 Jan 2023, 26 Sep - 27 Sep 2023     |
+| **Population Health in Action**     | Understand how to incorporate population health thinking and apply population health tools in your new programme    | Q1 - Q2, 2024     |
+| **Getting Started on Preventive Health**   | Develop preventive health programmes for your patients or clients     | Q1, 2024     |
+| **Getting Started on Social Prescribing**    | • Learn tools to perform social prescribing and link work <br> • Develop Preventive Health Programmes     | 25 Mar 2024    |
+| **Leading as a Collective**   | • Build shared vision <br> • Engage in trusting one-to-one relationships <br> • Team with diverse partners <br> • Network to access resources   | 5 - 8 Mar 2024    |
+| **Movement for Health &amp; Social Impact**  | Learn how to design and lead large-scale change     | Q2, 2024     |
 
 Connect with us [here](https://for.sg/chi-hsca)!
 
