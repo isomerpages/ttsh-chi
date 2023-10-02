@@ -14,7 +14,7 @@ This year, in partnership with National Healthcare Group, National University He
 	
 </p><h3> Our 2023 Winners </h3>
 
-<br> <br>Find out more about Healthcare InnoMatch 2023 and the winners [**here**](https://chisel.2023.iottribe.org/en/page/2023-winners-en)! <br><br> 
+<br> Find out more about Healthcare InnoMatch 2023 and the winners [**here**](https://chisel.2023.iottribe.org/en/page/2023-winners-en)! <br><br> 
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
