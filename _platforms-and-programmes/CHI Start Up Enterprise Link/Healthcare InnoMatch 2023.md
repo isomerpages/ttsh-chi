@@ -7,7 +7,6 @@ third_nav_title: CHI Start Up Enterprise Link
 <div>
 
 <h2> Healthcare InnoMatch 2023</h2>
-	
 
 <p>Organised by Centre for Healthcare Innovation and supported by Ministry of Health and Temasek Foundation, CHISEL is hosting the “Healthcare InnoMatch”, an international call for innovative, market-ready or near market-ready solutions to address critical and emerging healthcare needs. Over 2 successful runs in 2021 and 2022, 400 over companies across 32 countries competed, from where 9 companies were chosen to testbed their solutions directly with the hospitals. <br><br>
 
