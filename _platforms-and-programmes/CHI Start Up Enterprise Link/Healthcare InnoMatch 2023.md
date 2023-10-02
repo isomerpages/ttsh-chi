@@ -14,8 +14,9 @@ third_nav_title: CHI Start Up Enterprise Link
 This year, in partnership with National Healthcare Group, National University Health System and SingHealth, Healthcare InnoMatch 2023 seeks solutions in reshaping preventive care for a healthier population. Successful proposals will obtain funding support to demonstrate their solutions in operational environments, and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovations, bringing them a step closer to benefit patients. <br>
 	
 </p><h3> Introducing our Winners for Healthcare InnoMatch 2023 </h3>
+![](/images/healthcare%20innomatch%202023%20winners.png)
 
-Visit <a href="https://chisel.2023.iottribe.org/en">https://chisel.2023.iottribe.org/en/</a>to find out more about Healthcare InnoMatch 2023! <p></p></div><br>
+Find out more about Healthcare InnoMatch 2023 and the winners [**here**](https://chisel.2023.iottribe.org/en/page/2023-winners-en)! <br><br> 
 
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 
@@ -27,4 +28,4 @@ Visit <a href="https://chisel.2023.iottribe.org/en">https://chisel.2023.iottribe
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div>
+</div></div>
