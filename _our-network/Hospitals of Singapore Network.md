@@ -5,7 +5,6 @@ description: ""
 ---
 <div style="font-size:1.25em">
 	<h2>About the Hospitals of Singapore Network</h2>
-	<div>
 		
 ![](/images/hos%20network%20logo.png)
 
@@ -13,9 +12,11 @@ description: ""
 
 Contact HOS Network Secretariat Team at [hos@chi.sg](mailto:hos@chi.sg) or +65 6903 5344.<br>
 
-</div></div> 
+</div> 
 
 <h2> Our Partners </h2>
+
+
 
 
 
