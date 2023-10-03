@@ -11,8 +11,7 @@ The Hospitals of Singapore (HOS) Network drives collective leadership for the fu
 
 Contact HOS Network Secretariat Team at [hos@chi.sg](mailto:hos@chi.sg) or +65 6903 5344.
 
-### Our Partners
-
+#### Our Partners
 ###### HOS Network Members
 ![](/images/hos%20network%20members.png)
 
