@@ -13,9 +13,9 @@ This year, in partnership with National Healthcare Group, National University He
 <h3>Our 2023 Winners</h3>
 
 
-Find out more about them [here](https://chisel.2023.iottribe.org/en/page/2023-winners-en)!
-![](/images/healthcareinnomatch%20winners.jpg)
 
+![](/images/healthcareinnomatch%20winners.jpg)
+Find out more about them [here](https://chisel.2023.iottribe.org/en/page/2023-winners-en)!
 
 <br>
 
