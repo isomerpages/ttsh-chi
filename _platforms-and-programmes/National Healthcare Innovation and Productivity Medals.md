@@ -223,7 +223,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
 	<div class="accordion-content">
-	<div class="para"> For the winners of 2023's National HIP Medals, you can check out our Press Release. <br><br>Keep an eye on this space for 2024 Call for Submission. 
+	<div class="para"> For the winners of 2023's National HIP Medals, you can check out our <a href="https://www.chi.sg/files/chi%20press%20release%2028%20july%202023.pdf">Press Release</a> . <br><br>Keep an eye on this space for 2024 Call for Submission. 
 
 </div>
 	</div>
