@@ -10,7 +10,9 @@ Organised by Centre for Healthcare Innovation and supported by Ministry of Healt
 	
 This year, in partnership with National Healthcare Group, National University Health System and SingHealth, Healthcare InnoMatch 2023 seeks solutions in reshaping preventive care for a healthier population. Successful proposals will obtain funding support to demonstrate their solutions in operational environments, and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovations, bringing them a step closer to benefit patients.
 
-<h3>Our 2023 Winners</h3><h3>
+<h3>Our 2023 Winners</h3>
+
+![](/images/healthcareinnomatch%20winners.jpg)
 
 <br>
 
@@ -24,4 +26,4 @@ This year, in partnership with National Healthcare Group, National University He
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div></h3>
+</div>
