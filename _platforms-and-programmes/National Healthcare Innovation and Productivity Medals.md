@@ -223,7 +223,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Announcements</label>
 	<div class="accordion-content">
-	<div class="para">This year’s call for submission has closed. Stay tuned for the results post July 2023 and keep an eye on this space for 2024 Call for Submission. 
+	<div class="para"> For the winners of 2023's National HIP Medals, you can check out our Press Release. <br><br>Keep an eye on this space for 2024 Call for Submission. 
 
 </div>
 	</div>
