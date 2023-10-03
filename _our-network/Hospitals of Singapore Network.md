@@ -3,7 +3,7 @@ title: Hospitals of Singapore Network
 permalink: /our-network/hospitals-of-singapore/
 description: ""
 ---
-### About the Hospitals of Singapore Network 
+## About the Hospitals of Singapore Network 
  
  ![](/images/hos_high%20res%20logo.png)
 
@@ -11,9 +11,9 @@ The Hospitals of Singapore (HOS) Network drives collective leadership for the fu
 
 Contact HOS Network Secretariat Team at [hos@chi.sg](mailto:hos@chi.sg) or +65 6903 5344.
 
-#### Our Partners
-###### HOS Network Members
+### Our Partners
+##### HOS Network Members
 ![](/images/hos%20network%20members.png)
 
-###### Global Affiliation
+##### Global Affiliation
 ![](/images/ihf%20global%20affiliate.png)
