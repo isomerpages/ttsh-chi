@@ -14,6 +14,6 @@ Contact HOS Network Secretariat Team at [hos@chi.sg](mailto:hos@chi.sg) or +65 6
 ### Our Partners
 
 ###### HOS Network Members
-
+![](/images/hos%20network%20members.png)
 
 ###### Global Affiliation
