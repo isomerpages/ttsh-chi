@@ -16,7 +16,14 @@ links:
       - title: CHI SWAG
         url: https://chi-swag.com/
   - title: Our Network
-    collection: our-network
+    url: /our-network/chileadershipcouncil/
+    sublinks:
+      - title: CHI Leadership Council
+        url: /our-network/chileadershipcouncil/
+      - title: CHI Co-Learning Network
+        url: /our-network/about-the-chi-co-learning-network/
+      - title: Hospitals of Singapore Network
+        url: http://hospitalsofsingapore.sg/
   - title: Platforms And Programmes
     collection: platforms-and-programmes
   - title: Events

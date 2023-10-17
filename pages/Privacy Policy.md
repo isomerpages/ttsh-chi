@@ -13,7 +13,10 @@ We, as a public healthcare institution, respect and keep your data safe by:
 <li>removing details that identify you when using your data for internal purposes as far as possible.</li>
  
 <h2>Serving You as a Public Healthcare Institution</h2>
-When you seek care at other healthcare providers, we will share relevant data with them through trusted information systems like the National Electronic Health Record (NEHR) system.<br>
+
+When you seek care at other healthcare providers, we will share relevant data with them through trusted information systems like the National Electronic Health Record (NEHR) system.
+<br>
+<br> 
 We may use your personal data to invite you to participate in suitable care programmes, or shortlist you for participation in relevant research studies.<br>
 As a public healthcare institution, we share relevant data and participate in national and multi-agency efforts to:<br>
 <li>review healthcare policies and requirements,</li>
