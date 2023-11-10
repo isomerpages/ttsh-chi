@@ -2,6 +2,7 @@
 title: National Healthcare Innovation and Productivity Medals
 permalink: /platformprogrammes/nationalhipmedals/
 description: ""
+variant: markdown
 ---
 <h2> National Healthcare Innovation and Productivity Medals</h2>
 
@@ -83,7 +84,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 <div class="row">
 <div class="col"> 
-<a href="https://chiinnovate2023.klobbi.com/"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
+<a href="https://www.youtube.com/watch?v=0y7M_8a_7CI"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
 		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>2022 </b></center></div>
 		<div class="para">
 </div>
