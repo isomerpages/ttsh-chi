@@ -3,6 +3,7 @@ title: Our Strategic and Affiliate Partners
 permalink: /our-network/ourpartners/
 description: ""
 third_nav_title: CHI Co Learning Network
+variant: markdown
 ---
 <style>
 .button {
@@ -115,32 +116,32 @@ th, td {
   <thead bgcolor="white">
     <tr>
       <th scope="col"><a href="https://www.aic.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Strategic%20Partners/aicaic.svg"></button></a><br> </th>
-      <th scope="col"><a href="https://www.awwa.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/awwaawwa.svg"></button></a><br></th>
-      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/care%20corner.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.awwa.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/awwaawwa.svg"></button></a><br></th>
+      <th scope="col"><a href="https://www.carecorner.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/care%20corner.svg"></button></a><br></th>
     </tr>
   </thead>
   <tbody>
-    <tr><td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/dover%20park%20logo.svg"></button></a><br>
+    <tr><td scope="row"><a href="https://www.doverpark.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/dover%20park%20logo.svg"></button></a><br>
       </td><td><a href="https://www.imperial.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nh%20trust.svg"></button></a><br></td>
-      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/kwshhospital.svg"></button></a><br></td>
+      <td><a href="https://www.kwsh.org.sg/en/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/kwshhospital.svg"></button></a><br></td>
     </tr>
-     <tr><td scope="row"><a href="https://mws.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/methodist%20welfare%20services.svg"></button></a><br>
+     <tr><td scope="row"><a href="https://mws.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/methodist%20welfare%20services.svg"></button></a><br>
       </td><td><a href="https://corp.nhg.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nhgroup.svg"></button></a><br></td>
       <td><a href="https://www.nuhs.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/nuhsgroup.svg"></button></a><br></td>
     </tr>
 	  <tr><td scope="row"><a href="https://www.northerncarealliance.nhs.uk/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/nhs%20nca%20logo.svg"></button></a><br>
-      </td><td><a href="https://ntuchealth.sg/about-us"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ntuc%20health.svg"></button></a><br></td>
+      </td><td><a href="https://ntuchealth.sg/about-us"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/ntuc%20health.svg"></button></a><br></td>
       <td><a href="test"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/qultrum.svg"></button></a><br></td>
     </tr>
-	  <tr><td scope="row"><a href="https://www.renci.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/ren%20ci.svg"></button></a><br>
+	  <tr><td scope="row"><a href="https://www.renci.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/ren%20ci.svg"></button></a><br>
       </td><td><a href="https://english.riberasalud.com/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/logo%20rs.svg"></button></a><br></td>
       <td><a href="https://www.singhealth.com.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Healthcare/singhealth.svg"></button></a><br></td>
     </tr>
-	  <tr><td scope="row"><a href="https://www.slec.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/stlukes.svg"></button></a><br>
-      </td><td><a href="https://www.thkms.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/thkchinese.svg"></button></a><br></td>
-      <td><a href="https://www.touch.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/touchcomm.svg"></button></a><br></td>
+	  <tr><td scope="row"><a href="https://www.slec.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/stlukes.svg"></button></a><br>
+      </td><td><a href="https://www.thkms.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/thkchinese.svg"></button></a><br></td>
+      <td><a href="https://www.touch.org.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/touchcomm.svg"></button></a><br></td>
     </tr>
-		  <tr><td scope="row"><a href="https://tsaofoundation.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Parnter/tsao%20foundation.svg"></button></a><br>
+		  <tr><td scope="row"><a href="https://tsaofoundation.org/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Comm%20Partner/tsao%20foundation.svg"></button></a><br>
       </td><td><a href="https://mahidol.ac.th/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/International/r2routine.svg"></button></a><br></td>
       <td><br></td>
     </tr>
@@ -167,8 +168,10 @@ th, td {
       </td>
       <td scope="row"><a href="https://sph.nus.edu.sg"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/nusnus.svg"></button></a><br>
       </td><td><a href="https://www.singaporetech.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br></td></tr>
+		<tr><td scope="row"><a href="https://www.suss.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/suss_horizontal_format.jpg"></button></a><br>
    
-  </tbody>
+			
+  </td></tr></tbody>
 </table>
 		
 
