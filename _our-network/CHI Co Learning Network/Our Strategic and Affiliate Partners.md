@@ -168,7 +168,7 @@ th, td {
       </td>
       <td scope="row"><a href="https://sph.nus.edu.sg"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/nusnus.svg"></button></a><br>
       </td><td><a href="https://www.singaporetech.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/singapore%20it.svg"></button></a><br></td></tr>
-		<tr><td scope="row"><a href="https://www.nyp.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/nanyang%20poly.svg"></button></a><br>
+		<tr><td scope="row"><a href="https://www.suss.edu.sg/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px;" src="/images/Logos/Academic/suss_horizontal_format.jpg"></button></a><br>
    
   </td></tr></tbody>
 </table>
