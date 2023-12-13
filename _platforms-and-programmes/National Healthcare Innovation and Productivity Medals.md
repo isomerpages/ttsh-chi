@@ -84,6 +84,13 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 <div class="row">
 <div class="col"> 
+<a href="https://www.youtube.com/watch?v=2b71A8go_ps"><img alt="2023" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
+		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>2023 </b></center></div>
+		<div class="para">
+</div>
+	
+<div class="row">
+<div class="col"> 
 <a href="https://www.youtube.com/watch?v=0y7M_8a_7CI"><img alt="2022" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
 		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>2022 </b></center></div>
 		<div class="para">
@@ -247,4 +254,4 @@ input:checked + label + .accordion-content {
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div>
+</div></div></div>
