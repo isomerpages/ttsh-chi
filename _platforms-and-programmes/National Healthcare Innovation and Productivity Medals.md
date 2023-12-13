@@ -88,6 +88,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>2023 </b></center></div>
 		<div class="para">
 </div>
+</div></div>
 	
 <div class="row">
 <div class="col"> 
@@ -254,4 +255,4 @@ input:checked + label + .accordion-content {
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
 	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
 	</ul>
-</div></div></div>
+</div>
