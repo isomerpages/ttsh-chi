@@ -84,7 +84,7 @@ Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformat
 
 <div class="row">
 <div class="col"> 
-<a href="https://www.youtube.com/watch?v=2b71A8go_ps"><img alt="2023" style="width:352px; height:182px;" src="/images/Nhip/2022gif.gif"></a>
+<a href="https://www.youtube.com/watch?v=2b71A8go_ps"><img alt="2023" style="width:352px; height:182px;" src="/images/Nhip/NHIP2023.gif"></a>
 		<div class="header" style="background-color:grey;color:white;font-size:25px;"><center><b>2023 </b></center></div>
 		<div class="para">
 </div>
