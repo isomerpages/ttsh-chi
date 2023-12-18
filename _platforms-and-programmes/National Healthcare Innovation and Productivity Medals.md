@@ -72,7 +72,7 @@ th:nth-child(odd),td:nth-child(odd) {
       <td style="color: white; text-align:center;" scope="row">Project(s) that have demonstrated innovation and productivity for each category in:
 Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformation</td>
 			<td style="color: white; text-align:center;">Project(s) that have demonstrated exceptional innovation, productivity, sustainability, scale and spread in more than one award category</td>
-      <td style="color: white; text-align:center;">Team(s) that have adopted past national or international level awarded solutions into their respective institution(s) </td>
+      <td style="color: white; text-align:center;">Team(s) who have adopted past national or international level awarded solutions into their respective institution(s) </td>
 			<td style="color: white; text-align:center;">This grant encourages efforts in innovation and allows seed projects to start</td>
     </tr>
    
