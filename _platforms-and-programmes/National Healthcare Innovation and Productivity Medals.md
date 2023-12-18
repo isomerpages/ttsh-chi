@@ -64,7 +64,7 @@ th:nth-child(odd),td:nth-child(odd) {
       <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
       <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
       <th style="color: white; text-align:center;" scope="col">BEST ADOPTER</th>
-			<th style="color: white; background-color: grey; text\-align:center;" scope="col">SEED FUNDING GRANT</th>
+			<th style="color: white; background-color: grey; text\-align:center;" scope="col">SEED FUNDING</th>
     </tr>
   </thead>
   <tbody>
@@ -72,8 +72,8 @@ th:nth-child(odd),td:nth-child(odd) {
       <td style="color: white; text-align:center;" scope="row">Project(s) that have demonstrated innovation and productivity for each category in:
 Care Redesign; Automation, IT and Robotics Innovation; and Workforce Transformation</td>
 			<td style="color: white; text-align:center;">Project(s) that have demonstrated exceptional innovation, productivity, sustainability, scale and spread in more than one award category</td>
-      <td style="color: white; text-align:center;">Project(s) that have demonstrated track records in adopting/ embracing past awarded solutions </td>
-			<td style="color: white; text-align:center;">This newly introduced grant encourages efforts in innovation and allows seed projects to start</td>
+      <td style="color: white; text-align:center;">Team(s) that have adopted past national or international level awarded solutions into their respective institution(s) </td>
+			<td style="color: white; text-align:center;">This grant encourages efforts in innovation and allows seed projects to start</td>
     </tr>
    
   </tbody>
