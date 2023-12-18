@@ -64,7 +64,7 @@ th:nth-child(odd),td:nth-child(odd) {
       <th style="color: white; text-align:center;" scope="col">BEST PRACTICE</th>
       <th style="color: white; background-color: grey; text\-align:center;" scope="col">EXCELLENCE CHAMPION</th>
       <th style="color: white; text-align:center;" scope="col">BEST ADOPTER</th>
-			<th style="color: white; background-color: grey; text\-align:center;" scope="col">SEED FUNDING</th>
+			<th style="color: white; background-color: grey; text\-align:center;" scope="col">SEED FUND</th>
     </tr>
   </thead>
   <tbody>
