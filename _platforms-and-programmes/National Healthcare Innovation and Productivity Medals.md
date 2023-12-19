@@ -15,7 +15,7 @@ variant: markdown
 
 </div>
 	<div class="col"> 
-	<div class="header"><p>Organised by CHI and supported by the Ministry of Health as well as the Ng Teng Fong Healthcare Innovation Programme, the annual National Healthcare Innovation &amp; Productivity (HIP) Medals is a prestigious, national-level award that recognises local healthcare and community care institutions that have demonstrated thought leadership through bringing about health and social change, as well as the implementation of innovative, productivity projects. It is open to all local healthcare, and Community/ Intermediate and Long-Term Care institutions.</p>
+	<div class="header"><p>Organised by CHI and supported by the Ministry of Health as well as the Ng Teng Fong Healthcare Innovation Programme, the annual National Healthcare Innovation &amp; Productivity (HIP) Medals is a prestigious, national-level award that recognises local and private healthcare; as well as community/ intermediate and long-term care institutions that have demonstrated thought leadership and excellence in healthcare innovation &amp; productivity.</p>
  </div><br></div></div>
  </div>
  
