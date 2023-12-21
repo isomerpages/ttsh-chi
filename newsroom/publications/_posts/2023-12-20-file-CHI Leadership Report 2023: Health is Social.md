@@ -1,5 +1,5 @@
 ---
-title: CHI Leadership Report 2023
+title: "CHI Leadership Report 2023: Health is Social"
 date: 2023-12-20
 layout: file
 description: ""
