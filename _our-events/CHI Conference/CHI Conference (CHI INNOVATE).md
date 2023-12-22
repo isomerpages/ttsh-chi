@@ -3,18 +3,28 @@ title: CHI Conference (CHI INNOVATE)
 permalink: /our-events/chi-innovate/
 description: ""
 third_nav_title: CHI Conference
+variant: markdown
 ---
-<h2> CHI INNOVATE 2023</h2>
+<h2> CHI INNOVATE 2024</h2>
 
-![](/images/innovate23.png)
+![](/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png)
 
-<h3>Building Bridges: Health &amp; Social Care</h3>
-Healthcare is expanding our focus: from healthcare to health; from patients to people; from clinical centres to communities of care.<br>
+<h3>Sustainability in Healthcare</h3>
 
-<b>CHI INNOVATE 2023</b> will galvanise us to breach traditional boundaries and work with community partners to catalyse health and social change, ultimately creating more sustainable healthcare and healthy communities. <br>
+Healthcare’s sacred duty is to “Do No Harm” as we provide care for our patients; But this very duty has inflicted harm on the environment. If Healthcare were a country, we would be Earth’s 4th largest carbon emitter.
 
-Find out more 
- <a href="https://chiinnovate2023.klobbi.com/">here.</a>
+At the same time, the climate crisis is also a healthcare crisis.
+
+The effects of global warming will bring an even larger tsunami of patients to our doors in the future.
+
+CHI INNOVATE 2024, under the banner of “Sustainability in Healthcare”, will explore our relationship with our environment, while seeking innovative solutions to inspire and galvanise us to be ‘good ancestors’.&nbsp;
+
+As a conference, we also aim to be an event with strong sustainable practices.
+
+Join us on **4 &amp; 5 July 2024** as we pledge our oath to extend our healing touch not just to patients but to the planet we call home.
+
+Stay tuned to the latest updates by registering your interest
+ <a href="https://form.gov.sg/656ed4a7d52312001273f90c">here.</a>
 <br>
 <style>
 .button {
