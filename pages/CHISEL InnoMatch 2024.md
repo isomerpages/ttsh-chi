@@ -4,7 +4,6 @@ permalink: /chisel-innomatch-2024/
 variant: markdown
 description: ""
 ---
-
 ![](/images/Healthcare%20InnoMatch%202022.png)
 
 CHI Start-up Entreprise Link (CHISEL) InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
