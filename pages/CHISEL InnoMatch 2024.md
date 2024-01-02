@@ -117,7 +117,7 @@ input:checked + label + .accordion-content {
 <div class="container">
 <!--ONE BOX. Must match the <label> code with the id code -->
 <div>
-	<input id="title1" type="checkbox"><label for="title1">	Stage 1 Application: Launch of CHISEL InnoMatch Open Call</label>
+	<input id="title1" type="checkbox"><label for="title1">	Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
 	<div class="para"> Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal by 5 April 2024, 23:59 SGT. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:<br>
 - Applicant Information<br>
@@ -160,7 +160,7 @@ Note: Pitch Deck Guidelines and Template can be downloaded in the Challenge Port
 	</div>
 <!--4TH BOX END-->
 <!--5TH BOX-->
-<input id="title5" type="checkbox"><label for="title5">Shortlisting Round 3 (Engagement Sessions)</label>
+<input id="title5" type="checkbox"><label for="title5">Shortlisting Round 3: Engagement Sessions</label>
 	<div class="accordion-content">
 	<div class="para">Up to twenty (20) start-ups and SMEs will be invited to present your solution at the Engagement Sessions with our clinical partners and reviewers. Engagement Sessions will be held virtually at night, between 1800 and 2100 SGT (GMT +8/UTC +8). Each session will be approximately fifteen (15) to twenty (20) minutes, with time allocated for the presentation and Q&amp;A. More details on the arrangement of the schedule will be shared nearer to date. 
 <br> 
