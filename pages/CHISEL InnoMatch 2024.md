@@ -205,6 +205,22 @@ Note: Pitch Deck Guidelines and Template can be downloaded in the Challenge Port
 	
 <!--ACCORDION END--></div>
 
+### Partner Acknowledgements
+
+
+##### Organised by
+
+
+##### In Partnership with 
+
+##### Sponsored by
+
+##### Supported by
+
+##### Collaborating Partners &amp; Agencies
+
+##### Powered by
+
 
 
 
