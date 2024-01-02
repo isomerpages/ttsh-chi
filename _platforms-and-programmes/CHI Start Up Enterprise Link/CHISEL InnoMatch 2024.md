@@ -15,11 +15,11 @@ Successful winners in CHISEL InnoMatch 2024 will obtain funding support to demon
 
 ### Prizes 
 
-![](/images/CHISEL/2024_Prizes.png)
-
+insert image
+	
 ### Timeline
 
-![](/images/CHISEL/2024_Timeline.png)
+insert image
 
 <br> <!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
 <style>
