@@ -1,8 +1,9 @@
 ---
-title: CHI Start Up and Enterprise Link (CHISEL)
+title: About CHISEL
 permalink: /platformprogrammes/chisel/
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
+variant: markdown
 ---
 <h2> Centre for Healthcare Innovation Start-Up Enterprise Link (CHISEL) </h2>
 
