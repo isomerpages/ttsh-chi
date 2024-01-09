@@ -1,6 +1,6 @@
 ---
 title: CHISEL InnoMatch 2024
-permalink: /chisel-innomatch-2024/
+permalink: /permalink/
 variant: markdown
 description: ""
 ---

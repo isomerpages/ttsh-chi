@@ -1,6 +1,6 @@
 ---
 title: Eligibility Criteria and Rules
-permalink: /eligibility-rules/
+permalink: /permalink/
 variant: tiptap
 description: ""
 ---

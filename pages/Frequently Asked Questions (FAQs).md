@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (FAQs)
-permalink: /platforms-and-programmes/chi-start-up-enterprise-link/faq/
+permalink: /permalink/
 variant: tiptap
 description: ""
 ---
