@@ -9,9 +9,12 @@ variant: markdown
 
 Centre for Healthcare Innovation Start-Up Enterprise Link (CHISEL) is a programme that aims to accelerate the adoption of market-ready healthcare innovations that are fit for mainstream use, at speed at scale. <br>
 
-It provides a sandbox and marketplace that enables start-ups and small and medium enterprises (SMEs) to demonstrate proof-of-value (POV) of market ready or near market-ready solutions, with the aim of procurement for use by healthcare institutions. It enables start-ups and SMEs to access real use cases and environments, demonstrate POV of market-ready or near market-ready solutions, and customise solutions suited for implementation within healthcare clusters in Singapore. <br>
+It provides a sandbox and marketplace that enables start-ups and small and medium enterprises (SMEs) to access real use cases and environments, and demostrate proof-of-value (POV) of market ready or near market-ready solutions, with one of the three Singapore healthcare clusters as a primary collaborative test-bed site. The eventual aim is to bridge the gap between market-ready solutions and adoption, with the aim of procurement for use by healthcare institutions. <br>
 
 Simultaneously, healthcare clusters are able to evaluate the operational feasibility of solutions prior to adoption or scale-up. The platform aims to bridge the market adoption gap, and allow patients early access to new and emerging healthcare innovations to meet healthcare gaps. 
+
+Over 3 successful runs from 2021 to 2023, over 500 innovators across 54 coutnries have competed and 11 companies were selected to test-bed their solutions that could enhance patient care and deliver positive health outcomes.<br>
+
 
 
 <style>
@@ -113,17 +116,17 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Innovation Call</label>
 	<div class="accordion-content">
-	<div class="para">The Challenge consists of several rounds, inviting start-ups and SMEs to submit solutions to solve pressing challenges and transform the future of healthcare. Shortlisted participants can look forward to coaching by healthcare professionals and a Live Finale Pitching Event.
+	<div class="para">The Challenge consists of several rounds, inviting start-ups and SMEs to submit solutions to solve pressing challenges and transform the future of healthcare. Shortlisted participants can look forward to coaching by healthcare professionals and a Final Pitching Event.
 </div>
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Test-Bedding</label>
 	<div class="accordion-content">
-	<div class="para">Winning start-ups and SMEs will be matched to one of the healthcare institution from the partnering healthcare clusters to carry out test-bedding. The test-bedding is to be completed in a simulated and/ or clinical environment, complying to regulations and institutional policies in the partner healthcare cluster.
+	<div class="para">Winning start-ups and SMEs will be matched to one of the healthcare institutions from the partnering healthcare clusters to carry out test-bedding. The test-bedding is to be completed in a simulated and/ or clinical environment, complying to regulations and institutional policies in the partner healthcare cluster.
 </div>
 	</div>
-	<input id="title3" type="checkbox"><label for="title3">Evaluation Trials</label>
+	<input id="title3" type="checkbox"><label for="title3">Evaluation </label>
 	<div class="accordion-content">
-	<div class="para">Upon completion of test-bedding, the Centre for Healthcare Innovation Evaluation Framework (CHIEF) is strongly encouraged to be used as the main evaluation framework to evaluate the success of the test-bedding.
+	<div class="para">Upon completion of test-bedding, the Centre for Healthcare Innovation Evaluation Framework (CHIEF) would be used as the main evaluation framework to evaluate the success of the test-bedding.
 </div>
 	</div>
 <input id="title4" type="checkbox"><label for="title4">Adoption</label>
