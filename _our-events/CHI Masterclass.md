@@ -2,9 +2,10 @@
 title: CHI Masterclass
 permalink: /our-events/chimasterclass/
 description: ""
+variant: markdown
 ---
 ## CHI MASTERCLASS
-<div style="font-size:1.25em">The annual CHI conferences aim to encourage thought leadership by bringing together world-class thought leaders. These conferences also serve as platforms to actively build mindshare in healthcare transformation.</div><br>
+<div style="font-size:1.25em">The CHI Masterclass brings features world-class thought leaders to actively build mindshare in healthcare transformation for systems change.</div><br>
   
 <div>
 <h3 id="a">Upcoming Masterclass</h3>
