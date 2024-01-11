@@ -125,7 +125,14 @@ We are seeking scalable, end-to-end and sustainable (business model and environm
 <!--2ND BOX-->
 <input id="title2" type="checkbox"><label for="title2">Sustainable Healthcare Solutions for a Better Tomorrow</label>
 	<div class="accordion-content">
-	<div class="para">The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024. 
+	<div class="para">
+Problem Statement
+
+How might we pioneer a transformative shift in the **hospitals’ management** of **healthcare waste, materials and energy** to minimise our environmental impact, without sacrificing quality and safety in patient care?
+
+Your solution and proposal outcomes should be backed by clinical evidence and data. It should also aim to bring about better patient health outcomes, value and cost-effectiveness for patients, families, hospitals, and the overall healthcare systems. The environmental benefits of the innovation should be quantified. A key outcome is decarbonisation, which should be quantified in carbon dioxide equivalents or CO2e.
+
+Submit your proposal today and contribute to extending our healing touch not only to patients but also to the delicate ecosystem we collectively call home. Together, let's forge a path towards healthcare sustainability.
 </div>
 </div>
 <!--2ND BOX END-->
