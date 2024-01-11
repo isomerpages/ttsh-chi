@@ -126,7 +126,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input id="title3" type="checkbox"><label for="title3">Evaluation </label>
 	<div class="accordion-content">
-	<div class="para">Upon completion of test-bedding, the Centre for Healthcare Innovation Evaluation Framework ([undefined]()CHIEF) would be used as the main evaluation framework to evaluate the success of the test-bedding.
+	<div class="para">Upon completion of test-bedding, the Centre for Healthcare Innovation Evaluation Framework (CHIEF) would be used as the main evaluation framework to evaluate the success of the test-bedding.
 </div>
 	</div>
 <input id="title4" type="checkbox"><label for="title4">Adoption</label>
