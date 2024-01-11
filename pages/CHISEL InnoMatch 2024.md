@@ -161,23 +161,10 @@ insert image
 		
 Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal **by 5 April 2024, 23:59 SGT**. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
 				<br> 
-- Healthcare (organisational) needs and relevance 
-- Innovation (competitive advantage, current competing strategies, technologies, competitors)
-- Maturity / market readiness 
-- Impact (quantifiable) A Project Agreement should be set up within three (3) months 
-- Ease of transition to adopt by users
-- Business plan (i.e. commercial applications, economic viability, go-to-market strategy of solution)
-- A Project Agreement should be set up within three (3) months 
-- A Project Agreement should be set up within three (3) months 
-- A Project Agreement should be set up within three (3) months 
-- A Project Agreement should be set up within three (3) months 
-- A Project Agreement should be set up within three (3) months
-- A Project Agreement should be set up within three (3) months 
-- A Project Agreement should be set up within three (3) months 
+- Application and Company Information
+- Solution Pitch Deck (7 slides)
+- Pitch Deck Guidelines can be downloaded in the Challenge Portal. 
 		
-
-<br>
-<br>
 The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024.
 		
 </div>
@@ -192,7 +179,18 @@ The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare cluster
 	<div class="para">
 Shortlisted start-ups and SMEs are to submit your full proposal, addressing the following but not limited to:
 		
-<br> Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.
+- Healthcare (organisational) needs and relevance 
+- Innovation (competitive advantage, current competing strategies, technologies, competitors)
+- Maturity / market readiness 
+- Impact (quantifiable) A Project Agreement should be set up within three (3) months 
+- Ease of transition to adopt by users
+- Business plan (i.e. commercial applications, economic viability, go-to-market strategy of solution)
+- Clinical, technical and operational readiness 
+- IT viability
+- Prior or existing trials, proof-of-concept, proof-of-value and/or clinical validation results
+- Safety and regulatory registrations / certifications / licenses 
+
+Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.
 </div>
 </div>
 <!--2ND BOX END-->
