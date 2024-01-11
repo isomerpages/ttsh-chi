@@ -151,20 +151,19 @@ input:checked + label + .accordion-content {
 <input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
 	<div class="para">
+Submit your application for CHISEL Healthcare InnoMatch 2024 on the Challenge Portal <b>by 5 April 2024, 23:59 SGT<br>. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
+<ul>
+	<li>Application and Company Information</li>
+	<li>Solution Pitch Deck (7 slides)</li>
+	<li>Pitch Deck Guidelines can be downloaded in the Challenge Portal.</li>
+<br>
+The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024.<br>
 		
-Submit your application for CHISEL Healthcare InnoMatch 2024 on the Challenge Portal **by 5 April 2024, 23:59 SGT**. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
-				<br> 
-- Application and Company Information
-- Solution Pitch Deck (7 slides)
-- Pitch Deck Guidelines can be downloaded in the Challenge Portal. 
+</ul></b></div><b>
+</b></div><b>
 		
-The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024.
-		
-</div>
-</div>
-		
-</div>
-</div>
+</b></div><b>
+</b></div><b>
 <!--ONE BOX END-->
 <!--2ND BOX-->
 <input id="title4" type="checkbox"><label for="title4">Stage 2 Application</label>
@@ -247,4 +246,4 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 
 				
-</div></div>
+</b></div></div>
