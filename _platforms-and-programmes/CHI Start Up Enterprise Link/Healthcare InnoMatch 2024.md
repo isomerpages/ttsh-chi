@@ -140,7 +140,7 @@ Your solution and proposal outcomes should be backed by clinical evidence and da
 <!--2ND BOX END-->
 
 <h3> Funding and Collaborations </h3>
-<img height="345" width="460" alt="Funding and Opportunities" src="/images/CHISEL/Funding_and_Collaborations_2024.png">
+<img height="300" width="400" alt="Funding and Opportunities" src="/images/CHISEL/Funding_and_Collaborations_2024.png">
 <br>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.<br> 
 	
 <h3> Timeline </h3>
