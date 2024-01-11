@@ -118,7 +118,8 @@ input:checked + label + .accordion-content {
 
 <br>How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?
 <br>
-<br>We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to <b>promote personalised medical intervention</b>, <b>self-care</b>, and <b>right-sited care</b>. This may include solutions such as:
+<br>We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to <b>promote personalised medical intervention</b>, <b>self-care</b>, and <b>right-sited care</b>.
+<br> This may include solutions such as:
 <br> - Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals' risk profiles.
 <br> - Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.
 <br> - Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalised health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.
