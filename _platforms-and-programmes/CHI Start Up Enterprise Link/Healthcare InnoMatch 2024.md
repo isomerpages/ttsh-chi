@@ -123,6 +123,9 @@ input:checked + label + .accordion-content {
 <br> - Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals' risk profiles.
 <br> - Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.
 <br> - Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalised health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.
+<br>
+Your solution and proposal outcomes should be backed by clinical evidence and data. Submit your application today to contribute to the evolution of elderly care, promoting a future where aging is synonymous with vitality and independence. 
+<br>
 </div>
 </div>
 <!--ONE BOX END-->
