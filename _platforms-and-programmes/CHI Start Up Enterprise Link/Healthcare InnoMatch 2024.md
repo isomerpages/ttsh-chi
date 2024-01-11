@@ -221,9 +221,8 @@ Finalists will pitch to the Judging Panel composed of senior management from the
 	<div class="para">
 Successful winning start-ups and SMEs will be matched to one of the participating healthcare clusters to carry out test-bedding.
 <br>
-<br>Winners will be granted three (3) months of preparation time to finalise the project agreement (and additional three (3) months if ethics approval is required); up to six (6) months to complete test-bedding; and up to two (2) months to complete the evaluation.
+<br>Winners will be granted three (3) months of preparation time to finalise the project agreement (and additional three (3) months if ethics approval is required); up to six (6) months to complete test-bedding; and up to two (2) months to complete the evaluation.<br>
 <br>
-		
 <u>Test-Bedding Phase (Oct 2024 – Mar 2026)</u>
 <ul>
 <li>Refine the test-bed protocol and define success criteria of the test-bed with your partner healthcare cluster. You would also define the pricing for subsequent purchase, subject to the solution meeting pre-agreed success criteria. You may be required by your partner hospital to supplement more documentation to facilitate the test-bedding and potential adoption.</li>
