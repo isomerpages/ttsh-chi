@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
-##### CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
-##### 
+&gt; CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
+
 
 <h3> Theme </h3>
 <div>
@@ -15,8 +15,9 @@ third_nav_title: CHI Start Up Enterprise Link
       <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
         <img alt="QR" style="width: px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/2024_Theme.png">
         <div class="header">
-
+<br> 
 Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts. This year, besides calling for innovative and market-ready solutions to strengthen care for a healthier and resilient ageing society, CHISEL Healthcare InnoMatch 2024 also introduces a ground-breaking theme: environmental sustainability in healthcare.
+<br> 
 					
 <br> <!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
 <style>
