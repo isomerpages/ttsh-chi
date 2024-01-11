@@ -10,6 +10,8 @@ third_nav_title: CHI Start Up Enterprise Link
 
 <h3> Theme </h3>
 
+<b>(insert image)</b>
+
 Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts. This year, besides calling for innovative and market-ready solutions to strengthen care for a healthier and resilient ageing society, CHISEL Healthcare InnoMatch 2024 also introduces a ground-breaking theme: environmental sustainability in healthcare.
 <br> 
 					
@@ -117,9 +119,9 @@ input:checked + label + .accordion-content {
 How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?
 
 We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to <b>promote personalised medical intervention</b>, <b>self-care</b>, and <b>right-sited care</b>. This may include solutions such as:
-- Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals' risk profiles.
-- Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.
-- Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalsied health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.
+<br> - Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals' risk profiles.
+<br> - Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.
+<br> - Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalised health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.
 </div>
 </div>
 <!--ONE BOX END-->
