@@ -261,10 +261,7 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 </div>
 </div>
 <!--6TH BOX END-->
-
-
-
-
+					
 ### Partner Acknowledgements
 
 
@@ -278,4 +275,6 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 ##### Collaborating Partners &amp; Agencies
 
-##### Powered by</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+##### Powered by
+				
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
