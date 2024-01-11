@@ -9,8 +9,12 @@ description: ""
 CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
 
 ### Theme
-	
-![](/images/CHISEL/2024_Theme.png)
+<div>
+  <div style="display: flex; justify-content: center;" class="row">
+    <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
+      <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
+        <img alt="QR" style="width: px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/2024_Theme.png">
+        <div class="header">
 
 Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts. This year, besides calling for innovative and market-ready solutions to strengthen care for a healthier and resilient ageing society, CHISEL Healthcare InnoMatch 2024 also introduces a ground-breaking theme: environmental sustainability in healthcare.
 <br> <!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
@@ -141,7 +145,14 @@ Submit your proposal today and contribute to extending our healing touch not onl
 
 
 ### Funding and Collaborations 
-![](/images/CHISEL/Funding_and_Collaborations_2024.png)
+
+<div>
+  <div style="display: flex; justify-content: center;" class="row">
+    <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
+      <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
+        <img alt="QR" style="width: px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Funding_and_Collaborations_2024.png">
+        <div class="header">
+					
 Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.
 
 ### Timeline
@@ -264,4 +275,4 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 ##### Collaborating Partners &amp; Agencies
 
-##### Powered by</div></div>
+##### Powered by</div></div></div></div></div></div></div></div></div></div></div></div>
