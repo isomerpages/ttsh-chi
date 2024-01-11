@@ -224,20 +224,21 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 <br>Winners will be granted three (3) months of preparation time to finalise the project agreement (and additional three (3) months if ethics approval is required); up to six (6) months to complete test-bedding; and up to two (2) months to complete the evaluation.
 <br>
 		
-**Test-Bedding Phase (Oct 2024 – Mar 2026)**
+<u>Test-Bedding Phase (Oct 2024 – Mar 2026)</u>
+<ul>
+<li>Refine the test-bed protocol and define success criteria of the test-bed with your partner healthcare cluster. You would also define the pricing for subsequent purchase, subject to the solution meeting pre-agreed success criteria. You may be required by your partner hospital to supplement more documentation to facilitate the test-bedding and potential adoption.</li>
+	<li>A Project Agreement should be set up within three (3) months (an additional three (3) months may be granted if ethics approval is required).</li>
+<li>Test-bedding should start no later than Apr 2024. Complete test-bedding in a simulated and/or clinical environment complying to regulations and institutional policies with your partner healthcare cluster. Test-beds should be completed within twelve (12) months.</li>
+		</ul>
+		<u>Evaluation Phase (Apr 2026 – May 2026)</u>
 		<br> 
-- Refine the test-bed protocol and define success criteria of the test-bed with your partner healthcare cluster. You would also define the pricing for subsequent purchase, subject to the solution meeting pre-agreed success criteria. You may be required by your partner hospital to supplement more documentation to facilitate the test-bedding and potential adoption.
-- A Project Agreement should be set up within three (3) months (an additional three (3) months may be granted if ethics approval is required).
-- Test-bedding should start no later than Apr 2024. Complete test-bedding in a simulated and/or clinical environment complying to regulations and institutional policies with your partner healthcare cluster. Test-beds should be completed within twelve (12) months. 
-		
-**Evaluation Phase (Apr 2026 – May 2026)**
-		<br> 
--  Upon completion of the test-bedding phase, the partner healthcare clusters would evaluate the success of the test-bed.
--  All CHISEL 2024 test-bed solutions are strongly encouraged to be evaluated using the CHI Evaluation Framework (CHIEF). CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. This would be provided at no cost for the purposes of the programme. You may also engage additional services from CHIEF or an independent expert for the purposes of evaluating the test-bed at your discretion.
+<ul>
+<li>Upon completion of the test-bedding phase, the partner healthcare clusters would evaluate the success of the test-bed.</li>
+<li>All CHISEL 2024 test-bed solutions are strongly encouraged to be evaluated using the CHI Evaluation Framework (CHIEF). CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. This would be provided at no cost for the purposes of the programme. You may also engage additional services from CHIEF or an independent expert for the purposes of evaluating the test-bed at your discretion.</li>
 		
 		
 
-</div>
+</ul></div>
 </div>
 <!--6TH BOX END-->
 					
