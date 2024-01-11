@@ -8,6 +8,8 @@ third_nav_title: CHI Start Up Enterprise Link
 <h3>CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs! </h3>
 
 
+
+
 <h3> Theme </h3>
 
 <img height="200" width="300" alt="Funding and Opportunities" src="/images/CHISEL/2024_Theme.png">
@@ -141,7 +143,7 @@ Your solution and proposal outcomes should be backed by clinical evidence and da
 
 <h3> Funding and Collaborations </h3>
 <img height="300" width="300" alt="Funding and Opportunities" src="/images/CHISEL/Funding_and_Collaborations_2024.png">
-<br>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.<br> 
+<p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.</p>
 	
 <h3> Timeline </h3>
 
