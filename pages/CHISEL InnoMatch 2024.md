@@ -141,7 +141,7 @@ Submit your proposal today and contribute to extending our healing touch not onl
 
 ### Prizes 
 
-Successful winners in CHISEL InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.
+Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.
 
 insert image
 	
@@ -159,7 +159,7 @@ insert image
 	<div class="accordion-content">
 	<div class="para">
 		
-Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal **by 5 April 2024, 23:59 SGT**. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
+Submit your application for CHISEL Healthcare InnoMatch 2024 on the Challenge Portal **by 5 April 2024, 23:59 SGT**. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
 				<br> 
 - Application and Company Information
 - Solution Pitch Deck (7 slides)
