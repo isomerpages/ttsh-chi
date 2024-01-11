@@ -7,6 +7,24 @@ third_nav_title: CHI Start Up Enterprise Link
 ---
 <h3>CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs! </h3>
 
+<div>
+  <div style="display: flex; justify-content: center;" class="row">
+    <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
+      <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
+        <img alt="QR" style="width: 330px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHILD%20pictures/picture5.jpg">
+        <div class="header">
+          <b></b>
+        </div>
+      </div>
+    </div>
+   <div class="col">
+      <div style="align-self: center; justify-content: center;" class="header">
+        <p style="text-align: center; padding: 40px 0;"><a href="https://form.gov.sg/">Click here </a>to sign up for the virtual information session and/or in-person Networking Session now!has already collected<b></b></p><b>
+      </b></div><b>
+    </b></div><b>
+  </b></div><b>
+</b></div><b>
+
 
 
 
@@ -252,4 +270,4 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 
 				
-</div></div>
+</div></div></b>
