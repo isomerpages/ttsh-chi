@@ -178,7 +178,10 @@ Problem Statement.....
 <input id="title5" type="checkbox"><label for="title5">Shortlisting Round 3: Engagement Sessions</label>
 	<div class="accordion-content">
 	<div class="para">
-Problem Statement....
+Up to twenty (20) start-ups and SMEs will be invited to present your solution at Engagement Sessions with our clinical partners and reviewers. Engagement Sessions will be held virtually at night, between 1800 and 2100 SGT (GMT+8/ UTC+8).<br>
+<br> Each session will be approximately fifteen (15) to twenty (20) minutes, with time allocated for the presentation and Q&amp;A. More details on the arrangement of schedule will be shared nearer to date.
+
+Results will be announced by 16 Aug 2024. Up to nine (9) finalists will be selected.
 </div>
 </div>
 <!--3RD BOX END-->
