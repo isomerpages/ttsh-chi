@@ -172,7 +172,6 @@ Problem Statement....
 	<div class="para">
 Shortlisted start-ups and SMEs are to submit your full proposal, addressing the following but not limited to:
 		
-
 <br> Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.
 </div>
 </div>
