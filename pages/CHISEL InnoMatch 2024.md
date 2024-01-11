@@ -11,6 +11,122 @@ CHI Start-up Entreprise Link (CHISEL) InnoMatch 2024 is calling for innovative m
 ### Theme
 	
 ![](/images/CHISEL/2024_Theme.png)
+Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts. This year, besides calling for innovative and market-ready solutions to strengthen care for a healthier and resilient ageing society, CHISEL InnoMatch 2024 also introduces a ground-breaking theme: environmental sustainability in healthcare.
+<br> <!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
+<style>
+.button {
+  background-color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+img {
+  width: 150px;
+  height: 180px;
+}
+
+.active,
+.button:hover {
+  background-color: white;
+}
+
+input {
+  display: none;
+}
+
+label {
+  position: relative;
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #F0F4F6;
+  border-radius: 3px;
+  width: 100%;
+  color: #484848;
+  transition: height 0.4s;
+  font-size: 1.5em;
+}
+
+label:hover {
+  background: #BD2D37;
+  color: #FFF;
+}
+
+.accordion-content {
+  padding: 10px 0px 30px 30px;
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+	font-size: 1.25em;
+	line-height: 2.2rem;
+}
+
+input + label::before {
+  content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.1rem;
+  padding: 0;
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.4s ease-in-out;
+}
+
+input:checked + label::before {
+  content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
+  transform: translateY(-50%) rotateZ(180deg);
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
+
+</style>
+<!--END OF REQUIRED CODE.\-->
+
+
+<!--ENTIRE ACCORDION CODE-->
+
+<div class="container">
+<!--ONE BOX. Must match the <label> code with the id code -->
+<div>
+	<input id="title1" type="checkbox"><label for="title1">	Strengthening Care for a Healthier and Resilient Ageing Society</label>
+	<div class="accordion-content">
+	<div class="para"> Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal by 5 April 2024, 23:59 SGT. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:<br>
+- Applicant Information<br>
+- Company Information<br>
+- Solution Pitch Deck (10 slides on the proposed solution; unique selling point; clinical, technical, and operational readiness for test-bedding; business plan)
+
+Note: Pitch Deck Guidelines and Template can be downloaded in the Challenge Portal.<br> 
+</div>
+</div>
+<!--ONE BOX END-->
+<!--2ND BOX-->
+<input id="title2" type="checkbox"><label for="title2">Sustainable Healthcare Solutions for a Better Tomorrow</label>
+	<div class="accordion-content">
+	<div class="para">The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024. 
+</div>
+</div>
+<!--2ND BOX END-->
 
 
 ### Prizes 
@@ -222,4 +338,4 @@ Note: Pitch Deck Guidelines and Template can be downloaded in the Challenge Port
 
 ##### Collaborating Partners &amp; Agencies
 
-##### Powered by
+##### Powered by</div></div>
