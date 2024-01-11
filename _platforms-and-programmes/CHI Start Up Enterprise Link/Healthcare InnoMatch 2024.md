@@ -235,10 +235,11 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 <ul>
 <li>Upon completion of the test-bedding phase, the partner healthcare clusters would evaluate the success of the test-bed.</li>
 <li>All CHISEL 2024 test-bed solutions are strongly encouraged to be evaluated using the CHI Evaluation Framework (CHIEF). CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. This would be provided at no cost for the purposes of the programme. You may also engage additional services from CHIEF or an independent expert for the purposes of evaluating the test-bed at your discretion.</li>
+		</ul>
 		
 		
 
-</ul></div>
+</div>
 </div>
 <!--6TH BOX END-->
 					
