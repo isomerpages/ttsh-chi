@@ -147,9 +147,8 @@ insert image
 	
 ### Timeline
 
-insert image
-
-
+**insert image**
+	
 
 <!--ENTIRE ACCORDION CODE-->
 
