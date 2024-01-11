@@ -162,7 +162,7 @@ Your solution and proposal outcomes should be backed by clinical evidence and da
 	
 <h3> Timeline </h3>
 
-<img height="330" width="500" alt="Funding and Opportunities" src="/images/CHISEL/2024_Timeline.png">
+<img height="100%" width="100%" alt="Funding and Opportunities" src="/images/CHISEL/2024_Timeline.png">
 
 					
 <!--ENTIRE ACCORDION CODE-->
