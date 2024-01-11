@@ -186,7 +186,7 @@ Problem Statement....
 <input id="title6" type="checkbox"><label for="title6">Stage 3 Application and Coaching</label>
 	<div class="accordion-content">
 	<div class="para">
-Problem Statement....
+Finalists will be coached by experts in preparation for the Finale Event. This may include coaching on refining the value proposition of the solution, budgeting, business plan, pitching. Oral presentation of your solutions is required during the coaching sessions. Guidance on submission materials for the Finale Event will be provided nearer to date.
 </div>
 </div>
 <!--4TH BOX END-->
@@ -194,7 +194,8 @@ Problem Statement....
 <input id="title7" type="checkbox"><label for="title7">Final Pitching</label>
 	<div class="accordion-content">
 	<div class="para">
-Problem Statement....
+Finalists will pitch to the Judging Panel composed of senior management from the partner healthcare clusters and domain experts. Finalists in Singapore are required to attend the event in-person, while finalists overseas may dial-in through the online live-streamed platform.<br>
+<br> Up to three (3) winners will be selected at the end of the Challenge, announced on the day of the event itself.
 </div>
 </div>
 <!--5TH BOX END-->
