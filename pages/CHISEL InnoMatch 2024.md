@@ -195,7 +195,7 @@ Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs w
 </div>
 <!--2ND BOX END-->
 <!--3RD BOX-->
-<input id="title5" type="checkbox"><label for="title5">Shortlisting Round 3: Engagement Sessions</label>
+<input id="title5" type="checkbox"><label for="title5">Engagement Sessions</label>
 	<div class="accordion-content">
 	<div class="para">
 Up to twenty (20) start-ups and SMEs will be invited to present your solution at Engagement Sessions with our clinical partners and reviewers. Engagement Sessions will be held virtually at night, between 1800 and 2100 SGT (GMT+8/ UTC+8).<br>
