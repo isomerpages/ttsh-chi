@@ -121,8 +121,9 @@ input:checked + label + .accordion-content {
 <li> Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals' risk profiles.</li>
 <li> Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.</li>
 <li> Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalised health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.</li>
+</ul>
 <br>Your solution and proposal outcomes should be backed by clinical evidence and data. Submit your application today to contribute to the evolution of elderly care, promoting a future where aging is synonymous with vitality and independence.<br>
-</ul></div>
+</div>
 </div>
 <!--ONE BOX END-->
 <!--2ND BOX-->
@@ -139,7 +140,7 @@ input:checked + label + .accordion-content {
 <!--2ND BOX END-->
 
 <h3> Funding and Collaborations </h3>
-<br> Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.<br> 
+<br>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.<br> 
 	
 <h3> Timeline </h3>
 					
