@@ -141,9 +141,8 @@ Submit your proposal today and contribute to extending our healing touch not onl
 <!--2ND BOX END-->
 
 <h3> Funding and Collaborations </h3>
-
-Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.
-
+<br> Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.<br> 
+	
 <h3> Timeline </h3>
 					
 <!--ENTIRE ACCORDION CODE-->
