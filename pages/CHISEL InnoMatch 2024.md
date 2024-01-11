@@ -126,7 +126,7 @@ We are seeking scalable, end-to-end and sustainable (business model and environm
 <input id="title2" type="checkbox"><label for="title2">Sustainable Healthcare Solutions for a Better Tomorrow</label>
 	<div class="accordion-content">
 	<div class="para">
-Problem Statement
+Problem Statement:
 
 How might we pioneer a transformative shift in the **hospitals’ management** of **healthcare waste, materials and energy** to minimise our environmental impact, without sacrificing quality and safety in patient care?
 
@@ -256,7 +256,6 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 
 ##### Organised by
-
 
 ##### In Partnership with 
 
