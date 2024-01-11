@@ -165,8 +165,8 @@ Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal **by 5
 - Innovation (competitive advantage, current competing strategies, technologies, competitors)
 - Maturity / market readiness 
 - Impact (quantifiable) A Project Agreement should be set up within three (3) months 
-- A Project Agreement should be set up within three (3) months
-- A Project Agreement should be set up within three (3) months 
+- Ease of transition to adopt by users
+- Business plan (i.e. commercial applications, economic viability, go-to-market strategy of solution)
 - A Project Agreement should be set up within three (3) months 
 - A Project Agreement should be set up within three (3) months 
 - A Project Agreement should be set up within three (3) months 
