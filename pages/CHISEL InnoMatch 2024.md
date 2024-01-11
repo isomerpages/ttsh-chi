@@ -194,7 +194,8 @@ Finalists will be coached by experts in preparation for the Finale Event. This m
 <input id="title7" type="checkbox"><label for="title7">Final Pitching</label>
 	<div class="accordion-content">
 	<div class="para">
-Finalists will pitch to the Judging Panel composed of senior management from the partner healthcare clusters and domain experts. Finalists in Singapore are required to attend the event in-person, while finalists overseas may dial-in through the online live-streamed platform.<br>
+Finalists will pitch to the Judging Panel composed of senior management from the partner healthcare clusters and domain experts. Finalists in Singapore are required to attend the event in-person, while finalists overseas may dial-in through the online live-streamed platform.
+<br>
 <br> Up to three (3) winners will be selected at the end of the Challenge, announced on the day of the event itself.
 </div>
 </div>
@@ -203,7 +204,18 @@ Finalists will pitch to the Judging Panel composed of senior management from the
 <input id="title8" type="checkbox"><label for="title8">Next Steps</label>
 	<div class="accordion-content">
 	<div class="para">
-Problem Statement....
+Successful winning start-ups and SMEs will be matched to one of the participating healthcare clusters to carry out test-bedding.
+<br>
+<br>Winners will be granted three (3) months of preparation time to finalise the project agreement (and additional three (3) months if ethics approval is required); up to six (6) months to complete test-bedding; and up to two (2) months to complete the evaluation.
+<br>
+		
+**Test-Bedding Phase (Oct 2024 – Mar 2026)**
+		<br> 
+- Refine the test-bed
+- Project Agreement 
+- Test-bedding  
+		
+
 </div>
 </div>
 <!--6TH BOX END-->
