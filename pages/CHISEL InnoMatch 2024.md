@@ -159,7 +159,12 @@ insert image
 <input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
 	<div class="para">
-Problem Statement....
+		
+Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal **by 5 April 2024, 23:59 SGT**. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
+<br>
+<br>
+The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024.
+		
 </div>
 </div>
 		
