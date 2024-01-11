@@ -111,12 +111,15 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">	Strengthening Care for a Healthier and Resilient Ageing Society</label>
 	<div class="accordion-content">
-	<div class="para"> Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal by 5 April 2024, 23:59 SGT. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:<br>
-- Applicant Information<br>
-- Company Information<br>
-- Solution Pitch Deck (10 slides on the proposed solution; unique selling point; clinical, technical, and operational readiness for test-bedding; business plan)
+	<div class="para">Problem Statement:  
 
-Note: Pitch Deck Guidelines and Template can be downloaded in the Challenge Portal.<br> 
+How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the **holistic care** of the elderly and young seniors, so as to create **sustainable** (business model and environment perspective) **and personalised care models**?
+
+We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to **promote** **personalised medical intervention**, **self-care**, and **right-sited care**. This may include solutions such as:
+- Point of Care testing
+- Digital innovations and Artificial Intelligence (AI)
+- Wearables and sensors
+<br> 
 </div>
 </div>
 <!--ONE BOX END-->
