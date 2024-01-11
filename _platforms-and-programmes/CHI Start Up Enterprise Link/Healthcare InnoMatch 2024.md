@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
-test 3
-
 ##### CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
 ##### 
 
