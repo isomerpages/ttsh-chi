@@ -114,8 +114,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">	Strengthening Care for a Healthier and Resilient Ageing Society</label>
 	<div class="accordion-content">
-	<div class="para">Problem Statement:  
-
+		<div class="para"><u>Problem Statement:</u>  
 <br>How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?
 <br>
 <br>We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to <b>promote personalised medical intervention</b>, <b>self-care</b>, and <b>right-sited care</b>.
