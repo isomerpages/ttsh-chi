@@ -157,11 +157,15 @@ Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding suppo
 
 ### Timeline
 
-**insert image**
-	
-
+<div>
+  <div style="display: flex; justify-content: center;" class="row">
+    <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
+      <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
+        <img alt="QR" style="width: px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Timeline_2024.png">
+        <div class="header">
+					
 <!--ENTIRE ACCORDION CODE-->
-
+<br> 
 <div class="container">
 <!--ONE BOX. Must match the <label> code with the id code -->
 <div>
@@ -275,4 +279,4 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 ##### Collaborating Partners &amp; Agencies
 
-##### Powered by</div></div></div></div></div></div></div></div></div></div></div></div>
+##### Powered by</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
