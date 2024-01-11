@@ -8,11 +8,14 @@ description: ""
 
 CHI Start-up Entreprise Link (CHISEL) InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
 
-In partnership with National Health Innovation Centre (NHIC), National Healthcare Group (NHG), National University Health System (NUHS) and SingHealth (SH), CHISEL InnoMatch 2024 is seeking solutions that can [to be confirmed]
+### Theme
 	
-Successful winners in CHISEL InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.
+![](/images/CHISEL/2024_Theme.png)
+
 
 ### Prizes 
+
+Successful winners in CHISEL InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.
 
 insert image
 	
