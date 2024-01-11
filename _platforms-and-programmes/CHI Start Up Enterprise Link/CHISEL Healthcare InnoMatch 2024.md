@@ -25,9 +25,6 @@ third_nav_title: CHI Start Up Enterprise Link
   </b></div><b>
 </b></div><b>
 
-
-
-
 <h3> Theme </h3>
 
 <img height="200" width="300" alt="Funding and Opportunities" src="/images/CHISEL/2024_Theme.png">
@@ -165,7 +162,8 @@ Your solution and proposal outcomes should be backed by clinical evidence and da
 	
 <h3> Timeline </h3>
 
-<b>(insert image)</b>
+<img height="220" width="320" alt="Funding and Opportunities" src="/images/CHISEL/2024_Timeline.png">
+
 					
 <!--ENTIRE ACCORDION CODE-->
 <br> 
