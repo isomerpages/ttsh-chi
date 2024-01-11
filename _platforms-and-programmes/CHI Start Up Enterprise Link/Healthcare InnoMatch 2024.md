@@ -10,7 +10,7 @@ third_nav_title: CHI Start Up Enterprise Link
 
 <h3> Theme </h3>
 
-<img height="345" width="460" alt="Funding and Opportunities" src="/images/CHISEL/2024_Theme.png">
+<img height="200" width="300" alt="Funding and Opportunities" src="/images/CHISEL/2024_Theme.png">
 
 Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts. This year, besides calling for innovative and market-ready solutions to strengthen care for a healthier and resilient ageing society, Healthcare InnoMatch 2024 also introduces a ground-breaking theme: Environmental Sustainability in Healthcare. 
 
