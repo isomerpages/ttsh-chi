@@ -158,8 +158,7 @@ Submit your application for CHISEL Healthcare InnoMatch 2024 on the Challenge Po
 	<li>Solution Pitch Deck (7 slides)</li>
 	<li>Pitch Deck Guidelines can be downloaded in the Challenge Portal.</li>
 		</ul>
-<br>The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024.<br>
-		
+The panel of judges for Healthcare InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024.
 </div>
 </div>
 		
