@@ -152,7 +152,7 @@ Your solution and proposal outcomes should be backed by clinical evidence and da
 <input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
 	<div class="para">
-Submit your application for CHISEL Healthcare InnoMatch 2024 on the Challenge Portal by 5 April 2024, 23:59 SGT. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
+Submit your application for Healthcare InnoMatch 2024 on the Challenge Portal by 5 April 2024, 23:59 SGT. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
 <ul>
 	<li>Application and Company Information</li>
 	<li>Solution Pitch Deck (7 slides)</li>
