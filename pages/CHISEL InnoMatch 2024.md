@@ -239,27 +239,17 @@ input:checked + label + .accordion-content {
 </style>
 <!--END OF REQUIRED CODE.\-->
 
-
 <!--ENTIRE ACCORDION CODE-->
-
 <div class="container">
-<!--ONE BOX. Must match the <label> code with the id code -->
-<div>
-	<input id="title1" type="checkbox"><label for="title1">	Stage 1 Application: Launch of Open Call</label>
-	<div class="accordion-content">
-	<div class="para"> Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal by 5 April 2024, 23:59 SGT. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:<br>
-- Applicant Information<br>
-- Company Information<br>
-- Solution Pitch Deck (10 slides on the proposed solution; unique selling point; clinical, technical, and operational readiness for test-bedding; business plan)
 
-Note: Pitch Deck Guidelines and Template can be downloaded in the Challenge Portal.<br> 
-</div>
-</div>
-<!--ONE BOX END-->
 <!--2ND BOX-->
-<input id="title2" type="checkbox"><label for="title2">Shortlisting Round 1</label>
+<input id="title2" type="checkbox"><label for="title2">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
-	<div class="para">The panel of judges for CHISEL InnoMatch 2024 and its partner healthcare clusters will shortlist start-ups and SMEs to move to Stage 2. Results will be announced by 10 May 2024. 
+	<div class="para">
+Submit your application for CHISEL InnoMatch 2024 on the Challenge Portal **by 5 April 2024, 23:59 SGT**. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
+- Applicant and Company Information
+- Solution Pitch Deck (7 slides)
+- Pitch Deck Guidelines can be downloaded in the Challenge Portal. 
 </div>
 </div>
 <!--2ND BOX END-->
@@ -347,4 +337,4 @@ Note: Pitch Deck Guidelines and Template can be downloaded in the Challenge Port
 
 ##### Collaborating Partners &amp; Agencies
 
-##### Powered by</div></div>
+##### Powered by</div>
