@@ -126,7 +126,7 @@ input:checked + label + .accordion-content {
 
 <!--ENTIRE ACCORDION CODE-->
 
-<div class="container">
+</b><div class="container"><b>
 <!--ONE BOX. Must match the <label> code with the id code -->
 <div>
 	<input id="title1" type="checkbox"><label for="title1">	Strengthening Care for a Healthier and Resilient Ageing Society</label>
@@ -158,7 +158,10 @@ Your solution and proposal outcomes should be backed by clinical evidence and da
 <!--2ND BOX END-->
 
 <h3> Funding and Collaborations </h3>
-<img height="100%" width="100%" alt="Funding and Opportunities" src="/images/CHISEL/Funding_and_Collaborations_2024.png">
+	
+<img style="width: 600px; height: 220px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/Funding_and_Collaborations_2024.png">
+        <div class="header">
+	
 <p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.</p>
 	
 <h3> Timeline </h3>
@@ -269,4 +272,4 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 
 				
-</div></div></b></div>
+</div></div></b></div></div>
