@@ -148,111 +148,25 @@ insert image
 
 insert image
 
-<br> <!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
-<style>
-.button {
-  background-color: white;
-  cursor: pointer;
-  padding: 5px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
 
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
-
-img {
-  width: 150px;
-  height: 180px;
-}
-
-.active,
-.button:hover {
-  background-color: white;
-}
-
-input {
-  display: none;
-}
-
-label {
-  position: relative;
-  display: block;
-  padding: 8px 22px;
-  margin: 0 0 5px 0;
-  cursor: pointer;
-  background: #F0F4F6;
-  border-radius: 3px;
-  width: 100%;
-  color: #484848;
-  transition: height 0.4s;
-  font-size: 1.5em;
-}
-
-label:hover {
-  background: #BD2D37;
-  color: #FFF;
-}
-
-.accordion-content {
-  padding: 10px 0px 30px 30px;
-  margin: 0 0 1px 0;
-  border-radius: 3px;
-	font-size: 1.25em;
-	line-height: 2.2rem;
-}
-
-input + label::before {
-  content: url("https://d33wubrfki0l68.cloudfront.net/2726d99e678e7823e23532634fdd6e83dfe96a99/c39dd/images/chevron-down.svg");
-  font-weight: 400;
-  font-size: 1.25em;
-  line-height: 1.1rem;
-  padding: 0;
-  position: absolute;
-  right: 0.5rem;
-  top: 50%;
-  transform: translateY(-50%);
-  transition: transform 0.4s ease-in-out;
-}
-
-input:checked + label::before {
-  content: url("https://d33wubrfki0l68.cloudfront.net/7468164d2fc2ad4fdea648e6cf2de622c2f70892/1819b/images/chevron-up.svg");
-  transform: translateY(-50%) rotateZ(180deg);
-}
-
-input + label + .accordion-content {
-  display: none;
-}
-
-input:checked + label + .accordion-content {
-  display: block;
-}
-
-</style>
-<!--END OF REQUIRED CODE.\-->
 
 <!--ENTIRE ACCORDION CODE-->
 
 <div class="container">
 <!--ONE BOX. Must match the <label> code with the id code -->
 <div>
-	<input id="title1" type="checkbox"><label for="title1">	Stage 1 Application: Launch of Open Call</label>
+<input id="title3" type="checkbox"><label for="title3">Title 1</label>
 	<div class="accordion-content">
-	<div class="para">Problem Statement:  
-How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the **holistic care** of the elderly and young seniors, so as to create **sustainable** (business model and environment perspective) **and personalised care models**?
+	<div class="para">
+Problem Statement....
+</div>
+</div>
+		
 </div>
 </div>
 <!--ONE BOX END-->
 <!--2ND BOX-->
-<input id="title2" type="checkbox"><label for="title2">Stage 2 Application</label>
+<input id="title4" type="checkbox"><label for="title4">Title 2</label>
 	<div class="accordion-content">
 	<div class="para">
 Problem Statement.....
@@ -260,14 +174,37 @@ Problem Statement.....
 </div>
 <!--2ND BOX END-->
 <!--3RD BOX-->
-<input id="title3" type="checkbox"><label for="title3">Shortlisting Round 3: Engagement Sessions</label>
+<input id="title5" type="checkbox"><label for="title5">Title 3</label>
 	<div class="accordion-content">
 	<div class="para">
 Problem Statement....
 </div>
 </div>
-	
 <!--3RD BOX END-->
+<!--4TH BOX-->
+<input id="title6" type="checkbox"><label for="title6">Title 4</label>
+	<div class="accordion-content">
+	<div class="para">
+Problem Statement....
+</div>
+</div>
+<!--4TH BOX END-->
+<!--5TH BOX-->
+<input id="title7" type="checkbox"><label for="title7">Title 5</label>
+	<div class="accordion-content">
+	<div class="para">
+Problem Statement....
+</div>
+</div>
+<!--5TH BOX END-->
+<!--6TH BOX-->
+<input id="title8" type="checkbox"><label for="title8">Title 6</label>
+	<div class="accordion-content">
+	<div class="para">
+Problem Statement....
+</div>
+</div>
+<!--6TH BOX END-->
 
 
 
@@ -286,4 +223,4 @@ Problem Statement....
 
 ##### Collaborating Partners &amp; Agencies
 
-##### Powered by</div></div></div></div>
+##### Powered by</div></div>
