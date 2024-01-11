@@ -9,7 +9,7 @@ test 2
 
 CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
 
-### Theme
+<h3> Theme </h3>
 <div>
   <div style="display: flex; justify-content: center;" class="row">
     <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
@@ -145,7 +145,7 @@ Submit your proposal today and contribute to extending our healing touch not onl
 </div>
 <!--2ND BOX END-->
 
-### Funding and Collaborations 
+<h3> Funding and Collaborations </h3>
 
 <div>
   <div style="display: flex; justify-content: center;" class="row">
@@ -156,7 +156,7 @@ Submit your proposal today and contribute to extending our healing touch not onl
 					
 Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.
 
-### Timeline
+<h3> Timeline </h3>
 
 <div>
   <div style="display: flex; justify-content: center;" class="row">
@@ -264,19 +264,9 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 </div>
 <!--6TH BOX END-->
 					
-### Partner Acknowledgements
+<h3> Partner Acknowledgements </h3>
 
 
-##### Organised by
 
-##### In Partnership with 
-
-##### Sponsored by
-
-##### Supported by
-
-##### Collaborating Partners &amp; Agencies
-
-##### Powered by
 				
 </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
