@@ -120,9 +120,9 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 	<div class="para">Problem Statement:  
 
-How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the **holistic care** of the elderly and young seniors, so as to create **sustainable** (business model and environment perspective) **and personalised care models**?
+How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?
 
-We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to **promote** **personalised medical intervention**, **self-care**, and **right-sited care**. This may include solutions such as:
+We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to <b>promote personalised medical intervention</b>, <b>self-care</b>, and <b>right-sited care</b>. This may include solutions such as:
 - Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals' risk profiles.
 - Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.
 - Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalsied health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.
@@ -135,7 +135,7 @@ We are seeking scalable, end-to-end and sustainable (business model and environm
 	<div class="para">
 Problem Statement:
 
-How might we pioneer a transformative shift in the **hospitals’ management** of **healthcare waste, materials and energy** to minimise our environmental impact, without sacrificing quality and safety in patient care?
+How might we pioneer a transformative shift in the hospitals’ management of healthcare waste, materials and energy to minimise our environmental impact, without sacrificing quality and safety in patient care?
 
 Your solution and proposal outcomes should be backed by clinical evidence and data. It should also aim to bring about better patient health outcomes, value and cost-effectiveness for patients, families, hospitals, and the overall healthcare systems. The environmental benefits of the innovation should be quantified. A key outcome is decarbonisation, which should be quantified in carbon dioxide equivalents or CO2e.
 
