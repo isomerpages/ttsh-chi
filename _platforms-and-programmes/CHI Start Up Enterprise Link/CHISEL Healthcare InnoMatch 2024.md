@@ -130,8 +130,9 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Strengthening Care for a Healthier and Resilient Ageing Society</label>
 	<div class="accordion-content">
-	<div class="para">Test Test Test
-</div>
+	<div class="para">Problem Statement:
+<p>How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?
+</p></div>
 </div>
 <!--ONE BOX END-->
 <!--2ND BOX-->
