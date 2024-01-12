@@ -169,42 +169,42 @@ input:checked + label + .accordion-content {
 <div class="container">
 <!--ONE BOX. Must match the <label> code with the id code -->
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Stage 1 Application: Launch of Open Call</label>
+	<input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
 	<div class="para">Test Test Test
 </div>
 </div>
 <!--ONE BOX END-->
 <!--2ND BOX-->
-<input id="title2" type="checkbox"><label for="title2">Stage 2 Application</label>
+<input id="title4" type="checkbox"><label for="title4">Stage 2 Application</label>
 	<div class="accordion-content">
 	<div class="para">Test Test Test
 </div>
 </div>
 <!--2ND BOX END-->
 	<!--3RD BOX-->
-<input id="title3" type="checkbox"><label for="title3">Engagement Sessions</label>
+<input id="title5" type="checkbox"><label for="title5">Engagement Sessions</label>
 	<div class="accordion-content">
 	<div class="para">Test Test Test
 </div>
 </div>
 <!--3RD BOX END-->
 	<!--4TH BOX-->
-<input id="title4" type="checkbox"><label for="title4">Stage 3 Application and Coaching</label>
+<input id="title6" type="checkbox"><label for="title6">Stage 3 Application and Coaching</label>
 	<div class="accordion-content">
 	<div class="para">Test Test Test
 </div>
 </div>
 <!--4TH BOX END-->
 		<!--5TH BOX-->
-<input id="title5" type="checkbox"><label for="title5">Final Pitching</label>
+<input id="title7" type="checkbox"><label for="title7">Final Pitching</label>
 	<div class="accordion-content">
 	<div class="para">Test Test Test
 </div>
 </div>
 <!--5TH BOX END-->
 	<!--6TH BOX-->
-<input id="title6" type="checkbox"><label for="title6">Next Steps</label>
+<input id="title8" type="checkbox"><label for="title8">Next Steps</label>
 	<div class="accordion-content">
 	<div class="para">Test Test Test
 </div>
