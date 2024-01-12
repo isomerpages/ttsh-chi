@@ -164,7 +164,7 @@ input:checked + label + .accordion-content {
 	
 <h3> Timeline </h3>
 
-<img style="width: 600px; height: 400px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/2024_Timeline.png">
+<img style="width: 600px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/2024_Timeline.png">
 
 <!--ENTIRE ACCORDION CODE-->
 
