@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - National HIP Medals/.keep
-      - National Healthcare Innovation and Productivity Medals.md
       - CHI Learning and Development System.md
       - CHI Start Up Enterprise Link/.keep
       - CHI Start Up Enterprise Link/About CHISEL.md
