@@ -184,7 +184,20 @@ input:checked + label + .accordion-content {
 <!--2ND BOX-->
 <input id="title4" type="checkbox"><label for="title4">Stage 2 Application</label>
 	<div class="accordion-content">
-	<div class="para">Test Test Test
+	<div class="para">Shortlisted start-ups and SMEs are to submit your full proposal, addressing the following but not limited to:
+		<ul>
+			<li>Healthcare (organisational) needs and relevance</li>
+			<li>Innovation (competitive advantage, current competing strategies, technologies, competitors)</li>
+			<li>Maturity/ market readiness</li>
+			<li>Impact (quantifiable)</li>
+			<li>Ease of transition to adopt by users</li>
+			<li>Business plan (i.e. commercial applications, economic viability, go-to-market strategy of solution)</li>
+			<li>Clinical, technical and operational readiness</li>
+			<li>IT viability</li>
+			<li>Prior or existing trials, proof-of-concept, proof-of-value and/or clinical validation results</li>
+			<li>Safety and regulatory registrations/ certifications/ licenses</li>
+		</ul>
+		<p>Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.</p>
 </div>
 </div>
 <!--2ND BOX END-->
