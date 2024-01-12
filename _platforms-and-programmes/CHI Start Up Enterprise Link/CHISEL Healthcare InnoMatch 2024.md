@@ -132,7 +132,13 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 	<div class="para">Problem Statement:
 <p>How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?</p>
-</div>
+		<p>We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to promote personalised medical intervention, self-care, and right-sited care. This may include solutions such as:
+			</p><ul>
+				<li>Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals’ risk profiles.</li>
+				<li>Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.</li>
+				<li>Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalised health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.</li>
+				
+</ul></div>
 </div>
 <!--ONE BOX END-->
 <!--2ND BOX-->
