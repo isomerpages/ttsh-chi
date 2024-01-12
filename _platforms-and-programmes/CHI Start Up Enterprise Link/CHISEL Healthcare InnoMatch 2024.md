@@ -264,9 +264,4 @@ Sponsored by
 Supported by
 	
 	
-Powered by
-
-
-
-				
-</b>
+Powered by</b>
