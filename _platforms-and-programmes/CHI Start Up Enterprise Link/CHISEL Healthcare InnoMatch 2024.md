@@ -17,7 +17,6 @@ third_nav_title: CHI Start Up Enterprise Link
 &nbsp; &nbsp; </div>
 &nbsp;&nbsp; <div class="col">
 &nbsp; &nbsp; &nbsp; <div style="align-self: center; justify-content: center;" class="header">
-
 &nbsp; &nbsp; &nbsp; &nbsp; <p style="text-align: center; padding: 40px 0;"> CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br><a href="https://for.sg/chisel2024rsvp">Click here</a> to sign up for the virtual Info Session and/or in-person Networking Session now!<br><br> .</p>
   </div>
     </div>
