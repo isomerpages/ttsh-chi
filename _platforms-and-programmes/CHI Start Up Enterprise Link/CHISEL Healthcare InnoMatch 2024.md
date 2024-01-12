@@ -130,7 +130,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Strengthening Care for a Healthier and Resilient Ageing Society</label>
 	<div class="accordion-content">
-	<div class="para">Problem Statement:
+		<div class="para"><u>Problem Statement:</u>
 <p>How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?</p>
 		<p>We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to promote personalised medical intervention, self-care, and right-sited care. This may include solutions such as:
 			</p><ul>
@@ -144,7 +144,7 @@ input:checked + label + .accordion-content {
 <!--2ND BOX-->
 <input id="title2" type="checkbox"><label for="title2">Sustainable Healthcare Solutions for a Better Tomorrow</label>
 	<div class="accordion-content">
-	<div class="para">Problem Statement: 
+		<div class="para"><u>Problem Statement:</u>
 <p> How might we pioneer a transformative shift in the hospitals' management of healthcare waste, materials and energy to minimise our environmental impact, without sacrificing quality and safety in patient care?</p>
 <p>Your solution and proposal outcomes should be backed by clinical evidence and data. It should also aim to bring about better patient health outcomes, value and cost-effectiveness for patients, families, hospitals, and the overall healthcare systems. The environmental benefits of the innovation should be quantified. A key outcome is decarbonisation, which should be quantified in carbon dioxide equivalents or CO2e. </p>
 		<p>Submit your proposal today and contribute to extending our healing touch not only to patients but also to the delicate ecosystem we collectively call home. Together, let's forge a path towards healthcare sustainability.</p>
