@@ -201,7 +201,8 @@ input:checked + label + .accordion-content {
 		<!--5TH BOX-->
 <input id="title7" type="checkbox"><label for="title7">Final Pitching</label>
 	<div class="accordion-content">
-	<div class="para">Test Test Test
+	<div class="para"><p>Finalists will pitch to the Judging Panel composed of senior management from the partner healthcare clusters and domain experts. Finalists in Singapore are required to attend the event in-person, while finalists overseas may dial-in through the online live-streamed platform.</p>
+		<p>Up to three (3) winners will be selected at the end of the Challenge, announced on the day of the event itself.</p>
 </div>
 </div>
 <!--5TH BOX END-->
