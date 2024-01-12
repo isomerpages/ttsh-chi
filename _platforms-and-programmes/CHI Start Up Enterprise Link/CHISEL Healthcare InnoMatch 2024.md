@@ -230,7 +230,15 @@ input:checked + label + .accordion-content {
 	<!--6TH BOX-->
 <input id="title8" type="checkbox"><label for="title8">Next Steps</label>
 	<div class="accordion-content">
-	<div class="para">Test Test Test
+	<div class="para">Successful winning start-ups and SMEs will be matched to one of the participating healthcare clusters to carry out test-bedding.
+		<p>Winners will be granted three (3) months of preparation time to finalise the project agreement (and additional three (3) months if ethics approval is required); up to six (6) months to complete test-bedding; and up to two (2) months to complete the evaluation.</p>
+		<u>Test-Bedding Phase (Oct 2024 – Mar 2026)</u>
+		<ul>
+			<li>Refine the test-bed protocol and define success criteria of the test-bed with your partner healthcare cluster. You would also define the pricing for subsequent purchase, subject to the solution meeting pre-agreed success criteria. You may be required by your partner hospital to supplement more documentation to facilitate the test-bedding and potential adoption.</li>
+			<li>A Project Agreement should be set up within three (3) months (an additional three (3) months may be granted if ethics approval is required).</li>
+			<li>Test-bedding should start no later than Apr 2024. Complete test-bedding in a simulated and/or clinical environment complying to regulations and institutional policies with your partner healthcare cluster. Test-beds should be completed within twelve (12) months.</li>
+		</ul>
+		<p><u>Evaluation Phase (Apr 2026 – Ma6 2026)</u></p>
 </div>
 </div>
 <!--6TH BOX END-->
