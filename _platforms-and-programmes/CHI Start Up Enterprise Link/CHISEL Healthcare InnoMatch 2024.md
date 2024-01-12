@@ -19,7 +19,7 @@ third_nav_title: CHI Start Up Enterprise Link
     </div>
    <div class="col">
       <div style="align-self: center; justify-content: center;" class="header">
-        <p style="text-align: center; padding: 40px 0;"><a href="https://for.sg/chisel2024rsvp&quot;">Click here </a>to sign up for the virtual information session and/or in-person Networking Session now!<b></b></p><b>
+        <p style="text-align: center; padding: 40px 0;"><a href="https://for.sg/chisel2024rsvp">Click here </a>to sign up for the virtual information session and/or in-person Networking Session now!<b></b></p><b>
       </b></div><b>
     </b></div><b>
   </b></div><b>
