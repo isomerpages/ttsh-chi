@@ -2,6 +2,8 @@ collections:
   platforms-and-programmes:
     output: true
     order:
+      - National HIP Medals/National Healthcare Innovation and Productivity
+        Medals 2024.md
       - National HIP Medals/About National Healthcare Innovation and
         Productivity Medals.md
       - National HIP Medals/.keep
