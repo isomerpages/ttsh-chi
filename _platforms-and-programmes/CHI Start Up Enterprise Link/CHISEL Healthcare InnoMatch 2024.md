@@ -125,7 +125,6 @@ input:checked + label + .accordion-content {
 
 <!--ENTIRE ACCORDION CODE-->
 
-</b><div class="container"><b>
 <!--ONE BOX. Must match the <label> code with the id code -->
 </b><div><b>
 	<input id="title1" type="checkbox"><label for="title1">	Strengthening Care for a Healthier and Resilient Ageing Society</label>
@@ -270,4 +269,4 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 
 				
-</div></b></div></div>
+</div></b></div>
