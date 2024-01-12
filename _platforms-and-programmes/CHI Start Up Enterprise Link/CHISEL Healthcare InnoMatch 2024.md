@@ -238,7 +238,7 @@ input:checked + label + .accordion-content {
 			<li>A Project Agreement should be set up within three (3) months (an additional three (3) months may be granted if ethics approval is required).</li>
 			<li>Test-bedding should start no later than Apr 2024. Complete test-bedding in a simulated and/or clinical environment complying to regulations and institutional policies with your partner healthcare cluster. Test-beds should be completed within twelve (12) months.</li>
 		</ul>
-		<p><u>Evaluation Phase (Apr 2026 – Ma6 2026)</u></p>
+		<p><u>Evaluation Phase (Apr 2026 – May 2026)</u></p>
 		<ul>
 			<li>Upon completion of the test-bedding phase, the partner healthcare clusters would evaluate the success of the test-bed.</li>
 			<li>All CHISEL 2024 test-bed solutions are strongly encouraged to be evaluated using the CHI Evaluation Framework (CHIEF). CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. This would be provided at no cost for the purposes of the programme. You may also engage additional services from CHIEF or an independent expert for the purposes of evaluating the test-bed at your discretion.</li>
