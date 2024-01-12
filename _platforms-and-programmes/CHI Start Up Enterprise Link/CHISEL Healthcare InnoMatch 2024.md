@@ -9,7 +9,7 @@ third_nav_title: CHI Start Up Enterprise Link
   <div style="display: flex; justify-content: center;" class="row">
     <div style="display: flex; align-items: center;    margin-left: auto; margin-right: auto;" class="col">
       <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;    margin-left: auto; margin-right: auto;">
-        <img alt="QR" style="width: 220px; height: 220px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/QR_Code_CHISEL_InnoMatch_2024_Info___Networking_Session_RSVP.png">
+        <img alt="QR" style="width: 330px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/QR_Code_CHISEL_InnoMatch_2024_Info___Networking_Session_RSVP.png">
         <div class="header">
           <b></b>
         </div>
