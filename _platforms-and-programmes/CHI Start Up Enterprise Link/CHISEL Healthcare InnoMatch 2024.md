@@ -194,7 +194,7 @@ input:checked + label + .accordion-content {
 	<!--4TH BOX-->
 <input id="title6" type="checkbox"><label for="title6">Stage 3 Application and Coaching</label>
 	<div class="accordion-content">
-	<div class="para">Test Test Test
+	<div class="para">Finalists will be coached by experts in preparation for the Finale Event. This may include coaching on refining the value proposition of the solution, budgeting, business plan, pitching. Oral presentation of your solutions is required during the coaching sessions. Guidance on submission materials for the Finale Event will be provided nearer to date.
 </div>
 </div>
 <!--4TH BOX END-->
