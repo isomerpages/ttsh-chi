@@ -246,8 +246,9 @@ input:checked + label + .accordion-content {
 					
 
 <h3> Partner Acknowledgements </h3>
-Organised by
 
+Organised by
+<img style="width:128px;height:128px;" alt="CHI Logo" src="/images/CHI%20Logo®%20Colour.png">
 In Partnership with
 	
 
