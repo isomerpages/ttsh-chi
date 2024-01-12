@@ -175,9 +175,10 @@ input:checked + label + .accordion-content {
 		<ul>
 			<li>Applicant and Company Information</li>
 			<li>Solution Pitch Deck (7 slides)</li>
+		</ul>
 			<p>Pitch Deck Guidelines can be downloaded in the Challenge Portal.</p>
 			
-</ul></div>
+</div>
 </div>
 <!--ONE BOX END-->
 <!--2ND BOX-->
