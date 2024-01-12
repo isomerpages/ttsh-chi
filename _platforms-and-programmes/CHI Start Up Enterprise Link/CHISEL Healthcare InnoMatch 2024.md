@@ -168,12 +168,10 @@ Your solution and proposal outcomes should be backed by clinical evidence and da
 					
 <!--ENTIRE ACCORDION CODE-->
 <br> 
-<div class="container">
 <!--ONE BOX. Must match the <label> code with the id code -->
 <div>
 <input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
-	<div class="para">
 Submit your application for Healthcare InnoMatch 2024 on the Challenge Portal by <b>5 April 2024, 23:59 SGT</b>. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:
 <ul>
 	<li>Application and Company Information</li>
@@ -185,12 +183,10 @@ The panel of judges for Healthcare InnoMatch 2024 and its partner healthcare clu
 </div>
 		
 </div>
-</div>
+</b></div><b>
 <!--ONE BOX END-->
 <!--2ND BOX-->
 <input id="title4" type="checkbox"><label for="title4">Stage 2 Application</label>
-	<div class="accordion-content">
-	<div class="para">
 Shortlisted start-ups and SMEs are to submit your full proposal, addressing the following but not limited to:
 <ul>
 	<li>Healthcare (organisational) needs and relevance</li>
@@ -205,42 +201,34 @@ Shortlisted start-ups and SMEs are to submit your full proposal, addressing the 
 	<li>Safety and regulatory registrations / certifications / licenses</li>
 </ul>
 Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.
-</div>
-</div>
+
+
 <!--2ND BOX END-->
 <!--3RD BOX-->
 <input id="title5" type="checkbox"><label for="title5">Engagement Sessions</label>
-	<div class="accordion-content">
-	<div class="para">
 Up to twenty (20) start-ups and SMEs will be invited to present your solution at Engagement Sessions with our clinical partners and reviewers. Engagement Sessions will be held virtually at night, between 1800 and 2100 SGT (GMT+8/ UTC+8).<br>
 <br> Each session will be approximately fifteen (15) to twenty (20) minutes, with time allocated for the presentation and Q&amp;A. More details on the arrangement of schedule will be shared nearer to date.
 
 Results will be announced by 16 Aug 2024. Up to nine (9) finalists will be selected.
-</div>
-</div>
+
+
 <!--3RD BOX END-->
 <!--4TH BOX-->
 <input id="title6" type="checkbox"><label for="title6">Stage 3 Application and Coaching</label>
-	<div class="accordion-content">
-	<div class="para">
 Finalists will be coached by experts in preparation for the Finale Event. This may include coaching on refining the value proposition of the solution, budgeting, business plan, pitching. Oral presentation of your solutions is required during the coaching sessions. Guidance on submission materials for the Finale Event will be provided nearer to date.
-</div>
-</div>
+
+
 <!--4TH BOX END-->
 <!--5TH BOX-->
 <input id="title7" type="checkbox"><label for="title7">Final Pitching</label>
-	<div class="accordion-content">
-	<div class="para">
 Finalists will pitch to the Judging Panel composed of senior management from the partner healthcare clusters and domain experts. Finalists in Singapore are required to attend the event in-person, while finalists overseas may dial-in through the online live-streamed platform.
 <br>
 <br> Up to three (3) winners will be selected at the end of the Challenge, announced on the day of the event itself.
-</div>
-</div>
+
+
 <!--5TH BOX END-->
 <!--6TH BOX-->
 <input id="title8" type="checkbox"><label for="title8">Next Steps</label>
-	<div class="accordion-content">
-	<div class="para">
 Successful winning start-ups and SMEs will be matched to one of the participating healthcare clusters to carry out test-bedding.
 <br>
 <br>Winners will be granted three (3) months of preparation time to finalise the project agreement (and additional three (3) months if ethics approval is required); up to six (6) months to complete test-bedding; and up to two (2) months to complete the evaluation.<br>
@@ -260,8 +248,8 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 		
 		
 
-</div>
-</div>
+
+
 <!--6TH BOX END-->
 					
 <h3> Partner Acknowledgements </h3>
@@ -269,4 +257,4 @@ Successful winning start-ups and SMEs will be matched to one of the participatin
 
 
 				
-</div></b></div>
+</b>
