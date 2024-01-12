@@ -145,7 +145,7 @@ input:checked + label + .accordion-content {
 <input id="title2" type="checkbox"><label for="title2">Sustainable Healthcare Solutions for a Better Tomorrow</label>
 	<div class="accordion-content">
 		<div class="para"><u>Problem Statement:</u>
-<p> How might we pioneer a transformative shift in the hospitals' management of healthcare waste, materials and energy to minimise our environmental impact, without sacrificing quality and safety in patient care?</p>
+			<p> How might we pioneer a transformative shift in the <b>hospitals' management</b> of <b>healthcare waste, materials and energy</b> to minimise our environmental impact, without sacrificing quality and safety in patient care?</p>
 <p>Your solution and proposal outcomes should be backed by clinical evidence and data. It should also aim to bring about better patient health outcomes, value and cost-effectiveness for patients, families, hospitals, and the overall healthcare systems. The environmental benefits of the innovation should be quantified. A key outcome is decarbonisation, which should be quantified in carbon dioxide equivalents or CO2e. </p>
 		<p>Submit your proposal today and contribute to extending our healing touch not only to patients but also to the delicate ecosystem we collectively call home. Together, let's forge a path towards healthcare sustainability.</p>
 </div>
