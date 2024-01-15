@@ -2,7 +2,9 @@ collections:
   platforms-and-programmes:
     output: true
     order:
-      - National Healthcare Innovation and Productivity Medals.md
+      - National HIP Medals/Call for Submission 2024.md
+      - National HIP Medals/About National HIP Medals.md
+      - National HIP Medals/.keep
       - CHI Learning and Development System.md
       - CHI Start Up Enterprise Link/.keep
       - CHI Start Up Enterprise Link/About CHISEL.md

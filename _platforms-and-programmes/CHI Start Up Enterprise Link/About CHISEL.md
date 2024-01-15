@@ -13,7 +13,7 @@ It provides a sandbox and marketplace that enables start-ups and small and mediu
 
 Simultaneously, healthcare clusters are able to evaluate the operational feasibility of solutions prior to adoption or scale-up. The platform aims to bridge the market adoption gap, and allow patients early access to new and emerging healthcare innovations to meet healthcare gaps. 
 
-Over 3 successful runs from 2021 to 2023, over **500 innovators** across **54 countries** have competed and **11 companies** were selected to test-bed their solutions that could enhance patient care and deliver positive health outcomes.<br>
+Over 3 successful runs from 2021 to 2023, over **500 innovators** across **54 countries** have competed and **11 companies** were selected to test-bed their solutions that could enhance patient care and deliver positive health outcomes.<br><br>
 
 
 
