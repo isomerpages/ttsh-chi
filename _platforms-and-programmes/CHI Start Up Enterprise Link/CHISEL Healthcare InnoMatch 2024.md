@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
+![](/images/CHISEL/CHISEL_Masthead.png)
+
 <div>
 &nbsp; <div style="display: flex; justify-content: center;" class="row">
 &nbsp; &nbsp; <div style="display: flex; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;" class="col">
