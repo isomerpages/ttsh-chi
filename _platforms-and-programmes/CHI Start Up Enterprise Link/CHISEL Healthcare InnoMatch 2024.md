@@ -31,7 +31,7 @@ third_nav_title: CHI Start Up Enterprise Link
 
 <div style="display: flex; justify-content: center;" class="row">
 <div style="display: flex; align-items: center; margin-left: auto; margin-right: auto;" class="col">
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center; margin-left: auto; margin-right: auto;"><img alt="theme" style="width: 560px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_2024_Image_for_Theme.jpg">
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center; margin-left: auto; margin-right: auto;"><img alt="theme" style="width: 460px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_2024_Image_for_Theme.jpg">
 <div class="header">
 <b></b>
 </div>
@@ -39,7 +39,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="col">
 <div style="align-self: center; justify-content: center;" class="header">
 	
-<p style="text-align: center; padding: 40px 0;"></p><h2>Strengthening Care for a Healthier Resilient Ageing Society</h2><br><br><br><br>
+<p style="text-align: center; padding: 40px 0;"></p><h3>Strengthening Care for a Healthier Resilient Ageing Society</h3><br><br><br><br>
 <p></p>
   </div>
     </div>
