@@ -206,4 +206,4 @@ input:checked + label + .accordion-content {
 					
 
 <h3> Partner Acknowledgements </h3>
-<img alt="theme" style="width: 880px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png">
+<img alt="theme" style="width: 860px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png">
