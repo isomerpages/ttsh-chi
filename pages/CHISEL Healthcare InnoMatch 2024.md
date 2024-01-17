@@ -119,44 +119,6 @@ input:checked + label + .accordion-content {
 </style>
 <!--END OF REQUIRED CODE.\-->
 
-
-<!--ENTIRE ACCORDION CODE-->
-
-<div class="container">
-<!--ONE BOX. Must match the <label> code with the id code -->
-<div>
-	<input id="title1" type="checkbox"><label for="title1">Strengthening Care for a Healthier and Resilient Ageing Society</label>
-	<div class="accordion-content">
-		<div class="para"><u>Problem Statement:</u>
-<p>How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?</p>
-		<p>We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to <b>promote personalised medical intervention, self-care,</b> and <b>right-sited care.</b> This may include solutions such as:
-			</p><ul>
-				<li>Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals’ risk profiles.</li>
-				<li>Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.</li>
-				<li>Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalised health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.</li>
-				
-</ul></div>
-</div>
-<!--ONE BOX END-->
-<!--2ND BOX-->
-<input id="title2" type="checkbox"><label for="title2">Sustainable Healthcare Solutions for a Better Tomorrow</label>
-	<div class="accordion-content">
-		<div class="para"><u>Problem Statement:</u>
-			<p> How might we pioneer a transformative shift in the <b>hospitals' management</b> of <b>healthcare waste, materials and energy</b> to minimise our environmental impact, without sacrificing quality and safety in patient care?</p>
-<p>Your solution and proposal outcomes should be backed by clinical evidence and data. It should also aim to bring about better patient health outcomes, value and cost-effectiveness for patients, families, hospitals, and the overall healthcare systems. The environmental benefits of the innovation should be quantified. A key outcome is decarbonisation, which should be quantified in carbon dioxide equivalents or CO2e. </p>
-		<p>Submit your proposal today and contribute to extending our healing touch not only to patients but also to the delicate ecosystem we collectively call home. Together, let's forge a path towards healthcare sustainability.</p>
-</div>
-</div>
-<!--2ND BOX END-->
-</div>
-<!--ACCORDION END--></div>
-
-<h3> Funding and Collaborations </h3>
-	
-<img style="width: 650px; height: 300px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/Funding_and_Collaborations_2024.png">
-	
-<p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.</p>
-	
 <h3> Timeline </h3>
 
 <img style="width: 640px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/2024_Timeline.png">
@@ -247,15 +209,11 @@ input:checked + label + .accordion-content {
 <h3> Partner Acknowledgements </h3>
 
 Organised by
-<img style="width:80px;height:60px;" alt="CHI Logo" src="/images/CHI%20Logo®%20Colour.png">
 
 In Partnership with
 
-Sponsored by
-
-	
-	
 Supported by
-	
-	
+
+Co-Supported by
+
 Powered by
