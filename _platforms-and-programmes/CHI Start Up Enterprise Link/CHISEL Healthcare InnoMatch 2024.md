@@ -31,7 +31,7 @@ third_nav_title: CHI Start Up Enterprise Link
 
 <div style="display: flex; justify-content: center;" class="row">
 <div style="display: flex; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;" class="col">
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="theme" style="width: 860px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_2024_Image_for_Theme.jpg">
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="theme" style="width: 560px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_2024_Image_for_Theme.jpg">
 <div class="header">
 <b></b>
 </div>
