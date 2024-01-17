@@ -118,6 +118,27 @@ input:checked + label + .accordion-content {
 </style>
 <!--END OF REQUIRED CODE.\-->
 
+<p> Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts.</p>
+
+<!--ENTIRE ACCORDION CODE-->
+
+<div class="container">
+<!--ONE BOX. Must match the <label> code with the id code -->
+<div>
+	<input id="title1" type="checkbox"><label for="title1">Strengthening Care for a Healthier and Resilient Ageing Society</label>
+	<div class="accordion-content">
+		<div class="para"><u>Problem Statement:</u>
+<p>How might disruptive innovations enhance existing efforts, bridge critical gaps and fulfil unmet needs in the <b>holistic care</b> of the elderly and young seniors, so as to create <b>sustainable</b> (business model and environment perspective) <b>and personalised care models</b>?</p>
+		<p>We are seeking scalable, end-to-end and sustainable (business model and environment perspective) solutions to <b>promote personalised medical intervention, self-care,</b> and <b>right-sited care.</b> This may include solutions such as:
+			</p><ul>
+				<li>Point of Care testing (i.e. diagnostic) solutions to transform disease diagnosis and support clinical decision to develop timely personalised care plans and/or treatments based on individuals’ risk profiles.</li>
+				<li>Digital innovations and Artificial Intelligence (AI) enhanced solutions that help to better predict, prevent and manage chronic diseases.</li>
+				<li>Wearables and sensors to bring supportive care closer to home, empowering individuals to self-manage their health status and receive personalised health and lifestyle coaching. This may pertain to eating healthily, increasing physical activities, taking their medications and routinely going for medical check-ups.</li>
+				
+</ul></div>
+</div>
+<!--ONE BOX END-->
+
 <h3> Timeline </h3>
 
 <img style="width: 640px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/2024_Timeline.png">
@@ -206,4 +227,4 @@ input:checked + label + .accordion-content {
 					
 
 <h3> Partner Acknowledgements </h3>
-<img alt="theme" style="width: 860px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png">
+<img alt="theme" style="width: 860px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png"></div></div>
