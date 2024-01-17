@@ -212,6 +212,3 @@ In Partnership with
 
 Supported by
 
-Co-Supported by
-
-Powered by
