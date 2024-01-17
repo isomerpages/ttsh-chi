@@ -4,7 +4,7 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-<img style="width: 640px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Masthead.png">
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 600px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Masthead.png">
 
 <div style="display: flex; justify-content: center;" class="row">
 
@@ -23,11 +23,13 @@ description: ""
   </div>
     </div>
   </div>
-
+</div>
 <div></div>
 
 <h3>Theme </h3>
 <img alt="theme" style="width: 560px; height: 460px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/2024_Theme.png">
+
+
 
 <p> Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts. This year, besides calling for innovative and market-ready solutions to strengthen care for a healthier and resilient ageing society, Healthcare InnoMatch 2024 also introduces a ground-breaking theme: Environmental Sustainability in Healthcare.</p>
 	
