@@ -207,8 +207,3 @@ input:checked + label + .accordion-content {
 
 <h3> Partner Acknowledgements </h3>
 
-Organised by
-
-In Partnership with
-
-Supported by
