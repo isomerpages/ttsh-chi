@@ -4,23 +4,26 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-<div>
-&nbsp; <div style="display: flex; justify-content: center;" class="row">
-&nbsp; &nbsp; <div style="display: flex; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;" class="col">
-&nbsp; &nbsp; &nbsp; <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="QR" style="width: 330px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/QR_Code_CHISEL_InnoMatch_2024_Info___Networking_Session_RSVP.png">
-&nbsp; &nbsp; &nbsp; &nbsp; <div class="header">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b></b>
-&nbsp; &nbsp; &nbsp; &nbsp; </div>
-&nbsp; &nbsp; &nbsp; </div>
-&nbsp; &nbsp; </div>
-&nbsp;&nbsp; <div class="col">
-&nbsp; &nbsp; &nbsp; <div style="align-self: center; justify-content: center;" class="header">
-&nbsp; &nbsp; &nbsp; &nbsp; <p style="text-align: center; padding: 40px 0;"> CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br><a href="https://for.sg/chisel2024rsvp">Click here</a> to sign up for the virtual Info Session and/or in-person Networking Session now!<br><br> .</p>
+<img style="width: 640px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Masthead.png">
+
+<div style="display: flex; justify-content: center;" class="row">
+
+<div style="display: flex; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;" class="col">
+
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="QR" style="width: 330px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/QR_Code_CHISEL_InnoMatch_2024_Info___Networking_Session_RSVP.png">
+<div class="header">
+<b></b>
+</div>
+</div>
+</div>
+<div class="col">
+<div style="align-self: center; justify-content: center;" class="header">
+
+<p style="text-align: center; padding: 40px 0;"> CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br><a href="https://for.sg/chisel2024rsvp">Click here</a> to sign up for the virtual Info Session and/or in-person Networking Session now!<br></p>
   </div>
     </div>
   </div>
-</div>
+
 <div></div>
 
 <h3>Theme </h3>
