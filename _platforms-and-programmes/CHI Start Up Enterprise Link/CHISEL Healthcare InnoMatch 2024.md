@@ -24,7 +24,7 @@ third_nav_title: CHI Start Up Enterprise Link
     </div>
   </div>
 </div>
-<div></div>
+<div>
 
 <h3>Theme </h3>
 <img alt="theme" style="width: 560px; height: 460px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/2024_Theme_updated.png">
@@ -234,4 +234,4 @@ input:checked + label + .accordion-content {
 					
 
 <h3> Partner Acknowledgements </h3>
-<img alt="theme" style="width: 860px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png"></div></div>
+<img alt="theme" style="width: 860px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png"></div></div></div>
