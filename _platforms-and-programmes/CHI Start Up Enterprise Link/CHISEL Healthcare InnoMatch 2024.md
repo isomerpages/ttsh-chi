@@ -17,7 +17,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <div></div>
 
 <i><b>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS ON 5 FEBRUARY 2024.</b></i>
-<br>Keep a lookout! For enquiries, email us at CHISEL@chi.sg 
+<br>Keep a lookout! For enquiries, email us at  <a href="mailto:chisel@chi.sg">CHISEL@chi.sg</a>
 	
 <h3>Theme </h3>
 
