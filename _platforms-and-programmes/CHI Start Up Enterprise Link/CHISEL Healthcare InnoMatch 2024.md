@@ -7,44 +7,15 @@ third_nav_title: CHI Start Up Enterprise Link
 ---
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 600px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Masthead.png">
 
-<div style="display: flex; justify-content: center;" class="row">
-
-<div style="display: flex; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;" class="col">
-
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="QR" style="width: 330px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/QR_Code_CHISEL_InnoMatch_2024_Info___Networking_Session_RSVP.png">
-<div class="header">
-<b></b>
-</div>
-</div>
-</div>
-<div class="col">
-<div style="align-self: center; justify-content: center;" class="header">
-
-<p style="text-align: center; padding: 40px 0;"> CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br><a href="https://for.sg/chisel2024rsvp">Click here</a> to sign up for the virtual Info Session and/or in-person Networking Session now!<br></p>
+<p> CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br>
+<a href="https://for.sg/chisel2024rsvp">Click here</a> to sign up for the virtual Info Session and/or in-person Networking Session now!<br></p>
   </div>
-    </div>
-  </div>
-</div>
+    
+  
+
 <div></div>
 
 <h3>Theme </h3>
-
-<div style="display: flex; justify-content: center;" class="row">
-<div style="display: flex; align-items: center; margin-left: auto; margin-right: auto;" class="col">
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center; margin-left: auto; margin-right: auto;"><img alt="theme" style="width: 460px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_2024_Image_for_Theme.jpg">
-<div class="header">
-<b></b>
-</div>
-</div>
-<div class="col">
-<div style="align-self: center; justify-content: center;" class="header">
-	
-<p style="text-align: center; padding: 40px 0;"><b>Strengthening Care for a Healthier and Resilient Ageing Society</b></p>
-  </div>
-    </div>
-  </div>
-</div>
-<div></div>
 
 <!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
 <style>
@@ -165,7 +136,7 @@ input:checked + label + .accordion-content {
 <p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.</p>
 <h3> Timeline </h3>
 
-<img style="width: 540px; height: 340px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Timeline.png">
+<img style="width: 640px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Timeline.png">
 
 <!--ENTIRE ACCORDION CODE-->
 
@@ -250,5 +221,5 @@ input:checked + label + .accordion-content {
 <!--ACCORDION END--></div>
 					
 
-<h3> Partner Acknowledgements </h3>
+<h3> Organiser and Partners </h3>
 <img alt="theme" style="width: 860px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png"></div></div>
