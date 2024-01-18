@@ -223,3 +223,13 @@ input:checked + label + .accordion-content {
 
 <h3> Organiser and Partners </h3>
 <img alt="theme" style="width: 860px; height: 380px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Partners.png"></div></div>
+<br>
+
+<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
+
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+	<ul>
+			<li><a href="/platformprogrammes/nhipm/">Eligibility Criteria and Rules</a></li>
+			<li><a href="/platformprogrammes/child/">Frequently Asked Questions (FAQs)</a></li>
+	</ul>
+</div>
