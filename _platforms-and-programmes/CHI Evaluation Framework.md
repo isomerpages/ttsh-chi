@@ -2,6 +2,7 @@
 title: CHI Evaluation Framework
 permalink: /platforms-and-programmes/chief/
 description: ""
+variant: markdown
 ---
 <h2> CHI Evaluation Framework </h2>
 
@@ -118,11 +119,11 @@ th, td {
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-			<li><a href="/platformprogrammes/nhipm/">National Healthcare Innovation and Productivity Medals</a></li>
+			<li><a href="/platformprogrammes/nationalhipmedals/">National Healthcare Innovation and Productivity Medals</a></li>
 		<li><a href="/platformprogrammes/chisel/">CHI Start Up and Enterprise Link (CHISEL)</a></li>
 			<li><a href="/platformprogrammes/child/">CHI Learning and Development System (CHILD)</a></li>
 			<li><a href="/platformprogrammes/chi-fellowship/">CHI Fellowship in Healthcare Innovation and Leadership</a></li>
 	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
-	<li><a href="/platformprogrammes/otherprogrammes/">Other Leadership Programmes</a></li>
+	<li><a href="/platformprogrammes/others/">Other Leadership Programmes</a></li>
 	</ul>
 </div>
