@@ -8,13 +8,17 @@ third_nav_title: CHI Start Up Enterprise Link
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 600px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Masthead.png">
 
 <p> CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br>
-<a href="https://for.sg/chisel2024rsvp">Click here</a> to sign up for the virtual Info Session and/or in-person Networking Session now!<br></p>
+<a href="https://for.sg/chisel2024rsvp"><b>Click here</b></a> to sign up for the virtual Info Session and/or in-person Networking Session now!
+</p>
   </div>
     
   
 
 <div></div>
 
+<i><b>HEALTHCARE INNOMATCH OPENS FOR APPLICATIONS ON 5 FEBRUARY 2024.</b></i>
+<br>Keep a lookout! For enquiries, email us at CHISEL@chi.sg 
+	
 <h3>Theme </h3>
 
 <!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
