@@ -233,8 +233,9 @@ input:checked + label + .accordion-content {
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-			<li><a href="https://www.chi.sg/">About CHISEL</a></li><li><a href="https://www.chi.sg/">Eligibility Criteria and Rules</a></li>
-			<li><a href="https://www.chi.sg/">Frequently Asked Questions (FAQs)</a></li>
-			<li><a href="https://www.chi.sg/">Past CHISEL Winners</a></li>
+			<li><a href="https://www.chi.sg/platformprogrammes/chisel/">About CHISEL</a></li><li>
+		<a href="https://www.chi.sg/chisel-eligibility-criteria/">Eligibility Criteria and Rules</a></li>
+			<li><a href="https://www.chi.sg/chisel-faqs/">Frequently Asked Questions (FAQs)</a></li>
+			<li><a href="https://www.chi.sg/chisel-past-winners/">Past CHISEL Winners</a></li>
 	</ul>
 </div>
