@@ -39,7 +39,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="col">
 <div style="align-self: center; justify-content: center;" class="header">
 	
-<p style="text-align: center; padding: 40px 0;"></p><h3>Strengthening Care for a Healthier Resilient Ageing Society</h3><br><br><br><br>
+<p style="text-align: center; padding: 40px 0;"><b>Strengthening Care for a Healthier and Resilient Ageing Society</b></p>
 <p></p>
   </div>
     </div>
