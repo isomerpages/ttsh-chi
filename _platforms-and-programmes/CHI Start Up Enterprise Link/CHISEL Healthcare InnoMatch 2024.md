@@ -160,12 +160,12 @@ input:checked + label + .accordion-content {
 
 <h3> Funding and Collaborations </h3>
 	
-<img style="width: 850px; height: 300px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Funding_and_Collaborations.png">
+<img style="width: 600px; height: 300px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Funding_and_Collaborations.png">
 	
 <p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.</p>
 <h3> Timeline </h3>
 
-<img style="width: 400px; height: 500px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Timeline.png">
+<img style="width: 640px; height: 540px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Timeline.png">
 
 <!--ENTIRE ACCORDION CODE-->
 
