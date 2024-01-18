@@ -217,7 +217,7 @@ input:checked + label + .accordion-content {
 		<p><u>Evaluation Phase (Apr 2026 – May 2026)</u></p>
 		<ul>
 			<li>Upon completion of the test-bedding phase, the partner healthcare clusters would evaluate the success of the test-bed.</li>
-			<li>All CHISEL 2024 test-bed solutions are strongly encouraged to be evaluated using the CHI Evaluation Framework (CHIEF). CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. This would be provided at no cost for the purposes of the programme. You may also engage additional services from CHIEF or an independent expert for the purposes of evaluating the test-bed at your discretion.</li>
+			<li>All CHISEL 2024 test-bed solutions are to be evaluated using the <a href="https://www.chi.sg/platforms-and-programmes/chief/">CHI Evaluation Framework (CHIEF)</a>. CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. Evaluation costs should be included in your application.<br><br>You may also engage additional services (e.g. statistical analysis, study design, sample calculation etc.) from CHIEF or an independent expert for the purposes of the test-bed at your discretion.</li>
 </ul></div>
 </div>
 <!--6TH BOX END-->
