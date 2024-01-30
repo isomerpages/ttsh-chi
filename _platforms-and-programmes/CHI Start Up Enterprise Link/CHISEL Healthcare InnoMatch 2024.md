@@ -8,7 +8,6 @@ third_nav_title: CHI Start Up Enterprise Link
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 600px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Masthead.png">
 
 <p> CHI Start-up Entreprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br>
-<a href="https://for.sg/chisel2024rsvp"><b>Click here</b></a> to sign up for the virtual Info Session and/or in-person Networking Session now!
 </p>
   </div>
     
@@ -16,8 +15,8 @@ third_nav_title: CHI Start Up Enterprise Link
 
 <div></div>
 
-<i><b>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS ON 5 FEBRUARY 2024.</b></i>
-<br>Keep a lookout! For enquiries, email us at  <a href="mailto:chisel@chi.sg">CHISEL@chi.sg</a>
+<i><b>Healthcare InnoMatch 2024 is now open for submissions!</b></i>
+<br>For enquiries, email us at  <a href="mailto:chisel@chi.sg">CHISEL@chi.sg</a>
 	
 <h3>Theme </h3>
 
@@ -150,7 +149,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
-	<div class="para"><p>Submit your application for Healthcare InnoMatch 2024 on the Challenge Portal by <b>5 April 2024, 23:59 SGT</b>. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:</p>
+	<div class="para"><p>Submit your application for Healthcare InnoMatch 2024 on the <a href="https://www.judgify.me/chisel2024">Challenge Portal</a> by <b>5 April 2024, 23:59 SGT</b>. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:</p>
 		<ul>
 			<li>Applicant and Company Information</li>
 			<li>Solution Pitch Deck (7 slides)</li>
