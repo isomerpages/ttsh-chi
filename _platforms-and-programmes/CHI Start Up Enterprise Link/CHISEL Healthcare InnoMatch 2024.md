@@ -15,8 +15,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <i><b>Healthcare InnoMatch 2024 is now open for submissions!</b></i>
 
 
-| <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 200px; height: 121px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/R1_Apply_Now_with_text.png"> | <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 200px; height: 121px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Join_Us_with_text.png"> | 
-| -------- | -------- | 
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 200px; height: 121px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/R1_Apply_Now_with_text.png"> | <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 200px; height: 121px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Join_Us_with_text.png"> 
 
 
 <br>For enquiries, email us at  <a href="mailto:chisel@chi.sg">CHISEL@chi.sg</a>
