@@ -13,8 +13,10 @@ third_nav_title: CHI Start Up Enterprise Link
 
 
 <i><b>Healthcare InnoMatch 2024 is now open for submissions!</b></i>
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img style="width: 200px; height: 128px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/R2_Apply_Now.png"><div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img style="width: 200px; height: 128px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/R2_Join_Us.png">
 
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin-left: auto; margin-right: auto;"> <a href="https://www.judgify.me/chisel2024"><img style="width: 200px; height: 128px;" alt="Apply Now" src="/images/CHISEL/R2_Apply_Now.png"></a> <a href="https://for.sg/chisel2024rsvp"><img style="width: 200px; height: 128px;" alt="Join Us" src="/images/CHISEL/R2_Join_Us.png"></a> </div>
+	
 <br>For enquiries, email us at  <a href="mailto:chisel@chi.sg">CHISEL@chi.sg</a>
 	
 <h3>Theme </h3>
@@ -236,4 +238,4 @@ input:checked + label + .accordion-content {
 			<li><a href="https://www.chi.sg/chisel-faqs/">Frequently Asked Questions (FAQs)</a></li>
 			<li><a href="https://www.chi.sg/chisel-past-winners/">Past CHISEL Winners</a></li>
 	</ul>
-</div></div></div>
+</div>
