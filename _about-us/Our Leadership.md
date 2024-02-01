@@ -2,6 +2,7 @@
 title: Our Leadership
 permalink: /about-us/our-leadership/
 description: ""
+variant: markdown
 ---
 Our Leadership
 ---
@@ -125,8 +126,8 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Leaders/david%20d-01.png"></a></td>
-<td><strong>David Dhevarajulu  </strong><br>Consultant <br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a> </td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/david-dhevarajulu-67a3078/"><img alt="andrew1" src="/images/Leaders/david%20d-01.png"></a></td>
+<td><strong>David Dhevarajulu  </strong><br>Consultant <br><a href="https://www.linkedin.com/in/david-dhevarajulu-67a3078/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
