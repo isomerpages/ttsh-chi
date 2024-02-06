@@ -223,7 +223,7 @@ input:checked + label + .accordion-content {
 					
 
 <h3> Organiser and Partners </h3>
-<img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Organiser_and_partner.png">
+<img alt="theme" style="width: 980px; height: 369px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Organiser_and_partner.png">
 <img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Collaborating_Partners_and_Agencies_v1.png"></div></div><br>
 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
