@@ -1,0 +1,9 @@
+collections:
+  our-events:
+    output: true
+    order:
+      - Calendar of Events 2024.md
+      - CHI Conference/.keep
+      - CHI Conference/CHI Conference (CHI INNOVATE).md
+      - CHI Conference/Past CHI INNOVATE Conferences.md
+      - CHI Masterclass.md
