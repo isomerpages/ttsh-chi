@@ -12,12 +12,17 @@ third_nav_title: CHI Start Up Enterprise Link
   </div>
 <b><i>Healthcare InnoMatch 2024 is now open for submissions!</i></b><br>
 <br>
-<div style="display: flex; justify-content: space-around; align-items: center; margin-left: auto; margin-right: auto;"> <a href="https://www.judgify.me/chisel2024"><img style="width: 300px; height: 192px;" alt="Apply Now" src="/images/CHISEL/R2_Apply_Now.png"></a> <a href="https://for.sg/chisel2024rsvp"><img style="width: 300px; height: 192px;" alt="Join Us" src="/images/CHISEL/R2_Join_Us.png"></a> </div>
+<div style="display: flex; justify-content: space-around; align-items: center; margin-left: auto; margin-right: auto;"> <a href="https://www.judgify.me/chisel2024"><img style="width: 300px; height: 192px;" alt="Apply Now" src="/images/CHISEL/R2_Apply_Now.png"></a> <a href="https://for.sg/chisel2024rsvp"><img style="width: 300px; height: 192px;" alt="Join Us" src="/images/CHISEL/Join_Us_8_Mar.png"></a> </div>
+
+_Missed our earlier Info Sessions?_
+
+You can now&nbsp;[view the recording on our Youtube Channel](https://for.sg/chisel2024info)&nbsp;and&nbsp;[access the materials shared](https://for.sg/chisel2024infosession)&nbsp;to find out more about the CHISEL programme and the participation details of Healthcare InnoMatch 2024.
+
 For enquiries, email us at  <a href="mailto:chisel@chi.sg">CHISEL@chi.sg</a>
 	
 <h3>Theme </h3>
 
-<!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
+
 <style>
 .button {
   background-color: white;
@@ -106,14 +111,14 @@ input:checked + label + .accordion-content {
 }
 
 </style>
-<!--END OF REQUIRED CODE.\-->
+
 
 <p> Singapore is at the forefront of preparing for a super-aged society, anticipating that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG initiative, a comprehensive national program, underscores the commitment to support seniors in aging actively and independently within their homes and communities. However, the challenge lies in addressing the evolving and diverse care needs of the elderly, fostering holistic well-being, and enhancing the effectiveness of existing efforts.</p>
 
-<!--ENTIRE ACCORDION CODE-->
+
 
 <div class="container">
-<!--ONE BOX. Must match the <label> code with the id code -->
+
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Strengthening Care for a Healthier and Resilient Ageing Society</label>
 	<div class="accordion-content">
@@ -128,7 +133,7 @@ input:checked + label + .accordion-content {
 				
 </div>
 </div>
-<!--ONE BOX END-->
+
 
 <h3> Funding and Collaborations </h3>
 	
@@ -139,10 +144,10 @@ input:checked + label + .accordion-content {
 
 <img style="width: 840px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Timeline.png">
 
-<!--ENTIRE ACCORDION CODE-->
+
 
 <div class="container">
-<!--ONE BOX. Must match the <label> code with the id code -->
+
 <div>
 	<input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
@@ -155,8 +160,8 @@ input:checked + label + .accordion-content {
 			
 </div>
 </div>
-<!--ONE BOX END-->
-<!--2ND BOX-->
+
+
 <input id="title4" type="checkbox"><label for="title4">Stage 2 Application</label>
 	<div class="accordion-content">
 	<div class="para">Shortlisted start-ups and SMEs are to submit your full proposal, addressing the following but not limited to:
@@ -175,8 +180,8 @@ input:checked + label + .accordion-content {
 		<p>Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.</p>
 </div>
 </div>
-<!--2ND BOX END-->
-	<!--3RD BOX-->
+
+	
 <input id="title5" type="checkbox"><label for="title5">Engagement Sessions</label>
 	<div class="accordion-content">
 	<div class="para"><p>Up to twenty (20) start-ups and SMEs will be invited to present your solution at Engagement Sessions with our clinical partners and reviewers.</p>
@@ -184,23 +189,23 @@ input:checked + label + .accordion-content {
 		<p>Results will be announced by 16 Aug 2024. Up to nine (9) finalists will be selected.</p>
 </div>
 </div>
-<!--3RD BOX END-->
-	<!--4TH BOX-->
+
+	
 <input id="title6" type="checkbox"><label for="title6">Stage 3 Application and Coaching</label>
 	<div class="accordion-content">
 	<div class="para">Finalists will be coached by experts in preparation for the Finale Event. This may include coaching on refining the value proposition of the solution, budgeting, business plan, pitching. Oral presentation of your solutions is required during the coaching sessions. Guidance on submission materials for the Finale Event will be provided nearer to date.
 </div>
 </div>
-<!--4TH BOX END-->
-		<!--5TH BOX-->
+
+		
 <input id="title7" type="checkbox"><label for="title7">Final Pitching</label>
 	<div class="accordion-content">
 	<div class="para"><p>Finalists will pitch to the Judging Panel composed of senior management from the partner healthcare clusters and domain experts. Finalists in Singapore are required to attend the event in-person, while finalists overseas may dial-in through the online live-streamed platform.</p>
 		<p>Up to three (3) winners will be selected at the end of the Challenge, announced on the day of the event itself.</p>
 </div>
 </div>
-<!--5TH BOX END-->
-	<!--6TH BOX-->
+
+	
 <input id="title8" type="checkbox"><label for="title8">Next Steps</label>
 	<div class="accordion-content">
 	<div class="para">Successful winning start-ups and SMEs will be matched to one of the participating healthcare clusters to carry out test-bedding.
@@ -217,9 +222,9 @@ input:checked + label + .accordion-content {
 			<li>All CHISEL 2024 test-bed solutions are to be evaluated using the <a href="https://www.chi.sg/platforms-and-programmes/chief/">CHI Evaluation Framework (CHIEF)</a>. CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. Evaluation costs should be included in your application.<br><br>You may also engage additional services (e.g. statistical analysis, study design, sample calculation etc.) from CHIEF or an independent expert for the purposes of the test-bed at your discretion.</li>
 </ul></div>
 </div>
-<!--6TH BOX END-->
+
 </div>
-<!--ACCORDION END--></div>
+</div>
 					
 <h3> Organiser and Partners </h3>
 <img alt="theme" style="width: 980px; height: 369px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Organiser_and_partner.png">
