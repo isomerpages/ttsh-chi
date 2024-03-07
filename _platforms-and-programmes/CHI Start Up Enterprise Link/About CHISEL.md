@@ -9,7 +9,7 @@ variant: markdown
 
 Centre for Healthcare Innovation Start-Up Enterprise Link (CHISEL) is a programme that aims to accelerate the adoption of market-ready healthcare innovations that are fit for mainstream use, at speed at scale. <br>
 
-It provides a sandbox and marketplace that enables start-ups and small and medium enterprises (SMEs) to access real use cases and environments, and demostrate proof-of-value (POV) of market ready or near market-ready solutions, with one of the three Singapore healthcare clusters as a primary collaborative test-bed site. The eventual aim is to bridge the gap between market-ready solutions and adoption, with the aim of procurement for use by healthcare institutions. <br>
+It provides a sandbox and marketplace that enables start-ups and small and medium enterprises (SMEs) to access real use cases and environments, and demonstrate proof-of-value (POV) of market ready or near market-ready solutions, with one of the three Singapore healthcare clusters as a primary collaborative test-bed site. The eventual aim is to bridge the gap between market-ready solutions and adoption, with the aim of procurement for use by healthcare institutions. <br>
 
 Simultaneously, healthcare clusters are able to evaluate the operational feasibility of solutions prior to adoption or scale-up. The platform aims to bridge the market adoption gap, and allow patients early access to new and emerging healthcare innovations to meet healthcare gaps. 
 
@@ -106,7 +106,7 @@ input:checked + label + .accordion-content {
 
 
 </style>
-<!-- End of accordion -->
+
 
 <div class="container">
 
