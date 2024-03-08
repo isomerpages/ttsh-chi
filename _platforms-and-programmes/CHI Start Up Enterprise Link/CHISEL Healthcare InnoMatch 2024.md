@@ -5,14 +5,14 @@ variant: markdown
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 600px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Masthead.png">
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img alt="masthead" style="width: 600px; height: 330px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL_Masthead.png"></div>
 
-<p> CHI Start-up Enterprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!<br><br>
+<p> CHI Start-up Enterprise Link (CHISEL) Healthcare InnoMatch 2024 is calling for innovative market-ready or near market-ready solutions to address critical and emerging healthcare needs!
 </p>
-  </div>
-<b><i>Healthcare InnoMatch 2024 is now open for submissions!</i></b><br>
-<br>
-<div style="display: flex; justify-content: space-around; align-items: center; margin-left: auto; margin-right: auto;"> <a href="https://www.judgify.me/chisel2024"><img style="width: 300px; height: 192px;" alt="Apply Now" src="/images/CHISEL/R2_Apply_Now.png"></a> <a href="https://for.sg/chisel2024rsvp"><img style="width: 300px; height: 192px;" alt="Join Us" src="/images/CHISEL/Join_Us_8_Mar.png"></a> </div>
+
+<h3>
+<b>Healthcare InnoMatch 2024 is now open for submissions!</b><br></h3>
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://www.judgify.me/chisel2024"><img style="width: 330px; height: 220px;" alt="Apply Now" src="/images/CHISEL/Apply_Now_928_591.png"></a></div>
 
 _Missed our earlier Info Sessions?_
 
@@ -237,4 +237,3 @@ input:checked + label + .accordion-content {
 			<li><a href="https://www.chi.sg/chisel-faqs/">Frequently Asked Questions (FAQs)</a></li>
 			<li><a href="https://www.chi.sg/chisel-past-winners/">Past CHISEL Winners</a></li>
 	</ul></div></div></div>
-	
