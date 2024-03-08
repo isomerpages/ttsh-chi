@@ -12,7 +12,7 @@ third_nav_title: CHI Start Up Enterprise Link
 
 <h3>
 <b>Healthcare InnoMatch 2024 is now open for submissions!</b><br></h3>
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://www.judgify.me/chisel2024"><img style="width: 300px; height: 192px;" alt="Apply Now" src="/images/CHISEL/Apply_Now_928_591.png"></a></div>
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://www.judgify.me/chisel2024"><img style="width: 300px; height: 200px;" alt="Apply Now" src="/images/CHISEL/Apply_Now_928_591.png"></a></div>
 
 _Missed our earlier Info Sessions?_
 
