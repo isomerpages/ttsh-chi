@@ -4,5 +4,6 @@ date: 2020-08-07
 layout: file
 description: ""
 image: ""
-file_url: /files/mr lim chuan poh interview.pdf
+file_url: /files/Feature Stories/mr lim chuan poh interview.pdf
+variant: tiptap
 ---

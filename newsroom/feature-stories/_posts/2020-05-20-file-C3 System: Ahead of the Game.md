@@ -4,5 +4,6 @@ date: 2020-05-20
 layout: file
 description: ""
 image: ""
-file_url: /files/c3_ ahead of the game.pdf
+file_url: /files/Feature Stories/c3_ ahead of the game.pdf
+variant: tiptap
 ---

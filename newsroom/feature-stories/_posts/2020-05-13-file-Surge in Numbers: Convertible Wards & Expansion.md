@@ -4,5 +4,6 @@ date: 2020-05-13
 layout: file
 description: ""
 image: ""
-file_url: /files/ward conversion.pdf
+file_url: /files/Feature Stories/ward conversion.pdf
+variant: tiptap
 ---

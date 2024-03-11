@@ -4,5 +4,6 @@ date: 2023-10-30
 layout: file
 description: ""
 image: ""
-file_url: /files/chi innovate 2023.pdf
+file_url: /files/Feature Stories/chi innovate 2023.pdf
+variant: tiptap
 ---

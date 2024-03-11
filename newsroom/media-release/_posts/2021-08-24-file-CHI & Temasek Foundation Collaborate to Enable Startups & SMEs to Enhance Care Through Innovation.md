@@ -5,5 +5,6 @@ date: 2021-08-24
 layout: file
 description: ""
 image: ""
-file_url: /files/press release - chisel 2021.pdf
+file_url: /files/Press Release/press release - chisel 2021.pdf
+variant: tiptap
 ---

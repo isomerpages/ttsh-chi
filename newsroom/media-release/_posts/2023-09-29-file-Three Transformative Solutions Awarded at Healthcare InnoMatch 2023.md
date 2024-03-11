@@ -4,5 +4,6 @@ date: 2023-09-29
 layout: file
 description: ""
 image: ""
-file_url: /files/pressrelease_chi healthcare innomatch 2023_final.pdf
+file_url: /files/Press Release/pressrelease_chi healthcare innomatch 2023_final.pdf
+variant: tiptap
 ---

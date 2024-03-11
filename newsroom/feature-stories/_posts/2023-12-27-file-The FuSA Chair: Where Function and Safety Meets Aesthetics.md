@@ -5,5 +5,6 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/The_FuSA_Chair_Where_Function_and_Safety_Meets_Aesthetics_2.pdf
+file_url: /files/Feature
+  Stories/The_FuSA_Chair_Where_Function_and_Safety_Meets_Aesthetics_2.pdf
 ---

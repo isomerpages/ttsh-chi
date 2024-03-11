@@ -4,5 +4,6 @@ date: 2022-02-11
 layout: file
 description: ""
 image: ""
-file_url: /files/15_child temi.pdf
+file_url: /files/Feature Stories/15_child temi.pdf
+variant: tiptap
 ---

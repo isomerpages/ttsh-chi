@@ -4,5 +4,6 @@ date: 2021-07-01
 layout: file
 description: ""
 image: ""
-file_url: /files/chi press release - nhip 2021 awards.pdf
+file_url: /files/Press Release/chi press release - nhip 2021 awards.pdf
+variant: tiptap
 ---
