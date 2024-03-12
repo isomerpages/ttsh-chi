@@ -125,7 +125,7 @@ th, td {
 		</div></div>
 
 <div>
-	<input id="title2" type="checkbox"><label for="title2">	Sponsor and Exhibitor Opportunities</label>
+	<input id="title2" type="checkbox"><label for="title2">	Sponsorship and Exhibitor Opportunities</label>
 	<div class="accordion-content">
 	<div class="para">
 		<p> Join us for CHI INNOVATE 2024, the premier healthcare event of the year, where we will explore the latest trends and perspectives in healthcare innovation and transformation.<br><br>
