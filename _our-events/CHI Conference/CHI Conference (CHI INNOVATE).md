@@ -121,8 +121,20 @@ th, td {
 	<div class="para">
 		<a download="" href="/files/Innovate%202024%20Programme/CHI_INNOVATE_2024__Shareable_Prog_as_of_22_Feb_24_.pdf">
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
-</a>
-		
-</div>
+		</a>
+		</div></div>
 
-</div></div>
+<div>
+	<input id="title2" type="checkbox"><label for="title2">	Sponsor and Exhibitor Opportunities</label>
+	<div class="accordion-content">
+	<div class="para">
+		<p> Join us for CHI INNOVATE 2024, the premier healthcare event of the year, where we will explore the latest trends and perspectives in healthcare innovation and transformation.<br><br>
+			A gathering of healthcare professionals including C-Suite, Management and Clinical Executives, CHI INNOVATE 2024 offers unique opportunities to elevant your organisation's profile in healthcare: 
+			</p><ul><li>Participate in the exhibition to profile your company as an innovator in healthcare</li>
+				<li>Take up specialised and targeted sponsorships to strengthen your brand message</li>
+				<li>Use the available digital platform for branding to further extend your exposure</li>
+				<li>Opportunity to make product and partnership announcements</li></ul>
+To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, please contact: Ryan Jin, Business Development Manager, CHI INNOVATE 2024 at <a href="mailto:conference@chi.sg">conference@chi.sg</a>
+<p></p>
+		</div>
+</div></div></div>
