@@ -128,8 +128,7 @@ th, td {
 	<input id="title2" type="checkbox"><label for="title2">	Sponsorship and Exhibitor Opportunities</label>
 	<div class="accordion-content">
 	<div class="para">
-		<p> Join us for CHI INNOVATE 2024, the premier healthcare event of the year, where we will explore the latest trends and perspectives in healthcare innovation and transformation.<br>
-			
+		<p> Join us for CHI INNOVATE 2024, the premier healthcare event of the year, where we will explore the latest trends and perspectives in healthcare innovation and transformation.<br><br>
 Themed “Sustainability in Healthcare”, this year’s focus will explore how the climate crisis affects health and healthcare, how healthcare is contributing to the climate&nbsp;crisis, what is being done and what more we can do as we collaborate with like-minded partners who envision and are committed to the practice of a sustainable economy.<br>
 			
 Be part of our unrivaled lineup of international speakers and engaging innovation showcase in inspiring the wider healthcare community to create sustainable progress in adopting and implementing innovation.<br>
