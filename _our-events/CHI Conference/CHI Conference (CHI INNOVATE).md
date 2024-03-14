@@ -139,7 +139,7 @@ Be part of our unrivaled lineup of international speakers and engaging innovatio
 				<li>Take up specialised and targeted sponsorships to strengthen your brand message</li>
 				<li>Use the available digital platform for branding to further extend your exposure</li>
 				<li>Opportunity to make product and partnership announcements</li></ul>
-<br>CHI INNOVATE 2024 aims to inspire innovation and collaboration, and accelerate healthcare transformation at large. It is the place to raise your corporate proﬁle, showcase the latest innovative solutions, engage with decision makers and eventual end-users.<br>
+<br>CHI INNOVATE 2024 aims to inspire innovation and collaboration, and accelerate healthcare transformation at large. It is the place to raise your corporate proﬁle, showcase the latest innovative solutions, engage with decision makers and eventual end-users.<br><br>
 To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, please contact: Ryan Jin, Business Development Manager, CHI INNOVATE 2024 at <a href="mailto:conference@chi.sg">conference@chi.sg</a>
 <p></p>
 		</div>
