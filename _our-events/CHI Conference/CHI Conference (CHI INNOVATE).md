@@ -144,8 +144,10 @@ Be part of our unrivaled lineup of international speakers and engaging innovatio
 
 To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, please contact: Ryan Jin, Business Development Manager, CHI INNOVATE 2024 at <a href="mailto:conference@chi.sg">conference@chi.sg</a>
 <p></p>
-		
 		</div></div>
+
+<h3> Early Bird Tickets Now Available</h3> 
+
 	
 <br>
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact_Us.png"></a></div></div></div>
