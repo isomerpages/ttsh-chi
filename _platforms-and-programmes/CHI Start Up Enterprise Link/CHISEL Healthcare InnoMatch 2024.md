@@ -225,10 +225,10 @@ input:checked + label + .accordion-content {
 
 </div>
 </div>
-					
+	
 <h3> Organiser and Partners </h3>
 <img alt="theme" style="width: 980px; height: 369px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Organiser_and_partner.png">
-<img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/Collab_Partners_and_Agencies_03.png"><img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/Collab_Partners_and_Agencies_04.png"><br>
+<img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/CHISEL_Partners_Mar_.png"><img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/CHISEL_Partners_Mar__02.png"><br>
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 <ul>

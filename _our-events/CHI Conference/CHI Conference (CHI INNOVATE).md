@@ -119,10 +119,9 @@ th, td {
 	<input id="title1" type="checkbox"><label for="title1">	Programme Overview</label>
 	<div class="accordion-content">
 	<div class="para">
-		<a download="" href="/files/Innovate%202024%20Programme/CHI_INNOVATE_2024__Shareable_Prog_as_of_22_Feb_24_.pdf">
+		<a download="" href="=/files/Innovate%202024%20Programme/CHI_INNOVATE_2024__Shareable_Prog_as_of_15_Mar_24_.pdf">
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
-</a>
-		
-</div>
-
-</div></div>
+		</a>
+		</div></div>
+<br>
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact_Us.png"></a></div></div>
