@@ -123,5 +123,29 @@ th, td {
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
 		</a>
 		</div></div>
+
+<div>
+	<input id="title2" type="checkbox"><label for="title2">	Sponsorship and Exhibitor Opportunities</label>
+	<div class="accordion-content">
+	<div class="para">
+<p> Join us for CHI INNOVATE 2024, the premier healthcare event of the year, where we will explore the latest trends and perspectives in healthcare innovation and transformation.<br>
+
+Themed “Sustainability in Healthcare”, this year’s focus will explore how the climate crisis affects health and healthcare, how healthcare is contributing to the climate&nbsp;crisis, what is being done and what more we can do as we collaborate with like-minded partners who envision and are committed to the practice of a sustainable economy.<br>
+
+Be part of our unrivaled lineup of international speakers and engaging innovation showcase in inspiring the wider healthcare community to create sustainable progress in adopting and implementing innovation.<br>
+</p>
+<p>A gathering of healthcare professionals including C-Suite, Management and Clinical Executives, CHI INNOVATE 2024 offers unique opportunities to elevant your organisation's profile in healthcare:
+</p><ul><li>Participate in the exhibition to profile your company as an innovator in healthcare</li>
+<li>Take up specialised and targeted sponsorships to strengthen your brand message</li>
+<li>Use the available digital platform for branding to further extend your exposure</li>
+<li>Opportunity to make product and partnership announcements</li></ul>
+
+<br>CHI INNOVATE 2024 aims to inspire innovation and collaboration, and accelerate healthcare transformation at large. It is the place to raise your corporate proﬁle, showcase the latest innovative solutions, engage with decision makers and eventual end-users.<br>
+
+To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, please contact: Ryan Jin, Business Development Manager, CHI INNOVATE 2024 at <a href="mailto:conference@chi.sg">conference@chi.sg</a>
+<p></p>
+		
+		</div></div>
+	
 <br>
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact_Us.png"></a></div></div>
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact_Us.png"></a></div></div></div>
