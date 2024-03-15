@@ -123,5 +123,29 @@ th, td {
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
 		</a>
 		</div></div>
+
+<div>
+	<input id="title2" type="checkbox"><label for="title2">	Sponsorship and Exhibitor Opportunities</label>
+	<div class="accordion-content">
+	<div class="para">
+<p> Be part of our unrivaled lineup of international speakers and engaging innovation showcase in inspiring the wider healthcare community to create sustainable progress in adopting and implementing innovation.<br>
+</p>
+<p>A gathering of healthcare professionals including C-Suite, Management and Clinical Executives, CHI INNOVATE 2024 offers unique opportunities to elevate your organisation's profile in healthcare:
+</p><ul><li>Participate in the exhibition to profile your company as an innovator in healthcare</li>
+<li>Take up specialised and targeted sponsorships to strengthen your brand message</li>
+<li>Use the available digital platform for branding to further extend your exposure</li>
+<li>Opportunity to make product and partnership announcements</li></ul>
+CHI INNOVATE 2024 aims to inspire innovation and collaboration, and accelerate healthcare transformation at large. It is the place to raise your corporate proﬁle, showcase the latest innovative solutions, engage with decision makers and eventual end-users.<br>
+
+To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, please contact: Ryan Jin, Business Development Manager, CHI INNOVATE 2024 at <a href="mailto:conference@chi.sg">conference@chi.sg</a>
+<p></p>
+		</div></div>
+
+<h3> Early Bird Tickets Now Available</h3> 
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img style="width: 900px; height: 300px;" alt="Ticket Price" src="/images/CHI%20INNOVATE/Ticket_Price_15_Mar.png"></div>
 <br>
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact_Us.png"></a></div></div>
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://form.gov.sg/65ee980d279a4e91197a7718"><img style="width: 300px; height: 70px;" alt="Register Now" src="/images/CHI%20INNOVATE/Interim_Innovate_Page_3.png"></a></div></div></div>
+
+<h3>Connect with us for any enquiries</h3> 
+
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div>
