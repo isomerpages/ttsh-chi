@@ -149,6 +149,6 @@ To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, 
 <h3> Early Bird Tickets Now Available</h3> 
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img style="width: 900px; height: 400px;" alt="Register Now" src="/images/CHI%20INNOVATE/Ticket_Price.png"></div></div></div>
 
-<h3>For more information,</h3> 
+<h3>Connect with us for any enquiries</h3> 
 
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact_Us.png"></a></div>
