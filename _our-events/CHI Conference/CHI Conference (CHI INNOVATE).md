@@ -125,7 +125,7 @@ th, td {
 		</div></div>
 
 <div>
-	<input id="title2" type="checkbox"><label for="title2">	Sponsorship and Exhibitor Opportunities</label>
+	<input id="title2" type="checkbox"><label for="title2">	Partnership Opportunities</label>
 	<div class="accordion-content">
 	<div class="para">
 <p> Be part of our unrivaled lineup of international speakers and engaging innovation showcase in inspiring the wider healthcare community to create sustainable progress in adopting and implementing innovation.<br>
