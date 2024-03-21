@@ -124,6 +124,7 @@ th, td {
 		</a>
 		</div></div>
 
+	
 <div>
 	<input id="title2" type="checkbox"><label for="title2">	Partnership Opportunities</label>
 	<div class="accordion-content">
