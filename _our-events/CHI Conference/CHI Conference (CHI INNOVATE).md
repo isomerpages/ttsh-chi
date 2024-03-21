@@ -119,7 +119,7 @@ th, td {
 	<input id="title1" type="checkbox"><label for="title1">	Programme Overview</label>
 	<div class="accordion-content">
 	<div class="para">
-		<a download="" href="=/files/Innovate%202024%20Programme/15%20mar_shareable_prog_chi_innovate_2024.pdf">
+		<a download="" href="/files/Innovate%202024%20Programme/15%20mar_shareable_prog_chi_innovate_2024.pdf">
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
 		</a>
 		</div></div>
