@@ -240,7 +240,7 @@ th, td {
   <tbody>
     <tr>
       <td scope="row"><a href="https://corp.nhg.com.sg/CMTI/Pages/default.aspx"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/cmticmti.svg"></button></a><br>
-      </td><td><a href="https://www.linkedin.com/in/chi-flying-45450020a/"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></button></a><br></td>
+      </td><td><a href="https://www.linkedin.com/in/chi-flying-45450020a"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/flying.svg"></button></a><br></td>
       <td><a href="https://www.ntu.edu.sg/alive"><button class="button button1"><img alt="CHI" style="width:150px; height:180px; padding-top:8%;" src="/images/Logos/Collab%20centre/alivegames.svg"></button></a><br></td>
     </tr>
    
