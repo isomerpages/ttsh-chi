@@ -1,5 +1,5 @@
 ---
-title: CHI Conference (CHI INNOVATE)
+title: CHI INNOVATE 2024
 permalink: /our-events/chi-innovate/
 description: ""
 third_nav_title: CHI Conference
