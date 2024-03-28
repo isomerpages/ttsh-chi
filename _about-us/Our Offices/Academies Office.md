@@ -104,6 +104,6 @@ th, td {
 	<input id="title1" type="checkbox"><label for="title1">	CHI Health and Social Change Academy</label>
 	<div class="accordion-content">
 	<div class="para">CHI HSCA aims to build capability for HealthierSG to help shift the gravity of care from the hospital to the community, where the focus is on health and residents and not just disease and patients. New care models anchored on population health management, health activation, collective leadership, and mobilisation of resources across health and social sectors will be key to achieve this transformation. This requires new skills, knowledge and capabilities for health and social care providers.
-<br><br>For more information on the programmes, click here: https://www.chi.sg/platforms-and-programmes/healthandsocialchange/. 
-</div>
-</div></div>
+<br><br>For more information on the programmes, click<a download="" href="https://www.chi.sg/platforms-and-programmes/healthandsocialchange/"> here.
+</a></div><a download="" href="https://www.chi.sg/platforms-and-programmes/healthandsocialchange/">
+</a></div></div>
