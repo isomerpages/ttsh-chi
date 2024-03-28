@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h2>Partnerships Office</h2>
 <p></p>
-<p>The Partnerships Office connects people, drive collaborations, and convenes
-thought leadership, with the purpose of driving healthcare innovation for
-systems change.</p>
+<p>The CHI Partnerships Office connects people, drive collaborations, and
+convenes thought leadership, with the purpose of driving healthcare innovation
+for systems change.</p>
 <p>&nbsp;The team drives thought leadership through a flywheel of co-learning
 networks, fostering a collaborative ecosystem for healthcare innovation
 and systems change. The CHI Partnerships Office manages the:</p>
