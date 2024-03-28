@@ -7,13 +7,30 @@ variant: tiptap
 ---
 <h2>Organisational Development</h2>
 <h4><em>Building Organisation Health to Achieve Organisation Excellence</em></h4>
-
-Organisational Development (OD) in Tan Tock Seng Hospital (TTSH) builds organisation health for organisation excellence –and focuses on building “Better People to deliver Better Care”, empowering “Better Communities towards Better Health and Better Value”.<br><br>
-OD is key to shaping both excellent hospital care and population health.  Changing the landscape of healthcare for tomorrow, the OD team works closely with strategic partners in multiple transformation efforts to enable TTSH’s 10,000 strong workforce, more than 80 community partners and 1.4 million residents to live in healthier and happier communities across Central Singapore.<br><br>
-With its focus on building “Better People and empowering Better Communities”, OD’s efforts are largely in these areas: <br>
-
-*	Building collective leadership founded on meaningful relationships where everyone assumes collective responsibility for the success of TTSH &amp; Central Health.<br>
-
-*	Building TTSH’s capability and capacity to learn, adapt and renew through formal and informal learning programmes, structures and platforms, supported by Communities of Practice. <br>
-
-*	Building formal and informal workforce to do their jobs well, better and differently through value creation tools, technology enablement and innovation. The goal is a future-ready workforce.
+<p></p>
+<p>The CHI Leadership and Organisation Development (LOD) Office builds people
+and leadership to respond with agility to lead change and transform – enabling
+communities in the healthcare and social care sectors at the national level
+to add years of healthy life for the populations we serve.&nbsp; We focus
+efforts on creating our impact and driving outcomes towards achieving population
+health, healthcare sustainability and value healthcare with these communities
+and systems.</p>
+<p>In support of CHI’s strategic priorities, LOD Office’s efforts are focused
+in these areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Enable Systems Change </strong>through Alignment, Activation &amp;
+Agency: <em>We work with communities and systems to strive and thrive in uncertain and complex conditions, achieving system excellence and system health, achieving best value in healthcare for patients and populations.</em>
+</p>
+</li>
+<li>
+<p><strong>Equip Leadership For Change </strong>through Collective Leadership
+Enculturation, Building Change Leaders &amp; Leadership Pipeline Development: <em>We build trusting relationships with leaders and among leaders to build a collective leadership culture, build change leadership capabilities and grow our leadership pipeline, achieving sustainable growth in healthcare.&nbsp;</em>
+</p>
+</li>
+<li>
+<p><strong>Build OD Capabilities</strong> to Lead Change: <em>We build organisation development (OD) capabilities in people and leaders to lead change; mobilise and organize others for change, creating value through grand challenges such as to add 15million years of healthy life to the population of Central &amp; North Singapore.</em>
+</p>
+</li>
+</ul>
+<p></p>
