@@ -7,7 +7,7 @@ third_nav_title: Our Offices
 ---
 <h2> Academies Office </h2> 
 
-The CHI Academy Office is a central management body supporting academies under Centre for Healthcare Innovation (CHI).
+The CHI Academies Office is a central management body supporting academies under Centre for Healthcare Innovation (CHI).
 
 Each academy plays a vital role in advancing healthcare practices, sustainability efforts, and community well-being, collectively contributing to CHI's mission of driving innovation and positive change in the healthcare sector.
 
