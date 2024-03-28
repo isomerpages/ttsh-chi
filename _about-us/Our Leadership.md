@@ -30,7 +30,7 @@ Thailand<br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
-<td><br><strong>Göran Henriks </strong><br>Member of CHI Leadership Council<br>Senior Strategic Advisor, Region Jonkoping County ​<br>Chief Executive of Learning &amp; Innovation  <br>County Council <br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Göran Henriks </strong><br>Member of CHI Leadership Council<br>Senior Strategic Advisor, Region Jonkoping County<br>Chief Executive of Learning &amp; Innovation  <br>County Council <br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
@@ -78,27 +78,26 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
-
+	
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/yihyng"><img alt="andrew1" src="/images/Leaders/dr%20ng%20yy-01.png"></a></td>
 <td><strong>Dr Ng Yih Yng</strong>
 <br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
-	<tr>
+<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/Leaders/casperr.png"></a></td>
-<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Faculty Office<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a> </td>
+<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Faculty Office<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/raymond-chow-37367748"><img alt="andrew1" src="/images/Leaders/wailing.png"></a></td>
-<td><strong>Raymond Chow </strong><br>Director, Kaizen Office and Academies Office<br><a href="https://www.linkedin.com/in/raymond-chow-37367748" target="_blank"><small>LinkedIn</small></a> </td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/raymond-chow-37367748"><img alt="andrew1" src="/images/Leaders/Raymond_Chow.png"></a></td>
+<td><strong>Raymond Chow </strong><br>Director, Kaizen Office and Academies Office<br><a href="https://www.linkedin.com/in/raymond-chow-37367748" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/ronnie.png"></a></td>
-<td><strong>Ronnie Yang </strong><br>Director, People Development Office &amp; Management Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a> </td>
-		</tr>
+<td><strong>Ronnie Yang </strong><br>Director, People Development Office &amp; Management Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a></td></tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/david%20d-01.png"></a></td>
-<td><strong>David Dhevarajulu</strong><br>Director, Leadership &amp; Organisation Development Office<br><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724" target="_blank"><small>LinkedIn</small></a> </td>
+<td><strong>David Dhevarajulu</strong><br>Director, Leadership &amp; Organisation Development Office<br><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 
 	<tr>
@@ -113,8 +112,6 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/michelle-lee-754aa96a"><img alt="andrew1" src="/images/Leaders/michelle%20lee-01.png"></a></td>
 		<td><strong>Michelle Lee </strong><br>Deputy Director, Partnerships Office<br><a href="https://www.linkedin.com/in/michelle-lee-754aa96a" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
-
-
 
 </tbody>
 </table>
@@ -132,7 +129,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 <td><strong>Prof Jonathan Gray </strong><br>Consultant<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/Leaders/prof%20tan%20ch-01.png"></a></td>
 <td><strong>Assoc Prof Tan Cher Heng</strong><br>Consultant<br><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
