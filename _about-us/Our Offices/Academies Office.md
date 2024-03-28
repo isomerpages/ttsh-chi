@@ -103,18 +103,7 @@ th, td {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">	CHI Health and Social Change Academy</label>
 	<div class="accordion-content">
-	<div class="para">Facilitate agreements that safeguard the hospital and its stakeholders’ interests. These agreements ensure that every study/ trial is conducted according to all applicable laws and regulations, and the relevant ethics and regulatory requirements 
+	<div class="para">CHI HSCA aims to build capability for HealthierSG to help shift the gravity of care from the hospital to the community, where the focus is on health and residents and not just disease and patients. New care models anchored on population health management, health activation, collective leadership, and mobilisation of resources across health and social sectors will be key to achieve this transformation. This requires new skills, knowledge and capabilities for health and social care providers.
+<br><br>For more information on the programmes, click [undefined]()here. 
 </div>
-	</div>
-	<input id="title2" type="checkbox"><label for="title2">CHI Sustainability Academy</label>
-	<div class="accordion-content">
-	<div class="para">The Clinical Trials Unit is made up of a team of GCP- (Good Clinical Practice) and CITI (Collaborative Institutional Training Initiative)-certified clinical research coordinators who conduct both early and late phase trials. To find out more, please contact <a href="mailto:clinicaltrial@ttsh.com.sg">clinicaltrial@ttsh.com.sg</a>.
-</div>
-	</div>
-		</div>
-<div>		
-<input id="title3" type="checkbox"><label for="title3">CHI Value Academy</label>
-	<div class="accordion-content">
-	<div class="para">Clinical Research Support (CRS) unit consists of medical statisticians and epidemiologist that work closely with researchers through the research process; from the conceptualisation of ideas, developing study protocols, collecting and analysing the relevant data, and publication of research findings.
-</div>
-	</div></div>
+</div></div>
