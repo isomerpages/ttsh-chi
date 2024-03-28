@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Offices
 variant: tiptap
 ---
-<h2>Organisational Development</h2>
+<h2>Leadership &amp; Organisational Development</h2>
 <h4><em>Building Organisation Health to Achieve Organisation Excellence</em></h4>
 <p></p>
 <p>The CHI Leadership and Organisation Development (LOD) Office builds people
