@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Kaizen Office</h2>
 <h4><em>Facilitator, Coach, Change Agent</em></h4>
-<p>The Kaizen Office was formed in 2007 to help establish lean methodology
+<p>The CHI Kaizen Office was formed in 2007 to help establish lean methodology
 for process improvement. This lean movement was required to prepare healthcare
 for greater demands and complexities in the future, brought about by an
 aging population.
