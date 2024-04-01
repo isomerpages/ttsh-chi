@@ -94,7 +94,7 @@ Imperial College Health Partners<br><a href="https://www.linkedin.com/in/jonty-h
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/ronnie.png"></a></td>
-<td><strong>Ronnie Yang </strong><br>Director, People Development Office &amp; Management Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a></td></tr>
+<td><strong>Ronnie Yang </strong><br>Director, People Development Office and Management Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a></td></tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/david%20d-01.png"></a></td>
 <td><strong>David Dhevarajulu</strong><br>Director, Leadership &amp; Organisation Development Office<br><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724" target="_blank"><small>LinkedIn</small></a></td>
