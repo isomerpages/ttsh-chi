@@ -1,8 +1,8 @@
 ---
 title: Clinical Research and Innovation Office
-permalink: /about-us/our-offices/chi-crio/
+permalink: /permalink/
 description: ""
-third_nav_title: Our Offices
+variant: tiptap
 ---
 <h2> Clinical Research &amp; Innovation Office (CRIO)</h2>
 

@@ -1,8 +1,8 @@
 ---
 title: Management Development Office
-permalink: /about-us/our-offices/chi-mdo/
+permalink: /about-us/our-offices/mdo/
 description: ""
-third_nav_title: Our Offices
+variant: tiptap
 ---
 <h1>Management Development Office</h1>
 
@@ -102,7 +102,7 @@ th, td {
   border-style: hidden;
 }
 </style>
-<!-- End of accordion -->
+
 
 <div class="container">
 
