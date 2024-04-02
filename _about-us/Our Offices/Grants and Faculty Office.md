@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Grants and Innovation Office</h2>
 <h4><em>Seed, Drive, Promote Innovations</em></h4>
-<p>The CHI Grants and Faculty Office seeds, drives and promotes the spread
+<p>The CHI Grants and Innovation Office seeds, drives and promotes the spread
 and scale of innovation in order to enhance the health of our patients
 and the population we serve. We achieve this through the following initiatives:
 <br>
