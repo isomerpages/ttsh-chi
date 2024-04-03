@@ -123,9 +123,9 @@ th, td {
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
 		</a>
 		</div></div>
-
+	
 <div>
-	<input id="title2" type="checkbox"><label for="title2">	Partnership Opportunities</label>
+	<input id="title3" type="checkbox"><label for="title3">	Partnership Opportunities</label>
 	<div class="accordion-content">
 	<div class="para">
 <p> Be part of our unrivaled lineup of international speakers and engaging innovation showcase in inspiring the wider healthcare community to create sustainable progress in adopting and implementing innovation.<br>
