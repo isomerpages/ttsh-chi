@@ -123,9 +123,23 @@ th, td {
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
 		</a>
 		</div></div>
+	
+<div>
+	<input id="title2" type="checkbox"><label for="title2">	CHI x SIT Healthcare Sustainability Innovation Challenge</label>
+	<div class="accordion-content">
+	<div class="para">
+		<p>On this dynamic platform, brillant minds from diverse fields: healthcare practitioners, academia, industry partners, youth/students will converge to tackle pressing sustainability challenges within the healthcare industry.<br>
+</p><p> This is the space for healthcare professionals, subject matter experts, designers and sustainability enthusiasts to collaborate and collectively transform the way we approach healthcare.<br>
+</p><p> From eco-friendly healthcare technologies to preventive healthcare solutions, the possibilities are limitless!<br> 
+</p><p>The CHI x SIT Innovation challenge, supported by the National Youth Council (NYC), will focus on solutions that are immediately actionable, designed to be readily test-bedded, implemented and swiftly adopted by Singapore's Public Healthcare Institutions.<br> 
+</p><p> Join us for our Info Session happening on 13 April 2024 (Sat), 9.30am - 12pm!<br>
+</p><p> Register your slot for the Info Session <a href="https://for.sg/innovation-challenge2024">here.</a>
+</p>
+		
+		</div></div>
 
 <div>
-	<input id="title2" type="checkbox"><label for="title2">	Partnership Opportunities</label>
+	<input id="title3" type="checkbox"><label for="title3">	Partnership Opportunities</label>
 	<div class="accordion-content">
 	<div class="para">
 <p> Be part of our unrivaled lineup of international speakers and engaging innovation showcase in inspiring the wider healthcare community to create sustainable progress in adopting and implementing innovation.<br>
@@ -148,4 +162,4 @@ To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, 
 
 <h3>Connect with us for any enquiries</h3> 
 
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div>
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div></div>
