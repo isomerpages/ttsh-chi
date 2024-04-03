@@ -129,8 +129,7 @@ th, td {
 	<div class="accordion-content">
 	<div class="para">
 		<p>On this dynamic platform, brillant minds from diverse fields: healthcare practitioners, academia, industry partners, youth/students will converge to tackle pressing sustainability challenges within the healthcare industry.<br>
-</p><p> This is the space for healthcare professionals, subject matter experts, designers and sustainability enthusiasts to collaborate and collectively transform the way we approach healthcare.<br>
-</p><p> From eco-friendly healthcare technologies to preventive healthcare solutions, the possibilities are limitless!<br> 
+</p><p> This is the space for healthcare professionals, subject matter experts, designers and sustainability enthusiasts to collaborate and collectively transform the way we approach healthcare. From eco-friendly healthcare technologies to preventive healthcare solutions, the possibilities are limitless!<br> 
 </p><p>The CHI x SIT Innovation challenge, supported by the National Youth Council (NYC), will focus on solutions that are immediately actionable, designed to be readily test-bedded, implemented and swiftly adopted by Singapore's Public Healthcare Institutions.<br> 
 </p><p> Join us for our Info Session happening on 13 April 2024 (Sat), 9.30am - 12pm!<br>
 </p><p> Register your slot for the Info Session <a href="https://for.sg/innovation-challenge2024">here.</a>
