@@ -125,6 +125,14 @@ th, td {
 		</div></div>
 	
 <div>
+	<input id="title1" type="checkbox"><label for="title1">	CHI x SIT Healthcare Sustainability Innovation Challenge</label>
+	<div class="accordion-content">
+	<div class="para">
+  <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
+		
+		</div></div>
+	
+<div>
 	<input id="title3" type="checkbox"><label for="title3">	Partnership Opportunities</label>
 	<div class="accordion-content">
 	<div class="para">
@@ -148,4 +156,4 @@ To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, 
 
 <h3>Connect with us for any enquiries</h3> 
 
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div>
+<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div></div>
