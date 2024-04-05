@@ -125,12 +125,11 @@ th, td {
 		</div></div>
 	
 <div>
-	<input id="title1" type="checkbox"><label for="title1">	CHI x SIT Healthcare Sustainability Innovation Challenge</label>
+	<input id="title2" type="checkbox"><label for="title2">	CHI x SIT Healthcare Sustainability Innovation Challenge</label>
 	<div class="accordion-content">
 	<div class="para">
-  <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
-		
-		</div></div>
+	 <img style="width: 80%;" alt="1" src="/images/CHI%20INNOVATE/CHIxSIT_06.png">
+	</div></div>
 	
 <div>
 	<input id="title3" type="checkbox"><label for="title3">	Partnership Opportunities</label>
@@ -149,7 +148,7 @@ To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, 
 <p></p>
 		</div></div>
 
-<h3> Early Bird Tickets Now Available</h3> 
+<h3> Early Bird Tickets Now Available till 24 May 2024</h3> 
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img style="width: 900px; height: 300px;" alt="Ticket Price" src="/images/CHI%20INNOVATE/Ticket_Price_15_Mar.png"></div>
 <br>
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://form.gov.sg/65ee980d279a4e91197a7718"><img style="width: 300px; height: 70px;" alt="Register Now" src="/images/CHI%20INNOVATE/Interim_Innovate_Page_3.png"></a></div></div></div>
