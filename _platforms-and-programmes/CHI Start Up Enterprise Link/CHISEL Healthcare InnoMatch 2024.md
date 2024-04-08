@@ -11,12 +11,10 @@ third_nav_title: CHI Start Up Enterprise Link
 </p>
 
 <h3>
-<b>Healthcare InnoMatch 2024 closing date extended to 8 Apr 2024, 1200 Noon (SGT)!</b><br></h3>
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://www.judgify.me/chisel2024"><img style="width: 330px; height: 130px;" alt="Apply Now" src="/images/CHISEL/Apply_Now__Apr_updated_.png"></a></div>
+<b>Applications have closed for Healthcare InnoMatch 2024. Stay tuned to this page for updates on the shortlisted finalists.</b><br></h3>
 
-_Missed our earlier Info Sessions?_
 
-You can now&nbsp;[view the recording on our Youtube Channel](https://for.sg/chisel2024info)&nbsp;and&nbsp;[access the materials shared](https://for.sg/chisel2024infosession)&nbsp;to find out more about the CHISEL programme and the participation details of Healthcare InnoMatch 2024.
+For more information about the CHISEL programme, you can &nbsp;[view the recording on our Youtube Channel](https://for.sg/chisel2024info)&nbsp;and&nbsp;[download the materials here.](https://for.sg/chisel2024infosession)
 
 For enquiries, email us at  <a href="mailto:chisel@chi.sg">CHISEL@chi.sg</a>
 	
