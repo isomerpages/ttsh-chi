@@ -128,7 +128,7 @@ th, td {
 	<input id="title2" type="checkbox"><label for="title2">	CHI x SIT Healthcare Sustainability Innovation Challenge</label>
 	<div class="accordion-content">
 	<div class="para">
-	 <img style="width: 80%;" alt="1" src="/images/CHI%20INNOVATE/CHIxSIT_06.png"><br> For more information about the challenge, check out our <a href="https://for.sg/innovation-challenge">challenge page.</a>
+	 <img style="width: 80%;" alt="1" src="/images/CHI%20INNOVATE/CHIxSIT_v02_02_Portrait.png"><br> For more information about the challenge, check out our <a href="https://for.sg/innovation-challenge">challenge page.</a>
 	</div></div>
 	
 <div>
@@ -156,3 +156,6 @@ To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, 
 <h3>Connect with us for any enquiries</h3> 
 
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div></div>
+
+
+![](/images/CHI%20INNOVATE/CHIxSIT_v02_02_Portrait.png)
