@@ -4,7 +4,7 @@ permalink: /chi-x-sit-healthcare-sustainability-innovation-challenge/
 variant: markdown
 description: ""
 ---
-<h2> CHI x SIT Healthcare Sustainability Innovation Challenge </h2>
+![](/images/CHI%20INNOVATE/CHIxSIT_v02_01_Landscape.png)
 
 Are you passionate about making a positive impact on healthcare sustainability? Are you ready to take on a challenge that could transform healthcare? If so, we want YOU to join us for the&nbsp;**CHI x SIT Healthcare Sustainability Innovation Challenge!**  
   
