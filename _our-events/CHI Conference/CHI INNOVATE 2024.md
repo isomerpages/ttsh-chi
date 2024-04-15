@@ -128,7 +128,7 @@ th, td {
 	<input id="title2" type="checkbox"><label for="title2">	CHI x SIT Healthcare Sustainability Innovation Challenge</label>
 	<div class="accordion-content">
 	<div class="para">
-	 <img style="width: 80%;" alt="1" src="/images/CHI%20INNOVATE/CHIxSIT_06.png">
+	 <img style="width: 80%;" alt="1" src="/images/CHI%20INNOVATE/CHIxSIT_06.png"><br> For more information about the challenge, check out our <a href="https://for.sg/innovation-challenge">challenge page.</a>
 	</div></div>
 	
 <div>
