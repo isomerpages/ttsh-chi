@@ -19,8 +19,8 @@ As a conference, we also aim to be an event with strong sustainable practices.
 
 Join us on **4 &amp; 5 July 2024** as we pledge our oath to extend our healing touch not just to patients but to the planet we call home.
 
-Stay tuned to the latest updates by registering your interest
- <a href="https://form.gov.sg/656ed4a7d52312001273f90c">here.</a>
+Stay tuned to the latest updates by joining our mailing list
+ <a href="https://form.gov.sg/63ff0dedc2a8ab001139bc02">here.</a>
 <br>
 
 <style>
@@ -119,7 +119,7 @@ th, td {
 	<input id="title1" type="checkbox"><label for="title1">	Programme Overview</label>
 	<div class="accordion-content">
 	<div class="para">
-		<a download="" href="/files/Innovate%202024%20Programme/As_of_3_Apr_CHI_INNOVATE_2024.pdf">
+		<a download="" href="/files/Innovate%202024%20Programme/As_of_15_Apr_CHI_INNOVATE_2024__Shareable_Prog_.pdf">
   <img style="width: 33.33%;" alt="1" src="/images/CHI%20INNOVATE/CHI_INNOVATE_2024_EDM_10.png">
 		</a>
 		</div></div>
