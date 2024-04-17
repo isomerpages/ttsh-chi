@@ -19,8 +19,8 @@ As a conference, we also aim to be an event with strong sustainable practices.
 
 Join us on **4 &amp; 5 July 2024** as we pledge our oath to extend our healing touch not just to patients but to the planet we call home.
 
-Stay tuned to the latest updates by registering your interest
- <a href="https://form.gov.sg/656ed4a7d52312001273f90c">here.</a>
+Stay tuned to the latest updates by joining our mailing list
+ <a href="https://form.gov.sg/63ff0dedc2a8ab001139bc02">here.</a>
 <br>
 
 <style>
@@ -156,4 +156,3 @@ To discuss partnership and profile-building opportunities at CHI INNOVATE 2024, 
 <h3>Connect with us for any enquiries</h3> 
 
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div></div>
-
