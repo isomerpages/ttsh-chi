@@ -140,16 +140,14 @@ input:checked + label + .accordion-content {
 <p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.</p>
 <h3> Timeline </h3>
 
-<img style="width: 840px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Timeline.png">
-
-
+<img style="width: 840px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/Timeline_Isomer_v2.png">
 
 <div class="container">
 
 <div>
 	<input id="title3" type="checkbox"><label for="title3">Stage 1 Application: Launch of Open Call</label>
 	<div class="accordion-content">
-	<div class="para"><p>Submit your application for Healthcare InnoMatch 2024 on the <a href="https://www.judgify.me/chisel2024">Challenge Portal</a> by <b>5 April 2024, 23:59 SGT</b>. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:</p>
+	<div class="para"><p>Submit your application for Healthcare InnoMatch 2024 on the <a href="https://www.judgify.me/chisel2024">Challenge Portal</a> by <b>8 April 2024, 12:00 SGT</b>. Results will be announced by 12 May 2024. Multi-participation is welcomed. Fill in the application form available in the participant space, providing the following:</p>
 		<ul>
 			<li>Applicant and Company Information</li>
 			<li>Solution Pitch Deck (7 slides)</li>
@@ -175,7 +173,7 @@ input:checked + label + .accordion-content {
 			<li>Prior or existing trials, proof-of-concept, proof-of-value and/or clinical validation results</li>
 			<li>Safety and regulatory registrations/ certifications/ licenses</li>
 		</ul>
-		<p>Results will be announced by 12 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.</p>
+		<p>Results will be announced by 14 Jul 2024. Up to twenty (20) start-ups and SMEs will be selected to move to the next shortlisting round.</p>
 </div>
 </div>
 
@@ -184,7 +182,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 	<div class="para"><p>Up to twenty (20) start-ups and SMEs will be invited to present your solution at Engagement Sessions with our clinical partners and reviewers.</p>
 		<p>Engagement Sessions will be held virtually at night, between 1800 and 2100 SGT (GMT+8/ UTC+8). Each session will be approximately fifteen (15) to twenty (20) minutes, with time allocated for the presentation and Q&amp;A. More details on the arrangement of schedule will be shared nearer to date.</p>
-		<p>Results will be announced by 16 Aug 2024. Up to nine (9) finalists will be selected.</p>
+		<p>Results will be announced by 18 Aug 2024. Up to nine (9) finalists will be selected.</p>
 </div>
 </div>
 
