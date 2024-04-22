@@ -110,7 +110,7 @@ variant: markdown
   
   
 
-  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">16th Masterclass</label>
+  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">16th Masterclass (24 May 2024)</label>
     <div><strong>Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong
 </strong>
 <br>By: Dr. Abdullahi Sheriff, Managing Director Singapore, Malaysia &amp; Brunei, MSD
