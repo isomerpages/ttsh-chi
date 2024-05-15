@@ -140,8 +140,8 @@ input:checked + label + .accordion-content {
 <p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding support to demonstrate their solutions in operational environments and will receive further endorsement from our partner healthcare clusters upon successful validation of the results of pilot implementation. Ultimately, the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use healthcare innovation, bringing them a step closer to benefit patients.</p>
 <h3> Timeline </h3>
 
-<img style="width: 840px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/Timeline_Isomer_v2.png">
-
+<img style="width: 840px; height: 440px;margin-left: auto;margin-right: auto;" alt="Funding and Opportunities" src="/images/CHISEL/CHISEL_Timeline__Updated__v3.png">
+	
 <div class="container">
 
 <div>
