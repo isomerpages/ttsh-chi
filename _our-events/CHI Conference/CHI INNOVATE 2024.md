@@ -25,7 +25,7 @@ Join us on **4 &amp; 5 July 2024** as we pledge our oath to extend our healing t
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://chiinnovate2024.klobbi.com/register"><img style="width: 300px; height: 70px;" alt="Register Now" src="/images/CHI%20INNOVATE/Interim_Innovate_Page_3.png"></a></div>
 
 <h3>Visit our conference microsite
-<a href="https://form.gov.sg/6613beb6edab5bf5dea3f090">here.</a>
+<a href="https://chiinnovate2024.klobbi.com/">here.</a>
 <br></h3>
 
 <h4><i>Connect with us for any enquiries</i></h4> 
