@@ -224,7 +224,7 @@ input:checked + label + .accordion-content {
 	
 <h3> Organiser and Partners </h3>
 <img alt="theme" style="width: 980px; height: 369px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/Organiser_and_partner.png">
-<img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/CHISEL_Partners_Mar_.png"><img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/CHISEL_Partners_Apr_02.png"><br>
+<img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/CHISEL_Partners_Mar_.png"><img alt="theme" style="width: 980px; height: 480px;margin-left: auto;margin-right: auto;" src="/images/CHISEL/CHISEL%20Partner%20Logos/CHISEL_Partners_May_20.png"><br>
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	
