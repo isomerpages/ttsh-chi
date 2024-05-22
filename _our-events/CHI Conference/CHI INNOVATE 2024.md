@@ -31,3 +31,5 @@ Join us on **4 &amp; 5 July 2024** as we pledge our oath to extend our healing t
 <h4><i>Connect with us for any enquiries</i></h4> 
 
 <div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="mailto:conference@chi.sg"><img style="width: 330px; height: 220px;" alt="Contact Us" src="/images/CHI%20INNOVATE/Contact.png"></a></div>
+
+![](/images/CHI%20INNOVATE/Website_Footer.png)
