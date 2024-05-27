@@ -227,14 +227,32 @@ variant: markdown
 	overflow: auto;
   max-width: 500px;
   max-height: 300px;
-}
-  </style>
-
-
+} 
+</style>
 <ul class="jekyllcodex_accordion">
+
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">16th Masterclass - Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong</label>
+<div><p><strong>24 May 2024</strong></p>			 
+<style>
+img {
+  float: left;
+	vertical-align: middle;
+}
+p {
+	overflow: auto;
+  max-width: 550px;
+  max-height: 300px;
+	font-size: 1em
+}
+</style>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+	<b><u>Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong</u></b> <br>
+			<b>Dr Abdullahi Sheriff</b><br>
+				<em>Managing Director Singapore, Malaysia &amp; Brunei, MSD</em><br><br>
+			During this session, Dr Abdullahi Sheriff will offer a deep dive into systemic issues and the complexities in transforming healthcare ecosystems. Attendees will gain insights into the paradoxical nature of specialisation and its ramifications on health systems, the benefits and downsides of health economics in guiding decisions that impact the healthcare ecosystem, as well as the important (and often understated) role that people with the right skills plays in enabling the sustainable evolution of any healthcare landscape. Using the lens of healthcare ecosystems, this thought-provoking session will also explore the evolution of Healthier SG and postulate on its future, drawing learnings from the transformation journeys of other healthcare ecosystems, particularly the UK.&nbsp; Sheriff will also be joined by a panel of experts to continue the conversation with the audience on how might we ensure we get it right in Singapore and set the benchmark for the world as we transform healthcare ecosystems.
+</p>
   
-  
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass - The 5Cs of Community Leadership</label>
+</div></li><li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass - The 5Cs of Community Leadership</label>
 <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
