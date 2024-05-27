@@ -6,6 +6,7 @@ variant: markdown
 ---
 ## CHI MASTERCLASS
 <div style="font-size:1.25em">The CHI Masterclass brings features world-class thought leaders to actively build mindshare in healthcare transformation for systems change.</div><br>
+
   
 <div>
 <h3 id="a">Upcoming Masterclass</h3>
@@ -110,17 +111,10 @@ variant: markdown
   
   
 
-  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">16th Masterclass - Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong (24 May 2024, Friday)</label>
-    <div><strong>Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong
+  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">17th Masterclass</label>
+    <div><strong>Stay tuned for more information!
 </strong>
-<br>By: Dr. Abdullahi Sheriff, Managing Director Singapore, Malaysia &amp; Brunei, MSD
-<br><br> Date: 24 May 2024 (Friday)
-<br>Time: 5pm - 6.30pm 
-<br> Venue: Centre for Healthcare Innovation, Level 4, Auditorium
-<br><br>
-<a href="https://form.gov.sg/65dd8fac4d8b1c6ce256302d">Register for your spot today!</a>
-<br><br>During this session, Dr Abdullahi Sheriff will offer a deep dive into systemic issues and the complexities in transforming healthcare ecosystems. Attendees will gain insights into the paradoxical nature of specialisation and its ramifications on health systems, the benefits and downsides of health economics in guiding decisions that impact the healthcare ecosystem, as well as the important (and often understated) role that people with the right skills plays in enabling the sustainable evolution of any healthcare landscape. Using the lens of healthcare ecosystems, this thought-provoking session will also explore the evolution of Healthier SG and postulate on its future, drawing learnings from the transformation journeys of other healthcare ecosystems, particularly the UK.&nbsp; Sheriff will also be joined by a panel of experts to continue the conversation with the audience on how might we ensure we get it right in Singapore and set the benchmark for the world as we transform healthcare ecosystems.<br>
-<p></p><p></p>
+<p></p>
 
 </div></li></ul>
 
@@ -227,14 +221,32 @@ variant: markdown
 	overflow: auto;
   max-width: 500px;
   max-height: 300px;
-}
-  </style>
-
-
+} 
+</style>
 <ul class="jekyllcodex_accordion">
+
+<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">16th Masterclass - Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong</label>
+<div><p><strong>24 May 2024</strong></p>			 
+<style>
+img {
+  float: left;
+	vertical-align: middle;
+}
+p {
+	overflow: auto;
+  max-width: 550px;
+  max-height: 300px;
+	font-size: 1em
+}
+</style>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/16th_Masterclass.png"><p>
+	<b><u>Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong</u></b> <br>
+			<b>Dr Abdullahi Sheriff</b><br>
+				<em>Managing Director Singapore, Malaysia &amp; Brunei, MSD</em><br><br>
+			During this session, Dr Abdullahi Sheriff will offer a deep dive into systemic issues and the complexities in transforming healthcare ecosystems. Attendees will gain insights into the paradoxical nature of specialisation and its ramifications on health systems, the benefits and downsides of health economics in guiding decisions that impact the healthcare ecosystem, as well as the important (and often understated) role that people with the right skills plays in enabling the sustainable evolution of any healthcare landscape. Using the lens of healthcare ecosystems, this thought-provoking session will also explore the evolution of Healthier SG and postulate on its future, drawing learnings from the transformation journeys of other healthcare ecosystems, particularly the UK.&nbsp; Sheriff will also be joined by a panel of experts to continue the conversation with the audience on how might we ensure we get it right in Singapore and set the benchmark for the world as we transform healthcare ecosystems.
+</p>
   
-  
-<li><input id="accordion-b1" type="checkbox"><label for="accordion-b1">15th Masterclass - The 5Cs of Community Leadership</label>
+</div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">15th Masterclass - The 5Cs of Community Leadership</label>
 <div><p><strong>27 March 2023</strong></p>			 
 <style>
 img {
@@ -256,7 +268,7 @@ p {
 </p>
 
 
- </div></li><li><input id="accordion-b2" type="checkbox"><label for="accordion-b2">14th Masterclass - Population Health</label>
+ </div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">14th Masterclass - Population Health</label>
     <div><p><strong>17 Feb 2023</strong></p>			 
 <style>
 img {
@@ -282,7 +294,7 @@ Clinical Director, Imperial College Health Partners </em>
 </p>
 
 <hr>
-	</div></li><li><input id="accordion-b3" type="checkbox"><label for="accordion-b3">13th Masterclass - The Future of Healthcare</label>
+	</div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">13th Masterclass - The Future of Healthcare</label>
     <div><p><strong>7 Jul 2022</strong></p>			 
 <style>
 img {
@@ -303,7 +315,7 @@ p {
 
 <hr>
 			
- </div></li><li><input id="accordion-b4" type="checkbox"><label for="accordion-b4">12th Masterclass - Sustainability in Healthcare Transformation </label>
+ </div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">12th Masterclass - Sustainability in Healthcare Transformation </label>
     <div><p><strong>9 Oct 2019</strong></p>			 
 <style>
 img {
@@ -336,7 +348,7 @@ The driving forces behind the transformation at Karolinska University Hospital a
 
 <hr>
 			
- </div></li><li><input id="accordion-b5" type="checkbox"><label for="accordion-b5">11th Masterclass - Integrating Care Across the Care Continuum</label>
+ </div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">11th Masterclass - Integrating Care Across the Care Continuum</label>
     <div><p><strong>23 Oct 2018</strong></p>			 
 <style>
 img {
@@ -358,7 +370,7 @@ Director of the University Health Network, Toronto, Canada</em>
 </p>
 
 <hr>
-		</div></li><li><input id="accordion-b6" type="checkbox"><label for="accordion-b6">10th Masterclass - The Blueprint for Successful MedTech Innovation</label>
+		</div></li><li><input id="accordion-b7" type="checkbox"><label for="accordion-b7">10th Masterclass - The Blueprint for Successful MedTech Innovation</label>
     <div><p><strong>11 Jul 2018</strong></p>			 
 <style>
 img {
@@ -380,7 +392,7 @@ p {
 
 <hr>
 			
- </div></li><li><input id="accordion-b7" type="checkbox"><label for="accordion-b7">9th Masterclass - Key Concepts in Systems Thinking</label>
+ </div></li><li><input id="accordion-b8" type="checkbox"><label for="accordion-b8">9th Masterclass - Key Concepts in Systems Thinking</label>
     <div><p><strong>21 Feb 2018</strong></p>			 
 <style>
 img {
@@ -405,7 +417,7 @@ Massachusetts Institute of Technology Sloan School of Management</em><br>
 </p>
 
 <hr>
-		</div></li><li><input id="accordion-b8" type="checkbox"><label for="accordion-b8">8th Masterclass - Integrated Care Provision</label>
+		</div></li><li><input id="accordion-b9" type="checkbox"><label for="accordion-b9">8th Masterclass - Integrated Care Provision</label>
     <div><p><strong>12 Jan 2018</strong></p>			 
 <style>
 img {
@@ -429,7 +441,7 @@ Kinzigtaal Medical Initiative (MQNK)</em><br>
 
 <hr>
 			
- </div></li><li><input id="accordion-b9" type="checkbox"><label for="accordion-b9">7th Masterclass - Value Based Healthcare</label>
+ </div></li><li><input id="accordion-b10" type="checkbox"><label for="accordion-b10">7th Masterclass - Value Based Healthcare</label>
     <div><p><strong>11 Oct 2017 </strong></p>			 
 <style>
 img {
@@ -452,7 +464,7 @@ At a time when demand for healthcare services is increasing and resources availa
 </p>
 
 <hr>
-		</div></li><li><input id="accordion-b10" type="checkbox"><label for="accordion-b10">6th Masterclass - Building a Healthcare Team</label>
+		</div></li><li><input id="accordion-b11" type="checkbox"><label for="accordion-b11">6th Masterclass - Building a Healthcare Team</label>
     <div><p><strong>28 Sep 2017</strong></p>			 
 <style>
 img {
@@ -478,7 +490,7 @@ As we expand healthcare beyond the hospital walls, it is important that we build
 
 <hr>
 			
- </div></li><li><input id="accordion-b11" type="checkbox"><label for="accordion-b11">5th Masterclass - Collective Leadership</label>
+ </div></li><li><input id="accordion-b12" type="checkbox"><label for="accordion-b12">5th Masterclass - Collective Leadership</label>
     <div><p><strong>1 July 2016</strong></p>			 
 <style>
 img {
@@ -504,7 +516,7 @@ In large and complex organisations, it is increasingly evident that the success 
 </p>
 
 <hr>
-		</div></li><li><input id="accordion-b12" type="checkbox"><label for="accordion-b12">4th Masterclass - Design Thinking</label>
+		</div></li><li><input id="accordion-b13" type="checkbox"><label for="accordion-b13">4th Masterclass - Design Thinking</label>
     <div><p><strong>24 Jun 2015</strong></p>			 
 <style>
 img {
@@ -529,7 +541,7 @@ In the recent years, design thinking has gained widespread currency amongst glob
 	
 
 </div></li>
-<li><input id="accordion-b13" type="checkbox"><label for="accordion-b13">3rd Masterclass - Innovation</label>
+<li><input id="accordion-b14" type="checkbox"><label for="accordion-b14">3rd Masterclass - Innovation</label>
     <div><p><strong>20 Apr 2015</strong></p>			 
 <style>
 img {
