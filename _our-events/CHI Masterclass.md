@@ -6,6 +6,7 @@ variant: markdown
 ---
 ## CHI MASTERCLASS
 <div style="font-size:1.25em">The CHI Masterclass brings features world-class thought leaders to actively build mindshare in healthcare transformation for systems change.</div><br>
+
   
 <div>
 <h3 id="a">Upcoming Masterclass</h3>
@@ -238,7 +239,7 @@ p {
 	font-size: 1em
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/15%20masterclass_patrick.jpg"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/16th_Masterclass.png"><p>
 	<b><u>Transforming Healthcare Ecosystem: the Things We Tend to Ignore and Sometimes Get Wrong</u></b> <br>
 			<b>Dr Abdullahi Sheriff</b><br>
 				<em>Managing Director Singapore, Malaysia &amp; Brunei, MSD</em><br><br>
