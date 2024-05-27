@@ -38,7 +38,7 @@ Thailand<br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
-<td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Leadership Council<br>Director of Improvement and Innovation<br>Cardiff &amp; Vale University Health Board<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Prof Jonathan Gray </strong><br>Member of CHI Leadership Council<br>Professor of Innovation &amp; Leadership<br>Swansea University<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
