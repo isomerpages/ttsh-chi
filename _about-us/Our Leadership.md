@@ -104,10 +104,7 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/huey%20bing-01.png"></a></td>
 <td><strong>Koh Huey Bing</strong><br>Director, Organisation Development Office<br><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
-		<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/dr%20loh%20yong%20joo-01.png"></a></td>
-		<td><strong>Dr Loh Yong Joo</strong><br>Director,  Medical Technology Adoption Office<br><a href="https://www.linkedin.com/in/loh-yong-joo-ttsh-yong-joo-b77339119/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a></td>
-</tr>
+	
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/michelle-lee-754aa96a"><img alt="andrew1" src="/images/Leaders/michelle%20lee-01.png"></a></td>
 		<td><strong>Michelle Lee </strong><br>Deputy Director, Partnerships Office<br><a href="https://www.linkedin.com/in/michelle-lee-754aa96a" target="_blank"><small>LinkedIn</small></a></td>
