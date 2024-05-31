@@ -86,7 +86,7 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/Leaders/casperr.png"></a></td>
-<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Faculty Office<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a></td>
+<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Innovation Office<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/raymond-chow-37367748"><img alt="andrew1" src="/images/Leaders/Raymond_Chow.png"></a></td>
