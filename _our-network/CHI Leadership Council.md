@@ -334,8 +334,8 @@ Before joining MSD, Sheriff was with GE Healthcare where he led a team to shape 
       
     
 	    <li>
-      <input id="accordion-b7" type="checkbox">
-      <label for="accordion-b7">
+      <input id="accordion-b8" type="checkbox">
+      <label for="accordion-b8">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/profteoyy.png">
         Prof Teo Yik-Ying<br>Member, CHI Leadership Council
       </label>
