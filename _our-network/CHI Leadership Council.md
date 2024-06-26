@@ -2,6 +2,7 @@
 title: CHI Leadership Council
 permalink: /our-network/chileadershipcouncil/
 description: ""
+variant: markdown
 ---
 <div style="font-size:1.25em">
 	<h2>About the CHI Leadership Council</h2>
@@ -236,7 +237,7 @@ Through her research, she has partnered with a wide range of civic and political
       <input id="accordion-b4" type="checkbox">
       <label for="accordion-b4">
         <img alt="andrew1" style="width:126px;height:125px;" src="/images/Leaders/prof%20jonathon%20gray-01.png">
-        Prof Jonathan Gray <br>Member, CHI Leadership Council
+        Prof Jonathon Gray <br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -304,8 +305,34 @@ Junaid is the Chief Medical Scientist at Microsoft Research and a practising phy
 Junaid has worked across primary care, secondary care, and public health settings in addition to acting as a payer, and policy maker within the UK, where he specialized in informatics, digital transformation, and leadership. <br><br>
 He has consulted for health care systems across the US, Europe, Australia, the Middle East, Singapore, and Europe. Academically, he is a Clinical Associate Professor at UCL (University College London), an Associate Fellow at the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center), and a Visiting Scientist at the Harvard School of Public Health.
  </p>
+				</div>
+    </li>
+	    <li>
+      <input id="accordion-b7" type="checkbox">
+      <label for="accordion-b7">
+        <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/Sheriff.png">
+        Dr Sheriff Abdullahi<br>Member, CHI Leadership Council
+      </label>
+      <div>
+        <style>
+          img {
+            float: left;
+            vertical-align: middle;
+          }
+          p {
+            overflow: auto;
+            max-height: 300px;
+            font-size: 1em;
+          }
+        </style>
+<p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
+As Managing Director for Singapore, Malaysia &amp; Brunei in MSD, Sheriff is responsible for driving the commercial success of MSD’s Human Health business across the region. He is focused on strengthening critical capabilities and building an organization that is well-positioned to save and improve the lives of patients in the three markets. Sheriff had previously led the global Sustainable Access Solutions (SAS) team and established Global centers of excellence within MSD in value-based contracting, innovative financing, and customer partnerships.<br><br>
+Before joining MSD, Sheriff was with GE Healthcare where he led a team to shape strategic solutions and collaborations with key partners in Europe to improve their operations and transform care pathways. Sheriff has also spent many years in Consulting in the UK, working with multiple clients, particularly the UK NHS, and leading a range of strategic initiatives.
+        </p>
       </div>
     </li>
+      
+    
 	    <li>
       <input id="accordion-b7" type="checkbox">
       <label for="accordion-b7">
