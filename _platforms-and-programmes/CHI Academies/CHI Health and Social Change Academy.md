@@ -2,6 +2,7 @@
 title: CHI Health and Social Change Academy
 permalink: /platforms-and-programmes/healthandsocialchange/
 description: ""
+third_nav_title: CHI Academies
 ---
 ## About the Health and Social Change Academy (HSCA) 
 
