@@ -53,17 +53,13 @@ innovating towards a greener healthcare system.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Enhance your leadership competencies</p>
-<p>to build sustainable healthcare organisations.</p>
-<p>&nbsp;</p>
+<p>Enhance your leadership competencies to build sustainable healthcare organisations.</p>
 <p>Delivered in conjunction with the Geneva Sustainability Centre, the masterclass
-gives hospital leaders</p>
-<p>worldwide the key information and tools to assess, plan, and address sustainability.</p>
-<p></p>
-<p>Attendees will learn about the intersection of climate change and</p>
-<p>healthcare, explore carbon hotspots in healthcare delivery, and begin
-to discuss solutions that can</p>
-<p>transform practices for sustainable healthcare.</p>
+gives hospital leaders worldwide the key information and tools to assess,
+plan, and address sustainability.</p>
+<p>Attendees will learn about the intersection of climate change and healthcare,
+explore carbon hotspots in healthcare delivery, and begin to discuss solutions
+that can transform practices for sustainable healthcare.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 July 2024 (full day)</p>
