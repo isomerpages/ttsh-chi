@@ -2,6 +2,7 @@ collections:
   platforms-and-programmes:
     output: true
     order:
+      - CHI Academies/CHI Sustainability Academy.md
       - CHI Academies/CHI Health and Social Change Academy.md
       - CHI Academies/.keep
       - National HIP Medals/.keep
