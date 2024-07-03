@@ -17,12 +17,17 @@ to provide longitudinal coaching for projects, the CHI Sustainability Academy
 will empower leaders and professionals in 4 main areas of capability building
 as shown by our CLIME Model.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/CLIME_1.png">
+</div>
 <p></p>
 <p>Through CLIME, we envision a future with leaders and professionals alike
 empowered to be activators, collaborators and agents of transformation,
 innovating towards a greener healthcare system.&nbsp;</p>
 <h3>Our Partners</h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/SA_Partner_Logos_for_Website__1_.png">
+</div>
 <h3>Academy Programme and Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -54,7 +59,7 @@ innovating towards a greener healthcare system.&nbsp;</p>
 <p>Delivered in conjunction with the Geneva Sustainability Centre, the masterclass
 gives hospital leaders</p>
 <p>worldwide the key information and tools to assess, plan, and address sustainability.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Attendees will learn about the intersection of climate change and</p>
 <p>healthcare, explore carbon hotspots in healthcare delivery, and begin
 to discuss solutions that can</p>
@@ -174,5 +179,6 @@ to vital medication.
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>Connect with us to find out more. <br>Email us at: <a href="mailto:hui_pin_lim@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">hui_pin_lim@nhg.com.sg</a></h4>
 <p></p>
