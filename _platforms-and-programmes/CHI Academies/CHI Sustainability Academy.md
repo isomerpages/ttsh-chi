@@ -17,6 +17,7 @@ to provide longitudinal coaching for projects, the CHI Sustainability Academy
 will empower leaders and professionals in 4 main areas of capability building
 as shown by our CLIME Model.&nbsp;</p>
 <p></p>
+<p></p>
 <p>Through CLIME, we envision a future with leaders and professionals alike
 empowered to be activators, collaborators and agents of transformation,
 innovating towards a greener healthcare system.&nbsp;</p>
@@ -173,5 +174,5 @@ to vital medication.
 </tr>
 </tbody>
 </table>
-<h4>Connect with us to find out more. <br>Email us at: <a href="mailto:hui_pin_lim@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">hui_pin_lim@nhg.com.sg</a> </h4>
+<h4>Connect with us to find out more. <br>Email us at: <a href="mailto:hui_pin_lim@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">hui_pin_lim@nhg.com.sg</a></h4>
 <p></p>
