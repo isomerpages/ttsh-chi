@@ -2,9 +2,6 @@ collections:
   platforms-and-programmes:
     output: true
     order:
-      - CHI Academies/CHI Sustainability Academy.md
-      - CHI Academies/CHI Health and Social Change Academy.md
-      - CHI Academies/.keep
       - National HIP Medals/.keep
       - National HIP Medals/Call for Submission 2024.md
       - National HIP Medals/About National HIP Medals.md
@@ -15,6 +12,9 @@ collections:
       - CHI Start Up Enterprise Link/Eligibility Criteria and Rules.md
       - CHI Start Up Enterprise Link/Frequently Asked Questions (FAQs).md
       - CHI Start Up Enterprise Link/Past CHISEL Winners.md
+      - CHI Academies/.keep
+      - CHI Academies/CHI Sustainability Academy.md
+      - CHI Academies/CHI Health and Social Change Academy.md
       - CHI Evaluation Framework.md
       - CHI Fellowship in Healthcare Innovation and Leadership.md
       - CHI Healthcare Advanced Management Programme.md
