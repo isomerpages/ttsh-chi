@@ -122,7 +122,7 @@ variant: markdown
 <br> Register your spot <a href="https://form.gov.sg/667d485f28a7c577ec5bfd2c">here!</a> 
 			
 <br>Led by Glenda Eoyang, PhD, this session addresses the intricate challenges within the healthcare system that are often unsolvable and termed "wicked issues." These include not only pandemics but also workforce shortages, healthy ageing, end-of-life care, community-based care, social determinants of health, and the integration of Al and other technologies.
-<br>She will draw from the complexity sciences to offer insights into the dynamics of systemic, wicked issues. Participants will learn why these complex environments generate such issues and how to identify effective actions when complete solutions are unattainable. The masterclass aims to equip attendees with three simple practices to find the next wise action in the face of uncertainty. They will also hear stories from global healthcare systems that have successfully applied these practices to their complex challenges.
+<br><br>She will draw from the complexity sciences to offer insights into the dynamics of systemic, wicked issues. Participants will learn why these complex environments generate such issues and how to identify effective actions when complete solutions are unattainable. The masterclass aims to equip attendees with three simple practices to find the next wise action in the face of uncertainty. They will also hear stories from global healthcare systems that have successfully applied these practices to their complex challenges.
 			
 
 <p></p>
