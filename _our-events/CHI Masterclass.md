@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ## CHI MASTERCLASS
-<div style="font-size:1.25em">The CHI Masterclass brings features world-class thought leaders to actively build mindshare in healthcare transformation for systems change.</div><br>
+<div style="font-size:1.25em">The CHI Masterclass features world-class thought leaders to actively build mindshare in healthcare transformation for systems change.</div><br>
 
   
 <div>
@@ -111,9 +111,20 @@ variant: markdown
   
   
 
-  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">17th Masterclass</label>
-    <div><strong>Stay tuned for more information!
-</strong>
+  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">17th Masterclass - Taming the Wicked Issues in Healthcare</label>
+		<div>
+<br> By: Dr Glenda Eoyang, Founding Executive Director, Human Systems Dynamics Institute
+<br>
+<br> Date: 24 July 2024 
+<br> Time: 1pm - 2.30pm (SGT)
+<br> Venue: Centre for Healthcare Innovation (Level 4, Auditorium) 
+<br>
+<br> Register your spot <a href="https://form.gov.sg/667d485f28a7c577ec5bfd2c">here!</a> 
+			
+<br>Led by Glenda Eoyang, PhD, this session addresses the intricate challenges within the healthcare system that are often unsolvable and termed "wicked issues." These include not only pandemics but also workforce shortages, healthy ageing, end-of-life care, community-based care, social determinants of health, and the integration of Al and other technologies.
+<br><br>She will draw from the complexity sciences to offer insights into the dynamics of systemic, wicked issues. Participants will learn why these complex environments generate such issues and how to identify effective actions when complete solutions are unattainable. The masterclass aims to equip attendees with three simple practices to find the next wise action in the face of uncertainty. They will also hear stories from global healthcare systems that have successfully applied these practices to their complex challenges.
+			
+
 <p></p>
 
 </div></li></ul>
