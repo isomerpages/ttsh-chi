@@ -9,6 +9,11 @@ third_nav_title: CHI Academies
 <p>Launched on the 4 July 2024, the CHI Sustainability Academy (CHI SA) aims
 to build thought leadership, culture, and capability to enhance the resilience
 and reliability of healthcare systems, communities and the environment.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RnMIuWFS7vU?si=kC92Gg72YjmQajk6"></iframe>
+</div>
+<p></p>
 <p>In collaboration with leading organizations in sustainability, the academy
 brings together international and local perspectives on strengthening sustainability
 capabilities within healthcare. With programs co-developed and co-delivered
