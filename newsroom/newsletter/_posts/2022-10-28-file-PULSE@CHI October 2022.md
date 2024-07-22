@@ -4,5 +4,6 @@ date: 2022-10-28
 layout: file
 description: ""
 image: ""
-file_url: /files/01 pulse@chi_october 2022.pdf
+file_url: /files/Pulse (Newsletter)/01 pulse@chi_october 2022.pdf
+variant: tiptap
 ---

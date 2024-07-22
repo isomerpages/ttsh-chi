@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/CHI_newsletter_Dec202327Dec_compressed.pdf
+file_url: /files/Pulse (Newsletter)/CHI_newsletter_Dec202327Dec_compressed.pdf
 ---
