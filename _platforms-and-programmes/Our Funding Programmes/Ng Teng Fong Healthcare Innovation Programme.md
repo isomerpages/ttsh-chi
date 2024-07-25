@@ -3,6 +3,7 @@ title: Ng Teng Fong Healthcare Innovation Programme
 permalink: /platformprogrammes/ourfundingprogrammes/ntfhip/
 description: ""
 third_nav_title: Our Funding Programmes
+variant: markdown
 ---
 <style>
 
@@ -77,7 +78,7 @@ th:nth-child(odd),td:nth-child(odd) {
 
 <p style="font-size: 1.25em">Through these, the programme looks towards improving productivity, delivering value and meeting the needs of the future healthcare system.<br></p>
 
-<p style="font-size: 1.25em">NTFHIP is managed and administered by the<a href="/about-us/our-offices/chi-grantsandinnovation/" target="_blank"> Grants &amp; Innovation Office . </a></p><p></p>
+<p style="font-size: 1.25em">NTFHIP is managed and administered by the<a href="/about-us/our-offices/chi-grantsandinnovation/" target="_blank"> Grants &amp; Innovation Office</a> and supported by the <a href="https://www.ttsh.com.sg/About-TTSH/TTSH-Community-Fund/Pages/About-Us.aspx" target="_blank">TTSH Community Fund.</a>  </p><p></p>
 
 
 <style>
@@ -166,7 +167,7 @@ input:checked + label + .accordion-content {
 }
 
 </style>
-<!-- End of accordion -->
+
 
 <div class="container">
 
