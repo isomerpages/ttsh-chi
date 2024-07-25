@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CHI Conference
 variant: markdown
 ---
-![](/images/CHI%20INNOVATE/CHI_INNOVATE_2024_Email_Signature_Banner.png)
-
 <h2> CHI INNOVATE 2024: Sustainability in Healthcare</h2> 
 
 Healthcare’s sacred duty is to “Do No Harm” as we provide care for our patients; But this very duty has inflicted harm on the environment. If Healthcare were a country, we would be Earth’s 4th largest carbon emitter.
@@ -19,15 +17,4 @@ As a conference, we also aim to be an event with strong sustainable practices.
 
 Join us on **4 &amp; 5 July 2024** as we pledge our oath to extend our healing touch not just to patients but to the planet we call home.
 
-<h3> Early Bird Tickets Now Available till 10 June 2024</h3> 
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><img style="width: 900px; height: 300px;" alt="Ticket Price" src="/images/CHI%20INNOVATE/Ticket_Price_15_Mar.png"></div>
-<br>
-<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between; align-items: center;&nbsp; &nbsp; margin-left: auto; margin-right: auto;"><a href="https://chiinnovate2024.klobbi.com/register"><img style="width: 300px; height: 70px;" alt="Register Now" src="/images/CHI%20INNOVATE/Interim_Innovate_Page_3.png"></a></div>
-
-<h3>Visit our conference microsite
-<a href="https://chiinnovate2024.klobbi.com/">here.</a>
-<br></h3>
-
-<br>
-
-![](/images/CHI%20INNOVATE/Website_Footer.png)
+![](/images/CHI%20INNOVATE/Website_Footer_2.png)
