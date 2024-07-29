@@ -17,4 +17,4 @@ As a conference, we also aim to be an event with strong sustainable practices.
 
 Join us on **4 &amp; 5 July 2024** as we pledge our oath to extend our healing touch not just to patients but to the planet we call home.
 
-![](/images/CHI%20INNOVATE/Website_Footer_2.png)
+![](/images/CHI%20INNOVATE/Website_Footer_3.png)

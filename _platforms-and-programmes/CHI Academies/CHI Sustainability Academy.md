@@ -68,6 +68,8 @@ that can transform practices for sustainable healthcare.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 July 2024 (full day)</p>
+<p></p>
+<p>17 Jan 2025</p>
 </td>
 </tr>
 <tr>
