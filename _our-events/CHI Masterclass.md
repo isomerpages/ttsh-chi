@@ -242,7 +242,7 @@ p {
 	font-size: 1em
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/16th_Masterclass.png"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/17th_Masterclass.png"><p>
 	<b><u>Taming the Wicked Issues in Healthcare</u></b> <br>
 			<b>Dr Glenda Eoyang</b><br>
 				<em>Founding Executive Director, Human Systems Dynamics Institute </em><br><br>
