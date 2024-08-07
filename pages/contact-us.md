@@ -22,22 +22,5 @@ contacts:
       - email: chi_events@ttsh.com.sg
       - other: ""
     title: Facilities Enquiries
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <a href="https://www.linkedin.com/in/eugenefidelissoh/"
-          target="_blank"><small>Click Here</small></a>
-    title: LinkedIn
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <a href="https://www.linkedin.com/in/eugenefidelissoh/"
-          target="_blank"><small>Click Here</small></a>
-    title: Facebook
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <a href="https://www.linkedin.com/in/eugenefidelissoh/"
-          target="_blank"><small>Click Here</small></a>
-    title: Instagram
+feedback: ""
 ---
