@@ -114,7 +114,7 @@ variant: markdown
   <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">18th Masterclass - Policy to Practice - How to Make This Work?</label>
 		<div>
 <br> Join us for a transformative Masterclass led by Prof Robin Gauld, Co-Director of the Centre for Health Systems and Technology at the University of Otago and a distinguished leader in health systems and policy.
-
+<br>
 <br> 🗓️: Wednesday, August 28th, 2024
 <br> 🕔: 5:00 PM - 6:30 PM SGT
 <br> 📍: Ng Teng Fong Centre for Healthcare Innovation, CHI Hall 2 &amp; 3, Level 2 
