@@ -118,6 +118,7 @@ Join us for a transformative Masterclass led by Prof Robin Gauld, Co-Director of
 
 <br> 🗓️: Wednesday, August 28th, 2024
 <br> 🕔: 5:00 PM - 6:30 PM SGT
+<br> 📍: Ng Teng Fong Centre for Healthcare Innovation, CHI Hall 2 &amp; 3, Level 2 
 
 In this session, Prof Gauld will equip you with the knowledge and tools to:
 <br> ➡️ Navigate the shift in healthcare: Understand the evolving focus from tertiary to primary and preventive care.
