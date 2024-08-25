@@ -299,7 +299,7 @@ Agency.</p>
 </details>
 </div>
 <p></p>
-<h3><strong>Theme </strong></h3>
+<h3><strong>Theme</strong></h3>
 <p>Singapore is at the forefront of preparing for a super-aged society, anticipating
 that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG
 initiative, a comprehensive national program, underscores the commitment
@@ -352,7 +352,7 @@ and independence.</p>
 </details>
 </div>
 <p></p>
-<h3>Funding and Collaborations </h3>
+<h3>Funding and Collaborations</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Funding_and_Collabs.png">
 </div>
@@ -362,7 +362,7 @@ will receive further endorsement from our partner healthcare clusters upon
 successful validation of the results of pilot implementation. Ultimately,
 the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
 healthcare innovation, bringing them a step closer to benefit patients.</p>
-<h3>Timeline </h3>
+<h3>Timeline</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Timeline__Updated__v3.png">
 </div>
@@ -460,6 +460,11 @@ be selected.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Finalists will be coached by experts in preparation for the Finale Event.
+This may include coaching on refining the value proposition of the solution,
+budgeting, business plan, pitching. Oral presentation of your solutions
+is required during the coaching sessions. Guidance on submission materials
+for the Finale Event will be provided nearer to date.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -467,6 +472,14 @@ be selected.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Finalists will pitch to the Judging Panel composed of senior management
+from the partner healthcare clusters and domain experts. Finalists in Singapore
+are required to attend the event in-person, while finalists overseas may
+dial-in through the online live-streamed platform.
+<br>
+</p>
+<p>Up to three (3) winners will be selected at the end of the Challenge,
+announced on the day of the event itself.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -474,10 +487,58 @@ be selected.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Successful winning start-ups and SMEs will be matched to one of the participating
+healthcare clusters to carry out test-bedding.</p>
+<p>Winners will be granted three (3) months of preparation time to finalise
+the project agreement (and additional three (3) months if ethics approval
+is required); up to six (6) months to complete test-bedding; and up to
+two (2) months to complete the evaluation.</p>
+<p></p>
+<p><u>Test-Bedding Phase (Oct 2024 – Mar 2026)</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Refine the test-bed protocol and define success criteria of the test-bed
+with your partner healthcare cluster. You would also define the pricing
+for subsequent purchase, subject to the solution meeting pre-agreed success
+criteria. You may be required by your partner hospital to supplement more
+documentation to facilitate the test-bedding and potential adoption.</p>
+</li>
+<li>
+<p>A Project Agreement should be set up within three (3) months (an additional
+three (3) months may be granted if ethics approval is required).</p>
+</li>
+<li>
+<p>Test-bedding should start no later than Apr 2024. Complete test-bedding
+in a simulated and/or clinical environment complying to regulations and
+institutional policies with your partner healthcare cluster. Test-beds
+should be completed within twelve (12) months.</p>
+<p></p>
+</li>
+</ul>
+<p><u>Evaluation Phase (Apr 2026 – May 2026)</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Upon completion of the test-bedding phase, the partner healthcare clusters
+would evaluate the success of the test-bed.</p>
+</li>
+<li>
+<p>All CHISEL 2024 test-bed solutions are to be evaluated using the <a href="https://www.chi.sg/platforms-and-programmes/chief/" rel="noopener noreferrer nofollow" target="_blank"><u>CHI Evaluation Framework (CHIEF)</u></a>.
+CHIEF is a holistic framework for the evaluation of innovative solutions
+seeking real world deployment. Evaluation costs should be included in your
+application.
+<br>
+</p>
+<p>You may also engage additional services (e.g. statistical analysis, study
+design, sample calculation etc.) from CHIEF or an independent expert for
+the purposes of the test-bed at your discretion.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
-<h3>Organisers and Partners </h3>
+<h3>Organisers and Partners</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Organiser_and_partner.png">
 </div>
