@@ -14,6 +14,11 @@ vie for a chance to receive funding opportunities to test-bed their solutions
 with our partner healthcare clusters!</p>
 <h3><strong><a href="https://for.sg/chisel2024finalersvp" rel="noopener noreferrer nofollow" target="_blank">Register here</a> today or through the QR Code to join us live or tune in online if you are overseas!</strong></h3>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CHISEL/RSVP_QR_Code.png">
+</div>
+<p></p>
 <p><strong>Date:</strong>&nbsp;27 September 2024 (Friday)
 <br><strong>Time:</strong>&nbsp;9:00am – 1:30pm SGT (Morning refreshments
 and networking lunch provided.)
