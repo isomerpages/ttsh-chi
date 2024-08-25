@@ -4,6 +4,10 @@ permalink: /test-new-editor/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Masthead.png">
+</div>
 <p>CHI Start-up Enterprise Link (CHISEL) Healthcare InnoMatch 2024 Final
 Pitching Event is happening on 27 Sep 2024. Join us to watch finalists
 vie for a chance to receive funding opportunities to test-bed their solutions
@@ -151,7 +155,7 @@ in 1994 by UK Royal Society of Chemistry.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Mr Colin Lim, Chief Information Officer and Group Director (InfoComm, Technology and Data), Ministry of Health </strong>
+<summary><strong>Mr Colin Lim, Chief Information Officer and Group Director (InfoComm, Technology and Data), Ministry of Health</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -181,7 +185,7 @@ School of Economics on a Public Service Commission scholarship.&nbsp;</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Loh Shu Ching, Chief, Community Care, Population Health Campus, National Healthcare Group </strong>
+<summary><strong>Ms Loh Shu Ching, Chief, Community Care, Population Health Campus, National Healthcare Group</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -227,7 +231,7 @@ consultant, Post-Acute and Continuing Care Department in JC</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Prof  Lee Chien Earn Deputy Group Chief Executive Officer (Regional Health System), Singapore Health Services</strong>
+<summary><strong>Prof Lee Chien Earn Deputy Group Chief Executive Officer (Regional Health System), Singapore Health Services</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -295,4 +299,192 @@ Agency.</p>
 </details>
 </div>
 <p></p>
+<h3><strong>Theme </strong></h3>
+<p>Singapore is at the forefront of preparing for a super-aged society, anticipating
+that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG
+initiative, a comprehensive national program, underscores the commitment
+to support seniors in aging actively and independently within their homes
+and communities. However, the challenge lies in addressing the evolving
+and diverse care needs of the elderly, fostering holistic well-being, and
+enhancing the effectiveness of existing efforts.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Strengthening Care for a Healthier and Resilient Ageing Society</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><u>Problem Statement:</u>
+</p>
+<p>How might disruptive innovations enhance existing efforts, bridge critical
+gaps and fulfil unmet needs in the <strong>holistic care</strong> of the
+elderly and young seniors, so as to create <strong>sustainable</strong> (business
+model and environment perspective) <strong>and personalised care models</strong>?
+<br>
+</p>
+<p>We are seeking scalable, end-to-end and sustainable (business model and
+environment perspective) solutions to <strong>promote personalised medical intervention, self-care,</strong> and <strong>right-sited care.</strong> This
+may include solutions such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Point of Care testing (i.e. diagnostic) solutions to transform disease
+diagnosis and support clinical decision to develop timely personalised
+care plans and/or treatments based on individuals’ risk profiles.</p>
+</li>
+<li>
+<p>Digital innovations and Artificial Intelligence (AI) enhanced solutions
+that help to better predict, prevent and manage chronic diseases.</p>
+</li>
+<li>
+<p>Wearables and sensors to bring supportive care closer to home, empowering
+individuals to self-manage their health status and receive personalised
+health and lifestyle coaching. This may pertain to eating healthily, increasing
+physical activities, taking their medications and routinely going for medical
+check-ups.
+<br>
+</p>
+</li>
+</ul>
+<p>Your solution and proposal outcomes should be backed by clinical evidence
+and data. Submit your application today to contribute to the evolution
+of elderly care, promoting a future where aging is synonymous with vitality
+and independence.</p>
+</div>
+</details>
+</div>
+<p></p>
+<h3>Funding and Collaborations </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Funding_and_Collabs.png">
+</div>
+<p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding
+support to demonstrate their solutions in operational environments and
+will receive further endorsement from our partner healthcare clusters upon
+successful validation of the results of pilot implementation. Ultimately,
+the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
+healthcare innovation, bringing them a step closer to benefit patients.</p>
+<h3>Timeline </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Timeline__Updated__v3.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage 1 Application: Launch of Open Call</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Submit your application for Healthcare InnoMatch 2024 on the <a href="https://www.judgify.me/chisel2024" rel="noopener noreferrer nofollow" target="_blank"><u>Challenge Portal</u></a> by <strong>8 April 2024, 12:00 SGT</strong>.
+Results will be announced by 12 May 2024. Multi-participation is welcomed.
+Fill in the application form available in the participant space, providing
+the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicant and Company Information</p>
+</li>
+<li>
+<p>Solution Pitch Deck (7 slides)
+<br>
+</p>
+</li>
+</ul>
+<p>Pitch Deck Guidelines can be downloaded in the Challenge Portal.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Stage 2 Application</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Shortlisted start-ups and SMEs are to submit your full proposal, addressing
+the following but not limited to:
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Healthcare (organisational) needs and relevance</p>
+</li>
+<li>
+<p>Innovation (competitive advantage, current competing strategies, technologies,
+competitors)</p>
+</li>
+<li>
+<p>Maturity/ market readiness</p>
+</li>
+<li>
+<p>Impact (quantifiable)</p>
+</li>
+<li>
+<p>Ease of transition to adopt by users</p>
+</li>
+<li>
+<p>Business plan (i.e. commercial applications, economic viability, go-to-market
+strategy of solution)</p>
+</li>
+<li>
+<p>Clinical, technical and operational readiness</p>
+</li>
+<li>
+<p>IT viability</p>
+</li>
+<li>
+<p>Prior or existing trials, proof-of-concept, proof-of-value and/or clinical
+validation results</p>
+</li>
+<li>
+<p>Safety and regulatory registrations/ certifications/ licenses
+<br>
+</p>
+</li>
+</ul>
+<p>Results will be announced by 14 Jul 2024. Up to twenty (20) start-ups
+and SMEs will be selected to move to the next shortlisting round.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Engagement Sessions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Up to twenty (20) start-ups and SMEs will be invited to present your solution
+at Engagement Sessions with our clinical partners and reviewers.</p>
+<p></p>
+<p>Engagement Sessions will be held virtually at night, between 1800 and
+2100 SGT (GMT+8/ UTC+8). Each session will be approximately fifteen (15)
+to twenty (20) minutes, with time allocated for the presentation and Q&amp;A.
+More details on the arrangement of schedule will be shared nearer to date.</p>
+<p></p>
+<p>Results will be announced by 18 Aug 2024. Up to nine (9) finalists will
+be selected.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Stage 3 Application and Coaching</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Final Pitching</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Next Steps</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h3>Organisers and Partners </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Organiser_and_partner.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CHISEL/Collab_Partners_and_Agencies_01.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collab_Partners_and_Agencies_02.png">
+</div>
 <p></p>
