@@ -255,7 +255,7 @@ Manager (Senior) by the Singapore Computer Society (SCS).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Ms Ngiam Siew Ying, Chief Executive Officer Synapxe Pte Ltd</strong>
+<summary><strong>Ms Ngiam Siew Ying, Chief Executive Officer, Synapxe Pte Ltd</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As the Chief Executive Officer for Synapxe, Ms Ngiam Siew Ying plays a
