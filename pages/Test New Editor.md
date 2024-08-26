@@ -184,35 +184,13 @@ Oxford and a Bachelor of Science (Economics) (Honours) from the London
 School of Economics on a Public Service Commission scholarship.&nbsp;</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ms Loh Shu Ching, Chief, Community Care, Population Health Campus, National Healthcare Group</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Ms Loh Shu Ching is&nbsp;the Chief Community Care in the NHG Population
-Health Campus with 30 years of healthcare experience spanning from acute
-hospital administration and operations work, running community care organisations
-to overseeing population health management.</p>
-<p></p>
-<p>She started her healthcare career in TTSH rotating through various administrative
-and operations units before joining the Community Care sector as General
-Manager of Home Nursing Foundation and subsequently as the CEO of Ren Ci
-Hospital.&nbsp; Prior to her current role, she was overseeing the population
-health management work anchored by TTSH as part of the Central Health Integrated
-Care Network to serve the residents in the Central region.</p>
-<p>&nbsp;</p>
-<p>As Chief Community Care, Shu Ching oversees the NHG community care services
-serving 2.2 million residents in Central North Singapore.&nbsp; Her responsibilities
-include the planning and development of population health initiatives in
-the areas of Preventive Health and Wellness, School and Workplace Health,
-Community and Aged care, and care transitions between the hospital and
-community.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Adj Asst Prof Chua Chi Siong, Medical Director, Regional Health System Office and Senior Consultant, Department of Post-Acute &amp; Continuing Care, Jurong Community Hospital, National University Health System</strong>
 </summary>
@@ -236,7 +214,6 @@ consultant, Post-Acute and Continuing Care Department in JC</p>
 <summary><strong>Prof Lee Chien Earn Deputy Group Chief Executive Officer (Regional Health System), Singapore Health Services</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Prof Lee is the Deputy Group CEO (Regional Health System), SingHealth
 where he leads population health efforts; and chairs the Planning Committee
 for the upcoming Eastern General and Community Hospitals.</p>
@@ -246,13 +223,10 @@ Health, NUS; Duke-NUS Medical School and SUTD.&nbsp;&nbsp; He had served
 on international committees under WHO, IHF and JCI.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mr Edwin Chew, Chief Digital Strategy Officer, Agency for Integrated Care</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Mr Edwin Chew is currently the Chief Digital Strategy Officer for the
 Agency for Integrated Care (AIC). He leads a team to support the Singapore
 community care sector digitalization uplifting journey. He also manages
@@ -300,7 +274,6 @@ Agency.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3><strong>Theme</strong></h3>
 <p>Singapore is at the forefront of preparing for a super-aged society, anticipating
 that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG
