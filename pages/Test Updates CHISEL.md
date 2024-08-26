@@ -286,4 +286,121 @@ Agency.</p>
 </div>
 </details>
 </div>
+<h3><strong>Theme</strong></h3>
+<p>Singapore is at the forefront of preparing for a super-aged society, anticipating
+that by 2023, 1 in 4 citizens will be aged 65 and above. The Age Well SG
+initiative, a comprehensive national program, underscores the commitment
+to support seniors in aging actively and independently within their homes
+and communities. However, the challenge lies in addressing the evolving
+and diverse care needs of the elderly, fostering holistic well-being, and
+enhancing the effectiveness of existing efforts.</p>
+<details class="isomer-details">
+<summary><strong>Strengthening Care for a Healthier and Resilient Ageing Society</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><u>Problem Statement:</u>
+</p>
+<p>How might disruptive innovations enhance existing efforts, bridge critical
+gaps and fulfil unmet needs in the <strong>holistic care</strong> of the
+elderly and young seniors, so as to create <strong>sustainable</strong> (business
+model and environment perspective) <strong>and personalised care models</strong>?
+<br>
+</p>
+<p>We are seeking scalable, end-to-end and sustainable (business model and
+environment perspective) solutions to <strong>promote personalised medical intervention, self-care,</strong> and <strong>right-sited care.</strong> This
+may include solutions such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Point of Care testing (i.e. diagnostic) solutions to transform disease
+diagnosis and support clinical decision to develop timely personalised
+care plans and/or treatments based on individuals’ risk profiles.</p>
+</li>
+<li>
+<p>Digital innovations and Artificial Intelligence (AI) enhanced solutions
+that help to better predict, prevent and manage chronic diseases.</p>
+</li>
+<li>
+<p>Wearables and sensors to bring supportive care closer to home, empowering
+individuals to self-manage their health status and receive personalised
+health and lifestyle coaching. This may pertain to eating healthily, increasing
+physical activities, taking their medications and routinely going for medical
+check-ups.
+<br>
+</p>
+</li>
+</ul>
+<p>Your solution and proposal outcomes should be backed by clinical evidence
+and data. Submit your application today to contribute to the evolution
+of elderly care, promoting a future where aging is synonymous with vitality
+and independence.</p>
+</div>
+</details>
+<h3>Funding and Collaborations</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Funding_and_Collabs.png">
+</div>
+<p>Successful winners in CHISEL Healthcare InnoMatch 2024 will obtain funding
+support to demonstrate their solutions in operational environments and
+will receive further endorsement from our partner healthcare clusters upon
+successful validation of the results of pilot implementation. Ultimately,
+the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
+healthcare innovation, bringing them a step closer to benefit patients.</p>
+<h3>Timeline</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Timeline__Updated__v3.png">
+</div>
+<details class="isomer-details">
+<summary><strong>Stage 1 Application: Launch of Open Call</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Stage 2 Application</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Engagement Sessions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Stage 3 Application and Coaching</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Final Pitching</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Next Steps</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<h3>Organisers and Partners</h3>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Organiser_and_partner.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies_v3.png">
+</div>
+<h3><br></h3>
 <p></p>
