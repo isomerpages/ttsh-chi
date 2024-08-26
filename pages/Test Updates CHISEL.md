@@ -84,7 +84,7 @@ and networking lunch provided.)</p>
 <p>10.20 AM – 11.20 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Finalists’ Pitch and Q&amp;A</strong> 
+<p><strong>Finalists’ Pitch and Q&amp;A</strong>
 </p>
 <p>2<sup>nd</sup> segment</p>
 </td>
