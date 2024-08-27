@@ -410,4 +410,103 @@ healthcare innovation, bringing them a step closer to benefit patients.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies_v3.png">
 </div>
 <h3><br></h3>
-<p></p>
+<p><strong>Programme</strong>:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.00 AM – 8.45 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Registration</strong>
+</p>
+<p><em>Morning refreshments provided, please be seated by 8.45 AM</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.00 AM – 9.15 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Opening of Event by Emcees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.15 AM – 10.15 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Finalists’ Pitch and Q&amp;A</strong> – 1<sup>st</sup> segment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.15 AM – 10.25 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Admin Break</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.25 AM – 11.30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Finalists’ Pitch and Q&amp;A</strong> – 2<sup>nd</sup> segment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.30 AM – 1.00 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Networking Lunch</strong>
+</p>
+<p><em>Check out the booths by and hear from CHISEL 2024’s finalists and semi-finalists, our partner healthcare clusters’ sharing on their Innovation Hubs, and our partners’ sharing on their programmes for start-ups!</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.00 PM – 1.30 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results Announcement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.30 PM – 2.00 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Post-event activities</strong>
+</p>
+<p><em>Networking continues</em>
+</p>
+<p><em>Attendees who have registered for the optional co11ab tour to gather at CHI Level 4 Lobby C by 1.40PM. A signage will be placed there.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>For more information about the CHISEL programme, you can&nbsp;<a href="https://for.sg/chisel2024info" rel="noopener noreferrer nofollow" target="_blank">view the recording on our Youtube Channel</a>&nbsp;and&nbsp;
+<a href="https://for.sg/chisel2024infosession" rel="noopener noreferrer nofollow" target="_blank">download the materials here.</a>For enquiries, email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">CHISEL@chi.sg</a>.</p>
