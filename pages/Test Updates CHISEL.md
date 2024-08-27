@@ -186,6 +186,57 @@ School of Economics on a Public Service Commission scholarship.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Mr Edwin Chew, Chief Digital Strategy Officer, Agency for Integrated Care</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mr Edwin Chew is currently the Chief Digital Strategy Officer for the
+Agency for Integrated Care (AIC). He leads a team to support the Singapore
+community care sector digitalization uplifting journey. He also manages
+the IT needs of AIC which supports the long-term care sector.</p>
+<p>&nbsp;</p>
+<p>Prior to AIC, Edwin was the Program Director at the Integrated Health
+Information Systems Pte Ltd, a wholly owned subsidiary of MOH Holdings.
+In his role as the Program Director, he managed a team of healthcare IT
+professionals to support the 3 Singapore Public Healthcare Clusters. He
+program-managed and developed IT systems for use in the public healthcare
+domain areas such as electronic medical records, pharmacy closed-loop medication,
+laboratory, radiology and specialties including ICU, ENT, Ophthalmology,
+dental clinics, operating theatres. He is also involved in enabling the
+IT capabilities for the new healthcare buildings. Separately, Edwin also
+took on the role as the CIO for Woodlands Health Campus (2014 to 2017)
+and IT Director Tan Tock Seng Hospital (2009 to 2011).</p>
+<p>&nbsp;</p>
+<p>With a career of over 20 years of IT experience in banking and healthcare
+industry, Edwin has implemented many large-scale banking and healthcare
+projects.</p>
+<p>&nbsp;</p>
+<p>Edwin graduated with a Bachelor of Science (Computing) from Swinburne
+University of Technology, Australia and he holds a Master of Business Administration
+from University of Adelaide, Australia. He is also a Certified IT Project
+Manager (Senior) by the Singapore Computer Society (SCS).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ms Ngiam Siew Ying, Chief Executive Officer, Synapxe Pte Ltd</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As the Chief Executive Officer for Synapxe, Ms Ngiam Siew Ying plays a
+key role in the master-planning and development of Health technology to
+advance healthcare transformation, and improve population health amidst
+a dynamic and complex health eco-system.</p>
+<p>&nbsp;</p>
+<p>Siew Ying entered Public Service in 1999. Prior to her appointment in
+Synapxe, she was Deputy Secretary (Policy) in the Ministry of Health where
+she led the development of systems planning, finance and corporate policies.</p>
+<p>&nbsp;</p>
+<p>Through her career, Siew Ying has held various appointments in the National
+Population and Talent Division under the Prime Minister’s Office, Ministry
+of Transport, Ministry of Defence, and the Defence Science and Technology
+Agency.</p>
+<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Ms. Loh Shu Ching, Chief, Community Care, Population Health Campus, National Healthcare Group</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -225,7 +276,7 @@ strategy.</p>
 from 2011-2022, where he oversees the planning, opening and ramp up of
 JCH. He continues to be the Head, Clinical Quality as well as the senior
 consultant, Post-Acute and Continuing Care Department in JCH.</p>
-<p>&nbsp;</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -239,55 +290,6 @@ for the upcoming Eastern General and Community Hospitals.</p>
 <p>Prof Lee is an Adjunct Professor at the Saw Swee Hock School of Public
 Health, NUS; Duke-NUS Medical School and SUTD.&nbsp;&nbsp; He had served
 on international committees under WHO, IHF and JCI.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Mr Edwin Chew, Chief Digital Strategy Officer, Agency for Integrated Care</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Mr Edwin Chew is currently the Chief Digital Strategy Officer for the
-Agency for Integrated Care (AIC). He leads a team to support the Singapore
-community care sector digitalization uplifting journey. He also manages
-the IT needs of AIC which supports the long-term care sector.</p>
-<p>&nbsp;</p>
-<p>Prior to AIC, Edwin was the Program Director at the Integrated Health
-Information Systems Pte Ltd, a wholly owned subsidiary of MOH Holdings.
-In his role as the Program Director, he managed a team of healthcare IT
-professionals to support the 3 Singapore Public Healthcare Clusters. He
-program-managed and developed IT systems for use in the public healthcare
-domain areas such as electronic medical records, pharmacy closed-loop medication,
-laboratory, radiology and specialties including ICU, ENT, Ophthalmology,
-dental clinics, operating theatres. He is also involved in enabling the
-IT capabilities for the new healthcare buildings. Separately, Edwin also
-took on the role as the CIO for Woodlands Health Campus (2014 to 2017)
-and IT Director Tan Tock Seng Hospital (2009 to 2011).</p>
-<p>&nbsp;</p>
-<p>With a career of over 20 years of IT experience in banking and healthcare
-industry, Edwin has implemented many large-scale banking and healthcare
-projects.
-<br>Edwin graduated with a Bachelor of Science (Computing) from Swinburne
-University of Technology, Australia and he holds a Master of Business Administration
-from University of Adelaide, Australia. He is also a Certified IT Project
-Manager (Senior) by the Singapore Computer Society (SCS).</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Ms Ngiam Siew Ying, Chief Executive Officer, Synapxe Pte Ltd</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>As the Chief Executive Officer for Synapxe, Ms Ngiam Siew Ying plays a
-key role in the master-planning and development of Health technology to
-advance healthcare transformation, and improve population health amidst
-a dynamic and complex health eco-system.</p>
-<p>&nbsp;</p>
-<p>Siew Ying entered Public Service in 1999. Prior to her appointment in
-Synapxe, she was Deputy Secretary (Policy) in the Ministry of Health where
-she led the development of systems planning, finance and corporate policies.</p>
-<p>&nbsp;</p>
-<p>Through her career, Siew Ying has held various appointments in the National
-Population and Talent Division under the Prime Minister’s Office, Ministry
-of Transport, Ministry of Defence, and the Defence Science and Technology
-Agency.</p>
 </div>
 </details>
 </div>
