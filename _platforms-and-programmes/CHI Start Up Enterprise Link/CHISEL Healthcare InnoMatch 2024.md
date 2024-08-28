@@ -428,7 +428,6 @@ School of Economics on a Public Service Commission scholarship.&nbsp;&nbsp;</p>
 Agency for Integrated Care (AIC). He leads a team to support the Singapore
 community care sector digitalization uplifting journey. He also manages
 the IT needs of AIC which supports the long-term care sector.</p>
-<p>&nbsp;</p>
 <p>Prior to AIC, Edwin was the Program Director at the Integrated Health
 Information Systems Pte Ltd, a wholly owned subsidiary of MOH Holdings.
 In his role as the Program Director, he managed a team of healthcare IT
@@ -440,11 +439,9 @@ dental clinics, operating theatres. He is also involved in enabling the
 IT capabilities for the new healthcare buildings. Separately, Edwin also
 took on the role as the CIO for Woodlands Health Campus (2014 to 2017)
 and IT Director Tan Tock Seng Hospital (2009 to 2011).</p>
-<p>&nbsp;</p>
 <p>With a career of over 20 years of IT experience in banking and healthcare
 industry, Edwin has implemented many large-scale banking and healthcare
 projects.</p>
-<p>&nbsp;</p>
 <p>Edwin graduated with a Bachelor of Science (Computing) from Swinburne
 University of Technology, Australia and he holds a Master of Business Administration
 from University of Adelaide, Australia. He is also a Certified IT Project
