@@ -7,7 +7,7 @@ third_nav_title: CHI Start Up Enterprise Link
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Masthead.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Masthead.png">
 </div>
 <p>CHI Start-up Enterprise Link (CHISEL) Healthcare InnoMatch 2024 Final
 Pitching Event is happening on 27 Sep 2024. Join us to watch finalists
