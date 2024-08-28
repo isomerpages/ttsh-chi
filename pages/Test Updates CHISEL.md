@@ -184,7 +184,7 @@ therapy at community and home.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Will Yang (Co-founder &amp; Chief Scientific Officer),                                    Ajit Ravindran (Co-founder &amp; CEO) Lexena Medical</u></strong>
+<summary><strong><u>Will Yang (Co-founder &amp; Chief Scientific Officer), Ajit Ravindran (Co-founder &amp; CEO) Lexena Medical</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Lenexa Medical&nbsp;</u></strong><u>&nbsp;</u>
@@ -381,45 +381,7 @@ driving innovation in cognitive assessment and care.&nbsp;</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
-<p><strong>About company</strong>&nbsp;</p>
-<p>CaptureProof is a HIPAA-compliant digital health platform that leverages
-AI-powered video and photo analysis to enable patient monitoring and assessment.
-Through the Smart Medical Camera™, CaptureProof captures visual biometrics,
-providing healthcare professionals with objective, longitudinal data to
-enhance diagnosis, treatment, and patient care across various medical conditions
-from anywhere.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>About solution&nbsp;</strong>&nbsp;</p>
-<p>BalanceScan, powered by CaptureProof, revolutionizes fall risk assessment
-by utilizing AI-driven video analysis to evaluate mobility and balance
-with clinical precision. Through simple smartphone or tablet recordings,
-BalanceScan conducts Sit to Stand or Timed Up and Go (TUG) tests and other
-critical assessments to measure gait, listing angles, and functional movements
-in real-time. By capturing and analyzing subtle changes in a patient's
-movements, BalanceScan provides actionable insights that allow healthcare
-professionals to intervene early, reducing fall risks and improving patient
-outcomes.&nbsp;</p>
-<p>With proven accuracy in identifying fall risks—validated in clinical studies—BalanceScan
-offers a practical, scalable solution for fall prevention in elderly populations.
-The platform integrates seamlessly into clinical workflows, enabling both
-in-office and remote assessments, making it a powerful tool for continuous
-patient monitoring. Beyond fall risk, BalanceScan’s technology can be applied
-across various medical disciplines, offering a horizontal application that
-extends from emergency departments to specialty care settings.&nbsp;</p>
-<p>BalanceScan not only enhances patient safety but also reduces healthcare
-costs associated with falls, potentially saving millions in hospital admissions.
-With its commitment to innovation and improving quality of care, BalanceScan
-aligns perfectly with initiatives aimed at supporting active aging and
-community-based healthcare.&nbsp;)</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <h4>Our Judges</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
