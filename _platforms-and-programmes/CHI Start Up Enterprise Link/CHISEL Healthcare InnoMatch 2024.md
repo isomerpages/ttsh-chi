@@ -187,9 +187,10 @@ therapy at community and home.&nbsp;</p>
 <p>Lenexa Medical is an Australian start-up dedicated to revolutionising
 the 200-year-old standard of pressure injury care, a persistent yet preventable
 issue causing pain and suffering to millions worldwide while costing the
-global healthcare system hundreds of billions each year.&nbsp;</p>
-<p>
-<br><strong>About Solution</strong>&nbsp;</p>
+global healthcare system hundreds of billions each year.</p>
+<p></p>
+<p><strong>About Solution</strong> 
+</p>
 <p>LenexaCARE utilises fabric-based sensors and AI-driven image recognition
 to convert a traditional medical mattress into a smart patient monitoring
 system. Data captured discreetly through LenexaCARE enables precise, continuous
@@ -386,7 +387,6 @@ communities and health policy makers, and capacity building through science
 and technology sharing. It also catalyses efforts for biobanking to promote
 data and material sharing in scientific networks and surveillance of emerging
 infections and neglected tropical diseases with pandemic potential.</p>
-<p>&nbsp;</p>
 <p>Dr Lee was Chief Scientist of Ministry of Home Affairs before he retired
 from civil service and joined Temasek Foundation. He was instrumental in
 building national S&amp;T capabilities in chemical, biological, radiological,
@@ -394,7 +394,6 @@ and nuclear defence for national security during his career with the Ministries
 of Defence and Home Affairs. He graduated with PhD in Chemistry from National
 University of Singapore in 1990 and was designated as Chartered Chemist
 in 1994 by UK Royal Society of Chemistry.</p>
-<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
