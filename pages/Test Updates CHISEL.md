@@ -276,7 +276,7 @@ the screen, the health of one’s eyes can be determined.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Veronica Mancassola&nbsp;(Global Business Developer&nbsp;), Maria Eugenia Rodriguez&nbsp;(Medical Doctor and Customer Success) Mediktor</u></strong>
+<summary><strong><u>Veronica Mancassola&nbsp;(Global Business Developer), Maria Eugenia Rodriguez&nbsp;(Medical Doctor and Customer Success) Mediktor</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>About company</strong>&nbsp;</p>
