@@ -23,7 +23,7 @@ will empower leaders and professionals in 4 main areas of capability building
 as shown by our CLIME Model.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHI Academies/CLIME_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CHI Academies/CLIME_1.png">
 </div>
 <p></p>
 <p>Through CLIME, we envision a future with leaders and professionals alike
