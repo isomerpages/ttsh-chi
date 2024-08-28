@@ -126,14 +126,12 @@ enquiries, email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank
 <summary><strong><u>Vineet Johnson (Founder &amp; CEO) IRegained Inc.</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&nbsp;</p>
 <p><strong>About company</strong>&nbsp;</p>
 <p>IRegained is a Digital Neurotherapeutics (DTx) company that has developed
 the MyHand® System, a FDA Health Canada &amp; HSA registered, patented,
 smart, neuro-rehabilitation system to “rewire” damaged neural pathways
 through the power of neuroplasticity, empowering people with a stroke,
 TBI or musculoskeletal hand injury, reclaim unassisted use of their hands&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution</strong>&nbsp;</p>
 <p>IRegained has developed the MyHand System, a proprietary targeted hand
 function rehabilitation system which aims to restore lost hand function
@@ -141,21 +139,19 @@ in individuals who have sustained a stroke or brain trauma or trauma to
 the hand from other neuromuscular or musculo-skeletal injuries/disorders.
 It leverages neuroplasticity, the human brain’s ability to ‘reprogram’
 its neural pathways and thereby restore lost hand function.&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
-<p>The MyHand® System is an FDA, Health Canada and HSA (Singapore) registered,
-patented, targeted hand-function rehabilitation system, consisting of a
-connected mechatronic device, cloud-based proprietary hand-function training
-protocols, specifically designed therapeutic games that encourage a patient’s
-active engagement in their therapy. Therapy can be delivered by the mechatronic
-device both in-person in the clinic, as well as through remote virtual
-rehabilitation.&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
-<p>IRegained’s MyHand® System can be used in rehab centers, recreation clubs
-and through remote tele-rehabilitation guidance from rehabilitation professionals.
-Our novel system engages a patient’s sensory system (touch, pressure, and
-proprioception sensation) and motor capabilities (various hand and forearm
-muscles) for a more comprehensive rehabilitation approach to help restore
-hand function.&nbsp;</p>
+<p>&nbsp;The MyHand® System is an FDA, Health Canada and HSA (Singapore)
+registered, patented, targeted hand-function rehabilitation system, consisting
+of a connected mechatronic device, cloud-based proprietary hand-function
+training protocols, specifically designed therapeutic games that encourage
+a patient’s active engagement in their therapy. Therapy can be delivered
+by the mechatronic device both in-person in the clinic, as well as through
+remote virtual rehabilitation.&nbsp;</p>
+<p>&nbsp;IReganed’s MyHand® System can be used in rehab centers, recreation
+clubs and through remote tele-rehabilitation guidance from rehabilitation
+professionals. Our novel system engages a patient’s sensory system (touch,
+pressure, and proprioception sensation) and motor capabilities (various
+hand and forearm muscles) for a more comprehensive rehabilitation approach
+to help restore hand function.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -164,14 +160,12 @@ hand function.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Roceso Technologies Private Limited&nbsp;</u></strong><u>&nbsp;</u>
 </p>
-<p>&nbsp;</p>
 <p><strong>About company</strong>&nbsp;</p>
 <p>Roceso Technologies is a world-leading neurorehabilitation technology
 company based in Singapore. Its soft robotic, biosensing and digital health
 technologies provide functional assistance and neurotherapeutic solutions
 to patients with functional impairments during rehabilitation and daily
 living.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution&nbsp;</strong>&nbsp;</p>
 <p>Roceso Technologies’ flagship product, the EsoGLOVETM, is one of the world’s
 lightest hand rehabilitation and exoskeleton devices offering top functionality
@@ -189,13 +183,11 @@ therapy at community and home.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Lenexa Medical&nbsp;</u></strong><u>&nbsp;</u>
 </p>
-<p>&nbsp;</p>
 <p><strong>About company</strong>&nbsp;</p>
 <p>Lenexa Medical is an Australian start-up dedicated to revolutionising
 the 200-year-old standard of pressure injury care, a persistent yet preventable
 issue causing pain and suffering to millions worldwide while costing the
 global healthcare system hundreds of billions each year.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution</strong>&nbsp;</p>
 <p>LenexaCARE utilises fabric-based sensors and AI-driven image recognition
 to convert a traditional medical mattress into a smart patient monitoring
@@ -216,13 +208,11 @@ as software updates.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>SG Diagnostics Pte Ltd&nbsp;</u></strong>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About company</strong>&nbsp;</p>
 <p>SG Diagnostics is a medical device company specializing in point-of-care
 testing for chronic diseases, including HbA1c and lipid profile tests.
 Our mission is to enhance lives by empowering individuals with greater
 health awareness through accessible and accurate testing.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution&nbsp;</strong>&nbsp;</p>
 <p>Our proposed solution, the PreciS Health Management System, is designed
 to enhance the chronic diseases management in Singapore and beyond, particularly
@@ -253,13 +243,11 @@ health management within the community.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Occutrack Medical Solutions Pte Ltd</u></strong>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About company</strong>&nbsp;</p>
 <p>Occutrack is developing a home eye-tracking system to monitor age-related
 macular degeneration (AMD), improving patient compliance by reducing clinic
 visits. This enables timely assessments and interventions to prevent vision
 loss and enhance quality of life for AMD patients.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution&nbsp;</strong>&nbsp;</p>
 <p>Occutrack is a medical startup developing an eye movement tracking AI
 ‘CRYSTALSIGHT’ for home use to monitor and manage visual deterioration.
@@ -285,7 +273,6 @@ than 10 years of market experience and a presence in 35 countries. Mediktor
 has developed the most advanced all-in-one platform that simplifies patient
 management with an empathy-driven AI healthcare assistant, with a number
 of international healthcare institutions, including hospitals.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution&nbsp;</strong>&nbsp;</p>
 <p>Mediktor is powered by a sophisticated Natural Language Processing AI
 engine that enables users to converse naturally in 18 languages, the white-labeled
@@ -312,15 +299,13 @@ protocols.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>CAPTUREPROOF, INC</u></strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>About company</strong>&nbsp;</p>
+<p><strong>bout company</strong>&nbsp;</p>
 <p>CaptureProof is a HIPAA-compliant digital health platform that leverages
 AI-powered video and photo analysis to enable patient monitoring and assessment.
 Through the Smart Medical Camera™, CaptureProof captures visual biometrics,
 providing healthcare professionals with objective, longitudinal data to
 enhance diagnosis, treatment, and patient care across various medical conditions
 from anywhere.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution&nbsp;</strong>&nbsp;</p>
 <p>BalanceScan, powered by CaptureProof, revolutionizes fall risk assessment
 by utilizing AI-driven video analysis to evaluate mobility and balance
@@ -349,15 +334,12 @@ community-based healthcare.&nbsp;</p>
 <summary><strong><u>Matias Shulz (CPO), Danilo Verge&nbsp;(CMedO)&nbsp;ViewMind, Inc.&nbsp;&nbsp;</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>ViewMind, Inc.&nbsp;</strong>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About company</strong>&nbsp;</p>
 <p>ViewMind is revolutionizing brain health with its First-In-Class technology
 that combines eye movement analysis with machine learning. Our non-invasive,
 highly accurate cognitive assessments detect subtle changes in cognition,
 enabling early diagnosis, prevention, and monitoring of brain conditions
 in a scalable, objective, and culturally neutral manner.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>About solution&nbsp;</strong>&nbsp;</p>
 <p>ViewMind is transforming the landscape of brain health with its First-In-Class
 technology that merges eye movement analysis with advanced machine learning.
@@ -365,13 +347,11 @@ Our platform offers highly accurate, non-invasive cognitive assessments
 by detecting fine-grain changes in cognition through the eyes. This innovative
 approach allows for early diagnosis, prevention, and continuous monitoring
 of brain conditions.&nbsp;</p>
-<p>&nbsp;</p>
 <p>What sets ViewMind apart is its ability to provide objective and scalable
 assessments that are culturally neutral, making them accessible across
 diverse populations. Unlike traditional methods, which can be invasive,
 costly, and dependent on the evaluator’s expertise, ViewMind’s 20-minute
 evaluations are easy to administer, and do not require specialized training.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Our technology is designed for early detection and for the monitoring
 of disease progression and treatment impact. By enabling healthcare providers
 to make data-driven decisions, ViewMind enhances patient outcomes and reduces
