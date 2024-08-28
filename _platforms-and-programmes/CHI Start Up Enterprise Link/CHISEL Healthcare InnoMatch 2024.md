@@ -456,16 +456,13 @@ Manager (Senior) by the Singapore Computer Society (SCS).</p>
 key role in the master-planning and development of Health technology to
 advance healthcare transformation, and improve population health amidst
 a dynamic and complex health eco-system.</p>
-<p>&nbsp;</p>
 <p>Siew Ying entered Public Service in 1999. Prior to her appointment in
 Synapxe, she was Deputy Secretary (Policy) in the Ministry of Health where
 she led the development of systems planning, finance and corporate policies.</p>
-<p>&nbsp;</p>
 <p>Through her career, Siew Ying has held various appointments in the National
 Population and Talent Division under the Prime Minister’s Office, Ministry
 of Transport, Ministry of Defence, and the Defence Science and Technology
 Agency.</p>
-<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -476,14 +473,12 @@ Agency.</p>
 Health Campus with 30 years of healthcare experience spanning from acute
 hospital administration and operations work, running community care organisations
 to overseeing population health management.</p>
-<p>&nbsp;</p>
 <p>She started her healthcare career in TTSH rotating through various administrative
 and operations units before joining the Community Care sector as General
 Manager of Home Nursing Foundation and subsequently as the CEO of Ren Ci
 Hospital.&nbsp; Prior to her current role, she was overseeing the population
 health management work anchored by TTSH as part of the Central Health Integrated
 Care Network to serve the residents in the Central region.</p>
-<p>&nbsp;</p>
 <p>As Chief Community Care, Shu Ching oversees the NHG community care services
 serving 2.2 million residents in Central North Singapore.&nbsp; Her responsibilities
 include the planning and development of population health initiatives in
@@ -503,12 +498,10 @@ residents in consultation with community partners and ensure the quality
 of care and clinical services provided by RHSO. He also provides strategic
 inputs to the development and implementation of NUHS population health
 strategy.</p>
-<p>&nbsp;</p>
 <p>Adj Asst Prof Chua was Medical Director, Jurong Community Hospital (JCH)
 from 2011-2022, where he oversees the planning, opening and ramp up of
 JCH. He continues to be the Head, Clinical Quality as well as the senior
 consultant, Post-Acute and Continuing Care Department in JCH.</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -518,7 +511,6 @@ consultant, Post-Acute and Continuing Care Department in JCH.</p>
 <p>Prof Lee is the Deputy Group CEO (Regional Health System), SingHealth
 where he leads population health efforts; and chairs the Planning Committee
 for the upcoming Eastern General and Community Hospitals.</p>
-<p>&nbsp;</p>
 <p>Prof Lee is an Adjunct Professor at the Saw Swee Hock School of Public
 Health, NUS; Duke-NUS Medical School and SUTD.&nbsp;&nbsp; He had served
 on international committees under WHO, IHF and JCI.</p>
