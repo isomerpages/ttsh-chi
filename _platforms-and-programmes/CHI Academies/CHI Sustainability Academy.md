@@ -81,18 +81,12 @@ that can transform practices for sustainable healthcare.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Care Model and Service Redesign for Quality and Sustainability<br><br>3-part course: </strong>
-<br>1. Sustainability through QI, Lean and Design Thinking</p>
-<p>
-<br>2. Digital Sustainability: Development Trends and Implications for the
-Healthcare Industry</p>
-<p>
-<br>3. Impact Measurements of Sustainability Efforts in Healthcare
+<p><strong>Care Model and Service Redesign for Quality and Sustainability<br><br></strong>
 <br>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Learn how to identify Healthcare Sustainability opportunities using SusQI,
 Lean and Design Thinking, as well as understanding the Development Trends
 and Implication for deploying digital solutions in the Healthcare Industry
@@ -108,14 +102,6 @@ to support sustainability</p>
 <p>
 <br>
 </p>
-<p>5 Nov 2024</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>19 Nov 2024</p>
 <p></p>
 <p></p>
 <p></p>
@@ -125,7 +111,15 @@ to support sustainability</p>
 <p></p>
 <p></p>
 <p></p>
-<p>3 Dec 2024</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -139,28 +133,62 @@ to support sustainability</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Part 1 of 3: Sustainability through QI, Lean and Design Thinking</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6 May 2025</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Part 2 of 3: Digital Sustainability: Development Trends and Implications
+for the Healthcare Industry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>13 May 2025</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Part 3 of 3: Impact Measurements of Sustainability Efforts in Healthcare</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>20 May 2025</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
