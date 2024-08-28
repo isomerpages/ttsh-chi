@@ -758,9 +758,9 @@ the purposes of the test-bed at your discretion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Organiser_and_partner.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CHISEL/Collab_Partners_and_Agencies_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL Partner Logos/CHISEL_Partners_Mar_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collab_Partners_and_Agencies_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL Partner Logos/CHISEL_Partners_May_20.png">
 </div>
 <p></p>
