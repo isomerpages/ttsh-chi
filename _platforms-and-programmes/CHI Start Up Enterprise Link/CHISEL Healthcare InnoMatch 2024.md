@@ -41,13 +41,13 @@ and networking lunch provided.)
 <td rowspan="1" colspan="1">
 <p><strong>Registration</strong>
 </p>
-<p><em>Morning refreshments provided, please be seated by 8.45 AM</em>
+<p><em>Morning refreshments provided, please be seated by 8.45AM</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.00AM – 9.10AM</p>
+<p>9.00AM – 9.15AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Opening of Event by Emcees</strong>
@@ -56,7 +56,7 @@ and networking lunch provided.)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.10AM – 10.10 AM</p>
+<p>9.15AM – 10.15AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Finalists’ Pitch and Q&amp;A – 1<sup>st</sup> segment</strong>
@@ -65,7 +65,7 @@ and networking lunch provided.)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.10AM – 10.20AM</p>
+<p>10.15AM – 10.25AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Admin Break</strong>
@@ -74,7 +74,7 @@ and networking lunch provided.)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.20AM – 11.20AM</p>
+<p>10.25AM – 11.30AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Finalists’ Pitch and Q&amp;A – 2<sup>nd</sup> segment</strong>
@@ -83,7 +83,7 @@ and networking lunch provided.)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.20AM – 1.00PM</p>
+<p>11.30AM – 1.00PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Networking Lunch</strong>
@@ -103,13 +103,14 @@ and networking lunch provided.)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.45PM – 2.15PM</p>
+<p>1.30PM – 2.15PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>co11ab Tour</strong>
-</p>
-<p><em>Optional, first come first serve. Please indicate in the registration form if you would like to join the tour.</em>
-</p>
+<p><strong>Post-event Activities</strong>
+<br><em>Networking continues </em>
+<br>
+<br>Attendees who have registered for the optional co11ab tour to gather at
+CHI Level 4 Lobby C by 1.40pm. A signage will be placed there.</p>
 </td>
 </tr>
 </tbody>
@@ -379,7 +380,6 @@ driving innovation in cognitive assessment and care.&nbsp;</p>
 <summary><strong>Dr Lee Fook Kay, Head Pandemic X, Temasek Foundation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Dr Lee Fook Kay heads Temasek Foundation’s Pandemic X Office that develops
 and executes philanthropic outreach and projects for preparedness and countermeasures
 for future pandemics. His office supports regional networking of scientific
@@ -395,16 +395,16 @@ and nuclear defence for national security during his career with the Ministries
 of Defence and Home Affairs. He graduated with PhD in Chemistry from National
 University of Singapore in 1990 and was designated as Chartered Chemist
 in 1994 by UK Royal Society of Chemistry.</p>
+<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Mr Colin Lim, Chief Information Officer and Group Director (InfoComm, Technology and Data), Ministry of Health</strong>
+<summary><strong>Mr. Colin Lim, Chief Information Officer and Group Director (InfoComm, Technology and Data), Ministry of Health</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Mr Colin Lim is the Chief Information Officer and Chief Data Officer at
 Singapore’s Ministry of Health.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>His previous role was the Chief Executive Officer of mobilityX, a mobility
 as a service startup, that was backed by SMRT and Toyota Tsusho. Prior
 to that, Colin was Managing Director SMRT Services and Vice President,
@@ -422,46 +422,7 @@ Transport.</p>
 <p>&nbsp;</p>
 <p>Colin holds a Master of Business Administration from the University of
 Oxford and a Bachelor of Science (Economics) (Honours) from the London
-School of Economics on a Public Service Commission scholarship.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Ms Loh Shu Ching, Chief, Community Care, Population Health Campus, National Healthcare Group</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Adj Asst Prof Chua Chi Siong, Medical Director, Regional Health System Office and Senior Consultant, Department of Post-Acute &amp; Continuing Care, Jurong Community Hospital, National University Health System</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Adj Asst Prof Chua Chi Siong is Medical Director (MD), Regional Health
-System Office (RHSO), National University Health System (NUHS). He provides
-clinical leadership and oversight for health-related interactions with
-residents in consultation with community partners and ensure the quality
-of care and clinical services provided by RHSO. He also provides strategic
-inputs to the development and implementation of NUHS population health
-strategy.</p>
-<p>&nbsp;</p>
-<p>Adj Asst Prof Chua was Medical Director, Jurong Community Hospital (JCH)
-from 2011-2022, where he oversees the planning, opening and ramp up of
-JCH. He continues to be the Head, Clinical Quality as well as the senior
-consultant, Post-Acute and Continuing Care Department in JC</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Prof Lee Chien Earn Deputy Group Chief Executive Officer (Regional Health System), Singapore Health Services</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Prof Lee is the Deputy Group CEO (Regional Health System), SingHealth
-where he leads population health efforts; and chairs the Planning Committee
-for the upcoming Eastern General and Community Hospitals.</p>
-<p>&nbsp;</p>
-<p>Prof Lee is an Adjunct Professor at the Saw Swee Hock School of Public
-Health, NUS; Duke-NUS Medical School and SUTD.&nbsp;&nbsp; He had served
-on international committees under WHO, IHF and JCI.</p>
+School of Economics on a Public Service Commission scholarship.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -503,15 +464,72 @@ Manager (Senior) by the Singapore Computer Society (SCS).</p>
 key role in the master-planning and development of Health technology to
 advance healthcare transformation, and improve population health amidst
 a dynamic and complex health eco-system.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>Siew Ying entered Public Service in 1999. Prior to her appointment in
 Synapxe, she was Deputy Secretary (Policy) in the Ministry of Health where
 she led the development of systems planning, finance and corporate policies.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>Through her career, Siew Ying has held various appointments in the National
 Population and Talent Division under the Prime Minister’s Office, Ministry
 of Transport, Ministry of Defence, and the Defence Science and Technology
 Agency.</p>
+<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ms Loh Shu Ching, Chief, Community Care, Population Health Campus, National Healthcare Group</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Loh Shu Ching is&nbsp;the Chief Community Care in the NHG Population
+Health Campus with 30 years of healthcare experience spanning from acute
+hospital administration and operations work, running community care organisations
+to overseeing population health management.</p>
+<p>&nbsp;</p>
+<p>She started her healthcare career in TTSH rotating through various administrative
+and operations units before joining the Community Care sector as General
+Manager of Home Nursing Foundation and subsequently as the CEO of Ren Ci
+Hospital.&nbsp; Prior to her current role, she was overseeing the population
+health management work anchored by TTSH as part of the Central Health Integrated
+Care Network to serve the residents in the Central region.</p>
+<p>&nbsp;</p>
+<p>As Chief Community Care, Shu Ching oversees the NHG community care services
+serving 2.2 million residents in Central North Singapore.&nbsp; Her responsibilities
+include the planning and development of population health initiatives in
+the areas of Preventive Health and Wellness, School and Workplace Health,
+Community and Aged care, and care transitions between the hospital and
+community.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Adj Asst Prof Chua Chi Siong, Medical Director, Regional Health System Office and Senior Consultant, Department of Post-Acute &amp; Continuing Care, Jurong Community Hospital, National University Health System</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Adj Asst Prof Chua Chi Siong is Medical Director (MD), Regional Health
+System Office (RHSO), National University Health System (NUHS). He provides
+clinical leadership and oversight for health-related interactions with
+residents in consultation with community partners and ensure the quality
+of care and clinical services provided by RHSO. He also provides strategic
+inputs to the development and implementation of NUHS population health
+strategy.</p>
+<p>&nbsp;</p>
+<p>Adj Asst Prof Chua was Medical Director, Jurong Community Hospital (JCH)
+from 2011-2022, where he oversees the planning, opening and ramp up of
+JCH. He continues to be the Head, Clinical Quality as well as the senior
+consultant, Post-Acute and Continuing Care Department in JCH.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Prof Lee Chien Earn, Deputy Group Chief Executive Officer (Regional Health System), Singapore Health Services</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Prof Lee is the Deputy Group CEO (Regional Health System), SingHealth
+where he leads population health efforts; and chairs the Planning Committee
+for the upcoming Eastern General and Community Hospitals.</p>
+<p>&nbsp;</p>
+<p>Prof Lee is an Adjunct Professor at the Saw Swee Hock School of Public
+Health, NUS; Duke-NUS Medical School and SUTD.&nbsp;&nbsp; He had served
+on international committees under WHO, IHF and JCI.</p>
 </div>
 </details>
 </div>
