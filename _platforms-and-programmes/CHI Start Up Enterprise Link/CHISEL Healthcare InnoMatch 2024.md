@@ -189,7 +189,7 @@ the 200-year-old standard of pressure injury care, a persistent yet preventable
 issue causing pain and suffering to millions worldwide while costing the
 global healthcare system hundreds of billions each year.</p>
 <p></p>
-<p><strong>About Solution</strong> 
+<p><strong>About Solution</strong>
 </p>
 <p>LenexaCARE utilises fabric-based sensors and AI-driven image recognition
 to convert a traditional medical mattress into a smart patient monitoring
@@ -402,7 +402,6 @@ in 1994 by UK Royal Society of Chemistry.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mr Colin Lim is the Chief Information Officer and Chief Data Officer at
 Singapore’s Ministry of Health.</p>
-<p>&nbsp;</p>
 <p>His previous role was the Chief Executive Officer of mobilityX, a mobility
 as a service startup, that was backed by SMRT and Toyota Tsusho. Prior
 to that, Colin was Managing Director SMRT Services and Vice President,
@@ -410,14 +409,12 @@ Strategic Relations Office SMRT. He earlier worked at IBM UK, where his
 last role was Geography Leader, Intelligent Transport Systems, then a new
 IBM business initiative for which he identified and developed new markets
 and opportunities for IBM globally.</p>
-<p>&nbsp;</p>
 <p>Colin also served in the Singapore Administrative Service where his last
 appointment was Senior Director of the Planning and Organisation Division
 in the Ministry of Home Affairs. Prior to that, he was the Registrar of
 Vehicles and Group Director for Vehicle and Transit Licensing at the Land
 Transport Authority. He has also worked at the Ministries of Manpower and
 Transport.</p>
-<p>&nbsp;</p>
 <p>Colin holds a Master of Business Administration from the University of
 Oxford and a Bachelor of Science (Economics) (Honours) from the London
 School of Economics on a Public Service Commission scholarship.&nbsp;&nbsp;</p>
