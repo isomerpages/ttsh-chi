@@ -34,8 +34,9 @@ innovating towards a greener healthcare system.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/SA_Partner_Logos_for_Website__1_.png">
 </div>
 <h3>Academy Programme and Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -49,7 +50,10 @@ innovating towards a greener healthcare system.&nbsp;</p>
 <p>Sign up if you want to</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Schedule</p>
+<p>2024 Course Run</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025 Course Run</p>
 </th>
 </tr>
 <tr>
@@ -69,12 +73,23 @@ that can transform practices for sustainable healthcare.</p>
 <td rowspan="1" colspan="1">
 <p>3 July 2024 (full day)</p>
 <p></p>
-<p>17 Jan 2025</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 Apr 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Care Model and Service Redesign for Quality and Sustainability</strong>
+<p><strong>Care Model and Service Redesign for Quality and Sustainability<br><br>3-part course: </strong>
+<br>1. Sustainability through QI, Lean and Design Thinking</p>
+<p>
+<br>2. Digital Sustainability: Development Trends and Implications for the
+Healthcare Industry</p>
+<p>
+<br>3. Impact Measurements of Sustainability Efforts in Healthcare
+<br>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,32 +99,68 @@ and Implication for deploying digital solutions in the Healthcare Industry
 to support sustainability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One-and-a-half day course
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
 <br>
 </p>
-<p>5 Nov 2024 (PM) &amp; 19 Nov 2024 (full day)</p>
-<p>&nbsp;</p>
-<p>6 May 2025 (PM) &amp; 13 May 2024 (Whole day)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Impact Measurement of Sustainability Efforts in Healthcare</strong>
-</p>
-<p><strong>healthcare</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Be equipped with the know-how to quatify carbon footprints and make impactful
-communications to management through effective metrics selection and reporting
-framework.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>One-day course</p>
+<p>5 Nov 2024</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>19 Nov 2024</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>3 Dec 2024</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>6 May 2025</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>13 May 2025</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>20 May 2025</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,6 +179,9 @@ from Healthcare items perspective.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>27 May 2025</p>
 </td>
 </tr>
@@ -143,7 +197,10 @@ ways to reduce them, fitting into the circular economy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q2, 2025</p>
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 June 2025</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +216,10 @@ cycle – from sourcing to inventory.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q2, 2025</p>
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 June 2025</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +237,10 @@ to vital medication.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q3, 2025</p>
+<p>To be updated</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
