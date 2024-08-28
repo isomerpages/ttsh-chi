@@ -139,17 +139,16 @@ function rehabilitation system which aims to restore lost hand function
 in individuals who have sustained a stroke or brain trauma or trauma to
 the hand from other neuromuscular or musculo-skeletal injuries/disorders.
 It leverages neuroplasticity, the human brain’s ability to ‘reprogram’
-its neural pathways and thereby restore lost hand function.&nbsp;
-<br>
-<br>The MyHand® System is an FDA, Health Canada and HSA (Singapore) registered,
+its neural pathways and thereby restore lost hand function.&nbsp;</p>
+<p></p>
+<p>The MyHand® System is an FDA, Health Canada and HSA (Singapore) registered,
 patented, targeted hand-function rehabilitation system, consisting of a
 connected mechatronic device, cloud-based proprietary hand-function training
 protocols, specifically designed therapeutic games that encourage a patient’s
 active engagement in their therapy. Therapy can be delivered by the mechatronic
 device both in-person in the clinic, as well as through remote virtual
 rehabilitation.&nbsp;</p>
-<p>
-<br>IReganed’s MyHand® System can be used in rehab centers, recreation clubs
+<p>IReganed’s MyHand® System can be used in rehab centers, recreation clubs
 and through remote tele-rehabilitation guidance from rehabilitation professionals.
 Our novel system engages a patient’s sensory system (touch, pressure, and
 proprioception sensation) and motor capabilities (various hand and forearm
@@ -167,8 +166,8 @@ company based in Singapore. Its soft robotic, biosensing and digital health
 technologies provide functional assistance and neurotherapeutic solutions
 to patients with functional impairments during rehabilitation and daily
 living.&nbsp;</p>
-<p>
-<br><strong>About Solution&nbsp;</strong>&nbsp;</p>
+<p></p>
+<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
 <p>Roceso Technologies’ flagship product, the EsoGLOVETM, is one of the world’s
 lightest hand rehabilitation and exoskeleton devices offering top functionality
 and comfort. On top of EsoGLOVE, Roceso also developed CygniSENSE Motion,
