@@ -160,6 +160,7 @@ to support sustainability</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Part 1 of 3: Sustainability through QI, Lean and Design Thinking</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Nov 2024</p>
@@ -172,6 +173,7 @@ to support sustainability</p>
 <td rowspan="1" colspan="1">
 <p>Part 2 of 3: Digital Sustainability: Development Trends and Implications
 for the Healthcare Industry</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19 Nov 2024</p>
@@ -183,6 +185,7 @@ for the Healthcare Industry</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Part 3 of 3: Impact Measurements of Sustainability Efforts in Healthcare</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Dec 2024</p>
@@ -204,7 +207,6 @@ for the Healthcare Industry</p>
 reduce disposable usage in Healthcare. This course seeks to provide healthcare
 professionals – clinicians and healthcare admin insights on material selection
 from Healthcare items perspective.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -222,7 +224,6 @@ from Healthcare items perspective.</p>
 <p>Broaden and deepen your understanding of Sustainability opportunities
 in Built Environment. Recognising the carbon hotspots in a building and
 ways to reduce them, fitting into the circular economy.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -241,7 +242,6 @@ ways to reduce them, fitting into the circular economy.</p>
 in Procurement. Recognising the carbon hotspots, learn how to write greener
 evaluation criteria and introduce sustainability in the procurement life
 cycle – from sourcing to inventory.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -258,11 +258,7 @@ cycle – from sourcing to inventory.</p>
 <td rowspan="1" colspan="1">
 <p>Gain awareness on how pharmaceutical industry can make sustainable environment
 contributions by embracing sustainable strategies while ensuring access
-to vital medication.
-<br>
-<br>
-</p>
-<p>&nbsp;</p>
+to vital medication.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To be updated</p>
