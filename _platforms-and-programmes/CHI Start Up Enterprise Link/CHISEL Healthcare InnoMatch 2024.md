@@ -122,186 +122,6 @@ CHI Level 4 Lobby C by 1.40pm. A signage will be placed there.</p>
 <h3><strong>Meet Our Finalists</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Vineet Johnson (Founder &amp; CEO) IRegained Inc.</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>About Company</strong>&nbsp;</p>
-<p>IRegained is a Digital Neurotherapeutics (DTx) company that has developed
-the MyHand® System, a FDA Health Canada &amp; HSA registered, patented,
-smart, neuro-rehabilitation system to “rewire” damaged neural pathways
-through the power of neuroplasticity, empowering people with a stroke,
-TBI or musculoskeletal hand injury, reclaim unassisted use of their hands&nbsp;
-<br>
-</p>
-<p><strong>About Solution</strong>&nbsp;</p>
-<p>IRegained has developed the MyHand System, a proprietary targeted hand
-function rehabilitation system which aims to restore lost hand function
-in individuals who have sustained a stroke or brain trauma or trauma to
-the hand from other neuromuscular or musculo-skeletal injuries/disorders.
-It leverages neuroplasticity, the human brain’s ability to ‘reprogram’
-its neural pathways and thereby restore lost hand function.&nbsp;</p>
-<p></p>
-<p>The MyHand® System is an FDA, Health Canada and HSA (Singapore) registered,
-patented, targeted hand-function rehabilitation system, consisting of a
-connected mechatronic device, cloud-based proprietary hand-function training
-protocols, specifically designed therapeutic games that encourage a patient’s
-active engagement in their therapy. Therapy can be delivered by the mechatronic
-device both in-person in the clinic, as well as through remote virtual
-rehabilitation.&nbsp;</p>
-<p>IReganed’s MyHand® System can be used in rehab centers, recreation clubs
-and through remote tele-rehabilitation guidance from rehabilitation professionals.
-Our novel system engages a patient’s sensory system (touch, pressure, and
-proprioception sensation) and motor capabilities (various hand and forearm
-muscles) for a more comprehensive rehabilitation approach to help restore
-hand function.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Jane Wang (Co-founder &amp; CEO) Roceso Technologies Private Limited</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>About Company</strong>&nbsp;</p>
-<p>Roceso Technologies is a world-leading neurorehabilitation technology
-company based in Singapore. Its soft robotic, biosensing and digital health
-technologies provide functional assistance and neurotherapeutic solutions
-to patients with functional impairments during rehabilitation and daily
-living.&nbsp;</p>
-<p></p>
-<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
-<p>Roceso Technologies’ flagship product, the EsoGLOVETM, is one of the world’s
-lightest hand rehabilitation and exoskeleton devices offering top functionality
-and comfort. On top of EsoGLOVE, Roceso also developed CygniSENSE Motion,
-a motion tracking technology based solution for upper limb assessment,
-exercises and gamification. To achieve telerehab and community care, Roceso
-launched CygniCONNECT Platform which integrates Roceso’s robotic, biosensing
-and digital health solutions and enables remote prescription and high-intensity
-therapy at community and home.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Will Yang (Co-founder &amp; Chief Scientific Officer), Ajit Ravindran (Co-founder &amp; CEO) Lexena Medical</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>About Company</strong>&nbsp;</p>
-<p>Lenexa Medical is an Australian start-up dedicated to revolutionising
-the 200-year-old standard of pressure injury care, a persistent yet preventable
-issue causing pain and suffering to millions worldwide while costing the
-global healthcare system hundreds of billions each year.</p>
-<p></p>
-<p><strong>About Solution</strong>
-</p>
-<p>LenexaCARE utilises fabric-based sensors and AI-driven image recognition
-to convert a traditional medical mattress into a smart patient monitoring
-system. Data captured discreetly through LenexaCARE enables precise, continuous
-tracking of patient positions and pressure areas, providing clinicians
-and carers with actionable data to finally allow for proactive and accountable
-pressure injury prevention. The solution incorporated into the mattress
-cover means residents and patients can be monitored in comfort and with
-dignity without the impracticalities of wearables and the discomfort caused
-by cameras. Future applications will enable the system to become a complete
-patient and resident monitoring suite including sleep monitoring, falls
-risk reduction, vitals monitoring and more features that will be included
-as software updates.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Kate Qi (CEO), Jianhao Bai&nbsp;(COO) SG Diagnostics Pte Ltd&nbsp;&nbsp;</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>About Company</strong>&nbsp;</p>
-<p>SG Diagnostics is a medical device company specializing in point-of-care
-testing for chronic diseases, including HbA1c and lipid profile tests.
-Our mission is to enhance lives by empowering individuals with greater
-health awareness through accessible and accurate testing.&nbsp;
-<br>
-</p>
-<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
-<p>Our proposed solution, the PreciS Health Management System, is designed
-to enhance the chronic diseases management in Singapore and beyond, particularly
-for high-risk elderly individuals who may not regularly access healthcare
-services. By raising public health awareness and improving aging-related
-chronic disease management, we aim to benefit both the public health and
-individuals.&nbsp;
-<br>
-</p>
-<p>In partnership with SGO, we will introduce a door-to-door health screening
-initiative, involving visiting homes to perform point-of-care tests for
-key health parameters such as HbA1c, a full lipid profile, and blood pressure,
-utilizing our handheld analyzers.&nbsp;</p>
-<p>Powered by the HbA1c handheld solution, co-developed by SG Diagnostics
-and the National Healthcare Group, the screening process is streamlined
-and efficient. All data will be securely stored in the cloud and, ideally,
-shared in real-time with healthcare providers to facilitate immediate follow-up
-and care.&nbsp;</p>
-<p>Beyond health screenings, we will use this opportunity to educate individuals
-on chronic disease management, including key programs such as Healthier
-SG, the War on Diabetes initiative, and practical diabetes management tips.
-Our solution aims to advance early detection and awareness of chronic diseases,
-enhance public health efforts, and support timely intervention and better
-health management within the community.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Mark Wong&nbsp;(CEO), Adjunct A. Prof Augustinus Laude&nbsp;(Clinical Investigator, TTSH) Occutrack Medical Solutions Pte Ltd&nbsp;</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>About Company</strong>&nbsp;</p>
-<p>Occutrack is developing a home eye-tracking system to monitor age-related
-macular degeneration (AMD), improving patient compliance by reducing clinic
-visits. This enables timely assessments and interventions to prevent vision
-loss and enhance quality of life for AMD patients.&nbsp;
-<br>
-</p>
-<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
-<p>Occutrack is a medical startup developing an eye movement tracking AI
-‘CRYSTALSIGHT’ for home use to monitor and manage visual deterioration.
-The focus is on age-related macular degeneration (AMD) using advanced eye-tracking
-AI. Occutrack’s CRYSTALSIGHT gaze interrogation algorithm tracks eye movements
-in response to visual stimuli, analyzes the data for abnormalities, and
-assesses visual performance. This non-invasive process helps detect and
-monitor conditions like AMD, allowing for convenient home-based eye health
-management. Normal human vision consists of a series of quick eye movements
-called saccades. These rapid eye movements have ballistic behaviour and
-abruptly change the fixation point depending on the area of the person's
-eye. By tracking these optokinetic movements with displayed patterns on
-the screen, the health of one’s eyes can be determined.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Veronica Mancassola&nbsp;(Global Business Developer), Maria Eugenia Rodriguez&nbsp;(Medical Doctor and Customer Success) Mediktor</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>About Company</strong>&nbsp;</p>
-<p>Mediktor is a leading company in the medical technology field with more
-than 10 years of market experience and a presence in 35 countries. Mediktor
-has developed the most advanced all-in-one platform that simplifies patient
-management with an empathy-driven AI healthcare assistant, with a number
-of international healthcare institutions, including hospitals.&nbsp;</p>
-<p></p>
-<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
-<p>Mediktor is powered by a sophisticated Natural Language Processing AI
-engine that enables users to converse naturally in 18 languages, the white-labeled
-SaaS is omnichannel and can be easily embedded into any interface, a solution
-adaptable to multiple business needs. Its AI assists patients and guides
-them through a series of questions to get a list of personalised recommendations
-and possible diagnoses. Thanks to its Machine Learning, it offers a highly
-personalized experience to users, leveraging this technology to extract
-key information and learn from every input users explain during symptom
-evaluations. NLP technology allows users to express themselves using their
-words, even if misspelt, conversing naturally with the chatbot. Mediktor
-helps Hospitals and Health Systems leading patients efficiently and safely
-to the most appropriate healthcare service. For healthcare professionals,
-Mediktor Plus offers support during triage, accelerating patient assessment
-and reducing waiting times. Doctors can also save time by leveraging triage
-information for discharge reports. As the first AI-based emergency triage
-tool, Mediktor helps alleviate the burden on emergency departments. Its
-integration with Hospital Information Systems streamlines treatments and
-protocols.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>Meghan Conroy&nbsp;(CEO and Founder, CAPTUREPROOF, INC&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -340,6 +160,176 @@ community-based healthcare.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Vineet Johnson (Founder &amp; CEO) IRegained Inc.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About Company</strong>&nbsp;</p>
+<p>IRegained is a Digital Neurotherapeutics (DTx) company that has developed
+the MyHand® System, a FDA Health Canada &amp; HSA registered, patented,
+smart, neuro-rehabilitation system to “rewire” damaged neural pathways
+through the power of neuroplasticity, empowering people with a stroke,
+TBI or musculoskeletal hand injury, reclaim unassisted use of their hands&nbsp;</p>
+<p><strong>About Solution</strong>&nbsp;</p>
+<p>IRegained has developed the MyHand System, a proprietary targeted hand
+function rehabilitation system which aims to restore lost hand function
+in individuals who have sustained a stroke or brain trauma or trauma to
+the hand from other neuromuscular or musculo-skeletal injuries/disorders.
+It leverages neuroplasticity, the human brain’s ability to ‘reprogram’
+its neural pathways and thereby restore lost hand function.&nbsp;</p>
+<p></p>
+<p>The MyHand® System is an FDA, Health Canada and HSA (Singapore) registered,
+patented, targeted hand-function rehabilitation system, consisting of a
+connected mechatronic device, cloud-based proprietary hand-function training
+protocols, specifically designed therapeutic games that encourage a patient’s
+active engagement in their therapy. Therapy can be delivered by the mechatronic
+device both in-person in the clinic, as well as through remote virtual
+rehabilitation.&nbsp;</p>
+<p>IReganed’s MyHand® System can be used in rehab centers, recreation clubs
+and through remote tele-rehabilitation guidance from rehabilitation professionals.
+Our novel system engages a patient’s sensory system (touch, pressure, and
+proprioception sensation) and motor capabilities (various hand and forearm
+muscles) for a more comprehensive rehabilitation approach to help restore
+hand function.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Will Yang (Co-founder &amp; Chief Scientific Officer), Ajit Ravindran (Co-founder &amp; CEO) Lexena Medical</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About Company</strong>&nbsp;</p>
+<p>Lenexa Medical is an Australian start-up dedicated to revolutionising
+the 200-year-old standard of pressure injury care, a persistent yet preventable
+issue causing pain and suffering to millions worldwide while costing the
+global healthcare system hundreds of billions each year.</p>
+<p></p>
+<p><strong>About Solution</strong>
+</p>
+<p>LenexaCARE utilises fabric-based sensors and AI-driven image recognition
+to convert a traditional medical mattress into a smart patient monitoring
+system. Data captured discreetly through LenexaCARE enables precise, continuous
+tracking of patient positions and pressure areas, providing clinicians
+and carers with actionable data to finally allow for proactive and accountable
+pressure injury prevention. The solution incorporated into the mattress
+cover means residents and patients can be monitored in comfort and with
+dignity without the impracticalities of wearables and the discomfort caused
+by cameras. Future applications will enable the system to become a complete
+patient and resident monitoring suite including sleep monitoring, falls
+risk reduction, vitals monitoring and more features that will be included
+as software updates.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Mark Wong&nbsp;(CEO), Adjunct A. Prof Augustinus Laude&nbsp;(Clinical Investigator, TTSH) Occutrack Medical Solutions Pte Ltd&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About Company</strong>&nbsp;</p>
+<p>Occutrack is developing a home eye-tracking system to monitor age-related
+macular degeneration (AMD), improving patient compliance by reducing clinic
+visits. This enables timely assessments and interventions to prevent vision
+loss and enhance quality of life for AMD patients.&nbsp;</p>
+<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
+<p>Occutrack is a medical startup developing an eye movement tracking AI
+‘CRYSTALSIGHT’ for home use to monitor and manage visual deterioration.
+The focus is on age-related macular degeneration (AMD) using advanced eye-tracking
+AI. Occutrack’s CRYSTALSIGHT gaze interrogation algorithm tracks eye movements
+in response to visual stimuli, analyzes the data for abnormalities, and
+assesses visual performance. This non-invasive process helps detect and
+monitor conditions like AMD, allowing for convenient home-based eye health
+management. Normal human vision consists of a series of quick eye movements
+called saccades. These rapid eye movements have ballistic behaviour and
+abruptly change the fixation point depending on the area of the person's
+eye. By tracking these optokinetic movements with displayed patterns on
+the screen, the health of one’s eyes can be determined.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Jane Wang (Co-founder &amp; CEO) Roceso Technologies Private Limited</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About Company</strong>&nbsp;</p>
+<p>Roceso Technologies is a world-leading neurorehabilitation technology
+company based in Singapore. Its soft robotic, biosensing and digital health
+technologies provide functional assistance and neurotherapeutic solutions
+to patients with functional impairments during rehabilitation and daily
+living.&nbsp;</p>
+<p></p>
+<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
+<p>Roceso Technologies’ flagship product, the EsoGLOVETM, is one of the world’s
+lightest hand rehabilitation and exoskeleton devices offering top functionality
+and comfort. On top of EsoGLOVE, Roceso also developed CygniSENSE Motion,
+a motion tracking technology based solution for upper limb assessment,
+exercises and gamification. To achieve telerehab and community care, Roceso
+launched CygniCONNECT Platform which integrates Roceso’s robotic, biosensing
+and digital health solutions and enables remote prescription and high-intensity
+therapy at community and home.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Kate Qi (CEO), Jianhao Bai&nbsp;(COO) SG Diagnostics Pte Ltd&nbsp;&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About Company</strong>&nbsp;</p>
+<p>SG Diagnostics is a medical device company specializing in point-of-care
+testing for chronic diseases, including HbA1c and lipid profile tests.
+Our mission is to enhance lives by empowering individuals with greater
+health awareness through accessible and accurate testing.&nbsp;</p>
+<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
+<p>Our proposed solution, the PreciS Health Management System, is designed
+to enhance the chronic diseases management in Singapore and beyond, particularly
+for high-risk elderly individuals who may not regularly access healthcare
+services. By raising public health awareness and improving aging-related
+chronic disease management, we aim to benefit both the public health and
+individuals.&nbsp;</p>
+<p>In partnership with SGO, we will introduce a door-to-door health screening
+initiative, involving visiting homes to perform point-of-care tests for
+key health parameters such as HbA1c, a full lipid profile, and blood pressure,
+utilizing our handheld analyzers.&nbsp;</p>
+<p>Powered by the HbA1c handheld solution, co-developed by SG Diagnostics
+and the National Healthcare Group, the screening process is streamlined
+and efficient. All data will be securely stored in the cloud and, ideally,
+shared in real-time with healthcare providers to facilitate immediate follow-up
+and care.&nbsp;</p>
+<p>Beyond health screenings, we will use this opportunity to educate individuals
+on chronic disease management, including key programs such as Healthier
+SG, the War on Diabetes initiative, and practical diabetes management tips.
+Our solution aims to advance early detection and awareness of chronic diseases,
+enhance public health efforts, and support timely intervention and better
+health management within the community.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Veronica Mancassola&nbsp;(Global Business Developer), Maria Eugenia Rodriguez&nbsp;(Medical Doctor and Customer Success) Mediktor</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About Company</strong>&nbsp;</p>
+<p>Mediktor is a leading company in the medical technology field with more
+than 10 years of market experience and a presence in 35 countries. Mediktor
+has developed the most advanced all-in-one platform that simplifies patient
+management with an empathy-driven AI healthcare assistant, with a number
+of international healthcare institutions, including hospitals.&nbsp;</p>
+<p></p>
+<p><strong>About Solution&nbsp;</strong>&nbsp;</p>
+<p>Mediktor is powered by a sophisticated Natural Language Processing AI
+engine that enables users to converse naturally in 18 languages, the white-labeled
+SaaS is omnichannel and can be easily embedded into any interface, a solution
+adaptable to multiple business needs. Its AI assists patients and guides
+them through a series of questions to get a list of personalised recommendations
+and possible diagnoses. Thanks to its Machine Learning, it offers a highly
+personalized experience to users, leveraging this technology to extract
+key information and learn from every input users explain during symptom
+evaluations. NLP technology allows users to express themselves using their
+words, even if misspelt, conversing naturally with the chatbot. Mediktor
+helps Hospitals and Health Systems leading patients efficiently and safely
+to the most appropriate healthcare service. For healthcare professionals,
+Mediktor Plus offers support during triage, accelerating patient assessment
+and reducing waiting times. Doctors can also save time by leveraging triage
+information for discharge reports. As the first AI-based emergency triage
+tool, Mediktor helps alleviate the burden on emergency departments. Its
+integration with Hospital Information Systems streamlines treatments and
+protocols.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Matias Shulz (CPO), Danilo Verge&nbsp;(CMedO)&nbsp;ViewMind, Inc.&nbsp;&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -369,7 +359,7 @@ of disease progression and treatment impact. By enabling healthcare providers
 to make data-driven decisions, ViewMind enhances patient outcomes and reduces
 healthcare costs. With its scalable and efficient approach, ViewMind is
 poised to become a key tool in the fight against brain health disorders,
-driving innovation in cognitive assessment and care.&nbsp;</p>
+driving innovation in cognitive assessment and care.</p>
 </div>
 </details>
 </div>
