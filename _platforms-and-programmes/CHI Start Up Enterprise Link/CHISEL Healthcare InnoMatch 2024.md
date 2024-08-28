@@ -583,8 +583,7 @@ healthcare innovation, bringing them a step closer to benefit patients.</p>
 <summary><strong>Stage 1 Application: Launch of Open Call</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>Submit your application for Healthcare InnoMatch 2024 on the <a href="https://www.judgify.me/chisel2024" rel="noopener noreferrer nofollow" target="_blank"><u>Challenge Portal</u></a> by <strong>8 April 2024, 12:00 SGT</strong>.
+<p>Submit your application for Healthcare InnoMatch 2024 on the <a href="https://www.judgify.me/chisel2024" rel="noopener noreferrer nofollow" target="_blank"><u>Challenge Portal</u></a> by <strong>8 April 2024, 12:00 SGT</strong>.
 Results will be announced by 12 May 2024. Multi-participation is welcomed.
 Fill in the application form available in the participant space, providing
 the following:</p>
@@ -648,7 +647,6 @@ and SMEs will be selected to move to the next shortlisting round.</p>
 <summary><strong>Engagement Sessions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Up to twenty (20) start-ups and SMEs will be invited to present your solution
 at Engagement Sessions with our clinical partners and reviewers.</p>
 <p></p>
@@ -665,7 +663,6 @@ be selected.</p>
 <summary><strong>Stage 3 Application and Coaching</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Finalists will be coached by experts in preparation for the Finale Event.
 This may include coaching on refining the value proposition of the solution,
 budgeting, business plan, pitching. Oral presentation of your solutions
@@ -677,7 +674,6 @@ for the Finale Event will be provided nearer to date.</p>
 <summary><strong>Final Pitching</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Finalists will pitch to the Judging Panel composed of senior management
 from the partner healthcare clusters and domain experts. Finalists in Singapore
 are required to attend the event in-person, while finalists overseas may
@@ -690,7 +686,6 @@ announced on the day of the event itself.</p>
 <summary><strong>Next Steps</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Successful winning start-ups and SMEs will be matched to one of the participating
 healthcare clusters to carry out test-bedding.</p>
 <p>Winners will be granted three (3) months of preparation time to finalise
