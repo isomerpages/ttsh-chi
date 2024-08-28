@@ -23,7 +23,7 @@ will empower leaders and professionals in 4 main areas of capability building
 as shown by our CLIME Model.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHI Academies/CLIME_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CHI Academies/CLIME_1.png">
 </div>
 <p></p>
 <p>Through CLIME, we envision a future with leaders and professionals alike
@@ -34,8 +34,9 @@ innovating towards a greener healthcare system.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/SA_Partner_Logos_for_Website__1_.png">
 </div>
 <h3>Academy Programme and Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -49,7 +50,10 @@ innovating towards a greener healthcare system.&nbsp;</p>
 <p>Sign up if you want to</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Schedule</p>
+<p>2024 Course Run</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025 Course Run</p>
 </th>
 </tr>
 <tr>
@@ -69,46 +73,124 @@ that can transform practices for sustainable healthcare.</p>
 <td rowspan="1" colspan="1">
 <p>3 July 2024 (full day)</p>
 <p></p>
-<p>17 Jan 2025</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 Apr 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Care Model and Service Redesign for Quality and Sustainability</strong>
+<p><strong>Care Model and Service Redesign for Quality and Sustainability<br><br></strong>
+<br>
+<br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Learn how to identify Healthcare Sustainability opportunities using SusQI,
 Lean and Design Thinking, as well as understanding the Development Trends
 and Implication for deploying digital solutions in the Healthcare Industry
 to support sustainability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One-and-a-half day course
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
 <br>
 </p>
-<p>5 Nov 2024 (PM) &amp; 19 Nov 2024 (full day)</p>
-<p>&nbsp;</p>
-<p>6 May 2025 (PM) &amp; 13 May 2024 (Whole day)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Impact Measurement of Sustainability Efforts in Healthcare</strong>
-</p>
-<p><strong>healthcare</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Be equipped with the know-how to quatify carbon footprints and make impactful
-communications to management through effective metrics selection and reporting
-framework.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>One-day course</p>
+<p>Part 1 of 3: Sustainability through QI, Lean and Design Thinking</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Part 2 of 3: Digital Sustainability: Development Trends and Implications
+for the Healthcare Industry</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Part 3 of 3: Impact Measurements of Sustainability Efforts in Healthcare</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3 Dec 2024</p>
-<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>20 May 2025</p>
 </td>
 </tr>
@@ -125,7 +207,9 @@ framework.</p>
 reduce disposable usage in Healthcare. This course seeks to provide healthcare
 professionals – clinicians and healthcare admin insights on material selection
 from Healthcare items perspective.</p>
-<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 May 2025</p>
@@ -140,10 +224,12 @@ from Healthcare items perspective.</p>
 <p>Broaden and deepen your understanding of Sustainability opportunities
 in Built Environment. Recognising the carbon hotspots in a building and
 ways to reduce them, fitting into the circular economy.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q2, 2025</p>
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 June 2025</p>
 </td>
 </tr>
 <tr>
@@ -156,10 +242,12 @@ ways to reduce them, fitting into the circular economy.</p>
 in Procurement. Recognising the carbon hotspots, learn how to write greener
 evaluation criteria and introduce sustainability in the procurement life
 cycle – from sourcing to inventory.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q2, 2025</p>
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 June 2025</p>
 </td>
 </tr>
 <tr>
@@ -170,14 +258,13 @@ cycle – from sourcing to inventory.</p>
 <td rowspan="1" colspan="1">
 <p>Gain awareness on how pharmaceutical industry can make sustainable environment
 contributions by embracing sustainable strategies while ensuring access
-to vital medication.
-<br>
-<br>
-</p>
-<p>&nbsp;</p>
+to vital medication.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Q3, 2025</p>
+<p>To be updated</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
