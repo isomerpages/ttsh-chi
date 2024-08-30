@@ -18,8 +18,8 @@ with our partner healthcare clusters!</p>
 <p><strong>Date:</strong>&nbsp;27 September 2024 (Friday)
 <br><strong>Time:</strong>&nbsp;9:00am – 1:30pm SGT (Morning refreshments
 and networking lunch provided.)
-<br><strong>Venue:</strong>&nbsp;Ng Teng Fong Centre for Healthcare Innovation
-(CHI), Level 2, Hall 1 &amp; 2</p>
+<br><strong>Venue:</strong>&nbsp;Ng Teng Fong Centre for Healthcare Innovation,
+Level 2, Hall 1 &amp; 2</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,7 +88,7 @@ and networking lunch provided.)
 <td rowspan="1" colspan="1">
 <p><strong>Networking Lunch</strong>
 </p>
-<p><em>Check out the booths by and hear from CHISEL 2024’s finalists and semi-finalists, our partner healthcare clusters’ sharing on their Innovation Hubs, and our partners’ sharing on their programmes for start-ups!</em>
+<p><em>Hear from and check out the booths by CHISEL 2024 finalists and semi-finalists, learn about our partner healthcare clusters' Innovation Hubs, and find out more about our partners' programmes for start-ups! </em>
 </p>
 </td>
 </tr>
