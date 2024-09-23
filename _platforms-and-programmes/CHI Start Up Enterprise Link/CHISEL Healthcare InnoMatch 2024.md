@@ -88,7 +88,7 @@ Level 2, Hall 1 &amp; 2</p>
 <td rowspan="1" colspan="1">
 <p><strong>Networking Lunch</strong>
 </p>
-<p><em>Hear from and check out the booths by CHISEL 2024 finalists and semi-finalists, learn about our partner healthcare clusters' Innovation Hubs, and find out more about our partners' programmes for start-ups! </em>
+<p><em>Hear from and check out the booths by CHISEL 2024 finalists and semi-finalists, learn about our partner healthcare clusters' Innovation Hubs, and find out more about our partners' programmes for start-ups!</em>
 </p>
 </td>
 </tr>
@@ -367,16 +367,17 @@ driving innovation in cognitive assessment and care.</p>
 <h3><strong>Our Judges</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Dr Lee Fook Kay, Head Pandemic X, Temasek Foundation</strong>
+<summary><strong>Dr Lee Fook Kay, Head Pandemic Preparedness Office, Temasek Foundation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Lee Fook Kay heads Temasek Foundation’s Pandemic X Office that develops
-and executes philanthropic outreach and projects for preparedness and countermeasures
-for future pandemics. His office supports regional networking of scientific
-communities and health policy makers, and capacity building through science
-and technology sharing. It also catalyses efforts for biobanking to promote
-data and material sharing in scientific networks and surveillance of emerging
-infections and neglected tropical diseases with pandemic potential.</p>
+<p>Dr Lee Fook Kay heads Temasek Foundation’s Pandemic Preparedness Office
+that develops and executes philanthropic outreach and projects for preparedness
+and countermeasures for future pandemics. His office supports regional
+networking of scientific communities and health policy makers, and capacity
+building through science and technology sharing. It also catalyses efforts
+for biobanking to promote data and material sharing in scientific networks
+and surveillance of emerging infections and neglected tropical diseases
+with pandemic potential.</p>
 <p>Dr Lee was Chief Scientist of Ministry of Home Affairs before he retired
 from civil service and joined Temasek Foundation. He was instrumental in
 building national S&amp;T capabilities in chemical, biological, radiological,
