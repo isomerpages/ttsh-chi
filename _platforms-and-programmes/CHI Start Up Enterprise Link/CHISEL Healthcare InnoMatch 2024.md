@@ -14,11 +14,11 @@ third_nav_title: CHI Start Up Enterprise Link
 countries as they pitched in the Finale Event in the presence of over 200
 industry attendees. The winning teams receive a total of S$1.5mil in test-bedding
 funds.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://captureproof.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CAPTUREPROOF</div><div class="isomer-card-description">Paired with National University Health System</div><div class="isomer-card-link">Capure Proof</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://captureproof.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="/images/1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CAPTUREPROOF</div><div class="isomer-card-description">Paired with National University Health System</div><div class="isomer-card-link">Capure Proof</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sgdiagnostics.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="/images/2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -26,7 +26,7 @@ funds.</p>
 <div class="isomer-card-description">Paired with National Healthcare Group</div>
 <div class="isomer-card-link">SG Diagnostics</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.viewmind.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ViewMind Inc.</div><div class="isomer-card-description">Paired with SingHealth</div><div class="isomer-card-link">ViewMind</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.viewmind.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ViewMind Inc.</div><div class="isomer-card-description">Paired with SingHealth</div><div class="isomer-card-link">ViewMind</div></div></a>
 </div>
 <p></p>
 <p></p>
