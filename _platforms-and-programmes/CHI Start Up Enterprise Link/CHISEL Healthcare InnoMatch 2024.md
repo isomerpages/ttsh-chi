@@ -9,7 +9,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Masthead.png">
 </div>
-<h3><strong>Congratulations To All Winners!</strong></h3>
+<h2>Congratulations to the winners of CHISEL Healthcare InnoMatch 2024!</h2>
 <p>3 winners have emerged from 330 startup and SME participants across 50
 countries as they pitched in the Finale Event in the presence of over 200
 industry attendees. The winning teams receive a total of S$1.5mil in test-bedding
