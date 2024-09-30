@@ -15,6 +15,20 @@ countries as they pitched in the Finale Event in the presence of over 200
 industry attendees. The winning teams receive a total of S$1.5mil in test-bedding
 funds.</p>
 <h3></h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CAPTUREPROOF</div><div class="isomer-card-description">Paired with National University Health System</div><div class="isomer-card-link">CapureProof</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SG Diagnostics</div>
+<div class="isomer-card-description">Paired with National Healthcare Group</div>
+<div class="isomer-card-link">SG Diagnostics</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHISEL Helathcare InnoMatch Winners" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ViewMind Inc.</div><div class="isomer-card-description">Paired with SingHealth</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
