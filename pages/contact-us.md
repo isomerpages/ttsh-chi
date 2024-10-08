@@ -14,12 +14,12 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: chi@ttsh.com.sg
+      - email: chi@nhg.com.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: chi_events@ttsh.com.sg
+      - email: chi_events@nhg.com.sg
       - other: ""
     title: Facilities Enquiries
 feedback: ""
