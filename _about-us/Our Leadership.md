@@ -104,7 +104,7 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/ronnie.png"></a></td>
 <td><strong>Ronnie Yang </strong><br>Director, People Development Office and Management Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a></td></tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/huey%20bing-01.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/Joanne_Lui.png"></a></td>
 <td><strong>Joanne Lui</strong><br>Director, Organisation Development Office<br><a href="https://www.linkedin.com/in/joannelui-coach/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
@@ -131,6 +131,7 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/huey%20bing-01.png"></a></td>
 <td><strong>Koh Huey Bing</strong><br>Consultant<br><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
+
 
 </tbody>
 </table>
