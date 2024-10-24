@@ -15,7 +15,7 @@ skillsets and toolsets to enable this transformation.</p>
 <h3>Programme Focus</h3>
 <p>The curriculum and ethos are aligned with population health and community-based
 care. The 19-week Fellowship program is designed as both practice and project-based,
-and combines professional development, personalised mentorship, peer and
+and combines professional development, personalized mentorship, peer and
 experiential co-learning and immersions into innovative healthcare systems
 in Singapore and internationally. Participants will engage with thought
 leaders and work with experienced practitioners and their peers to develop
@@ -71,6 +71,8 @@ them to establish a network with fellow collaborators in the industry.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>Meet our Alumni</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Class of 2022</summary>
@@ -147,7 +149,7 @@ AWWA)</p>
 </div>
 </details>
 </div>
-<p><strong> Related Content</strong>
+<p><strong>Related Content</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
