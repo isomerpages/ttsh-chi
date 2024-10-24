@@ -91,7 +91,6 @@ them to establish a network with fellow collaborators in the industry.</p>
 <p>Sichon Luerithiphong (Assistant Dean, Service Innovation, Faculty of Medicine)</p>
 <p>Yoo Suyoung (Research Student, Samsung Advanced Institute for Health Sciences
 &amp; Technology)</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -119,8 +118,6 @@ Research Faculty of Medicine Siriraj Hospital)</p>
 Community Care, TTSH)</p>
 <p>Tullaya Sitasuwan (Associate Professor, Faculty of Medicine Siriraj Hospital
 Mahidol University)</p>
-<p></p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -142,10 +139,14 @@ of Medicine Siriraj Hospital, Mahidol University)</p>
 <p>Emily Ong (Director, Lions Befrienders Association Service)</p>
 <p>Hng Lijie Tess (Principal Medical Social Worker, Ailled Health – Rehab
 TTSH)</p>
+<p>Natalie Yee (Sr Physiotherapist AH – Physiotherapy TTSH)</p>
+<p>Suharti Binte Hussain Abdullah Huin (Principal Occupational Therapist
+AWWA)</p>
+<p>Tan Yun Hann (Asst Nurse Clinician, NCID Nursing TTSH)</p>
+<p>Teo Wee Loon (Operation Admin, Yishun Health)</p>
 </div>
 </details>
 </div>
-<p></p>
 <p><strong> Related Content</strong>
 </p>
 <ul data-tight="true" class="tight">
