@@ -73,6 +73,23 @@ them to establish a network with fellow collaborators in the industry.</p>
 </table>
 <p></p>
 <h3>Meet our Alumni</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Class of 2021</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Christopher Soh Kok Keng (Assistant Director of Nursing, Emergency Dept,
+Tan Tock Seng Hospital)</p>
+<p>Dr Eugene Fan Bingwen (Consultant, Haematology, Tan Tock Seng Hospital</p>
+<p>Dr Daniel Yong Zhan Peng (Associate Consultant, Urology, Tan Tock Seng
+Hospital)</p>
+<p>Mohd Khalid Bin Mohd Anuar (Sr Principal Physiotherapist, Prosthetics
+and Orthotics, Tan Tock Seng Hospital)</p>
+<p>Ng Tat Ming (Principal Pharmacist (Specialist), Tan Tock Seng Hospital)</p>
+<p>Katy Alcock (Assistant Director of Allied Health Professions, Pennine
+Acute Hospitals NHS Trust, NHS UK</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Class of 2022</summary>
@@ -165,8 +182,7 @@ AWWA)</p>
 </p>
 </li>
 <li>
-<p><a href="/platforms-and-programmes/chief/" rel="noopener noreferrer nofollow" target="_blank">CHI Evaluation Framework</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="/platformprogrammes/chi-champ/" rel="noopener noreferrer nofollow" target="_blank">CHI Healthcare Advanced Management Programme (CHAMP)</a>
