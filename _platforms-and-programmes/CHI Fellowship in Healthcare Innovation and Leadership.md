@@ -2,116 +2,176 @@
 title: CHI Fellowship in Healthcare Innovation and Leadership
 permalink: /platformprogrammes/chi-fellowship/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>CHI Fellowship in Healthcare Innovation and Leadership</h2>
-
-Driving clinical innovation &amp; digital transformation will require collective leadership, and a deep and broad understanding of our healthcare systems. This Fellowship equips participants with the necessary mindsets, skillsets and toolsets to enable this transformation.
-
- <style>
-    .video-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-  </style>
-<div class="video-container">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jPBvR6iJEJU" height="315" width="560"></iframe>
+<p>Driving clinical innovation &amp; digital transformation will require
+collective leadership, and a deep and broad understanding of our healthcare
+systems. This Fellowship equips participants with the necessary mindsets,
+skillsets and toolsets to enable this transformation.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jPBvR6iJEJU"></iframe>
 </div>
-
-<h3> Programme Focus </h3>
-The curriculum and ethos are aligned with population health and community-based care. The 19-week Fellowship program is designed as both practice and project-based, and combines professional development, personalised mentorship, peer and experiential co-learning and immersions into innovative healthcare systems in Singapore and internationally. 
-Participants will engage with thought leaders and work with experienced practitioners and their peers to develop their projects. Above all, this Fellowship provides an opportunity for them to establish a network with fellow collaborators in the industry.
-
-<style>
-table, th, td{
-  border: 1px solid black;
-  border-collapse: collapse;
-	width: 500px;
-	color: white;
-}
-	
-th {
-  text-align: center;
-}
-
-th:nth-child(even),td:nth-child(even) {
-  background-color: grey;
-}
-th:nth-child(odd),td:nth-child(odd) {
-  background-color: #be2c37;
-}
-</style>
-
-<table class="table">
-  <thead>
-    <tr>
-      <th style="color:white;" scope="col">Learn (Week 1-4) <br> Introduction to various tools and methodologies</th>
-      <th style="color:white;" scope="col">Do (Week 5-6) ​ <br> Synthesize new knowledge and tools to develop solutions</th>
-      <th style="color:white;" scope="col">Share (Week 7-16) ​<br>Exchange knowledge and build upon ideas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row">Care &amp; Process Redesign​<br>•	Lean in Practice<br> •	Improvement Science<br><br>Collective Leadership<br>•	Know Thy Self
-      </td><td>Automation, IT, Robotic Innovation <br> •	Introduction to Automation &amp; IT <br>•	Management of Digital Innovation<br><br>Job Redesign<br>•	Translating Design into Implementation<br>•	Job Instructions / Relations / Method </td>
-      <td>Project Development<br>•	Mentoring by Project Mentor  <br><br>Project Milestone<br>Project Clinic <br> Panel Critique   </td>
-    </tr>
-   
-  </tbody>
+<h3>Programme Focus</h3>
+<p>The curriculum and ethos are aligned with population health and community-based
+care. The 19-week Fellowship program is designed as both practice and project-based,
+and combines professional development, personalised mentorship, peer and
+experiential co-learning and immersions into innovative healthcare systems
+in Singapore and internationally. Participants will engage with thought
+leaders and work with experienced practitioners and their peers to develop
+their projects. Above all, this Fellowship provides an opportunity for
+them to establish a network with fellow collaborators in the industry.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Learn (Week 1-4)
+<br>Introduction to various tools and methodologies</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Do (Week 5-6) ​
+<br>Synthesize new knowledge and tools to develop solutions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Share (Week 7-16) ​
+<br>Exchange knowledge and build upon ideas</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Care &amp; Process Redesign​
+<br>• Lean in Practice
+<br>• Improvement Science
+<br>
+<br>Collective Leadership
+<br>• Know Thy Self</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Automation, IT, Robotic Innovation
+<br>• Introduction to Automation &amp; IT
+<br>• Management of Digital Innovation
+<br>
+<br>Job Redesign
+<br>• Translating Design into Implementation
+<br>• Job Instructions / Relations / Method</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project Development
+<br>• Mentoring by Project Mentor
+<br>
+<br>Project Milestone
+<br>Project Clinic
+<br>Panel Critique</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-
-<h3>Testimonials from past graduates</h3>
-
-<div class="row">
-<div class="col"> 
-		<div class="para"><em>“The Fellowship journey made me see some of my blind spots. It changed my perspective of how I now approached my daily work. I have been entrenched for many years in the old 'tried and tested' ways which has brought me a good amount of sustained success.”</em>
-
-</div><br>
-		<div class="header"><b>Mohd Khalid Bin Mohd Anuar<br>
-Head, Foot Care &amp; Limb Design Centre<br>
-FY21 CHI Fellowship Graduate
- </b></div><br>
-
-<br>
-
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Class of 2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Boonthida Jaroensawat (Deputy Director, Bangkok Hospital)</p>
+<p>Chen Li (Assistant Director of Nursing, Nursing Services)</p>
+<p>Ho Pei Ying, Esther (Consultant, Geriatric Medicine)</p>
+<p>Kelvin Li (Associate Consultant, Ophthalmology)</p>
+<p>Liew Hai Meng, Nat (Nurse Manager, Nursing Services)</p>
+<p>Lim Woan Chyi (Principal Pharmacist, Pharmaceutical Care)</p>
+<p>Michael Yam (Consultant, Orthopedic Surgery)</p>
+<p>Nancy Ang (Assistant Director of Nursing, Nursing Service)</p>
+<p>Ong Poo Lee (Consultant, Rehabilitation Medicine)</p>
+<p>Patsharaporn Techasintana Sarasombath (Lecturer/Researcher Parasitology)</p>
+<p>Primana Punnakitikashem (Lecturer Biochemistry, Faculty of Medicine)</p>
+<p>Sattha Riyapan (Director, Emergency Medical Services Centre)</p>
+<p>Seet Xian Ying (Consultant Psychiatry)</p>
+<p>Sichon Luerithiphong (Assistant Dean, Service Innovation, Faculty of Medicine)</p>
+<p>Yoo Suyoung (Research Student, Samsung Advanced Institute for Health Sciences
+&amp; Technology)</p>
+<p></p>
 </div>
-	<div class="col"> 
-	<div class="para"><em>“Appreciated the attentive mentoring provided especially during the presentations and the ability to learn from each other. Inspired by the site visits (local and Bangkok) which really helped to open our minds.” </em>
-
-</div><br><br>
-	<div class="header"><b>Dr Seet Xian Ying
-<br>Consultant, Psychiatry
-<br>FY22 CHI Fellowship Graduate
- </b></div><br>
-
-<br>
-
+</details>
+<details class="isomer-details">
+<summary>Class of 2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Asawin (Pete) Puwatanasan (Deputy Hospital Director, Bangkok International
+Hospital (BIH) Bangkok Dusit Medical Services (BDMS)</p>
+<p>Benjapa (Ben) Khiewvan (Head of Division, Nuclear Medicine Department
+of Radiology Faculty of Medicine Siriraj Hospital)</p>
+<p>Chen Jing (Senior Nurse Manager Nursing Service, TTSH)</p>
+<p>Cindy Wee (Centre Manager, Lions Befrienders Association Service)</p>
+<p>Dollaporn (Lukpal) Anopas (Lecturer, Faculty of Medicine Siriraj Hospital)</p>
+<p>Hnin Nwe Oo (Assistant Director, Nursing Service, TTSH)</p>
+<p>Justyn Tan (Manager, Therapy Hub AWWA)</p>
+<p>Korapat (Nat) Mayurasakorn (Head, Siriraj Population Health and Nutrition
+Research Faculty of Medicine Siriraj Hospital Mahidol University)</p>
+<p>Neoh Eng Chuan, Ashton (Principal Physiotherapist, TTSH)</p>
+<p>Li Hao (Consultant, Otorhinolaryngology, TTSH)</p>
+<p>Panya (Pan) Luksanapruksa (Associate Professor, Faculty of Medicine Siriraj
+Hospital Mahidol University)</p>
+<p>Salim William (Assistant Director Operations, TTSH)</p>
+<p>Suvimol (Jess) Niyomnaitham (Vice Director, Siriraj Institute of Clinical
+Research Faculty of Medicine Siriraj Hospital)</p>
+<p>Tai Zu Huang (Family Physician, Associate Consultant Continuing &amp;
+Community Care, TTSH)</p>
+<p>Tullaya Sitasuwan (Associate Professor, Faculty of Medicine Siriraj Hospital
+Mahidol University)</p>
+<p></p>
+<p></p>
 </div>
-	<div class="col"> 
-<div class="para"><em>“I liked the project clinics and the mentorship sessions as this is an area that a lot of us are still very new in; receiving periodic feedback has helped me to know my areas for improvement.”
-</em>
-</div><br><br><br>
-	<div class="header"><b>Dr Li Zhenghao, Kelvin 
-<br>Associate Consultant, Ophthalmology
-<br>FY22 CHI Fellowship Graduate
-</b></div><br>
-
-<br></div></div>
-
-
-
-
-<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
-
-<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
-	<ul>
-			<li><a href="//platformprogrammes/nationalhipmedals/">National Healthcare Innovation and Productivity Medals</a></li>
-		<li><a href="/platformprogrammes/chisel/">CHI Start Up and Enterprise Link (CHISEL)</a></li>
-			<li><a href="/platformprogrammes/child/">CHI Learning and Development System (CHILD)</a></li>
-		<li><a href="/platforms-and-programmes/chief/">CHI Evaluation Framework</a></li>
-	<li><a href="/platformprogrammes/chi-champ/">CHI Healthcare Advanced Management Programme (CHAMP)</a></li>
-	<li><a href="/platformprogrammes/others/">Other Leadership Programmes</a></li>
-	</ul>
+</details>
+<details class="isomer-details">
+<summary>Class of 2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Asst. Prof. Dr.Anuch Durongphan (Head of IT &amp; Innovation, Anatomy
+Department Faculty of Medicine Siriraj Hospital, Mahidol University)</p>
+<p>Assoc. Prof. Kasana Raksamani (Associate Professor, Department of Anesthesiology
+Faculty of Medicine, Siriraj Hospital Mahidol University)</p>
+<p>Assoc. Prof. Somrach Thamtorawat (Radiology Department, Faculty of Medicine
+Siriraj Hospital, Mahidol University)</p>
+<p>Bernice Sim (Ops –COO’s Office TTSH)</p>
+<p>Dr. Evelyn Leechawengwongs (Utilization Management &amp; Third Party Payer
+Services (International), Bangkok Hospital)</p>
+<p>Dr Ibakkanavar (Sr Consultant Renal Medicine Woodlands Health)</p>
+<p>Dr. Pongsathorn Ampornjarut (Physician, Siriraj Stroke Center, Faculty
+of Medicine Siriraj Hospital, Mahidol University)</p>
+<p>Dr Tracey Wing (Consultant Medical Psychiatry Woodlands Health)</p>
+<p>Emily Ong (Director, Lions Befrienders Association Service)</p>
+<p>Hng Lijie Tess (Principal Medical Social Worker, Ailled Health – Rehab
+TTSH)</p>
 </div>
+</details>
+</div>
+<p></p>
+<p><strong> Related Content</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="//platformprogrammes/nationalhipmedals/" rel="noopener noreferrer nofollow" target="_blank">National Healthcare Innovation and Productivity Medals</a>
+</p>
+</li>
+<li>
+<p><a href="/platformprogrammes/chisel/" rel="noopener noreferrer nofollow" target="_blank">CHI Start Up and Enterprise Link (CHISEL)</a>
+</p>
+</li>
+<li>
+<p><a href="/platformprogrammes/child/" rel="noopener noreferrer nofollow" target="_blank">CHI Learning and Development System (CHILD)</a>
+</p>
+</li>
+<li>
+<p><a href="/platforms-and-programmes/chief/" rel="noopener noreferrer nofollow" target="_blank">CHI Evaluation Framework</a>
+</p>
+</li>
+<li>
+<p><a href="/platformprogrammes/chi-champ/" rel="noopener noreferrer nofollow" target="_blank">CHI Healthcare Advanced Management Programme (CHAMP)</a>
+</p>
+</li>
+<li>
+<p><a href="/platformprogrammes/others/" rel="noopener noreferrer nofollow" target="_blank">Other Leadership Programmes</a>
+</p>
+</li>
+</ul>
+<p></p>
