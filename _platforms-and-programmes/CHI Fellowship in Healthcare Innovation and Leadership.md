@@ -73,7 +73,7 @@ them to establish a network with fellow collaborators in the industry.</p>
 </table>
 <p></p>
 <h3>Meet our Alumni</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Class of 2021</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -94,25 +94,26 @@ NHS Foundation Trust, National Health Service (NHS), UK)</p>
 <p>Rui Miguel (Quality Improvement Lead, Northern Care Alliance, National
 Health Service (NHS), UK)</p>
 <p>Dr Sarah Rose (Consultant Physician, Salford Care Organisation, National
-Health Service (NHS), UK)</p>
+Health Service National Health Service (NHS), UK)</p>
 <p>Dr Suresh Chandran (Divisional Clinical Director, Northern Care Alliance,
-NHS UK)</p>
+National Health Service (NHS), UK)</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Class of 2022</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Boonthida Jaroensawat (Deputy Director, Bangkok Hospital)</p>
-<p>Chen Li (Assistant Director of Nursing, Nursing Services)</p>
-<p>Ho Pei Ying, Esther (Consultant, Geriatric Medicine)</p>
-<p>Kelvin Li (Associate Consultant, Ophthalmology)</p>
-<p>Liew Hai Meng, Nat (Nurse Manager, Nursing Services)</p>
-<p>Lim Woan Chyi (Principal Pharmacist, Pharmaceutical Care)</p>
-<p>Michael Yam (Consultant, Orthopedic Surgery)</p>
-<p>Nancy Ang (Assistant Director of Nursing, Nursing Service)</p>
-<p>Ong Poo Lee (Consultant, Rehabilitation Medicine)</p>
+<p>Chen Li (Assistant Director of Nursing, Nursing Services, Tan Tock Seng
+Hospital)</p>
+<p>Ho Pei Ying, Esther (Consultant, Geriatric Medicine, Tan Tock Seng Hospital)</p>
+<p>Kelvin Li (Associate Consultant, Ophthalmology, Tan Tock Seng Hospital)</p>
+<p>Liew Hai Meng, Nat (Nurse Manager, Nursing Services, Tan Tock Seng Hospital)</p>
+<p>Lim Woan Chyi (Principal Pharmacist, Pharmaceutical Care, Tan Tock Seng
+Hospital)</p>
+<p>Michael Yam (Consultant, Orthopedic Surgery, Tan Tock Seng Hospital)</p>
+<p>Nancy Ang (Assistant Director of Nursing, Nursing Service, Tan Tock Seng
+Hospital)</p>
+<p>Ong Poo Lee (Consultant, Rehabilitation Medicine, Tan Tock Seng Hospital)</p>
 <p>Patsharaporn Techasintana Sarasombath (Lecturer/Researcher Parasitology)</p>
 <p>Primana Punnakitikashem (Lecturer Biochemistry, Faculty of Medicine)</p>
 <p>Sattha Riyapan (Director, Emergency Medical Services Centre)</p>
@@ -129,22 +130,22 @@ NHS UK)</p>
 Hospital (BIH) Bangkok Dusit Medical Services (BDMS)</p>
 <p>Benjapa (Ben) Khiewvan (Head of Division, Nuclear Medicine Department
 of Radiology Faculty of Medicine Siriraj Hospital)</p>
-<p>Chen Jing (Senior Nurse Manager Nursing Service, TTSH)</p>
+<p>Chen Jing (Senior Nurse Manager Nursing Service, Tan Tock Seng Hospital)</p>
 <p>Cindy Wee (Centre Manager, Lions Befrienders Association Service)</p>
 <p>Dollaporn (Lukpal) Anopas (Lecturer, Faculty of Medicine Siriraj Hospital)</p>
-<p>Hnin Nwe Oo (Assistant Director, Nursing Service, TTSH)</p>
+<p>Hnin Nwe Oo (Assistant Director, Nursing Service, Tan Tock Seng Hospital)</p>
 <p>Justyn Tan (Manager, Therapy Hub AWWA)</p>
 <p>Korapat (Nat) Mayurasakorn (Head, Siriraj Population Health and Nutrition
 Research Faculty of Medicine Siriraj Hospital Mahidol University)</p>
-<p>Neoh Eng Chuan, Ashton (Principal Physiotherapist, TTSH)</p>
-<p>Li Hao (Consultant, Otorhinolaryngology, TTSH)</p>
+<p>Neoh Eng Chuan, Ashton (Principal Physiotherapist, Tan Tock Seng Hospital)</p>
+<p>Li Hao (Consultant, Otorhinolaryngology, Tan Tock Seng Hospital)</p>
 <p>Panya (Pan) Luksanapruksa (Associate Professor, Faculty of Medicine Siriraj
 Hospital Mahidol University)</p>
-<p>Salim William (Assistant Director Operations, TTSH)</p>
+<p>Salim William (Assistant Director Operations, Tan Tock Seng Hospital)</p>
 <p>Suvimol (Jess) Niyomnaitham (Vice Director, Siriraj Institute of Clinical
 Research Faculty of Medicine Siriraj Hospital)</p>
 <p>Tai Zu Huang (Family Physician, Associate Consultant Continuing &amp;
-Community Care, TTSH)</p>
+Community Care, Tan Tock Seng Hospital)</p>
 <p>Tullaya Sitasuwan (Associate Professor, Faculty of Medicine Siriraj Hospital
 Mahidol University)</p>
 </div>
@@ -158,7 +159,7 @@ Department Faculty of Medicine Siriraj Hospital, Mahidol University)</p>
 Faculty of Medicine, Siriraj Hospital Mahidol University)</p>
 <p>Assoc. Prof. Somrach Thamtorawat (Radiology Department, Faculty of Medicine
 Siriraj Hospital, Mahidol University)</p>
-<p>Bernice Sim (Ops –COO’s Office TTSH)</p>
+<p>Bernice Sim (Ops –COO’s Office Tan Tock Seng Hospital)</p>
 <p>Dr. Evelyn Leechawengwongs (Utilization Management &amp; Third Party Payer
 Services (International), Bangkok Hospital)</p>
 <p>Dr Ibakkanavar (Sr Consultant Renal Medicine Woodlands Health)</p>
@@ -166,12 +167,12 @@ Services (International), Bangkok Hospital)</p>
 of Medicine Siriraj Hospital, Mahidol University)</p>
 <p>Dr Tracey Wing (Consultant Medical Psychiatry Woodlands Health)</p>
 <p>Emily Ong (Director, Lions Befrienders Association Service)</p>
-<p>Hng Lijie Tess (Principal Medical Social Worker, Ailled Health – Rehab
-TTSH)</p>
-<p>Natalie Yee (Sr Physiotherapist AH – Physiotherapy TTSH)</p>
+<p>Hng Lijie Tess (Principal Medical Social Worker, Ailled Health – Rehab,
+Tan Tock Seng Hospital)</p>
+<p>Natalie Yee (Sr Physiotherapist AH – Physiotherapy, Tan Tock Seng Hospital)</p>
 <p>Suharti Binte Hussain Abdullah Huin (Principal Occupational Therapist
 AWWA)</p>
-<p>Tan Yun Hann (Asst Nurse Clinician, NCID Nursing TTSH)</p>
+<p>Tan Yun Hann (Asst Nurse Clinician, NCID Nursing, Tan Tock Seng Hospital)</p>
 <p>Teo Wee Loon (Operation Admin, Yishun Health)</p>
 </div>
 </details>
