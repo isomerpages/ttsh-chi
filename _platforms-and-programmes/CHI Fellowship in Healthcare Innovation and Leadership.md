@@ -86,7 +86,17 @@ Hospital)</p>
 and Orthotics, Tan Tock Seng Hospital)</p>
 <p>Ng Tat Ming (Principal Pharmacist (Specialist), Tan Tock Seng Hospital)</p>
 <p>Katy Alcock (Assistant Director of Allied Health Professions, Pennine
-Acute Hospitals NHS Trust, NHS UK</p>
+Acute Hospitals NHS Trust, National Health Service (NHS), UK)</p>
+<p>Keeley Gibbons (Divisional Managing Director, Planned Care, The Pennine
+Acute NHS Trust, National Health Service (NHS), UK)</p>
+<p>Lyndsay Pearce (Consultant, General and Colorectal Surgeon, Salford Royal
+NHS Foundation Trust, National Health Service (NHS), UK)</p>
+<p>Rui Miguel (Quality Improvement Lead, Northern Care Alliance, National
+Health Service (NHS), UK)</p>
+<p>Dr Sarah Rose (Consultant Physician, Salford Care Organisation, National
+Health Service (NHS), UK)</p>
+<p>Dr Suresh Chandran (Divisional Clinical Director, Northern Care Alliance,
+NHS UK)</p>
 </div>
 </details>
 </div>
