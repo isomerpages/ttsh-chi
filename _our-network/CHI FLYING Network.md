@@ -4,7 +4,7 @@ permalink: /chi-flying/
 variant: tiptap
 description: ""
 ---
-<h4><strong>About CHI FLYING </strong></h4>
+<h4><strong>About CHI FLYING</strong></h4>
 <p>FLYING is a network (150 members) that connects young health and social
 care leaders across Singapore and beyond. We invite individuals below 40
 years of age in the health and social care sector who desire to become
@@ -30,6 +30,33 @@ members’ awareness and understanding of the transformations occurring in
 the health and social care landscape and create opportunities where they
 can drive change, providing opportunities to network, connect and launch
 new initiatives together.</p>
+<h4><strong>Our Programmes and Events </strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Tea Session</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mala Dialogue</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Onboarding</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Future Leaders' Summit 2025 (Stay Tuned!)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4><strong>Stay connected with us</strong></h4>
 <p></p>
 <p></p>
