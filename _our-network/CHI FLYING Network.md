@@ -39,25 +39,41 @@ new initiatives together.</p>
 <details class="isomer-details">
 <summary>Tea Session</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Join us for engaging tea sessions with the FLYING network, a vibrant community
+of future leaders in health and social care. This informal gathering offers
+a unique opportunity to connect with like-minded individuals and learn
+more about the network’s vision and activities. Come connect, share insights,&nbsp;
+discuss challenges, and explore how we can collectively shape the future
+of healthcare together.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Mala Dialogue</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Mala dialogues are exclusive, closed-door conversations that brings together
+network members and thought leaders for a “spicy” conversation on pressing
+issues in health and social care. This candid dialogue encourages bold
+discussions, challenging perspectives, and fresh ideas, creating a unique
+space to address complex topics and inspire transformative change.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Onboarding</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Onboarding for FLYING community provides an in-depth introduction to the
+FLYING network's vision and mission. This experience enables participants
+to immerse themselves in the network’s values and initiatives, while also
+opening doors to exciting leadership opportunities. As an onboarded member,
+you’ll have the chance to join the FLYING core team to plan for hallmark
+activities, driving impactful projects and shaping the future of health
+and social care together with other passionate leaders.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Future Leaders' Summit 2025 (Stay Tuned!)</summary>
+<summary>Future Leaders' Summit</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Our inaugural Future Leaders' Summit for Future Leaders, by Future Leaders.
+Coming to you in September 2025. Stay tuned!</p>
 </div>
 </details>
 </div>
