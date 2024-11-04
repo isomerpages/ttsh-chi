@@ -30,7 +30,7 @@ members’ awareness and understanding of the transformations occurring in
 the health and social care landscape and create opportunities where they
 can drive change, providing opportunities to network, connect and launch
 new initiatives together.</p>
-<h4><strong>Our Programmes and Events </strong></h4>
+<h4><strong>Our Programmes and Events</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Tea Session</summary>
