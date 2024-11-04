@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - CHI FLYING.md
       - CHI Leadership Council.md
       - CHI Co Learning Network/.keep
       - CHI Co Learning Network/About the CHI Co Learning Network.md
