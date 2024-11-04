@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>About CHI FLYING</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI FLYING/FLYING_Community.jpg">
+</div>
 <p>FLYING is a network (150 members) that connects young health and social
 care leaders across Singapore and beyond. We invite individuals below 40
 years of age in the health and social care sector who desire to become
@@ -59,5 +63,11 @@ new initiatives together.</p>
 </div>
 <h4><strong>Stay connected with us</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CHI FLYING/FLYING_LinkedIn.png">
+</div>
 <p></p>
+<h4><strong>Partnership Opportunities </strong></h4>
+<p>For discussion of partnership opportunities, connect with us at <a href="mailto:chi_flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi_flying@nhg.com.sg</a> 
+</p>
 <p>&nbsp;</p>
