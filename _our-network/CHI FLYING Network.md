@@ -9,11 +9,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI FLYING/FLYING_Community.jpg">
 </div>
-<p>FLYING is a network (150 members) that connects young health and social
-care leaders across Singapore and beyond. We invite individuals below 40
-years of age in the health and social care sector who desire to become
-a change agent and have experience in leadership to join the CHI FLYING
-network.</p>
+<p>The Future Leaders and Young INnovators Guild (FLYING) is a network with
+over 150 members connecting young health and social care leaders across
+Singapore and beyond. We invite individuals below 40 years of age in the
+health and social care sector who desire to become a change agent and have
+experience in leadership to join the CHI FLYING network.</p>
 <p></p>
 <h4><strong>Our Objective</strong></h4>
 <p>To raise up generations of young leaders across the health and social
