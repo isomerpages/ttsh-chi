@@ -19,7 +19,7 @@ build the foundations of an AI-enabled healthcare future—designed for everyone
 poised for change.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/Image__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_EDM_01_03.png">
 </div>
 <p>Join us on <strong><u>10 &amp; 11 July 2025</u></strong> as we commit to
 extending our healing touch not just to patients, but to the future of
