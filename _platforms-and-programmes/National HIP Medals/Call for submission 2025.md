@@ -36,8 +36,6 @@ of innovation.</p>
 <p><em>* Eligibility for Seed Fund: Only winning teams (of any of the 4 winning categories above) from MOH/MOHH entities or those who will embark on new innovation projects in collaboration with MOH/MOHH entities (otherwise, subject to MOH's approval).</em>
 </p>
 <h3>AWARD TIMELINE</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="NHIP_2024_Major_Timeline_Final" src="/images/Nhip/NHIP_2024_Major_Timeline_Final.png">
-</div>
+<h3></h3>
 <h3>Queries</h3>
 <p>If you have any queries, please contact the National HIP Secretariat at&nbsp;nhip@chi.sg</p>
