@@ -32,9 +32,10 @@ of innovation.</p>
 </ul>
 <p><em>* Eligibility for Seed Fund: Only winning teams (of any of the 4 winning categories above) from MOH/MOHH entities or those who will embark on new innovation projects in collaboration with MOH/MOHH entities (otherwise, subject to MOH's approval).</em>
 </p>
-<h3><strong>Award Timeline </strong></h3>
+<h3><strong>Award Timeline</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2025_Major_Timeline_v1.png">
 </div>
+<p>Stay tuned for the open call for National HIP Medals 2025's submission.</p>
 <h3><strong>Queries</strong></h3>
 <p>If you have any queries, please contact the National HIP Secretariat at&nbsp;nhip@chi.sg</p>
