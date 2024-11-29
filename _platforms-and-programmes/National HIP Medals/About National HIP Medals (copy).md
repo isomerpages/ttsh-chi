@@ -19,6 +19,11 @@ intermediate and long-term care institutions that have demonstrated thought
 leadership and excellence in healthcare innovation &amp; productivity.</p>
 <p></p>
 <h3>About the Medals</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Nhip/New_Innovation_Cycle_Logo.jpg">
+</div>
+<p></p>
 <p>The Medals recognise teams who achieve excellence in 3 award categories:
 <br>1. Care Redesign (CR)
 <br>2. Automation, IT and Robotics Innovation (AIR)
