@@ -5,11 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: National HIP Medals
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2024__Vertical____Closed.png">
-</div>
 <h3><strong>National HIP 2025 Highlights</strong></h3>
+<p></p>
 <p><strong><u>Best Adopter Medals – 2nd run after expanded criteria since 2024</u></strong>
 <br>Best Adopter Medals award category is back for the 3rd time with expanded
 criteria of recognising <strong><em>Teams</em></strong> that have adopted <strong><em>past Nationally or Internationally awarded solution(s)</em></strong>  <u>outside of their institutions</u> and
@@ -35,9 +32,9 @@ of innovation.</p>
 </ul>
 <p><em>* Eligibility for Seed Fund: Only winning teams (of any of the 4 winning categories above) from MOH/MOHH entities or those who will embark on new innovation projects in collaboration with MOH/MOHH entities (otherwise, subject to MOH's approval).</em>
 </p>
-<h3>AWARD TIMELINE</h3>
+<h3><strong>Award Timeline </strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2025_Major_Timeline_v1.png">
 </div>
-<h3>Queries</h3>
+<h3><strong>Queries</strong></h3>
 <p>If you have any queries, please contact the National HIP Secretariat at&nbsp;nhip@chi.sg</p>
