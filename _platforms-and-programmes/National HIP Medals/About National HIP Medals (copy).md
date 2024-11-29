@@ -8,7 +8,7 @@ third_nav_title: National HIP Medals
 <h2>National Healthcare Innovation and Productivity Medals</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Nhip/nhip_logo_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nhip/nhip_logo_1.png">
 </div>
 <p></p>
 <p>Organised by CHI and supported by the Ministry of Health as well as the
@@ -35,30 +35,30 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 <p></p>
 <h3>Our Winners Across the Years</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024" src="/images/Nhip/2023v2.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click here to view the videos.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2024" src="/images/Nhip/2023v2.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqgT2QbALsKwaJ8hVR7kY2o" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023" src="/images/Nhip/2023v2.gif">
+<img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2023" src="/images/Nhip/2023v2.gif">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">National HIP Medals 2023</div>
-<div class="isomer-card-link">Click to view the videos of the winning projects.</div>
+<div class="isomer-card-link">Click to watch the winning projects.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2022" src="/images/Nhip/2022gif.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2022</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=0y7M_8a_7CI" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2022" src="/images/Nhip/2022gif.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2022</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmq6mcZpncp68g9FR1-Vi_Sa" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2021" src="/images/Nhip/2021gif.gif">
+<img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2021" src="/images/Nhip/2021gif.gif">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">National HIP Medals 2021</div>
 <div class="isomer-card-link">Click to watch the winning projects.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2020" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2020</div><div class="isomer-card-link">Click to watch the winning teams</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmp__IX7IeCfufr7unDUm8zg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2020" src="/images/Nhip/2020gif.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2020</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmpPGnw2xV5k1XkYflONYLXJ" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2019" src="/images/Nhip/2019gif.gif">
@@ -68,8 +68,8 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 <div class="isomer-card-title">National HIP Medals 2019</div>
 <div class="isomer-card-link">Click to watch the winning projects.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2017" src="/images/Nhip/2017gif.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2017</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmohAw0cXSJJZukQLU7EnhMs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2017" src="/images/Nhip/2017gif.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2017</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmon339X0ad-1kkAe__Xu4p7" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2016" src="/images/Nhip/2016gif.gif">
