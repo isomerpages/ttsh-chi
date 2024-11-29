@@ -18,15 +18,19 @@ award that recognises local and private healthcare; as well as community/
 intermediate and long-term care institutions that have demonstrated thought
 leadership and excellence in healthcare innovation &amp; productivity.</p>
 <p></p>
-<h3>About the Medals </h3>
+<h3>About the Medals</h3>
 <p>The Medals recognise teams who achieve excellence in 3 award categories:
 <br>1. Care Redesign (CR)
 <br>2. Automation, IT and Robotics Innovation (AIR)
 <br>3. Workforce Transformation (WT)</p>
 <p></p>
-<h3>Our Winners Across the Years </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_Award_Overview.png">
+</div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024" src="/images/Nhip/2023v2.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click here to view the videos. </div></div></a>
+<h3>Our Winners Across the Years</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024" src="/images/Nhip/2023v2.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click here to view the videos.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqgT2QbALsKwaJ8hVR7kY2o" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -72,4 +76,5 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 </div>
 </a>
 </div>
+<p></p>
 <p></p>
