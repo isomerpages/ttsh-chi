@@ -7,9 +7,9 @@ third_nav_title: National HIP Medals
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2024__Vertical____Closed.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2024__Vertical____Closed.png">
 </div>
-<h3>National HIP 2025 Highlights</h3>
+<h3><strong>National HIP 2025 Highlights</strong></h3>
 <p><strong><u>Best Adopter Medals – 2nd run after expanded criteria since 2024</u></strong>
 <br>Best Adopter Medals award category is back for the 3rd time with expanded
 criteria of recognising <strong><em>Teams</em></strong> that have adopted <strong><em>past Nationally or Internationally awarded solution(s)</em></strong>  <u>outside of their institutions</u> and
