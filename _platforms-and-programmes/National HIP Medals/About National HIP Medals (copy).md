@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: National HIP Medals
 ---
-<h2>National Healthcare Innovation and Productivity Medals</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nhip/nhip_logo_1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nhip/nhip_logo_1.png">
 </div>
 <p></p>
 <p>Organised by CHI and supported by the Ministry of Health as well as the
