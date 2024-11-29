@@ -2,10 +2,10 @@ collections:
   platforms-and-programmes:
     output: true
     order:
-      - National HIP Medals/About National HIP Medals (copy).md
-      - National HIP Medals/Call for Submission 2025.md
       - National HIP Medals/.keep
+      - National HIP Medals/Call for Submission 2025.md
       - National HIP Medals/Call for Submission 2024.md
+      - National HIP Medals/About National HIP Medals (copy).md
       - National HIP Medals/About National HIP Medals.md
       - CHI Learning and Development System.md
       - CHI Start Up Enterprise Link/.keep
