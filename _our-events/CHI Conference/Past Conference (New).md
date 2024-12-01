@@ -25,7 +25,9 @@ boundaries and work with community partners to catalyse health and social
 change, creating more sustainable healthcare and healthy communities.</div>
 <div class="isomer-card-link">View the series of events here.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=L1ot3SRsRMY&amp;list=PLTrhD5VOFZmocGcY2hMpjCFtuG1_QrQyc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2022" src="/images/CHI INNOVATE/2022.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2022</div><div class="isomer-card-description">18 April 2022 – 4 November 2022</div><div class="isomer-card-link">View the series of events here.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=L1ot3SRsRMY&amp;list=PLTrhD5VOFZmocGcY2hMpjCFtuG1_QrQyc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2022" src="/images/CHI INNOVATE/2022.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2022</div><div class="isomer-card-description">18 April 2022 – 4 November 2022
+
+Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a series of 4 events promises to be even more engaging and agile to get you into the conversation on innovation, and how to make your innovation impactful!</div><div class="isomer-card-link">View the series of events here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=NuNyS4vP6IY&amp;list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
