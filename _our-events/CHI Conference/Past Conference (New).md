@@ -24,11 +24,11 @@ boundaries and work with community partners to catalyse health and social
 change, creating more sustainable healthcare and healthy communities.</div>
 <div class="isomer-card-link">View the series of events here.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2022" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2022</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2022" src="/images/innovate 2022 (right).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2022</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2021" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2021" src="/images/innovate (right).jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,7 +54,7 @@ of the future.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FutureHealth 2017" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="FutureHealth 2017" src="/images/events_conference1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -68,7 +68,7 @@ healthcare transformation through new technologies and workforce innovations.</d
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="National Seminar on Productivity in Healthcare (NSPH) 2016" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="National Seminar on Productivity in Healthcare (NSPH) 2016" src="/images/events_conference2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
