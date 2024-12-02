@@ -10,9 +10,7 @@ third_nav_title: CHI Conference
 together world-class thought leaders. These conferences also serve as platforms
 to actively build mindshare in healthcare transformation.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2024" src="/images/CHI INNOVATE/2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2024</div><div class="isomer-card-description">4 - 5 July 2024
-
-Themed “Sustainability in Healthcare”, we explored our relationship with our environment, while seeking innovative solutions to inspire and galvanise us to be ‘good ancestors’, pledging our oath to extend our healing touch not just to patients but to the planet we call home</div><div class="isomer-card-link">View the series of events here.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2024" src="/images/CHI INNOVATE/2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2024</div><div class="isomer-card-description">4 - 5 July 2024</div><div class="isomer-card-link">View the series of events here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmq_FCF-YPsKOv2oO0OrzIG2" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -21,13 +19,13 @@ Themed “Sustainability in Healthcare”, we explored our relationship with our
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">CHI INNOVATE 2023</div>
-<div class="isomer-card-description">Centre for Healthcare Innovation 28 July 2023 Themed Building Bridges:
-Health &amp; Social Care, CHI INNOVATE 2023 galvanised us to breach traditional
-boundaries and work with community partners to catalyse health and social
-change, creating more sustainable healthcare and healthy communities.</div>
+<div class="isomer-card-description">28 July 2023 Themed Building Bridges: Health &amp; Social Care, CHI INNOVATE
+2023 galvanised us to breach traditional boundaries and work with community
+partners to catalyse health and social change, creating more sustainable
+healthcare and healthy communities.</div>
 <div class="isomer-card-link">View the series of events here.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=L1ot3SRsRMY&amp;list=PLTrhD5VOFZmocGcY2hMpjCFtuG1_QrQyc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2022" src="/images/CHI INNOVATE/2022.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2022</div><div class="isomer-card-description">18 April 2022 – 4 November 2022
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=L1ot3SRsRMY&amp;list=PLTrhD5VOFZmocGcY2hMpjCFtuG1_QrQyc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2022" src="/images/CHI INNOVATE/2022.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2022</div><div class="isomer-card-description">18 April 2022 – 4 November 2022 
 Themed “From Innovation to Impact”, CHI INNOVATE 2022 happening over a series of 4 events promises to be even more engaging and agile to get you into the conversation on innovation, and how to make your innovation impactful!</div><div class="isomer-card-link">View the series of events here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=NuNyS4vP6IY&amp;list=PLTrhD5VOFZmpTbZQW9Y5r6K1KogwktE2c" class="isomer-card">
 <div class="isomer-card-image">
@@ -42,8 +40,8 @@ for CHI INNOVATE, the conference themed "Creating a better normal for healthcare
 took place as a series of webinars in 2021.</div>
 <div class="isomer-card-link">View the series of events here.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2020" src="/images/CHI INNOVATE/2020.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2020</div><div class="isomer-card-description">29 - 30 July 2020
-​Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", CHI INNOVATE 2020’s webinar series featured 19 speakers from across industries and countries.</div><div class="isomer-card-link">View the series of events here.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqv3n_Ncc5Yf_Th372lr8gJ" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2020" src="/images/CHI INNOVATE/2020.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2020</div><div class="isomer-card-description">29 - 30 July 2020 ​
+Themed "Breakouts in Outbreaks: Leadership and Innovation in Crisis", CHI INNOVATE 2020’s webinar series featured 19 speakers from across industries and countries.</div><div class="isomer-card-link">View the series of events here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=cdC0i0ZbqMQ" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
