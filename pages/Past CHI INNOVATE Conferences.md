@@ -2,7 +2,6 @@
 title: Past CHI INNOVATE Conferences
 permalink: /our-events/past-chi-innovate/
 description: ""
-third_nav_title: CHI Conference
 ---
 # Past CHI Conferences
 
