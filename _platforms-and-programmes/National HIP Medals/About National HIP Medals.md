@@ -34,7 +34,7 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 <p></p>
 <h3><strong>Our Winners Across the Years</strong></h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2024" src="/images/Nhip/2023v2.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=yC-Pj0IKFck&amp;list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF&amp;index=11" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2024" src="/images/Nhip/giphy_1_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqgT2QbALsKwaJ8hVR7kY2o" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
