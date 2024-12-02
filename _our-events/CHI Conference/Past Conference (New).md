@@ -10,7 +10,11 @@ third_nav_title: CHI Conference
 together world-class thought leaders. These conferences also serve as platforms
 to actively build mindshare in healthcare transformation.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2024" src="/images/CHI INNOVATE/2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2024</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CHI INNOVATE 2024" src="/images/CHI INNOVATE/2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHI INNOVATE 2024</div><div class="isomer-card-description">4 - 5 July 2024
+
+Themed “Sustainability in Healthcare”, the conference explored our relationship with our environment, while seeking innovative solutions to inspire and galvanise us to be ‘good ancestors’.
+
+</div><div class="isomer-card-link">View the series of events here. </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmq_FCF-YPsKOv2oO0OrzIG2" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
