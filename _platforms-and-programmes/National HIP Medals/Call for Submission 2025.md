@@ -5,17 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: National HIP Medals
 ---
+<p></p><a class="isomer-image-wrapper" href="https://for.sg/nhip2025package"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/Download_icon.png"></a>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/Download_icon.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2025_webpage_design_revised.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2025_webpage_design.png">
-</div>
-<p></p>
 <h3><strong>National HIP 2025 Highlights</strong></h3>
-<p><strong><u>Best Practice Medals - Additional evaluation elements considered</u></strong>
+<p><strong><u>Best Practice Medals</u></strong>
 <br>In keeping with the increasing focus and interest in healthcare environmental
 sustainability and population health, applications that have demonstrated
 measurable impact in these system levels will be taken into favourable
@@ -38,7 +35,7 @@ level.</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>Best Adopter Medals – 2nd run after expanded criteria since 2024</u></strong>
+<p><strong><u>Best Adopter Medals</u></strong>
 <br>Best Adopter Medals award category is back for the 3rd time with expanded
 criteria of recognising <strong><em>Teams</em></strong> that have adopted <strong><em>past Nationally or Internationally awarded solution(s)</em></strong>  <u>outside of their institutions</u> and
 have demonstrated positive impact through improved efficiency, productivity,
@@ -52,7 +49,7 @@ and sustainability.</p>
 the needs of institutions</p>
 </li>
 </ul>
-<p><strong><u>3rd run of Seed Fund for Winning Teams</u></strong> 
+<p><strong><u>Seed Funding Grant for Winning Teams</u></strong> 
 <br>A seed fund of S$50,000 will be awarded to each eligible* winning team
 for a 12-month period to develop and implement new innovative projects.</p>
 <ul data-tight="true" class="tight">
