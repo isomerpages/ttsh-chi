@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: National HIP Medals
 ---
-<p></p>
+<h3>Submission for NHIP 2025 is now open, click <a href="https://www.chi.sg/call-for-submission-2025/" rel="noopener nofollow" target="_blank">here </a>for NHIP 2025 application details.</h3>
+<h4>National Healthcare Innovation and Productivity Medals</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nhip/nhip_logo_1.png">
 </div>
@@ -23,10 +24,24 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Nhip/New_Innovation_Cycle_Logo.jpg">
 </div>
 <p></p>
-<p>The Medals recognise teams who achieve excellence in 3 award categories:
-<br>1. Care Redesign (CR)
-<br>2. Automation, IT and Robotics Innovation (AIR)
-<br>3. Workforce Transformation (WT)</p>
+<p>The Medals recognise teams who achieve excellence in the following award
+types:
+<br>1. <strong>Best Practice (BP) Medals</strong> in the following categories:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Care Redesign (CR)</p>
+</li>
+<li>
+<p>Automation, IT and Robotics Innovation (AIR)</p>
+</li>
+<li>
+<p>Workforce Transformation (WT)</p>
+</li>
+</ul>
+<p>2. <strong>Excellence Champion Medal</strong>
+</p>
+<p>3. <strong>Best Adopter (BA) Medals</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_Award_Overview.png">
@@ -34,7 +49,7 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 <p></p>
 <h3><strong>Our Winners Across the Years</strong></h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=yC-Pj0IKFck&amp;list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF&amp;index=11" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2024" src="/images/Nhip/giphy_1_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=yC-Pj0IKFck&amp;list=PLTrhD5VOFZmoOB4_CKovPGbMxIgiyybBF&amp;index=11" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="National HIP Medals 2024" src="/images/Nhip/NHIP2024video_revised.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2024</div><div class="isomer-card-link">Click to watch the winning projects.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqgT2QbALsKwaJ8hVR7kY2o" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -80,5 +95,9 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 </div>
 </a>
 </div>
+<p>For posters of past winning projects and submissions of the National HIP
+Medals, check them out on the <a href="https://child.chi.sg/" rel="noopener nofollow" target="_blank">CHI Learning &amp; Development System</a> where
+we host over 1,500 healthcare innovation projects from across Singapore.</p>
+<p></p>
 <p></p>
 <p></p>
