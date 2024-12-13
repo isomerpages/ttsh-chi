@@ -24,10 +24,24 @@ leadership and excellence in healthcare innovation &amp; productivity.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Nhip/New_Innovation_Cycle_Logo.jpg">
 </div>
 <p></p>
-<p>The Medals recognise teams who achieve excellence in 3 award categories:
-<br>1. Care Redesign (CR)
-<br>2. Automation, IT and Robotics Innovation (AIR)
-<br>3. Workforce Transformation (WT)</p>
+<p>The Medals recognise teams who achieve excellence in the following award
+types:
+<br>1. <strong>Best Practice (BP) Medals</strong> in the following categories:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Care Redesign (CR)</p>
+</li>
+<li>
+<p>Automation, IT and Robotics Innovation (AIR)</p>
+</li>
+<li>
+<p>Workforce Transformation (WT)</p>
+</li>
+</ul>
+<p>2. <strong>Excellence Champion Medal</strong>
+</p>
+<p>3. <strong>Best Adopter (BA) Medals</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_Award_Overview.png">
