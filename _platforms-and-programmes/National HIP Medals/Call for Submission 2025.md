@@ -64,7 +64,6 @@ of innovation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2025_Major_Timeline_v1.png">
 </div>
-<p>Stay tuned for the open call for National HIP Medals 2025's submission.</p>
 <h3><strong>Queries</strong></h3>
 <p>If you have any queries, please contact the National HIP Secretariat at&nbsp;
 <a href="mailto:nhip@chi.sg" rel="noopener noreferrer nofollow" target="_blank">nhip@chi.sg</a>
