@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://for.sg/chi-leadershipreport-2025
+external: https://for.sg/chi-leadershipreport-2024
 ---
