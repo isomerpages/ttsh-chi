@@ -3,6 +3,7 @@ title: Digital Prototyping Budget
 permalink: /platformprogrammes/ourfundingprogrammes/dpb/
 description: ""
 third_nav_title: Our Funding Programmes
+variant: markdown
 ---
 <h2>About the Digital Prototyping Budget </h2>
 The Digital Prototyping Budget (DPB) is a seed fund set up to encourage our staff to ideate and develop meaningful digital innovation projects in an agile manner before we adopt or embed them into our roadmaps to scale.
@@ -107,7 +108,7 @@ th, td {
   border-style: hidden;
 }
 </style>
-<!-- End of accordion -->
+
 
 <div class="container">
 
@@ -121,7 +122,7 @@ DPB is managed and administered by the <a href="/about-us/our-offices/chi-dsho/"
 	<input id="title2" type="checkbox"><label for="title2">Contact Us</label>
 	<div class="accordion-content">
 		<div class="para">If you have any questions, please contact us at 
-			<a href="mailto:dsho@ttsh.com.sg">dsho@ttsh.com.sg</a>
+			<a href="mailto:dsho@nhg.com.sg">dsho@nhg.com.sg</a>
 			
 </div>
 	</div>
