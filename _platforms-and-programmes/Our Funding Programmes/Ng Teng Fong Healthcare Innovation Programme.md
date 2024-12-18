@@ -179,7 +179,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Contact Us</label>
 	<div class="accordion-content">
-	<div class="para">For more information, drop an email to the NTF HIP Secretariat at <a href="mailto:NTF_HI_Prog@ttsh.com.sg">NTF_HI_Prog@ttsh.com.sg.</a>
+	<div class="para">For more information, drop an email to the NTF HIP Secretariat at <a href="mailto:**chi_grants_mgmt_office@nhg.com.sg**">chi_grants_mgmt_office@nhg.com.sg.</a>
 </div>
 	</div>
 
