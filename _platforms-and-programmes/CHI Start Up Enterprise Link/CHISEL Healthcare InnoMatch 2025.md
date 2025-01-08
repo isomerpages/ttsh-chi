@@ -187,7 +187,9 @@ your discretion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organiser_and_Partner.png">
 </div>
-<p></p>
-<h4>In partnership with:</h4>
+<h2>Collaborating Partners &amp; Agencies</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collaborating_partners__2.png">
+</div>
 <p></p>
 <p></p>
