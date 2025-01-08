@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CHI Events Calendar 2024" src="/images/2024Calendar_06.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar of Events/Event_Calendar_2025___02_revised.png">
 </div>
-<p><em>Updated as of 13th Aug 2024.<br>For more information, please kindly connect with us via email.</em>
+<p><em>Updated as of 8th Jan 2025<br>For more information, please kindly connect with us via email.</em>
 </p>
