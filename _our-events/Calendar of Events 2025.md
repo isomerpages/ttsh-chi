@@ -9,5 +9,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar of Events/Event_Calendar_2025___02_revised.png">
 </div>
-<p><em>Updated as of 8th Jan 2025<br>For more information, please kindly connect with us via email.</em>
+<p><em>Updated as of 31st Dec 2024<br>For more information, please kindly connect with us via email.</em>
 </p>
