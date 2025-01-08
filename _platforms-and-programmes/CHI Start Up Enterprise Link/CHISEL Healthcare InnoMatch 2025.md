@@ -67,10 +67,9 @@ healthcare innovation, bringing them a step closer to benefit patients.</p>
 <summary><strong>Stage 1 Application: Launch of Open Call</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submit your application for CHISEL InnoMatch 2025 <a rel="noopener noreferrer nofollow" target="_blank">on the Challenge Portal</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"></a><strong>by 28 March 2025, 23:59 SGT</strong>. Multi-participation
-is welcomed. Fill in the application form available in the participant
-space, providing the following:</p>
+<p>Submit your application for CHISEL InnoMatch 2025 <a rel="noopener noreferrer nofollow" target="_blank">on the Challenge Portal</a><strong>by 28 March 2025, 23:59 SGT</strong>.
+Multi-participation is welcomed. Fill in the application form available
+in the participant space, providing the following:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant and Company Information</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solution Pitch Deck (7 slides)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pitch Deck Guidelines can be downloaded
