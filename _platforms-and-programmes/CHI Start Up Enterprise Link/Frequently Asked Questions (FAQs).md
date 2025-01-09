@@ -44,6 +44,27 @@ The paired healthcare institution will help you to identify the clinical
 project lead that you will be working with for the test-bedding.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>What does the grant funding cover?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The grant funding covers costs incurred by the winner and partnered healthcare
+institutions specifically for the purposes of the test-bed, such as:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pilot manufacturing,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of consumables,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customisation,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test-bedding services (e.g. protocol
+planning, data management),</p>
+<p>Analytics and evaluation services.</p>
 </div>
-<h4>Click <strong><a href="https://for.sg/chisel2024faqs" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>for the full list of FAQs.</h4>
+</details>
+</div>
+<p>All CHISEL 2025 &nbsp;test-bed solutions are to be evaluated using the <strong>CHI Evaluation Framework (CHIEF). CHIEF</strong> is
+a holistic framework for the evaluation of innovative solutions seeking
+real world deployment. Evaluation costs should be included in your application.&nbsp;</p>
+<p>You may also engage additional services (e.g. statistical analysis, study
+design, sample calculation etc.) from <strong>CHIEF </strong>or an independent
+expert for the purposes of the test-bed at your discretion</p>
+<p>Click <a href="https://file.for.sg/chisel2025faqs.pdf" rel="noopener nofollow" target="_blank">here </a>for
+the full list of FAQs.</p>
 <p></p>
