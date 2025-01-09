@@ -44,8 +44,9 @@ evidence and data. Submit your application today to pioneer digital solutions
 that will improve patient outcomes, enhance the healthcare experience,
 and transform the way we deliver care.</p>
 <h3>Funding and Collaborations</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Funding_and_Collaborations_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/funding_.png">
 </div>
 <p>Successful winners in CHISEL Healthcare InnoMatch 2025 will obtain funding
 support to demonstrate their solutions in operational environments and
