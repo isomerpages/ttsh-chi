@@ -21,7 +21,6 @@ relating to:</p>
 <p>Workforce Transformation, through:</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Care Redesign (clinical/operational processes and models)</p>
@@ -32,8 +31,6 @@ relating to:</p>
 <li>
 <p>Job Redesign</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Use of different pedagogies for Training and Transforming our Workforce.</p>
 </li>
@@ -41,7 +38,6 @@ relating to:</p>
 <p></p>
 <p>NTF HIP provides funding through five tracks that support CHI's strategic
 thrusts.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_NTFHIP_pptx.png">
 </div>
