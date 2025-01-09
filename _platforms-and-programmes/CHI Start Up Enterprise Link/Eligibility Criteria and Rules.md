@@ -34,7 +34,7 @@ a valid professional insurance policy subscription.</p>
 <h4>&nbsp;Solutions:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Must be at a high level of market readiness i.e.&nbsp;&nbsp;<a href="https://for.sg/trl" rel="noopener noreferrer nofollow" target="_blank">Technology Readiness Level 7</a> and
+<p>Must be at a high level of market readiness i.e.&nbsp;&nbsp;<a href="https://file.for.sg/trl.jpg" rel="noopener noreferrer nofollow" target="_blank">Technology Readiness Level 7</a> and
 beyond, or the equivalent.</p>
 </li>
 <li>
