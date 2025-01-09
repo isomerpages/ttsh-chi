@@ -52,9 +52,9 @@ th:nth-child(odd),td:nth-child(odd) {
 <table class="table">
   <thead>
     <tr>
-      <th style="text-align:center;color:white;" scope="col">Strategic Training</th>
+      <th style="text-align:center;color:white;" scope="col">Thought Leadership</th>
+      <th style="text-align:center;color:white;" scope="col">Capability Development</th>
       <th style="text-align:center;color:white;" scope="col">Innovation</th>
-      <th style="text-align:center;color:white;" scope="col">Community Enabling</th>
 			<th style="text-align:center;color:white;" scope="col">Strategic Innovation</th>
 			<th style="text-align:center;color:white;" scope="col">Strategic Research</th>
 			
@@ -62,9 +62,9 @@ th:nth-child(odd),td:nth-child(odd) {
   </tr></thead>
   <tbody>
     <tr>
-      <td scope="row">Supports training of workforce with relevant skills to become institutional / system thought leaders in innovation or ground champions to drive innovation 
-      </td><td>Supports projects in job and care redesign, automation or clinical research projects, that are geared towards improving productivity, or transforming roles to effect new care processes / models.</td>
-      <td>Supports projects that impact and enable the community, including training of patients, volunteers, members of community partner institutions.</td>
+      <td scope="row">To build thought leadership and develop future thought leaders and innovators to drive transformation in healthcare.</td>
+      <td>To drive transformation in healthcare and to support innovation projects arising out of Capability Development Programmes.</td>
+      <td>Supports projects in job and care redesign, automation or clinical research projects.</td>
 			<td>Supports programmes targeted at system level innovation, to drive value through healthcare innovation.</td>
 			<td>Supports thematic programmes that drive value through translational research.</td>
     </tr>

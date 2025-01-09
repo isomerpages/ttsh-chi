@@ -3,7 +3,6 @@ title: CHISEL Healthcare InnoMatch 2024
 permalink: /chisel-innomatch-2024/
 variant: tiptap
 description: ""
-third_nav_title: CHI Start Up Enterprise Link
 ---
 <p></p>
 <div class="isomer-image-wrapper">
