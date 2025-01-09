@@ -41,61 +41,10 @@ relating to:</p>
 <p></p>
 <p>NTF HIP provides funding through five tracks that support CHI's strategic
 thrusts.</p>
-<p>
-<br>
-</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Thought Leadership</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Capability Development</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Innovation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Strategic Innovation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Strategic Research</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>To build thought leadership and develop future thought leaders and innovators
-to drive transformation in healthcare.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To drive transformation in healthcare and to support innovation projects
-arising out of Capability Development Programmes.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Supports projects in job and care redesign, automation, or clinical research
-projects.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Supports programmes targeted at system-level innovation, to drive value
-through healthcare innovation.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Supports thematic programmes that drive value through translational research.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_NTFHIP_pptx.png">
+</div>
 <p>Through these, the programme looks towards improving productivity, delivering
 value and meeting the needs of the future healthcare system.</p>
 <p>NTFHIP is managed and administered by the<a href="https://cms.isomer.gov.sg/about-us/our-offices/chi-grantsandinnovation/" rel="noopener noreferrer nofollow" target="_blank"><u> Grants &amp; Innovation Office</u></a> and
