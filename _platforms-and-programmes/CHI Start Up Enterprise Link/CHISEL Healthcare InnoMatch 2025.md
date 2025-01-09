@@ -5,6 +5,9 @@ variant: tiptap
 description: CHISEL Healthcare InnoMatch 2025
 third_nav_title: CHI Start Up Enterprise Link
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/new_map__updated___1_.png">
+</div>
 <p>CHI Start-up Entreprise Link (CHISEL) InnoMatch 2025 is calling for innovative
 market-ready or near market-ready solutions to address critical and emerging
 healthcare needs!</p>
@@ -21,7 +24,7 @@ often lead to sub-optimal patient outcomes and increasing cost pressures.
 Therefore, hospitals must be embrace a transformative shift toward digital
 systems that deliver exceptional patient value, by providing patients with
 Better Access, High Quality and Efficient Care.</p>
-<h2><strong>Building the Digital Health of the Future</strong></h2>
+<h2>Building the Digital Health of the Future</h2>
 <p>&nbsp;<strong>Problem Statement</strong>
 </p>
 <p>How can digital solutions (e.g. AI-enhanced Digital Platforms or Devices)
@@ -43,9 +46,9 @@ allowing more time for patients.</p>
 evidence and data. Submit your application today to pioneer digital solutions
 that will improve patient outcomes, enhance the healthcare experience,
 and transform the way we deliver care.</p>
-<h3>Funding and Collaborations</h3>
+<h2>Funding and Collaborations</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Funding_and_Collaborations_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/funding_.png">
 </div>
 <p>Successful winners in CHISEL Healthcare InnoMatch 2025 will obtain funding
 support to demonstrate their solutions in operational environments and
@@ -53,7 +56,7 @@ will receive further endorsement from our partner healthcare clusters upon
 successful validation of the results of pilot implementation. Ultimately,
 the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
 healthcare innovation, bringing them a step closer to benefit patients.</p>
-<h3>Timeline</h3>
+<h2>Timeline</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_2025_timeline_.png">
 </div>

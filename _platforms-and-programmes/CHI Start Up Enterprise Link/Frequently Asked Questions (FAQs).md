@@ -5,4 +5,66 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
-<h4>Frequently Asked Questions</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Question</p></th><th rowspan="1" colspan="1"><p>Response</p></th></tr><tr><td rowspan="1" colspan="1"><p>How many winners will there be for CHISEL Healthcare InnoMatch 2024?</p></td><td rowspan="1" colspan="1"><p>Up to three (3) winners will be selected at the end of this year’s Challenge.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Can a company submit more than one proposal?</p></td><td rowspan="1" colspan="1"><p>Yes. However, each proposal should be a distinct solution from other proposals you are submitting.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Do I need to find my own partner healthcare institutions or clinicians for the submission?</p></td><td rowspan="1" colspan="1"><p>No, you do not have to. Through CHISEL, the winning teams will be paired up with the interested healthcare institutions at the end of the Finale. The paired healthcare institution will help you to identify the clinical project lead that you will be working with for the test-bedding.</p></td></tr><tr><td rowspan="1" colspan="1"><p>If I am an overseas winner of CHISEL Healthcare InnoMatch, would I need to relocate to Singapore during the test-bedding?</p></td><td rowspan="1" colspan="1"><p>Relocating or setting up a local office in Singapore is not mandatory. However, we do strongly advise and encourage winners to build local contacts or partnerships e.g. local distributor. This is to facilitate communication and provide local support to the partner healthcare cluster you are paired with for the test-bedding. A local presence would be helpful in building a long-term partnership (especially if the test-bedding results are favourable).</p></td></tr><tr><td rowspan="1" colspan="1"><p>What does the grant funding cover?</p></td><td rowspan="1" colspan="1"><p>The grant funding covers costs incurred by the winner and partnered healthcare institutions specifically for the purposes of the test-bed, such as:</p><ul data-tight="true" class="tight"><li><p>Pilot manufacturing,</p></li><li><p>Purchase of consumables,</p></li><li><p>Customisation,</p></li><li><p>Test-bedding services (e.g. protocol planning, data management),</p></li><li><p>Analytics and evaluation services.</p></li></ul><p></p><p>All CHISEL 2024 test-bed solutions are to be evaluated using the <a href="https://www.chi.sg/platforms-and-programmes/chief/" rel="noopener noreferrer nofollow" target="_blank">CHI Evaluation Framework (CHIEF)</a>. CHIEF is a holistic framework for the evaluation of innovative solutions seeking real world deployment. Evaluation costs should be included in your application.</p><p>You may also engage additional services (e.g. statistical analysis, study design, sample calculaton etc.) from CHIEF or an independent expert for the purposes of the test-bed at your discretion.</p></td></tr></tbody></table><h4>Click <strong><a href="https://for.sg/chisel2024faqs" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>for the full list of FAQs.</h4><p></p>
+<h4>Frequently Asked Questions</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>How many winners will there be for CHISEL InnoMatch 2025?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Up to six (6) winners will be selected at the end of this year’s Challenge.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can a company submit more than one proposal?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes. However, each proposal should be a distinct solution from other proposals
+you are submitting.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>If I am an overseas winner of CHISEL InnoMatch, would I need to relocate to Singapore during the test-bedding?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Relocating or setting up a local office in Singapore is not mandatory.
+However, we do strongly advise and encourage winners to build local contacts
+or partnerships e.g. local distributors. This is to facilitate communication
+and provide local support to the partner healthcare cluster you are paired
+with for the test-bedding. A local presence would help build a long-term
+partnership (especially if the test-bedding results are favourable).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Do I need to find my own partner healthcare institutions or clinicians for the submission?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, you do not have to. Through CHISEL, the winning teams will be paired
+up with the interested healthcare institutions at the end of the Finale.
+The paired healthcare institution will help you to identify the clinical
+project lead that you will be working with for the test-bedding.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What does the grant funding cover?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The grant funding covers costs incurred by the winner and partnered healthcare
+institutions specifically for the purposes of the test-bed, such as:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pilot manufacturing,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of consumables,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customisation,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test-bedding services (e.g. protocol
+planning, data management),</p>
+<p>Analytics and evaluation services.</p>
+</div>
+</details>
+</div>
+<p>All CHISEL 2025 &nbsp;test-bed solutions are to be evaluated using the <strong>CHI Evaluation Framework (CHIEF). CHIEF</strong> is
+a holistic framework for the evaluation of innovative solutions seeking
+real world deployment. Evaluation costs should be included in your application.&nbsp;</p>
+<p>You may also engage additional services (e.g. statistical analysis, study
+design, sample calculation etc.) from <strong>CHIEF </strong>or an independent
+expert for the purposes of the test-bed at your discretion</p>
+<p>Click <a href="https://file.for.sg/chisel2025faqs.pdf" rel="noopener nofollow" target="_blank">here </a>for
+the full list of FAQs.</p>
+<p></p>

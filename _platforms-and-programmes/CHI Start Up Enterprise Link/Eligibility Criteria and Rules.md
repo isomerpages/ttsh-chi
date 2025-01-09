@@ -18,12 +18,12 @@ institutions and innovation units of enterprises, if they are subsidiaries.</p>
 <p>Singapore-based and international participants except for close relatives
 of anyone involved in the organisation and judging of the challenge.</p>
 </li>
+</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start-ups and SMEs must not be in
+negotiation for exit throughout the challenge and test-bedding phase.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Start-ups and SMEs must not be in negotiation for exit throughout the
-challenge and test-bedding phase.</p>
-</li>
-<li>
-<p>Start-ups and SMEs are required, in Organiser’s sole discretion, to provide
+<p>Start-ups and SMEs are required, in Organisers’ sole discretion, to provide
 proof of the above, including but not limited to (i) company registration
 by submitting a registration certificate issued within the last three (3)
 months, or ongoing company registration, or any trade registry and proof
@@ -31,11 +31,10 @@ ensuring the registration of the entity in the relevant country, and (ii)
 a valid professional insurance policy subscription.</p>
 </li>
 </ul>
-<p></p>
-<h4>Solutions:</h4>
+<h4>&nbsp;Solutions:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Must be at a high level of market readiness i.e.&nbsp;&nbsp;<a href="https://www.ipi-singapore.org/technology-readiness-more-help" rel="noopener noreferrer nofollow" target="_blank">Technology Readiness Level 7</a> and
+<p>Must be at a high level of market readiness i.e.&nbsp;&nbsp;<a href="https://file.for.sg/trl.jpg" rel="noopener noreferrer nofollow" target="_blank">Technology Readiness Level 7</a> and
 beyond, or the equivalent.</p>
 </li>
 <li>
@@ -65,14 +64,16 @@ minimally viable products or solutions that are still in development phase
 will strictly not be accepted.</p>
 </li>
 </ul>
-<p>All the documents that may confirm the Participant’s eligibility may be
-required prior to awarding any prizes (e.g. identity document, registration
+<p>&nbsp;All the documents that may confirm the Participant’s eligibility
+may be required prior to awarding any prizes (e.g. identity document, registration
 certificate, etc.).</p>
-<p>This Challenge is void in countries where it is prohibited or restricted
+<p>&nbsp;This Challenge is void in countries where it is prohibited or restricted
 by law. Applications from companies included in the US or EU sanctions
 list and/or blacklisted by any UN or international agency will not be accepted.</p>
 <h4>Rules</h4>
-<p>Click <a href="https://for.sg/chisel2024rules" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-read about the Challenge Rules.</p>
+<p>Click <a href="https://for.sg/chisel2025rules" rel="noopener nofollow" target="_blank">here </a>to
+read about the challenge rules.</p>
+<hr>
+<p></p>
 <p></p>
 <p></p>
