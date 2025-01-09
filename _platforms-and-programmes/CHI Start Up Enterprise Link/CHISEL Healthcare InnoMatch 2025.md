@@ -8,11 +8,9 @@ third_nav_title: CHI Start Up Enterprise Link
 <p>CHI Start-up Entreprise Link (CHISEL) InnoMatch 2025 is calling for innovative
 market-ready or near market-ready solutions to address critical and emerging
 healthcare needs!</p>
-<p>&nbsp;<a href="https://for.sg/chisel2024rsvp" rel="noopener noreferrer nofollow" target="_blank">Click here to sign up for the virtual Info Session and/ or in-person Networking Sesson now!</a>
-</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Keep a lookout for more information in Mid January 2025!</a>
-</p>
-<p>&nbsp;</p>
+<p>Click <a href="https://for.sg/chisel2025-indicationofinterest" rel="noopener nofollow" target="_blank">here</a> to
+indicate your interest in the virtual Info Session/ or in-person Networking
+Session now!"</p>
 <p><strong><em>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS ON 3 &nbsp;FEBRUARY 2025.</em></strong>
 <br>Keep a lookout! For enquiries, email us at <a rel="noopener noreferrer nofollow" target="_blank">CHISEL@chi.sg</a>.</p>
 <h2>Theme</h2>
@@ -35,21 +33,19 @@ with the objective of providing greater value to patients?</p>
 populations and empower care for patients. The proposal shall focus on
 the following key areas and should ideally be backed by clinical evidence
 and data:</p>
-<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI solutions for clinical
-decision support, analytics, operations quality assurance, discharge planning
-and transitional care.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Devices and Automation for smart wards and clinics for patient care delivery, optimizing manpower, reducing admin tasks, and enabling care transitions; allowing more time for patients. </a>
-<a href="#_msocom_4" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[ANWQ(4]</a>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital Applications for clinician
-support, and patient engagement.</p>
+<p>&nbsp;1.&nbsp; AI solutions for clinical decision support, analytics,
+operations quality assurance, discharge planning and transitional care.</p>
+<p>2. Devices and Automation for smart wards and clinics for patient care
+delivery, optimizing manpower, reducing admin tasks and enabling care transitions;
+allowing more time for patients.</p>
+<p>3.&nbsp; Digital Applications for clinician support, and patient engagement.</p>
 <p>&nbsp;Your solution and proposal outcomes should be backed by clinical
 evidence and data. Submit your application today to pioneer digital solutions
 that will improve patient outcomes, enhance the healthcare experience,
 and transform the way we deliver care.</p>
-<p></p>
 <h3>Funding and Collaborations</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Funding_and_Collaborations_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Funding_and_Collaborations_.png">
 </div>
 <p>Successful winners in CHISEL Healthcare InnoMatch 2025 will obtain funding
 support to demonstrate their solutions in operational environments and
@@ -58,9 +54,8 @@ successful validation of the results of pilot implementation. Ultimately,
 the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
 healthcare innovation, bringing them a step closer to benefit patients.</p>
 <h3>Timeline</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL_2025_timeline_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_2025_timeline_.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -188,8 +183,8 @@ your discretion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organiser_and_Partner.png">
 </div>
 <h2>Collaborating Partners &amp; Agencies</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collaborating_partners__2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_partners__2.png">
+</div>
 <p></p>
