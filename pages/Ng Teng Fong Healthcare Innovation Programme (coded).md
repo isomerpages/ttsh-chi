@@ -1,8 +1,7 @@
 ---
-title: Ng Teng Fong Healthcare Innovation Programme
+title: Ng Teng Fong Healthcare Innovation Programme (coded)
 permalink: /platformprogrammes/ourfundingprogrammes/ntfhip/
 description: ""
-third_nav_title: Our Funding Programmes
 variant: markdown
 ---
 <style>
