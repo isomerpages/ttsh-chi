@@ -13,11 +13,11 @@ critical gaps, and fulfill unmet needs in the holistic care of the elderly
 and young seniors, so as to create sustainable (business model and environment
 perspective) and personalised care models?</p>
 <p>&nbsp;</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://captureproof.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CaptureProof" src="/images/Captureproof__Inc.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CaptureProof</div><div class="isomer-card-description">BalanceScan is an AI-powered solution that assesses fall risk through video analysis. Using recordings from a smartphone or tablet, it delivers real-time, accurate insights into patient mobility. This facilitates early intervention, reduces fall risks, improves outcomes, and lowers healthcare costs.</div><div class="isomer-card-link">Find out more here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://captureproof.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CaptureProof" src="/images/CHISEL/Image_9_1_25_at_3_52_PM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CaptureProof</div><div class="isomer-card-description">BalanceScan is an AI-powered solution that assesses fall risk through video analysis. Using recordings from a smartphone or tablet, it delivers real-time, accurate insights into patient mobility. This facilitates early intervention, reduces fall risks, improves outcomes, and lowers healthcare costs.</div><div class="isomer-card-link">Find out more here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sgdiagnostics.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG Diagnostics Pte Ltd" src="/images/SG_Diagnostics_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="SG Diagnostics Pte Ltd" src="/images/Image_9_1_25_at_3_52_PM__1___1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
