@@ -14,7 +14,7 @@ healthcare needs!</p>
 <p>Click <a href="https://for.sg/chisel2025-indicationofinterest" rel="noopener nofollow" target="_blank">here</a> to
 indicate your interest in the virtual Info Session/ or in-person Networking
 Session now!"</p>
-<p><strong><em>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS ON 3 &nbsp;FEBRUARY 2025.</em></strong>
+<p><strong><em>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS ON&nbsp;FEBRUARY 2025.</em></strong>
 <br>Keep a lookout! For enquiries, email us at <a rel="noopener noreferrer nofollow" target="_blank">CHISEL@chi.sg</a>.</p>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
