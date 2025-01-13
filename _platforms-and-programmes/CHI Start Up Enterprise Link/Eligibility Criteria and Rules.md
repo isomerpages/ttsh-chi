@@ -72,7 +72,7 @@ by law. Applications from companies included in the US or EU sanctions
 list and/or blacklisted by any UN or international agency will not be accepted.</p>
 <h4>Rules</h4>
 <p>More details on challenge rules will be shared when CHISEL Healthcare
-InnoMatch 2025 opens for publication.</p>
+InnoMatch 2025 opens for application.</p>
 <hr>
 <p></p>
 <p></p>
