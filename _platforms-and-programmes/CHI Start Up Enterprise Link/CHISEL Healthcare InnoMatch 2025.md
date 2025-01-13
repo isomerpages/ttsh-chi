@@ -24,7 +24,7 @@ often lead to sub-optimal patient outcomes and increasing cost pressures.
 Therefore, hospitals must be embrace a transformative shift toward digital
 systems that deliver exceptional patient value, by providing patients with
 Better Access, High Quality and Efficient Care.</p>
-<h2>Building the Digital Health of the Future</h2>
+<h3>Building the Digital Health of the Future</h3>
 <p>&nbsp;<strong>Problem Statement</strong>
 </p>
 <p>How can digital solutions (e.g. AI-enhanced Digital Platforms or Devices)
@@ -65,7 +65,8 @@ healthcare innovation, bringing them a step closer to benefit patients.</p>
 <summary><strong>Stage 1 Application: Launch of Open Call</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submit your application for CHISEL InnoMatch 2025 <a rel="noopener noreferrer nofollow" target="_blank">on the Challenge Portal</a><strong>by 28 March 2025, 23:59 SGT</strong>.
+<p>Submit your application for CHISEL InnoMatch 2025 on the Challenge Portal
+(link will be made available when application opens) <strong>by 28 March 2025, 23:59 SGT</strong>.
 Multi-participation is welcomed. Fill in the application form available
 in the participant space, providing the following:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant and Company Information</p>
@@ -115,9 +116,8 @@ Sessions will be held virtually at night, between 1800 and 2100 SGT (GMT+8/
 UTC+8). Each session will be approximately fifteen (15) to twenty (20)
 minutes, with time allocated for the presentation and Q&amp;A. More details
 on the arrangement of schedule will be shared nearer to date.</p>
-<p>&nbsp;Results will be announced by 25 Aug 2025. Up to fifteen (15) ) finalists
+<p>Results will be announced by 25 Aug 2025. Up to fifteen (15) ) finalists
 will be selected.</p>
-<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -181,13 +181,5 @@ your discretion.</p>
 </div>
 </details>
 </div>
-<h2>Organiser and Partners</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organiser_and_Partner.png">
-</div>
-<h2>Collaborating Partners &amp; Agencies</h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_partners__2.png">
-</div>
+<h2></h2>
 <p></p>
