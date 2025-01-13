@@ -50,12 +50,23 @@ project lead that you will be working with for the test-bedding.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The grant funding covers costs incurred by the winner and partnered healthcare
 institutions specifically for the purposes of the test-bed, such as:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pilot manufacturing,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of consumables,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customisation,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test-bedding services (e.g. protocol
-planning, data management),</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pilot manufacturing,</p>
+</li>
+<li>
+<p>Purchase of consumables,</p>
+</li>
+<li>
+<p>Customisation,</p>
+</li>
+<li>
+<p>Test-bedding services (e.g. protocol planning, data management),</p>
+</li>
+<li>
 <p>Analytics and evaluation services.</p>
+</li>
+</ul>
 <p>All CHISEL 2025 &nbsp;test-bed solutions are to be evaluated using the <strong>CHI Evaluation Framework (CHIEF). CHIEF</strong> is
 a holistic framework for the evaluation of innovative solutions seeking
 real world deployment. Evaluation costs should be included in your application.&nbsp;</p>
