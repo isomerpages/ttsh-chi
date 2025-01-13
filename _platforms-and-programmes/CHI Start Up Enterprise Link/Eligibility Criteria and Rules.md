@@ -18,10 +18,10 @@ institutions and innovation units of enterprises, if they are subsidiaries.</p>
 <p>Singapore-based and international participants except for close relatives
 of anyone involved in the organisation and judging of the challenge.</p>
 </li>
-</ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start-ups and SMEs must not be in
-negotiation for exit throughout the challenge and test-bedding phase.</p>
-<ul data-tight="true" class="tight">
+<li>
+<p>Start-ups and SMEs must not be in negotiation for exit throughout the
+challenge and test-bedding phase.</p>
+</li>
 <li>
 <p>Start-ups and SMEs are required, in Organisers’ sole discretion, to provide
 proof of the above, including but not limited to (i) company registration
@@ -34,7 +34,7 @@ a valid professional insurance policy subscription.</p>
 <h4>&nbsp;Solutions:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Must be at a high level of market readiness i.e.&nbsp;&nbsp;<a href="https://file.for.sg/trl.jpg" rel="noopener noreferrer nofollow" target="_blank">Technology Readiness Level 7</a> and
+<p>Must be at a high level of market readiness i.e.&nbsp;&nbsp;<a href="https://www.ipi-singapore.org/technology-readiness-more-help" rel="noopener noreferrer nofollow" target="_blank">Technology Readiness Level 7</a> and
 beyond, or the equivalent.</p>
 </li>
 <li>
@@ -71,8 +71,8 @@ certificate, etc.).</p>
 by law. Applications from companies included in the US or EU sanctions
 list and/or blacklisted by any UN or international agency will not be accepted.</p>
 <h4>Rules</h4>
-<p>Click <a href="https://for.sg/chisel2025rules" rel="noopener nofollow" target="_blank">here </a>to
-read about the challenge rules.</p>
+<p>More details on challenge rules will be shared when CHISEL Healthcare
+InnoMatch 2025 opens for publication.</p>
 <hr>
 <p></p>
 <p></p>
