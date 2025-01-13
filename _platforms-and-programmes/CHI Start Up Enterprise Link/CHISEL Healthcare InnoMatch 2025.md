@@ -6,7 +6,7 @@ description: CHISEL Healthcare InnoMatch 2025
 third_nav_title: CHI Start Up Enterprise Link
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/new_map__updated___1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Image_13_1_25_at_11_34_AM.jpg">
 </div>
 <p>CHI Start-up Entreprise Link (CHISEL) InnoMatch 2025 is calling for innovative
 market-ready or near market-ready solutions to address critical and emerging
@@ -14,7 +14,7 @@ healthcare needs!</p>
 <p>Click <a href="https://for.sg/chisel2025-indicationofinterest" rel="noopener nofollow" target="_blank">here</a> to
 indicate your interest in the virtual Info Session/ or in-person Networking
 Session now!"</p>
-<p><strong><em>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS ON&nbsp;FEBRUARY 2025.</em></strong>
+<p><strong><em>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS IN FEBRUARY 2025.</em></strong>
 <br>Keep a lookout! For enquiries, email us at <a rel="noopener noreferrer nofollow" target="_blank">CHISEL@chi.sg</a>.</p>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
@@ -181,5 +181,11 @@ your discretion.</p>
 </div>
 </details>
 </div>
-<h2></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Master.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Master__2_.png">
+</div>
 <p></p>
