@@ -56,15 +56,16 @@ institutions specifically for the purposes of the test-bed, such as:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Test-bedding services (e.g. protocol
 planning, data management),</p>
 <p>Analytics and evaluation services.</p>
-</div>
-</details>
-</div>
 <p>All CHISEL 2025 &nbsp;test-bed solutions are to be evaluated using the <strong>CHI Evaluation Framework (CHIEF). CHIEF</strong> is
 a holistic framework for the evaluation of innovative solutions seeking
 real world deployment. Evaluation costs should be included in your application.&nbsp;</p>
 <p>You may also engage additional services (e.g. statistical analysis, study
 design, sample calculation etc.) from <strong>CHIEF </strong>or an independent
 expert for the purposes of the test-bed at your discretion</p>
+</div>
+</details>
+</div>
+<p></p>
 <p>Click <a href="https://file.for.sg/chisel2025faqs.pdf" rel="noopener nofollow" target="_blank">here </a>for
 the full list of FAQs.</p>
 <p></p>
