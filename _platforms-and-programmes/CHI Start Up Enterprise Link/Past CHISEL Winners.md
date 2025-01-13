@@ -13,11 +13,11 @@ critical gaps, and fulfill unmet needs in the holistic care of the elderly
 and young seniors, so as to create sustainable (business model and environment
 perspective) and personalised care models?</p>
 <p>&nbsp;</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://captureproof.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CaptureProof" src="/images/CHISEL/Image_9_1_25_at_3_52_PM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CaptureProof</div><div class="isomer-card-description">BalanceScan is an AI-powered solution that assesses fall risk through video analysis. Using recordings from a smartphone or tablet, it delivers real-time, accurate insights into patient mobility. This facilitates early intervention, reduces fall risks, improves outcomes, and lowers healthcare costs.</div><div class="isomer-card-link">Find out more here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://captureproof.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CaptureProof" src="/images/CHISEL/Image_13_1_25_at_4_48_PM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CaptureProof Inc.</div><div class="isomer-card-description">BalanceScan is an AI-powered solution that assesses fall risk through video analysis. Using recordings from a smartphone or tablet, it delivers real-time, accurate insights into patient mobility. This facilitates early intervention, reduces fall risks, improves outcomes, and lowers healthcare costs.</div><div class="isomer-card-link">Find out more here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sgdiagnostics.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG Diagnostics Pte Ltd" src="/images/CHISEL/Image_13_1_25_at_11_45_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SG Diagnostics Pte Ltd" src="/images/CHISEL/Image_13_1_25_at_4_44_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -28,7 +28,7 @@ analyzers for HbA1c and blood pressure. Powered by SG Diagnostics and NHG
 technology, it promotes early detection, awareness, and timely interventions.</div>
 <div class="isomer-card-link">Find out more here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.viewmind.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ViewMind" src="/images/CHISEL/Image_13_1_25_at_11_47_AM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ViewMind Inc.</div><div class="isomer-card-description">ViewMind’s technology analyzes eye movements to assess cognitive function, enabling early diagnosis, disease monitoring, and treatment evaluation. This non-invasive, scalable approach offers a more efficient and accessible alternative to traditional brain health assessments.</div><div class="isomer-card-link">Find out more here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.viewmind.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ViewMind" src="/images/CHISEL/Image_13_1_25_at_4_44_PM__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ViewMind Inc.</div><div class="isomer-card-description">ViewMind’s technology analyzes eye movements to assess cognitive function, enabling early diagnosis, disease monitoring, and treatment evaluation. This non-invasive, scalable approach offers a more efficient and accessible alternative to traditional brain health assessments.</div><div class="isomer-card-link">Find out more here</div></div></a>
 </div>
 <p>Click <a href="https://www.chi.sg/files/Press_Release_CHI_Innomatch2024___FINAL.pdf" rel="noopener nofollow" target="_blank">here </a>for
 the Press Release.</p>
