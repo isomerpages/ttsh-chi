@@ -120,7 +120,7 @@ complex and antibiotic resistance increases?
 <br>
 <br><strong>Digitalisation to Enhance Patient Care, Journey and Experience:</strong> How
 can we improve the digitalisation of patients' journeys in our services
-and faciltiate a personalisation of healthcare services to both enhance
+and faciltate a personalisation of healthcare services to both enhance
 the patient experience and improve outcomes?</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://articares.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Articares Logo" src="/images/CHISEL/ARTICARES.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart Robot Therapists at Home by Articares</div><div class="isomer-card-description">Articares presented a scalable solution (H-Man and Care Platform) for robotics-assisted telerehabilitation at home. Its system provides intelligently adaptable therapy exercise at home while enabling remote monitoring by clinicians.</div><div class="isomer-card-link">Find out more here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.epilog.care" class="isomer-card">
