@@ -270,5 +270,5 @@ to vital medication.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Connect with us to find out more. <br>Email us at: <a href="mailto:hui_pin_lim@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">hui_pin_lim@nhg.com.sg</a></h4>
+<h4>Connect with us to find out more. <br>Email us at: <a href="mailto:CHI_Academies@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI_Academies@nhg.com.sg</a></h4>
 <p></p>
