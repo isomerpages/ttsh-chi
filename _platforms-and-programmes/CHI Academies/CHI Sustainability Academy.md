@@ -30,8 +30,10 @@ as shown by our CLIME Model.&nbsp;</p>
 empowered to be activators, collaborators and agents of transformation,
 innovating towards a greener healthcare system.&nbsp;</p>
 <h3>Academy Programme and Schedule</h3>
-<p>Click <a href="https://for.sg/2025-chi-sa-programmes" rel="noopener nofollow" target="_blank">here </a>to
-view SA Programme Information and Schedule.</p>
+<p>Click <a href="https://for.sg/2025-chi-sa-programmes" rel="noopener nofollow" target="_blank">HERE </a>to
+know more about the suite of stackable programmes CHI SA offers for creating
+an environment and actionable pathways for a more sustainable healthcare.</p>
+<p></p>
 <h3>Our Partners</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/SA_Partner_Logos_for_Website__1_.png">
