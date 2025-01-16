@@ -1,5 +1,5 @@
 ---
-title: Ng Teng Fong Helathcare Innovation Programme
+title: Ng Teng Fong Healthcare Innovation Programme
 permalink: /platformprogrammes/ourfundingprogrammes/ntfhip/
 variant: tiptap
 description: ""
