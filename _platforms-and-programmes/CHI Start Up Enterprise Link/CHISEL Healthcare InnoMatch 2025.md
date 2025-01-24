@@ -57,16 +57,12 @@ successful validation of the results of pilot implementation. Ultimately,
 the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
 healthcare innovation, bringing them a step closer to benefit patients.</p>
 <h2>Timeline</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_2025_timeline_.png">
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Stage 1 Application: Launch of Open Call</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submit your application for CHISEL InnoMatch 2025 on the Challenge Portal
-(link will be made available when application opens) <strong>by 28 March 2025, 23:59 SGT</strong>.
+<p>Submit your application for CHISEL InnoMatch 2025 on the Challenge Portal <strong>by 28 March 2025, 23:59 SGT</strong>.
 Multi-participation is welcomed. Fill in the application form available
 in the participant space, providing the following:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant and Company Information</p>
@@ -182,6 +178,13 @@ your discretion.</p>
 </details>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="timeline" src="/images/CHISEL/image.png">
+</div>
+<h2>Organisers and Partners</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Others_1_v5.png">
+</div>
 <h2>Collaborating Partners &amp; Agencies</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Image_13_1_25_at_4_45_PM.jpg">
