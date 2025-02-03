@@ -251,7 +251,7 @@ p {
 	font-size: 1em
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/17th_Masterclass.png"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/18th_Masterclass.png"><p>
 	<b><u>Policy to Practice - How to Make this Work?</u></b> <br>
 			<b>Dr Robin Gauld</b><br>
 				<em>Co-Director of the Centre for Health Systems and Technology at the University of Otago </em><br><br>
