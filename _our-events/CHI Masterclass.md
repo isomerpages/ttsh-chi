@@ -123,9 +123,10 @@ variant: markdown
 <br>➡️ Build and foster a sustainable innovation ecosystem and culture that leverages data, AI and other emerging technologies.
 <br>
 This session will inspire actionable ideas and highlight the power of interdisciplinary collaboration to design healthcare systems that are innovative, equitable and future-ready.<br>
-<br>Don't miss your chance to join this insightful session. Register your complimentary spot <a href="https://for.sg/19th-chi-masterclass"> here!</a> 
+<br>Don't miss your chance to join this insightful session. Register your complimentary spot <a href="https://for.sg/19th-chi-masterclass"> here!<br>
+			</a> 
+<br> This session is organised by the Centre for Healthcare Innovation, supported by DesignSingapore Council. <br>
 
-			
 <p></p>
 
 </div></li></ul>
