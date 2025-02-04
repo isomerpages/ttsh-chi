@@ -8,20 +8,25 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Image_13_1_25_at_11_34_AM.jpg">
 </div>
-<p>CHI Start-up Entreprise Link (CHISEL) InnoMatch 2025 is calling for innovative
+<p>CHI Start-up Enterprise Link (CHISEL) InnoMatch 2025 is calling for innovative
 market-ready or near market-ready solutions to address critical and emerging
 healthcare needs!</p>
-<p>Click <a href="https://for.sg/chisel2025-indicationofinterest" rel="noopener nofollow" target="_blank">here</a> to
-indicate your interest in the virtual Info Session/ or in-person Networking
-Session now!"</p>
-<p><strong><em>HEALTHCARE INNOMATCH OPEN FOR APPLICATIONS IN FEBRUARY 2025.</em></strong>
-<br>Keep a lookout! For enquiries, email us at <a rel="noopener noreferrer nofollow" target="_blank">CHISEL@chi.sg</a>.</p>
+<p><strong><em>CHISEL HEALTHCARE INNOMATCH 2025 IS OPEN FOR APPLICATIONS UNTIL 28 MARCH 2025, 2359 SGT (GMT+8)</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHISEL/Join_Us.png">
+</div>
+<p>Get a head start on your Stage 1 Application! We’re launching our challenge
+portal in the coming weeks, but you can preview the questions now <a href="https://for.sg/chisel2025rsvp" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+Be sure to keep an eye on this site!</p>
+<p>For enquiries, email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">CHISEL@chi.sg</a>.</p>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
 including increasing patient complexities, the need to provide better,
 more accessible care, and operational inefficiencies. These challenges
 often lead to sub-optimal patient outcomes and increasing cost pressures.
-Therefore, hospitals must be embrace a transformative shift toward digital
+Therefore, hospitals must be embracing a transformative shift toward digital
 systems that deliver exceptional patient value, by providing patients with
 Better Access, High Quality and Efficient Care.</p>
 <h3>Building the Digital Health of the Future</h3>
