@@ -113,7 +113,7 @@ variant: markdown
 
   <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">19th Masterclass - Designing the Future of Healthcare: Innovation at the Intersection of Human-Centered Design and Technology</label>
 		<div>
-<br> Singapore stands at the forefront of global healthcare innovation, yet the challenges of an aging population call for fresh perspectives. This panel brings together two world-renowned visionaries:&nbsp;Dr Patricia Moore, a pioneer in inclusive design; and&nbsp;Michela Magas, a leader in creative innovation ecosystems.&nbsp;Dr Patricia Moore and Michela Magas are also jurors for President's Design Award (PDA) 2025, which will be held on 31 July 2025. They are in Singapore to attend the PDA Jury Session from 17 to 21 February 2025.
+<br> Singapore stands at the forefront of global healthcare innovation, yet the challenges of an aging population call for fresh perspectives. This panel brings together two world-renowned visionaries: <a href="https://pda.designsingapore.org/presidents-design-award/jurors/2025/dr-patricia-moore/">Dr Patricia Moore</a>, a pioneer in inclusive design; and <a href="https://pda.designsingapore.org/presidents-design-award/jurors/2025/michela-magas/">Michela Magas</a>, a leader in creative innovation ecosystems.&nbsp;Dr Patricia Moore and Michela Magas are also jurors for President's Design Award (PDA) 2025, which will be held on 31 July 2025. They are in Singapore to attend the PDA Jury Session from 17 to 21 February 2025.
 <br>
 <br> 🗓️: Friday, 21st February 2025
 <br> 🕔: 3:00 PM - 6:00 PM SGT
