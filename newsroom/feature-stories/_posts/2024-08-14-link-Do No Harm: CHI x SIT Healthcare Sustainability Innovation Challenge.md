@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.singaporetech.edu.sg/news/do-no-harm-chi-x-sit-healthcare-sustainability-innovation-challenge
+external: https://www.singaporetech.edu.sg/news/do-no-harm-chi-x-sit-healthcare-sustainability-innovation-challenge
 ---
