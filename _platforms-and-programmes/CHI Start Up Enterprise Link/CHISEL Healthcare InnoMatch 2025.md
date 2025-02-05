@@ -13,14 +13,14 @@ market-ready or near market-ready solutions to address critical and emerging
 healthcare needs!</p>
 <p><strong><em>CHISEL HEALTHCARE INNOMATCH 2025 IS OPEN FOR APPLICATIONS UNTIL 28 MARCH 2025, 2359 SGT (GMT+8)</em></strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHISEL/Join_Us.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.sg/chisel2025rsvp"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHISEL/Join_Us.png"></a>
+<p><a href="https://for.sg/chisel2025rsvp" rel="noopener nofollow" target="_blank">Sign up</a> for
+the upcoming sessions today to find out more!</p>
 <p>Get a head start on your Stage 1 Application! We’re launching our challenge
-portal in the coming weeks, but you can preview the questions now <a href="https://for.sg/chisel2025rsvp" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+portal in the coming weeks, but you can preview the questions now <a href="https://for.sg/chisel2025stage1application" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 Be sure to keep an eye on this site!</p>
-<p>For enquiries, email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">CHISEL@chi.sg</a>.</p>
+<p>For enquiries, email us at <u>CHISEL@chi.sg.</u>
+</p>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
 including increasing patient complexities, the need to provide better,
