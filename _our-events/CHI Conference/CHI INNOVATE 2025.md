@@ -19,11 +19,22 @@ build the foundations of an AI-enabled healthcare future—designed for everyone
 poised for change.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_EDM_01_03.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_EDM_1_Final_150ppi.png">
 </div>
 <p>Join us on <strong><u>10 &amp; 11 July 2025</u></strong> as we commit to
 extending our healing touch not just to patients, but to the future of
 healthcare through the transformative power of AI.</p>
+<p>Tickets are now available <a href="https://for.sg/chiinnovate2025-registration" rel="noopener nofollow" target="_blank">here</a>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1-Day Pass: $436</p>
+</li>
+<li>
+<p>2-Days Pass: $654</p>
+</li>
+</ul>
+<p>(prices are inclusive of 9% GST)</p>
+<p>For corporate registrations or queries, please connect with us at <a href="mailto:conference@chi.sg" rel="noopener noreferrer nofollow" target="_blank">conference@chi.sg</a>.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
