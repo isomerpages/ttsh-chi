@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campuses/News and Events.md
       - Our Campuses/Campus Capabilities and Resources.md
       - Our Campuses/CHI@Campus.md
       - Our Campuses/.keep
