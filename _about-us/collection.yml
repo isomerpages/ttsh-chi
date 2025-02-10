@@ -2,11 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Campuses/.keep
-      - Our Campuses/CHI@Campus.md
-      - Our Campuses/Campus Capabilities and Resources.md
-      - Our Campuses/News and Events.md
-      - Our Campuses/Contact Us.md
       - Our Purpose and What We Do/.keep
       - Our Purpose and What We Do/Our Purpose & What We Do.md
       - Our Purpose and What We Do/CHI Innovation Cycle.md
@@ -20,4 +15,9 @@ collections:
       - Our Offices/Leadership & Organisation Development Office.md
       - Our Offices/Partnerships Office.md
       - Our Offices/People Development Office.md
+      - Our Campuses/.keep
+      - Our Campuses/CHI@Campus.md
+      - Our Campuses/Campus Capabilities and Resources.md
+      - Our Campuses/News and Events.md
+      - Our Campuses/Contact Us.md
       - Our Facilities.md
