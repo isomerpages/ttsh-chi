@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campuses/CHI@Campus.md
       - Our Campuses/.keep
       - Our Purpose and What We Do/.keep
       - Our Purpose and What We Do/Our Purpose & What We Do.md
