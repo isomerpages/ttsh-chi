@@ -13,7 +13,7 @@ market-ready or near market-ready solutions to address critical and emerging
 healthcare needs!</p>
 <p><strong><em>CHISEL HEALTHCARE INNOMATCH 2025 IS OPEN FOR APPLICATIONS UNTIL 28 MARCH 2025, 2359 SGT (GMT+8)</em></strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://for.sg/chisel2025submission"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_Us_Apply_Now.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://for.sg/chisel2025submission"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Join_Us_Apply_Now.png"></a>
 <p>To send in your applications or view our events, visit our challenge portal
 <a href="https://for.sg/chisel2025submission" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>For enquiries, email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u>.</u>
