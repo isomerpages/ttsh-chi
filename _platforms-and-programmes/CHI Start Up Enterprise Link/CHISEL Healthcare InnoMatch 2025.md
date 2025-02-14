@@ -187,9 +187,6 @@ your discretion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="timeline" src="/images/CHISEL/image.png">
 </div>
 <h2>Organisers and Partners</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Others_1_v5.png">
-</div>
 <h2>Collaborating Partners &amp; Agencies</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Image_13_1_25_at_4_45_PM.jpg">
