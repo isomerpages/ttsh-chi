@@ -104,14 +104,15 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/ronnie.png"></a></td>
 <td><strong>Ronnie Yang </strong><br>Director, People Development Office and Management Office<br><a href="https://www.linkedin.com/in/yangronnie" target="_blank"><small>LinkedIn</small></a></td></tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/Joanne_Lui.png"></a></td>
-<td><strong>Joanne Lui</strong><br>Director, Leadership &amp; Organisation Development Office<br><a href="https://www.linkedin.com/in/joannelui-coach/" target="_blank"><small>LinkedIn</small></a> </td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/thomas-liew-b5a918206/"><img alt="andrew1" src="/images/Leaders/thomas%20liew.png"></a></td>
+<td><strong>Thomas Liew</strong><br>Deputy Director, Leadership &amp; Organisation Development Office<br><a href="https://www.linkedin.com/in/thomas-liew-b5a918206/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/michelle-lee-754aa96a"><img alt="andrew1" src="/images/Leaders/michelle%20lee-01.png"></a></td>
 		<td><strong>Michelle Lee </strong><br>Deputy Director, Partnerships Office<br><a href="https://www.linkedin.com/in/michelle-lee-754aa96a" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	
+
 </tbody>
 </table>
 
