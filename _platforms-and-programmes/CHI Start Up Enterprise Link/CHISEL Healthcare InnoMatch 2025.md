@@ -15,8 +15,8 @@ healthcare needs!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL_2025_Networking_EDM_Small.png">
-</div><a class="isomer-image-wrapper" href="https://for.sg/chisel2025submission"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Join_Us_Apply_Now.png"></a>
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CHISEL/Apply_Now.png">
+</div>
 <p>To send in your applications or view our events, visit our challenge portal
 <a href="https://for.sg/chisel2025submission" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>For enquiries, email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u>.</u>
