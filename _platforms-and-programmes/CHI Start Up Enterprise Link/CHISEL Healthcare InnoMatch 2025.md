@@ -15,7 +15,7 @@ healthcare needs!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CHISEL/Apply_Now.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CHISEL/Apply_Now.png">
 </div>
 <p>To send in your applications or view our events, visit our challenge portal
 <a href="https://for.sg/chisel2025submission" rel="noopener nofollow" target="_blank">here</a>.</p>
