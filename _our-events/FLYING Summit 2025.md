@@ -116,8 +116,9 @@ breaking down silos in healthcare through social innovation. <strong>The revolut
 </tr>
 </tbody>
 </table>
-<p><em>All tickets are subjected to prevailing 9% GST Charges. </em>
-<br><em>Note: For bulk and corporate registrations, please reach out to us at: <a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em>
+<p><em>Note: </em>
+<br><em>- All tickets are subjected to prevailing 9% GST Charges. </em>
+<br><em>- For bulk and corporate registrations, please reach out to us at: <a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em>
 </p>
 <p></p>
 <h4><strong>Partnership Opportunities</strong></h4>
