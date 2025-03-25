@@ -7,7 +7,7 @@ variant: markdown
 ## CHI MASTERCLASS
 <div style="font-size:1.25em">The CHI Masterclass features world-class thought leaders to actively build mindshare in healthcare transformation for systems change.</div><br>
 
-  
+
 <div>
 <h3 id="a">Upcoming Masterclass</h3>
 
@@ -240,7 +240,7 @@ p {
 	font-size: 1em
 }
 </style>
-<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/18th_Masterclass.png"><p>
+<img style="width:242px;height:148px;margin-right:15px;" alt="chi" src="/images/Masterclass/19th_CHI_Masterclass.png"><p>
 	<b><u>Designing the Future of Healthcare: Innovation at the Intersection of Human-Centered Design and Technology</u></b> <br>
 			By: <a href="https://pda.designsingapore.org/presidents-design-award/jurors/2025/dr-patricia-moore/">Dr Patricia Moore</a>, a pioneer in inclusive design; and <a href="https://pda.designsingapore.org/presidents-design-award/jurors/2025/michela-magas/">Michela Magas</a> <br>
 		In this session, participants gained insights on how Singapore could:
