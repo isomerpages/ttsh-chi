@@ -90,7 +90,7 @@ breaking down silos in healthcare through social innovation. <strong>The revolut
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Day 1: Pre-Summit Pass</strong>
-<br>(19 September 2025)</p>
+<br>(Friday, 19 September 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SGD 220</p>
@@ -99,7 +99,7 @@ breaking down silos in healthcare through social innovation. <strong>The revolut
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Day 2: Summit Day Pass</strong>
-<br>(20 September 2025)</p>
+<br>(Saturday, 20 September 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SGD 280</p>
