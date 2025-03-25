@@ -19,12 +19,20 @@ impactful projects that address health.</p>
 public health, or community development, or an established professional
 under 40, register now to be part of this unique gathering where together,
 we'll shape the future of health for generations to come.</p>
-<hr>
+<p></p>
+<h4><strong>Overview of Programme </strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Pre-Summit (Friday, 19 September 2025)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Step into the future of health and social integration and innovation at
+our dynamic Pre-Summit programme. Through carefully curated site visits,
+interactive sessions, and networking opportunities, participants will gain
+valuable insights into Singapore’s integrated health and social care ecosystem.</p>
 <p></p>
+<p>Don’t miss out on this immersive experience which offers a unique window
+into how Singapore is addressing modern healthcare challenges while fostering
+meaningful connections between local and international healthcare leaders!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -34,4 +42,6 @@ we'll shape the future of health for generations to come.</p>
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>Registration Now Open!</strong></h4>
 <p></p>
