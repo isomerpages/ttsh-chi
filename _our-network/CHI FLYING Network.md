@@ -70,10 +70,12 @@ and social care together with other passionate leaders.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Future Leaders' Summit</summary>
+<summary>FLYING Summit</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Our inaugural Future Leaders' Summit for Future Leaders, by Future Leaders.
-Coming to you in September 2025. Stay tuned!</p>
+<p>Our inaugural FLYING Summit, coming to you on 19 - 20 September 2025 in
+Singapore.
+<br>For more details, visit: <a href="https://www.chi.sg/flying-summit-2025/" rel="noopener noreferrer nofollow" target="_blank">https://www.chi.sg/flying-summit-2025/</a>
+</p>
 </div>
 </details>
 </div>
