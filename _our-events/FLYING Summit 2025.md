@@ -89,7 +89,8 @@ breaking down silos in healthcare through social innovation.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day 1: Pre-Summit</p>
+<p><strong>Day 1: Pre-Summit Pass</strong>
+<br>(19 September 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SGD 220</p>
@@ -97,7 +98,8 @@ breaking down silos in healthcare through social innovation.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day 2: Summit Day</p>
+<p><strong>Day 2: Summit Day Pass</strong>
+<br>(20 September 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SGD 280</p>
@@ -105,7 +107,8 @@ breaking down silos in healthcare through social innovation.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Both Days</p>
+<p><strong>2-Day Pass</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SGD 500</p>
