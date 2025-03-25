@@ -47,10 +47,10 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
-<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br>Chief Medical Scientist <br>Microsoft Research <br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Dr Junaid Bajwa </strong><br>Member of CHI Leadership Council<br> Senior Partner, Head of UK, and Science Partner, Pioneering Intelligence <br> Flagship Pioneering <br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/Sheriff.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/"><img alt="andrew1" src="/images/Leaders/Sheriff.png"></a></td>
 <td><br><strong>Dr Sheriff Abdullahi</strong><br>Member of CHI Leadership Council<br>Managing Director, Singapore, Malaysia and Brunei<br>MSD<br><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
