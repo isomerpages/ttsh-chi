@@ -301,8 +301,8 @@ Jonty is a practicing GP, author and broadcaster whose ongoing work on the front
           }
         </style>
 <p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
-Junaid is the Chief Medical Scientist at Microsoft Research and a practising physician in the the UK’s National Health Service. <br><br>
-Junaid has worked across primary care, secondary care, and public health settings in addition to acting as a payer, and policy maker within the UK, where he specialized in informatics, digital transformation, and leadership. <br><br>
+Junaid brings over two decades of experience across primary care, secondary care, and public health settings. He has also worked as a payer and policy maker in the UK, specializing in informatics, digital transformation, and leadership. He joins Flagship from Microsoft Research where he served as Chief Medical Scientist focusing on how trusted, reliable, and human-centered AI can transform the practice of medicine. 
+<br><br>
 He has consulted for health care systems across the US, Europe, Australia, the Middle East, Singapore, and Europe. Academically, he is a Clinical Associate Professor at UCL (University College London), an Associate Fellow at the Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI Center), and a Visiting Scientist at the Harvard School of Public Health.
  </p>
 				</div>
