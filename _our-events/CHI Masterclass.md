@@ -111,21 +111,9 @@ variant: markdown
   
   
 
-  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">19th Masterclass - Designing the Future of Healthcare: Innovation at the Intersection of Human-Centered Design and Technology</label>
+  <li><input id="accordion-a1" type="checkbox"><label for="accordion-a1">Stay Tuned for the next Masterclass</label>
 		<div>
-<br> Singapore stands at the forefront of global healthcare innovation, yet the challenges of an aging population call for fresh perspectives. This panel brings together two world-renowned visionaries: <a href="https://pda.designsingapore.org/presidents-design-award/jurors/2025/dr-patricia-moore/">Dr Patricia Moore</a>, a pioneer in inclusive design; and <a href="https://pda.designsingapore.org/presidents-design-award/jurors/2025/michela-magas/">Michela Magas</a>, a leader in creative innovation ecosystems.&nbsp;Dr Patricia Moore and Michela Magas are also jurors for President's Design Award (PDA) 2025, which will be held on 31 July 2025. They are in Singapore to attend the PDA Jury Session from 17 to 21 February 2025.
-<br>
-<br> 🗓️: Friday, 21st February 2025
-<br> 🕔: 3:00 PM - 6:00 PM SGT
-<br> 📍: Ng Teng Fong Centre for Healthcare Innovation, Auditorium, Level 4
-<br><br> Through this session, you can gain insights on how Singapore can:&nbsp;
-<br> ➡️ Harness human-centred design to create inclusive, age-friendly healthcare.
-<br>➡️ Build and foster a sustainable innovation ecosystem and culture that leverages data, AI and other emerging technologies.
-<br>
-This session will inspire actionable ideas and highlight the power of interdisciplinary collaboration to design healthcare systems that are innovative, equitable and future-ready.<br>
-<br>Don't miss your chance to join this insightful session. Register your complimentary spot <a href="https://for.sg/19th-chi-masterclass"> here!<br>
-			</a> 
-<br> This session is organised by the Centre for Healthcare Innovation, supported by DesignSingapore Council. <br>
+<br> Join our <a href="https://for.sg/chi-mailinglist">mailing list</a> to stay connected.
 
 <p></p>
 
