@@ -18,8 +18,8 @@ initiatives led by young visionaries and discover opportunities to scale
 impactful projects that address health.</p>
 <p>Whether you're an emerging changemaker in healthcare, social services,
 public health, or community development, or an established professional
-under 40, register now to be part of this unique gathering where together,
-we'll shape the future of health for generations to come.</p>
+under the age of 40, register now to be part of this unique gathering where
+together, we'll shape the future of health for generations to come.</p>
 <p></p>
 <h4><strong>Overview of Programme</strong></h4>
 <p><em>Venue: Ng Teng Fong Centre for Healthcare Innovation <br>Address: 18 Jalan Tan Tock Seng S(308443)</em>
