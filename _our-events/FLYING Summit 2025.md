@@ -22,6 +22,8 @@ under 40, register now to be part of this unique gathering where together,
 we'll shape the future of health for generations to come.</p>
 <p></p>
 <h4><strong>Overview of Programme</strong></h4>
+<p><em>Venue: Ng Teng Fong Centre for Healthcare Innovation <br>Address: 18 Jalan Tan Tock Seng S(308443)</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Pre-Summit (Friday, 19 September 2025)</summary>
@@ -71,7 +73,7 @@ breaking down silos in healthcare through social innovation.
 </div>
 <p></p>
 <h4><strong>Ticket Pricing</strong></h4>
-<p><strong>Stay tuned to our registration launch.</strong>
+<p><strong>Stay tuned to our upcoming registration launch.</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
