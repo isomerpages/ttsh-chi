@@ -117,7 +117,7 @@ breaking down silos in healthcare through social innovation.
 <br><em>Note: For bulk and corporate registrations, please reach out to us at: <a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em>
 </p>
 <p></p>
-<h4><strong>Partnership Opportunities </strong></h4>
+<h4><strong>Partnership Opportunities</strong></h4>
 <p>If you are keen for a conversation, do reach out to us at: <em><a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em>
 </p>
 <p></p>
