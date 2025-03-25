@@ -70,7 +70,9 @@ breaking down silos in healthcare through social innovation.
 </details>
 </div>
 <p></p>
-<h4><strong>Registration Now Open!</strong></h4>
+<h4><strong>Ticket Pricing</strong></h4>
+<p><strong>Stay tuned to our registration launch. </strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -112,5 +114,5 @@ breaking down silos in healthcare through social innovation.
 </tbody>
 </table>
 <p><em>All tickets are subjected to prevailing 9% GST Charges. </em>
-<br><em>Note: For bulk and corporate registrations, please reach out to us at: <a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a> </em>
+<br><em>Note: For bulk and corporate registrations, please reach out to us at: <a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em>
 </p>
