@@ -44,17 +44,16 @@ meaningful connections between local and international healthcare leaders!</p>
 <p>
 <br>Join the revolution that's redefining healthcare! At this electrifying
 summit, we're bringing to life a powerful truth: "<strong>Health IS Social</strong>"
-and health challenges cannot be solved in isolation.
+and health challenges cannot be solved in isolation. Get ready for an action-packed
+day where young changemakers like you will shatter traditional healthcare
+boundaries and forge new paths to impact.
 <br>
-<br>Get ready for an action-packed day where young changemakers like you will
-shatter traditional healthcare boundaries and forge new paths to impact.
-From our explosive keynote dialogue to intimate panel discussions, you'll
+<br>From our explosive keynote dialogue to intimate panel discussions, you'll
 be immersed in a dynamic space where social innovation meets healthcare
-transformation.
-<br>Experience the power of global perspectives as the young leaders from
-the Commonwealth Leadership Institute shares groundbreaking impact stories,
-then dive into local innovations with young trailblazers who are reshaping
-Singapore's health landscape.
+transformation. Experience the power of global perspectives as the young
+leaders from the Commonwealth Leadership Institute shares groundbreaking
+impact stories, then dive into local innovations with young trailblazers
+who are reshaping Singapore's health landscape.
 <br>
 <br>This isn't your typical conference – it's a high-energy platform where
 young visionaries connect with seasoned mentors, where groundbreaking ideas
@@ -65,9 +64,8 @@ exchanges, you'll join a movement of young leaders pioneering a future
 where health solutions are built on social connections and collective action.
 <br>
 <br>Don't miss this chance to be part of a game-changing conversation that's
-breaking down silos in healthcare through social innovation.
-<br>
-<br>The revolution in healthcare begins with YOU – secure your spot today!</p>
+breaking down silos in healthcare through social innovation. <strong>The revolution in healthcare begins with YOU – secure your spot today!</strong>
+</p>
 </div>
 </details>
 </div>
@@ -123,6 +121,8 @@ breaking down silos in healthcare through social innovation.
 </p>
 <p></p>
 <h4><strong>Partnership Opportunities</strong></h4>
-<p>If you are keen for a conversation, do reach out to us at: <em><a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em>
+<p>If you are keen for a conversation, do reach out to us at: <em><a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em><strong><br></strong>
 </p>
+<h4><strong>Stay Connected with Us</strong></h4>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66c7174857cbfe883d413b6c"><img style="width: 40%;" height="auto" width="100%" alt="Our Mailing List" src="/images/CHI FLYING/FLYING_Mailing_List.png"></a>
 <p></p>

@@ -70,10 +70,12 @@ and social care together with other passionate leaders.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Future Leaders' Summit</summary>
+<summary>FLYING Summit</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Our inaugural Future Leaders' Summit for Future Leaders, by Future Leaders.
-Coming to you in September 2025. Stay tuned!</p>
+<p>Our inaugural FLYING Summit, coming to you on 19 - 20 September 2025 in
+Singapore.
+<br>For more details, visit: <a href="https://www.chi.sg/flying-summit-2025/" rel="noopener noreferrer nofollow" target="_blank">https://www.chi.sg/flying-summit-2025/</a>
+</p>
 </div>
 </details>
 </div>
@@ -81,6 +83,6 @@ Coming to you in September 2025. Stay tuned!</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.linkedin.com/in/chi-flying-45450020a/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CHI FLYING/FLYING_LinkedIn.png"></a>
 <p></p>
 <h4><strong>Partnership Opportunities</strong></h4>
-<p>For discussion of partnership opportunities, connect with us at <a href="mailto:chi_flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi_flying@nhg.com.sg</a>
+<p>For discussion of partnership opportunities, connect with us at <a href="mailto:chi_flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@chi.sg</a>
 </p>
 <p>&nbsp;</p>
