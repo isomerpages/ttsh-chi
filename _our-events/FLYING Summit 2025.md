@@ -118,11 +118,11 @@ breaking down silos in healthcare through social innovation. <strong>The revolut
 </table>
 <p><em>Note: </em>
 <br><em>- All tickets are subjected to prevailing 9% GST Charges. </em>
-<br><em>- For bulk and corporate registrations, please reach out to us at: <a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em>
+<br><em>- For bulk and corporate registrations, please reach out to us at: <a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@chi.sg</a></em>
 </p>
 <p></p>
 <h4><strong>Partnership Opportunities</strong></h4>
-<p>If you are keen for a conversation, do reach out to us at: <em><a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@nhg.com.sg</a></em><strong><br></strong>
+<p>If you are keen for a conversation, do reach out to us at: <em><a href="mailto:flying@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">flying@chi.sg</a></em><strong><br></strong>
 </p>
 <h4><strong>Stay Connected with Us</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66c7174857cbfe883d413b6c"><img style="width: 40%;" height="auto" width="100%" alt="Our Mailing List" src="/images/CHI FLYING/FLYING_Mailing_List.png"></a>
