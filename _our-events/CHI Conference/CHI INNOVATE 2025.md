@@ -10,20 +10,53 @@ third_nav_title: CHI Conference
 </div>
 <p>Entering its ninth year, <strong>CHI INNOVATE 2025</strong> returns with
 a transformative theme: "<strong>AI for ALL, AI for CHANGE</strong>".</p>
-<p>This year’s conference promises groundbreaking discussions aimed at reshaping
-mindsets and inspiring tangible action, in line with Singapore’s national
-agenda on Artificial Intelligence (AI) and the future of healthcare.</p>
-<p>Through keynote sessions, expert panels, and interactive dialogues,<strong> CHI INNOVATE 2025 </strong>brings
-together a global lineup of visionary leaders, healthcare professionals,
-researchers, and industry experts. The conference serves as a catalyst
-for thought leadership, empowering attendees to drive healthcare transformation
-by learning to adopt, scale, and integrate AI across systems. Join us to
-build the foundations of an AI-enabled healthcare future—designed for everyone,
-poised for change.</p>
-<p></p>
+<p>While there has been excitement on the potential of the use of AI in healthcare,
+precious little has been adopted and scaled.</p>
+<p>Why are some healthcare systems failing to show this while others have
+demonstrated early success stories? Could it be that AI remains the purview
+of think tanks, experts, early movers and leadership, where the familiarity
+with, confidence and practice of AI have not yet touched frontliners, middle
+managers, patients and our communities?</p>
+<p>We believe that AI should be everybody's tool.</p>
+<p>This conference will move beyond policy, the science and theory, but towards
+the democratization of AI and challenge our horizons of where AI could
+bring us to.</p>
 <p>Join us on <strong><u>10 &amp; 11 July 2025</u></strong> as we commit to
 extending our healing touch not just to patients, but to the future of
 healthcare through the transformative power of AI.</p>
+<p><strong>The conference will feature 4 different tracks:</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>AI for Change</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>How AI will change Health &amp; Healthcare</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Change for AI</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>How healthcare systems, patients &amp; communities must change to capitalise
+on AI​</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>AI for All</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>How the healthcare workforce can use AI for change​</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>ALL for AI</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p>Tickets are now available <a href="https://for.sg/chiinnovate2025-registration" rel="noopener nofollow" target="_blank">here</a>.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -49,7 +82,8 @@ healthcare through the transformative power of AI.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>(prices are subjected to prevailing 9% GST)</p>
+<p><sup>(prices are subjected to prevailing 9% GST)</sup>
+</p>
 </td>
 </tr>
 </tbody>
