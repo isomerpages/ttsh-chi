@@ -33,7 +33,8 @@ for the evolving healthcare landscape.<strong>&nbsp;</strong>
 workforce development, training, and evidence-based practice to improve
 patient outcomes.<strong>&nbsp;</strong>
 </p>
-<h4><strong>Centre for Health Activation (CHA) *</strong></h4>
+<p><a href="https://www.chi.sg/centre-for-health-activation-cha/" rel="noopener nofollow" target="_blank">Centre for Health Activation (CHA)</a>
+</p>
 <p>-Empowers patients, caregivers, and volunteers to take an active role
 in healthcare by equipping them the necessary skills and knowledge to support
 and enhance patient care.</p>
