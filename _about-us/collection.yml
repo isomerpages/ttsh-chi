@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Collaborating Centres/.keep
       - Our Purpose and What We Do/.keep
       - Our Purpose and What We Do/Our Purpose & What We Do.md
       - Our Purpose and What We Do/CHI Innovation Cycle.md
