@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Collaborating Centres/Centre for Health Activation (CHA).md
       - Collaborating Centres/Centre for Allied Health and Pharmacy Excellence
         (CAPE).md
       - Collaborating Centres/CHI Collaborating Centres’ Support Office.md
