@@ -52,7 +52,7 @@ optimising independence, and quality of life for our population.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Singapore Biodesign</strong> 
+<summary><strong>Singapore Biodesign</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
@@ -99,7 +99,7 @@ fosters informal COPs among health and social care professionals.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>3. <strong>"What Matters to You" Workshop Series</strong> 
+<summary>3. <strong>"What Matters to You" Workshop Series</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Aims to foster meaningful conversations to understand seniors' needs,
