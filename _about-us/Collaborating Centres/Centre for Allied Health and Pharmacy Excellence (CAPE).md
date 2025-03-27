@@ -41,7 +41,7 @@ optimising independence, and quality of life for our population.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Renci Learning Academy</strong>
+<summary><strong>Ren Ci Learning Academy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
