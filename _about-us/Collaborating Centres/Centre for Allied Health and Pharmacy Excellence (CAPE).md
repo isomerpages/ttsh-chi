@@ -80,7 +80,8 @@ to promote awareness of Therapeutic Horticulture activities.</p>
 <h4><strong>Programme and Schedule</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The InnoSpark Series</strong>,</summary>
+<summary><strong>The InnoSpark Series</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Under the Communities of Practice (COP) learning series, provides a platform
 for Allied Health Professionals and Pharmacists to share insights, learnings,
