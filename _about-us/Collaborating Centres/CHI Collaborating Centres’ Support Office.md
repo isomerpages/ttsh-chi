@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Collaborating Centres
 ---
-<h1><strong>Collaborating Centres’ Support Office (CSO):</strong> Enabling Smarter Care, Stronger Teams</h1>
+<h3><strong>Collaborating Centres’ Support Office (CSO) - </strong>Enabling Smarter Care, Stronger Teams</h3>
 <p>At the <strong>Collaborating Centres’ Support Office (CSO)</strong>, we
 work at the heart of workforce transformation, bringing together experts
 and community partners to improve how care is delivered. Our focus is on
@@ -38,7 +38,7 @@ patient outcomes.<strong>&nbsp;</strong>
 <p>-Empowers patients, caregivers, and volunteers to take an active role
 in healthcare by equipping them the necessary skills and knowledge to support
 and enhance patient care.</p>
-<h2>What We Do:</h2>
+<h3>What We Do:</h3>
 <ul>
 <li>
 <p>Helping patients and caregivers access <strong>better resources</strong> and <strong>practical support</strong> for
