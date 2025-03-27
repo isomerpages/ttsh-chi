@@ -21,12 +21,12 @@ and greater health-social integration to optimise the independence and
 quality of life for our population.</p>
 <p></p>
 <p>There are 3 collaborating centres within CSO:</p>
-<h4><strong>Centre for Asian Nursing Studies (CANS) </strong></h4>
+<h4><strong>Centre for Asian Nursing Studies (CANS)</strong></h4>
 <p>-Focuses on advancing the nursing profession through education, leadership
 development, and innovation in care models, ensuring nurses are well-equipped
 for the evolving healthcare landscape.<strong>&nbsp;</strong>
 </p>
-<h4><strong>Centre for Allied Health and Pharmacy Excellence (CAPE) </strong></h4>
+<h4><a href="https://www.chi.sg/centre-for-allied-health-and-pharmacy-excellence-cape/" rel="noopener nofollow" target="_blank">Centre for Allied Health and Pharmacy Excellence (CAPE)</a></h4>
 <p>-Strengthens the role of allied health professionals and pharmacists through
 workforce development, training, and evidence-based practice to improve
 patient outcomes.<strong>&nbsp;</strong>
