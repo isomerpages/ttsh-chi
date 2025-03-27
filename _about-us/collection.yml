@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Collaborating Centres/Centre for Allied Health and Pharmacy Excellence
+        (CAPE).md
       - Collaborating Centres/CHI Collaborating Centres’ Support Office.md
       - Collaborating Centres/.keep
       - Our Purpose and What We Do/.keep
