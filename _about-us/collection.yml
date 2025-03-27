@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Collaborating Centres/CHI Collaborating Centres’ Support Office.md
       - Collaborating Centres/.keep
       - Our Purpose and What We Do/.keep
       - Our Purpose and What We Do/Our Purpose & What We Do.md
