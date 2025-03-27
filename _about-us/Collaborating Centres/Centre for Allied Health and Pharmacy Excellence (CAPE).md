@@ -18,7 +18,7 @@ innovate our roles and care models as future-ready Allied Health &amp;
 Pharmacy professionals.​​​</p>
 <h4><strong>Vision</strong></h4>
 <p>To be a leading centre in building capabilities for thought leadership,
-workforce transformatio,n and innovation for Allied Health Professionals
+workforce transformation and innovation for Allied Health Professionals
 &amp; Pharmacists.&nbsp;</p>
 <h4><strong>Mission</strong></h4>
 <p>To collaborate, co-learn &amp; co-create with patients &amp; partners
@@ -41,7 +41,7 @@ optimising independence, and quality of life for our population.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Renci Learning Academy</strong>
+<summary><strong>Ren Ci Learning Academy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
@@ -80,7 +80,8 @@ to promote awareness of Therapeutic Horticulture activities.</p>
 <h4><strong>Programme and Schedule</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The InnoSpark Series</strong>,</summary>
+<summary><strong>The InnoSpark Series</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Under the Communities of Practice (COP) learning series, provides a platform
 for Allied Health Professionals and Pharmacists to share insights, learnings,

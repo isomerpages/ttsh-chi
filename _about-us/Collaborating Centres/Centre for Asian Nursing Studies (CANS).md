@@ -23,33 +23,39 @@ hosted delegation visits.</p>
 <p></p>
 <p></p>
 <h4><strong>Our Programmes and Events</strong></h4>
-<ol>
-<li>
-<p><strong>CANS Celebrate Nursing Workforce Month in May 2025</strong>
-</p>
-</li>
-</ol>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CANS Celebrate Nursing Workforce Month in May 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>With a workforce focused on high-tech and high-touch, CANS is hosting
 a series of events to bring together thought leaders and the wider community
 to explore the technology advancement and role of humanistic care in our
 evolving healthcare landscape.</p>
-<p>
-<br>2. <strong>CANS Collective Series on Workforce Leadership</strong>
-<br>CANS Collective Series aims to bring together nurses and thought leaders
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CANS Collective Series on Workforce Leadership</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>CANS Collective Series aims to bring together nurses and thought leaders
 to reimagine the transformation of the nursing workforce through thought-provoking
 conversations with thought leaders.</p>
-<ol>
-<li>
-<p><strong>Community of Practices and Regional Collaborations</strong>
-</p>
-</li>
-</ol>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Community of Practices and Regional Collaborations</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>We're establishing a community of practices with regional partners from
 Hong Kong, Thailand, China, and beyond to catalyze a nursing future where
 advanced skills, technology proficiency, and deep compassion converge to
 deliver exceptional patient care.&nbsp;</p>
-<p><strong>Connect with Us</strong>
-</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>Connect with Us</strong></h4>
 <p>Join our catalyzing conversation through:</p>
 <ul>
 <li>
@@ -66,7 +72,8 @@ deliver exceptional patient care.&nbsp;</p>
 <p>Stay tuned to our social media pages for upcoming events and initiatives.</p>
 <p></p>
 <p>If you are interested in partnering with us for any of the above, fill
-in the cans interest form:
+in the CANS interest form <a href="https://for.sg/cans-interest-form" rel="noopener nofollow" target="_blank">here </a>and
+we will get in touch with you.
 <br>
 <br>
 </p>

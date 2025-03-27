@@ -20,24 +20,39 @@ on Workforce Transformation, we aim to achieve a future-ready workforce
 and greater health-social integration to optimise the independence and
 quality of life for our population.</p>
 <p></p>
-<p>There are 3 collaborating centres within CSO:</p>
-<p><a href="https://www.chi.sg/centre-for-asian-nursing-studies-cans/" rel="noopener nofollow" target="_blank">Centre for Asian Nursing Studies (CANS)</a>
+<p><strong>There are 3 collaborating centres within CSO:</strong>
 </p>
-<p>-Focuses on advancing the nursing profession through education, leadership
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><a href="https://www.chi.sg/centre-for-asian-nursing-studies-cans/" rel="noopener nofollow" target="_blank">Centre for Asian Nursing Studies (CANS)</a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Focuses on advancing the nursing profession through education, leadership
 development, and innovation in care models, ensuring nurses are well-equipped
 for the evolving healthcare landscape.<strong>&nbsp;</strong>
 </p>
-<p><a href="https://www.chi.sg/centre-for-allied-health-and-pharmacy-excellence-cape/" rel="noopener nofollow" target="_blank">Centre for Allied Health and Pharmacy Excellence (CAPE)</a>
-</p>
-<p>-Strengthens the role of allied health professionals and pharmacists through
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.chi.sg/centre-for-allied-health-and-pharmacy-excellence-cape/" rel="noopener nofollow" target="_blank">Centre for Allied Health and Pharmacy Excellence (CAPE)</a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Strengthens the role of allied health professionals and pharmacists through
 workforce development, training, and evidence-based practice to improve
 patient outcomes.<strong>&nbsp;</strong>
 </p>
-<p><a href="https://www.chi.sg/centre-for-health-activation-cha/" rel="noopener nofollow" target="_blank">Centre for Health Activation (CHA)</a>
-</p>
-<p>-Empowers patients, caregivers, and volunteers to take an active role
-in healthcare by equipping them the necessary skills and knowledge to support
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.chi.sg/centre-for-health-activation-cha/" rel="noopener nofollow" target="_blank">Centre for Health Activation (CHA)</a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Empowers patients, caregivers, and volunteers to take an active role in
+healthcare by equipping them the necessary skills and knowledge to support
 and enhance patient care.</p>
+</div>
+</details>
+</div>
 <h3>What We Do:</h3>
 <ul>
 <li>
