@@ -80,7 +80,7 @@ to promote awareness of Therapeutic Horticulture activities.</p>
 <h4><strong>Programme and Schedule</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>1. <strong>The InnoSpark Series</strong>,</summary>
+<summary><strong>The InnoSpark Series</strong>,</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Under the Communities of Practice (COP) learning series, provides a platform
 for Allied Health Professionals and Pharmacists to share insights, learnings,
@@ -91,7 +91,7 @@ Transformation, and Tech-enabled Care.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2. <strong>The Elder Care Series</strong>
+<summary><strong>The Elder Care Series</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Born from the aspiration to extend care beyond hospitals into the community,
@@ -99,7 +99,7 @@ fosters informal COPs among health and social care professionals.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>3. <strong>"What Matters to You" Workshop Series</strong>
+<summary><strong>"What Matters to You" Workshop Series</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Aims to foster meaningful conversations to understand seniors' needs,
@@ -107,7 +107,7 @@ promote behaviour change, and enhance their quality of life.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>4. <strong>Allied Health Integrative Network (AHINet)</strong>
+<summary><strong>Allied Health Integrative Network (AHINet)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Allied Health Integrative Network (AHINet) has designed a wide range
@@ -119,7 +119,7 @@ be conducted through lectures, discussions, and activities.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>5. <strong>Communities of Practice (COP)</strong>
+<summary><strong>Communities of Practice (COP)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For therapeutic horticulture bring together healthcare and social care
