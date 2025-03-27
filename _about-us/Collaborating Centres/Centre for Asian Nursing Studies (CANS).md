@@ -66,7 +66,8 @@ deliver exceptional patient care.&nbsp;</p>
 <p>Stay tuned to our social media pages for upcoming events and initiatives.</p>
 <p></p>
 <p>If you are interested in partnering with us for any of the above, fill
-in the cans interest form:
+in the CANS interest form <a href="https://for.sg/cans-interest-form" rel="noopener nofollow" target="_blank">here </a>and
+we will get in touch with you.
 <br>
 <br>
 </p>
