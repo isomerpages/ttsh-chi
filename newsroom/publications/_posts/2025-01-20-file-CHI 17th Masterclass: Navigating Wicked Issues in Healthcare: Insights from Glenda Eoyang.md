@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Publication/20241226_Glenda_17th_Masterclass_v2__002_.pdf
+file_url: /files/Publication/20250324_Genda_17th_Masterclass_v3__002_.pdf
 ---
