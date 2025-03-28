@@ -1,9 +1,9 @@
 ---
-title: CHI Collaborating Centres’ Support Office
-permalink: /chi-collaborating-centres-support-office/
+title: Collaborating Centres' Support Office
+permalink: /collaborating-centres-support-office/
 variant: tiptap
 description: ""
-third_nav_title: Collaborating Centres
+third_nav_title: Our Offices
 ---
 <h3><strong>Collaborating Centres’ Support Office (CSO) - </strong>Enabling Smarter Care, Stronger Teams</h3>
 <p>At the <strong>Collaborating Centres’ Support Office (CSO)</strong>, we
@@ -76,10 +76,7 @@ that patient voices are heard in every step of the process.</p>
 <p>At CSO, we believe that <strong>healthcare transformation starts with collaboration</strong> –
 connecting people, knowledge, and ideas to build a healthier future for
 all.</p>
+<p></p>
 <p>
-<br>
-</p>
-<p>
-<br>
 <br>
 </p>
