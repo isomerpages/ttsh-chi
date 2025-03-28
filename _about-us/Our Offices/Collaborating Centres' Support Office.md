@@ -24,7 +24,7 @@ quality of life for our population.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong><a href="https://www.chi.sg/centre-for-asian-nursing-studies-cans/" rel="noopener nofollow" target="_blank">Centre for Asian Nursing Studies (CANS)</a></strong>
+<summary><strong><a href="https://www.chi.sg/cans/" rel="noopener nofollow" target="_blank">Centre for Asian Nursing Studies (CANS)</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Focuses on advancing the nursing profession through education, leadership
@@ -34,7 +34,7 @@ for the evolving healthcare landscape.<strong>&nbsp;</strong>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.chi.sg/centre-for-allied-health-and-pharmacy-excellence-cape/" rel="noopener nofollow" target="_blank">Centre for Allied Health and Pharmacy Excellence (CAPE)</a></strong>
+<summary><strong><a href="https://www.chi.sg/cape/" rel="noopener nofollow" target="_blank">Centre for Allied Health and Pharmacy Excellence (CAPE)</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Strengthens the role of allied health professionals and pharmacists through
@@ -44,7 +44,7 @@ patient outcomes.<strong>&nbsp;</strong>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.chi.sg/centre-for-health-activation-cha/" rel="noopener nofollow" target="_blank">Centre for Health Activation (CHA)</a></strong>
+<summary><strong><a href="https://www.chi.sg/cha/" rel="noopener nofollow" target="_blank">Centre for Health Activation (CHA)</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Empowers patients, caregivers, and volunteers to take an active role in
