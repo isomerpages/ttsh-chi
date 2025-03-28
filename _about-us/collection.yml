@@ -2,12 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Collaborating Centres/.keep
-      - Collaborating Centres/CHI Collaborating Centres’ Support Office.md
-      - Collaborating Centres/Centre for Allied Health and Pharmacy Excellence
-        (CAPE).md
-      - Collaborating Centres/Centre for Health Activation (CHA).md
-      - Collaborating Centres/Centre for Asian Nursing Studies (CANS).md
       - Our Purpose and What We Do/.keep
       - Our Purpose and What We Do/Our Purpose & What We Do.md
       - Our Purpose and What We Do/CHI Innovation Cycle.md
@@ -25,4 +19,10 @@ collections:
       - Our Campuses/CHI@Campus.md
       - Our Campuses/Campus Capabilities and Resources.md
       - Our Campuses/News and Events.md
+      - Collaborating Centres/.keep
+      - Collaborating Centres/CHI Collaborating Centres’ Support Office.md
+      - Collaborating Centres/Centre for Allied Health and Pharmacy Excellence
+        (CAPE).md
+      - Collaborating Centres/Centre for Health Activation (CHA).md
+      - Collaborating Centres/Centre for Asian Nursing Studies (CANS).md
       - Our Facilities.md
