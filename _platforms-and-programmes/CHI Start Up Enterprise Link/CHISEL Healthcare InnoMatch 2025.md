@@ -11,14 +11,9 @@ third_nav_title: CHI Start Up Enterprise Link
 <p>CHI Start-up Enterprise Link (CHISEL) InnoMatch 2025 is calling for innovative
 market-ready or near market-ready solutions to address critical and emerging
 healthcare needs!</p>
-<p><strong><em>CHISEL HEALTHCARE INNOMATCH 2025 IS OPEN FOR APPLICATIONS UNTIL 28 MARCH 2025, 2359 SGT (GMT+8)</em></strong>
+<p><strong><em>Applications for CHISEL HEALTHCARE INNOMATCH 2025 is now closed.</em></strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CHISEL/Apply_Now.png">
-</div>
-<p>To send in your applications or view our events, visit our challenge portal
-<a href="https://for.sg/chisel2025submission" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Visit our challenge portal <a href="https://for.sg/chisel2025submission" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>For enquiries, email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u>.</u>
 </p>
 <h2>Theme</h2>
