@@ -127,3 +127,7 @@ breaking down silos in healthcare through social innovation. <strong>The revolut
 <h4><strong>Stay Connected with Us</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/66c7174857cbfe883d413b6c"><img style="width: 40%;" height="auto" width="100%" alt="Our Mailing List" src="/images/CHI FLYING/FLYING_Mailing_List.png"></a>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI FLYING/Screenshot_2025_04_01_at_2_15_40_PM.png">
+</div>
+<p></p>
