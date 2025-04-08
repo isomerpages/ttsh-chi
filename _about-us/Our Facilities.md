@@ -2,6 +2,7 @@
 title: Our Facilities
 permalink: /about-us/chi-facilities/
 description: ""
+variant: markdown
 ---
 # Our Facilities
 
@@ -96,7 +97,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 	<div class="col"> 
 <img alt="studio" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/learning%20studio%20seminar%20room-s18.jpg"><br>
     <div class="header"><b>Learning Studios</b></div><br>
-    <div class="para">There are Learning Studios built for seminars, workshops and tutorials. It offers a wide variety of configuration ranging from theatre, classroom, cluster, to tutorial layout.
+    <div class="para">There are Learning Studios built for seminars, workshops and tutorials with configuration ranging from theatre, classroom and boardroom seating.
 </div>
 		</div>
 	<div class="col"> 
