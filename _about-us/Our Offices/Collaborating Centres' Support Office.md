@@ -5,22 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Our Offices
 ---
-<h3><strong>Collaborating Centres’ Support Office (CSO) - </strong>Enabling Smarter Care, Stronger Teams</h3>
+<h3><strong>Collaborating Centres’ Support Office (CSO) - </strong>Driving Innovations and Collaborations in Healthcare&nbsp;</h3>
 <p>At the <strong>Collaborating Centres’ Support Office (CSO)</strong>, we
-work at the heart of workforce transformation, bringing together experts
-and community partners to improve how care is delivered. Our focus is on
-innovation, education, and partnerships – ensuring that healthcare professionals,
-caregivers, and the community have the right knowledge, skills, and support
-to create better health outcomes for everyone.</p>
+work at the heart of workforce transformation - bringing together experts
+and community partners to improve the way care is delivered.&nbsp;&nbsp;Our
+focus is on driving&nbsp; healthcare innovation, enabling health education,
+and building equal partnerships. Through collective partnerships, we ensure
+that healthcare professionals, caregivers, and the community have the right
+knowledge, skills, and support to create better health outcomes for everyone.&nbsp;</p>
 <p></p>
-<p>CSO represents a network of leading collaborating centres, building capabilities
-for thought leadership, workforce transformation, and innovation for Nurses,
-Allied Health Professionals, Pharmacists, and Volunteers. With a focus
-on Workforce Transformation, we aim to achieve a future-ready workforce
-and greater health-social integration to optimise the independence and
-quality of life for our population.</p>
-<p></p>
-<p><strong>There are 3 collaborating centres within CSO:</strong>
+<p>CSO represents a network of leading collaborating centres in National
+Healthcare Group, building capabilities for thought leadership, workforce
+transformation, and innovation for Nurses, Allied Health Professionals,
+Pharmacists, and Volunteers and Caregivers.&nbsp;&nbsp;Through Workforce
+Transformation, we will co-design future jobs and future skills to care
+for the future generation. Our aim is to achieve a future-ready workforce
+and greater health-social integration to optimise our population’s independence
+and quality of life.&nbsp;&nbsp;</p>
+<p>&nbsp;<strong>There are 3 collaborating centres within CSO:</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -37,10 +39,9 @@ for the evolving healthcare landscape.<strong>&nbsp;</strong>
 <summary><strong><a href="https://www.chi.sg/cape/" rel="noopener nofollow" target="_blank">Centre for Allied Health and Pharmacy Excellence (CAPE)</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Strengthens the role of allied health professionals and pharmacists through
+<p>Strengthens the roles of allied health professionals and pharmacists through
 workforce development, training, and evidence-based practice to improve
-patient outcomes.<strong>&nbsp;</strong>
-</p>
+patient outcomes.<strong>&nbsp;</strong>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -48,8 +49,8 @@ patient outcomes.<strong>&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Empowers patients, caregivers, and volunteers to take an active role in
-healthcare by equipping them the necessary skills and knowledge to support
-and enhance patient care.</p>
+healthcare by equipping them with the necessary skills, knowledge and confidence
+to support and enhance patient care and experience.&nbsp;</p>
 </div>
 </details>
 </div>
