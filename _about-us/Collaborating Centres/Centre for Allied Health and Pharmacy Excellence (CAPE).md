@@ -9,6 +9,9 @@ third_nav_title: Collaborating Centres
 is a​ strategic platform to further innovation efforts in Allied Health
 and Pharmacy.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P8110088.jpg">
+</div>
 <p><strong>CAPE </strong>provides an exciting platform for Allied Health
 Professionals and Pharmacists to drive innovation and training in health-social
 care integration, with the aim of optimising independence and quality of
