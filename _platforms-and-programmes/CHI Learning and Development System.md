@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHILD_web_image_1__002_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHILD_web_image_2__002_.png">
-</div><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=-_j56iZxDIg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHILD pictures/thumbnail w play button.png"></a>
+</div><a class="isomer-image-wrapper" href="child.chi.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHILD_web_image_2__002_.png"></a>
+<a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=-_j56iZxDIg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHILD pictures/thumbnail w play button.png">
+</a>
 <p></p>
 <p><strong>Related Content</strong>
 </p>
