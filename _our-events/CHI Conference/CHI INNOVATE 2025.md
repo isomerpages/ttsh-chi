@@ -6,7 +6,7 @@ description: ""
 third_nav_title: CHI Conference
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_EDM_1_Final_150ppi.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_SAVE_THE_DATE_EDM_Landscape.jpg">
 </div>
 <p>Entering its ninth year, <strong>CHI INNOVATE 2025</strong> returns with
 a transformative theme: "<strong>AI for ALL, AI for CHANGE</strong>".</p>
@@ -28,25 +28,46 @@ healthcare through the transformative power of AI.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>AI for Change</strong>
+<summary><strong>AI for Change: How AI will change Health &amp; Healthcare</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>How AI will change Health &amp; Healthcare</p>
+<p>What exactly is AI, and how is it reshaping healthcare? From basic algorithms
+to today's sophisticated tools, our opening segment maps AI's journey in
+healthcare and charts where we're heading. ​</p>
+<p>Step into real clinics and hospitals where AI is already at work. Our
+speakers—who are knee-deep in bringing AI to life—share candid stories
+of breakthroughs and challenges. Through their experiences, discover how
+AI is transforming care delivery across all professions, from bedside to
+boardroom.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Change for AI</strong>
+<summary><strong>Change for A: How healthcare systems, patients &amp; communities must change to capitalise on AI </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>How healthcare systems, patients &amp; communities must change to capitalise
-on AI​</p>
+<p>This segment dives deep into how every aspect of care delivery must evolve
+– from leadership mindsets to data architecture, from learning systems
+to patients becoming active partners in AI-supported care. ​</p>
+<p>Watch innovators share real stories of breaking old habits and building
+new capabilities for an AI-enabled future. ​</p>
+<p>Experience our signature Faceoff (debate) where this year, debaters will
+collaborate with AI to challenge assumptions about healthcare’s readiness
+for AI. Come discover what it truly takes to make AI work in healthcare’s
+complex world.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>AI for All</strong>
+<summary><strong>AI for All: How the healthcare workforce can use AI for change</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>How the healthcare workforce can use AI for change​</p>
+<p>AI isn’t just for the tech-savvy – it’s for every healthcare professional
+looking to make a difference. ​</p>
+<p>This segment pulls back the curtain on how AI is becoming an everyday
+ally in healthcare, from the ward to the pharmacy to the therapy room.
+Discover how your colleagues are already using AI to enhance patient care,
+streamline workflows and tackle daily challenges. ​</p>
+<p>Whether you’re AI-curious or AI-anxious, join us to see how accessible,
+practical and transformative these tools can be in your hands.</p>
 </div>
 </details>
 <details class="isomer-details">
