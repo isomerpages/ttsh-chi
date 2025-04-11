@@ -21,5 +21,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
 <p></p>
+<h3>Contact Us</h3>
+<p>Email to <a href="mailto:chifaculty@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">chifaculty@nhg.com.sg</a> for
+your queries.</p>
 <p></p>
-<p>Cntact Us</p>
