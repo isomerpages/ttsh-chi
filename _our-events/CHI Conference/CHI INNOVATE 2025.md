@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Conference
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_SAVE_THE_DATE_EDM_Landscape.jpg">
-</div>
 <p>Entering its ninth year, <strong>CHI INNOVATE 2025</strong> returns with
 a transformative theme: "<strong>AI for ALL, AI for CHANGE</strong>".</p>
 <p>While there has been excitement on the potential of the use of AI in healthcare,
@@ -21,6 +18,9 @@ managers, patients and our communities?</p>
 <p>This conference will move beyond policy, the science and theory, but towards
 the democratization of AI and challenge our horizons of where AI could
 bring us to.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_SAVE_THE_DATE_EDM_Landscape.jpg">
+</div>
 <p>Join us on <strong><u>10 &amp; 11 July 2025</u></strong> as we commit to
 extending our healing touch not just to patients, but to the future of
 healthcare through the transformative power of AI.</p>
@@ -42,7 +42,7 @@ boardroom.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Change for A: How healthcare systems, patients &amp; communities must change to capitalise on AI </strong>
+<summary><strong>Change for AI: How healthcare systems, patients &amp; communities must change to capitalise on AI</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This segment dives deep into how every aspect of care delivery must evolve
@@ -71,10 +71,16 @@ practical and transformative these tools can be in your hands.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>ALL for AI</strong>
+<summary><strong>All for AI:</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>As we conclude, this segment brings together the 2-day insights into a
+powerful vision for collective action. Our finale features an extraordinary
+speaker who will leave you not just inspired, but equipped with practical
+steps to champion AI adoption into your organization. ​</p>
+<p>Stay back for this culminating session where vision meets practicality,
+and discover how you can be part of a larger movement driving healthcare’s
+AI transformation.</p>
 </div>
 </details>
 </div>
