@@ -8,7 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
@@ -24,4 +23,17 @@ description: ""
 <h3>Contact Us</h3>
 <p>Email to <a href="mailto:chifaculty@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">chifaculty@nhg.com.sg</a> for
 your queries.</p>
+<p></p>
+<h4>AKAN DATANG</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Faculty List</p>
+</li>
+<li>
+<p>Process for Application</p>
+</li>
+<li>
+<p>Process to Connect with Faculty</p>
+</li>
+</ul>
 <p></p>
