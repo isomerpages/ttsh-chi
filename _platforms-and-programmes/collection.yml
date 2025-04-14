@@ -2,14 +2,14 @@ collections:
   platforms-and-programmes:
     output: true
     order:
-      - CHI Faculty.md
       - National HIP Medals/.keep
       - National HIP Medals/Call for Submission 2025.md
       - National HIP Medals/About National HIP Medals.md
+      - CHI Faculty.md
       - CHI Learning and Development System.md
+      - CHI Start Up Enterprise Link/.keep
       - CHI Start Up Enterprise Link/About CHISEL.md
       - CHI Start Up Enterprise Link/CHISEL Healthcare InnoMatch 2025.md
-      - CHI Start Up Enterprise Link/.keep
       - CHI Start Up Enterprise Link/Eligibility Criteria and Rules.md
       - CHI Start Up Enterprise Link/Frequently Asked Questions (FAQs).md
       - CHI Start Up Enterprise Link/Past CHISEL Winners.md
@@ -20,6 +20,6 @@ collections:
       - CHI Fellowship in Healthcare Innovation and Leadership.md
       - CHI Healthcare Advanced Management Programme.md
       - Other Leadership Programmes.md
-      - Our Funding Programmes/Ng Teng Fong Healthcare Innovation Programme.md
       - Our Funding Programmes/.keep
+      - Our Funding Programmes/Ng Teng Fong Healthcare Innovation Programme.md
       - Our Funding Programmes/Digital Prototyping Budget.md
