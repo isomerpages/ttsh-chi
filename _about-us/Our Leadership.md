@@ -88,9 +88,15 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 </tr>
 	<tr>
 </tr><tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yihyng"><img alt="andrew1" src="/images/Leaders/dr%20ng%20yy-01.png"></a></td>
-<td><strong>Dr Ng Yih Yng</strong>
-<br>Director, Digital and Smart Health Office<br><a href="https://www.linkedin.com/in/yihyng" target="_blank"><small>LinkedIn</small></a> </td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
+<td><strong>Prof Jonty Heaversedge</strong>
+<br>Director, Digital Innovation Office<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a> </td>
+</tr>
+<tr>
+</tr><tr>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/aung-myint-66b92a8a/"><img alt="andrew1" src="/images/Leaders/Dr_Aung__DIO_.png"></a></td>
+<td><strong>Dr Aung Myint Oo</strong>
+<br>Clinical Lead, Digital Innovation Office<br><a href="https://www.linkedin.com/in/aung-myint-66b92a8a/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/Leaders/casperr.png"></a></td>
