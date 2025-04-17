@@ -9,8 +9,8 @@ third_nav_title: Our Offices
 <p>At the <strong>Collaborating Centres’ Support Office (CSO)</strong>, we
 work at the heart of workforce transformation - bringing together experts
 and community partners to improve the way care is delivered.&nbsp;&nbsp;Our
-focus is on driving&nbsp; healthcare innovation, enabling health education,
-and building equal partnerships. Through collective partnerships, we ensure
+focus is on driving healthcare innovation, enabling health education, and
+building equal partnerships. Through collective partnerships, we ensure
 that healthcare professionals, caregivers, and the community have the right
 knowledge, skills, and support to create better health outcomes for everyone.&nbsp;</p>
 <p></p>
