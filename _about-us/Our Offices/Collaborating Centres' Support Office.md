@@ -13,7 +13,6 @@ focus is on driving healthcare innovation, enabling health education, and
 building equal partnerships. Through collective partnerships, we ensure
 that healthcare professionals, caregivers, and the community have the right
 knowledge, skills, and support to create better health outcomes for everyone.&nbsp;</p>
-<p></p>
 <p>CSO represents a network of leading collaborating centres in National
 Healthcare Group, building capabilities for thought leadership, workforce
 transformation, and innovation for Nurses, Allied Health Professionals,
