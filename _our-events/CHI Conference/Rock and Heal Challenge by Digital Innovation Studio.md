@@ -22,7 +22,7 @@ healthcare challenges. The solutions are expected to make a real-world
 impact with improvements in population health, patient care, operational
 efficiency, or resilience of healthcare systems.</p>
 <h2>Your Ideas, Our Platform</h2>
-<h3>Hackathon Structure: </h3>
+<h3>Hackathon Structure:</h3>
 <p>Over four engaging weeks, teams will create innovative solutions from
 their ideas, refining their prototypes with the support of AWS mentors.
 Top 10 teams will present their pitch to a judging panel at the semi-finals
