@@ -9,11 +9,11 @@ third_nav_title: Collaborating Centres
 nursing thought-leadership that is uniquely Asian focused.&nbsp;</p>
 <p>With the future health system challenges, CANS has identified 4 key impetus
 for change which demands for the evolution on the future work of nurses.</p>
-<h4><strong>Vision and Mission</strong></h4>
+<h4>Vision and Mission</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Vision_and_Mission.png">
 </div>
-<h4><strong>CANS Faculty</strong></h4>
+<h4>CANS Faculty</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__3_x_3_Matrix.png">
 </div>
@@ -22,7 +22,7 @@ as Leadership Development, Workforce Transformation and Clinical Excellence
 to join our Faculty. As a member, you'll be part of a dynamic network where
 you can connect with fellow thought leaders.&nbsp;&nbsp;</p>
 <p>Interested to join our CANS Faculty? Email us at <a href="http://www.cans@ttsh.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.cans@ttsh.com.sg</u></a>&nbsp;</p>
-<h4><strong>Partners</strong></h4>
+<h4>Partners</h4>
 <p>Our network consists of thought leaders within and beyond the healthcare
 sector. Through strategic partnerships with hospital and industry partners,
 we have established communities of practices, signature programmes and
@@ -30,7 +30,7 @@ hosted delegation visits.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Partners.png">
 </div>
-<h4><strong>Our Programmes and Events</strong></h4>
+<h4>Our Programmes and Events</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CANS Celebrate Nursing Workforce Month in May 2025</strong>
@@ -72,7 +72,7 @@ deliver exceptional patient care.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Connect with Us</strong></h4>
+<h4>Connect with Us</h4>
 <p>Join our catalyzing conversation through:</p>
 <ul>
 <li>
