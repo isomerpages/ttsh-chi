@@ -60,15 +60,80 @@ real-world experience</p>
 </ul>
 <h4><strong>Monetary prizes (Amazon vouchers) will be awarded to the winning teams!</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
 </div>
 <h4><strong>Important Dates</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dates.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Registration Deadline</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>31 May, 2025 (11.59PM SGT)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Let's start Rocking! </strong>
+<br><strong>Kick-off Event @ CHI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 June, 2025 (2.00pm to 4.30pm SGT)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coaching Workshops by AWS @ CHI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10 June, 2025 (2.00pm to 4.30pm SGT)</strong>
+</p>
+<p><strong>20 June, 2025 (2.00pm to 4.30pm SGT)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date for Submission</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>29 June, 2025 (11.59pm SGT)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Semi-Finals @CHI INNOVATE 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10 July, 2025 (2.00pm to 4.00pm SGT)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Finals @ CHI INNOVATE 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11 July, 2025 (Time: TBD)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Register Here</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___for_sg_rock_and_heal.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/https___for_sg_rock_and_heal.png">
 </div>
 <p></p>
