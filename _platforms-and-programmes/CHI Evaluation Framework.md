@@ -14,6 +14,9 @@ from test-bed design for evidence generation, to economic analysis, to
 solution evaluation by representative panels of experts.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CHIEF/CHIEF_2_0.png">
+</div>
 <p></p>
 <p>Click to view the latest guidance document: <a href="/files/CHIEF Guidance Document/CHIEF_Guidance_Document___V2_0_April_2025.pdf" rel="noopener nofollow" target="_blank">CHIEF Guidance Document V2.0</a>
 </p>
