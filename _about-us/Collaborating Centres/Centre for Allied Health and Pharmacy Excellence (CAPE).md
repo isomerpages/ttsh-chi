@@ -21,11 +21,11 @@ sectors in the <strong>3 identified</strong> key areas of community, trans-disci
 and tech-enabled care. We also hope to build thought leadership and continuously
 innovate our roles and care models as future-ready Allied Health &amp;
 Pharmacy professionals.​​​&nbsp;</p>
-<h4><strong>Vision</strong></h4>
+<h4>Vision</h4>
 <p>To be a leading centre in building capabilities for thought leadership,
 workforce transformation and innovation for Allied Health Professionals
 &amp; Pharmacists.&nbsp;&nbsp;</p>
-<h4><strong>Mission</strong></h4>
+<h4>Mission</h4>
 <p>To collaborate, co-learn &amp; co-create with patients &amp; partners
 across health-social sectors in the 3 identified key areas of community,
 trans-disciplinary and tech-enabled care.&nbsp;&nbsp;</p>
@@ -36,7 +36,7 @@ optimising independence, and quality of life for our population.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAPE_infographic.jpg">
 </div>
-<h4><strong>Partners</strong></h4>
+<h4>Partners</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Singapore Institute of Technology</strong>
@@ -86,7 +86,7 @@ to promote awareness of Therapeutic Horticulture activities.</p>
 </div>
 </details>
 </div>
-<h4><strong>Programme and Schedule</strong></h4>
+<h4>Programme and Schedule</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The InnoSpark Series</strong>
@@ -139,5 +139,7 @@ be conducted through lectures, discussions, and activities.&nbsp;</p>
 </div>
 </details>
 </div>
-<p><strong>If you are interested to collaborate and to be a part of designing the future of Allied Health and Pharmacy together with us, we would love to hear from you! Email us at <a href="mailto:cape@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cape@ttsh.com.sg</u></a>&nbsp;<br></strong>
+<p>If you are interested to collaborate and to be a part of designing the
+future of Allied Health and Pharmacy together with us, we would love to
+hear from you!<strong> Email us at <a href="mailto:cape@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cape@ttsh.com.sg</u></a>&nbsp;<br></strong>
 </p>
