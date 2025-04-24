@@ -14,7 +14,7 @@ thinking and hands-on development catalyzes innovation and positive change
 in healthcare delivery.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/Screenshot_2025_04_22_at_9_10_30_AM_1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/250424___DSHO_EDM_RockHealChallenge_Final.jpg">
 </div>
 <p>Participants are expected to generate ideas and develop functional apps
 on AWS GenAI playground PartyRock, devising innovative solutions to tackle
@@ -28,18 +28,19 @@ their ideas, refining their prototypes with the support of AWS mentors.
 Top 10 teams will present their pitch to a judging panel at the semi-finals
 on 10th July. Top 5 teams will advance to the finals on 11th July, and
 receive support from their cluster leaders to advance their innovations
-at their respective institutions.</p>
-<p><strong>Winners from NHG will be fast-tracked onto the DIS platform.</strong>
-</p>
+at their respective institutions. Winners from NHG will be fast-tracked
+onto the DIS platform.</p>
 <p>Whether you are an AI novice or a seasoned developer, join us in building
 AI applications using AWS PartyRock! No prior coding experience or advanced
 AI knowledge needed – just bring your creativity and enthusiasm to create
 your own AI-powered solutions!</p>
 <h3>Who can participate:</h3>
+<p><strong>Whether you are an AI novice or a seasoned developer, join us in building AI applications using AWS PartyRock! No prior coding experience or advanced AI knowledge needed – just bring your creativity and enthusiasm to create your own AI-powered solutions!</strong>
+</p>
 <p>Open to staff of all three public healthcare clusters, who are passionate
-about leveraging AI in health solutions. No prior knowledge A diversity
-of applicants from multiple disciplines across clinical, nursing, allied
-health and administration are encouraged.</p>
+about leveraging AI in health solutions. A diversity of applicants from
+multiple disciplines across clinical, nursing, allied health, pharmacy</p>
+<p>and administration are encouraged.</p>
 <h3>Team size:</h3>
 <p>1-4 members.</p>
 <h2>Your Innovation, Our Investment</h2>
