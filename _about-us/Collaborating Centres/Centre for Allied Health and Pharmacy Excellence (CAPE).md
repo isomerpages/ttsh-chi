@@ -33,6 +33,9 @@ trans-disciplinary and tech-enabled care.&nbsp;&nbsp;</p>
 Allied Health Professionals &amp; Pharmacists to drive health-social integration,
 optimising independence, and quality of life for our population.&nbsp;&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAPE_infographic.jpg">
+</div>
 <h4><strong>Partners</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
