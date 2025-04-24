@@ -13,6 +13,8 @@ for adoption or scale. It provides recommendations for the entire process,
 from test-bed design for evidence generation, to economic analysis, to
 solution evaluation by representative panels of experts.</p>
 <p></p>
+<p></p>
+<p></p>
 <p>Click to view the latest guidance document: <a href="/files/CHIEF Guidance Document/CHIEF_Guidance_Document___V2_0_April_2025.pdf" rel="noopener nofollow" target="_blank">CHIEF Guidance Document V2.0</a>
 </p>
 <p></p>
