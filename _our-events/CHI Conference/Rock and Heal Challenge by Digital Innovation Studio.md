@@ -59,7 +59,16 @@ real-world experience</p>
 </li>
 </ul>
 <h4><strong>Monetary prizes (Amazon vouchers) will be awarded to the winning teams!</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
+</div>
 <h4><strong>Important Dates</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dates.png">
+</div>
 <h4><strong>Register Here</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___for_sg_rock_and_heal.png">
+</div>
 <p></p>
