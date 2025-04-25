@@ -39,8 +39,8 @@ your own AI-powered solutions!</p>
 </p>
 <p>Open to staff of all three public healthcare clusters, who are passionate
 about leveraging AI in health solutions. A diversity of applicants from
-multiple disciplines across clinical, nursing, allied health, pharmacy</p>
-<p>and administration are encouraged.</p>
+multiple disciplines across clinical, nursing, allied health, pharmacy
+and administration are encouraged.</p>
 <h3>Team size:</h3>
 <p>1-4 members.</p>
 <h2>Your Innovation, Our Investment</h2>
