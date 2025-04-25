@@ -3,7 +3,6 @@ title: Rock and Heal Challenge by Digital Innovation Studio
 permalink: /rock-and-heal-challenge-by-digital-innovation-studio/
 variant: tiptap
 description: ""
-third_nav_title: CHI Conference
 ---
 <h1>Redefining Healthcare Systems through Digital Innovation</h1>
 <p>Join the inaugural hackathon organized by the Digital Innovation Studio
@@ -39,8 +38,8 @@ your own AI-powered solutions!</p>
 </p>
 <p>Open to staff of all three public healthcare clusters, who are passionate
 about leveraging AI in health solutions. A diversity of applicants from
-multiple disciplines across clinical, nursing, allied health, pharmacy</p>
-<p>and administration are encouraged.</p>
+multiple disciplines across clinical, nursing, allied health, pharmacy
+and administration are encouraged.</p>
 <h3>Team size:</h3>
 <p>1-4 members.</p>
 <h2>Your Innovation, Our Investment</h2>
