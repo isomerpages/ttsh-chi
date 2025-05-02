@@ -183,7 +183,7 @@ your discretion.</p>
 </div>
 <h2>Organisers and Partners</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Website_Updated2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Website_Updated2.png">
 </div>
 <h2>Collaborating Partners &amp; Agencies</h2>
 <p></p>
@@ -193,4 +193,5 @@ your discretion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies__2___1_.png">
 </div>
+<p></p>
 <p></p>
