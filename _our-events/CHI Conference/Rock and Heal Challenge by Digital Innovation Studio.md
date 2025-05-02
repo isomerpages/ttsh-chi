@@ -13,14 +13,15 @@ through creative solutions. Fostering an environment that encourages out-of-the-
 thinking and hands-on development catalyzes innovation and positive change
 in healthcare delivery.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/250424___DSHO_EDM_RockHealChallenge_Final.jpg">
-</div>
 <p>Participants are expected to generate ideas and develop functional apps
 on AWS GenAI playground PartyRock, devising innovative solutions to tackle
 healthcare challenges. The solutions are expected to make a real-world
 impact with improvements in population health, patient care, operational
 efficiency, or resilience of healthcare systems.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/250429___DSHO_EDM_RockHealChallenge_R2_1__1_.jpg">
+</div>
 <h2>Your Ideas, Our Platform</h2>
 <h3>Hackathon Structure:</h3>
 <p>Over four engaging weeks, teams will create innovative solutions from
@@ -137,4 +138,5 @@ real-world experience</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/https___for_sg_rock_and_heal.png">
 </div>
-<p></p>
+<p>For more queries, please contact us at: <a href="chi-dis@nhg.com.sg" rel="noopener nofollow" target="_blank">chi-dis@nhg.com.sg</a>
+</p>
