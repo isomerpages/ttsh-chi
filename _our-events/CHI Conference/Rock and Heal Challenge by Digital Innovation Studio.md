@@ -98,7 +98,7 @@ real-world experience</p>
 <td rowspan="1" colspan="1">
 <p><strong>10 June, 2025 (2.00pm to 4.30pm SGT)</strong>
 </p>
-<p><strong>20 June, 2025 (2.00pm to 4.30pm SGT)</strong>
+<p><strong>19 June, 2025 (2.00pm to 4.30pm SGT)</strong>
 </p>
 </td>
 </tr>
