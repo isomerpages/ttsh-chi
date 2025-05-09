@@ -30,8 +30,7 @@ to bring ideas from concept to reality.</p>
 </li>
 </ul>
 <h3>Meet our Campus Leads</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Campus_Leads_Collage.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Campus_Leads_Collage__1_.png">
 </div>
 <p></p>
