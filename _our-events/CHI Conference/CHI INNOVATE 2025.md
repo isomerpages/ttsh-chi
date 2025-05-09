@@ -84,7 +84,7 @@ AI transformation.</p>
 </div>
 </details>
 </div>
-<p><strong>View the latest programme at this </strong><a href="https://for.sg/chi-innovate-2025-programme" rel="noopener nofollow" target="_blank">link</a><strong>.</strong>
+<p><strong>View the latest programme at this </strong><a href="https://for.sg/chi-innovate2025-programme" rel="noopener nofollow" target="_blank">link</a><strong>.</strong>
 </p>
 <p>Tickets are now available <a href="https://for.sg/chiinnovate2025-registration" rel="noopener nofollow" target="_blank">here</a>.</p>
 <table style="minWidth: 50px">
