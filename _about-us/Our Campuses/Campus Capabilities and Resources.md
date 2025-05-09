@@ -8,7 +8,7 @@ third_nav_title: Our Campuses
 <h3>CHI@Campus - Enabler Of Healthcare Innovation</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Expertise: Access to a network of seasoned innovators, clinical experts,
+<p>Expertise: Access a network of seasoned innovators, clinical experts,
 and thought leaders.</p>
 </li>
 <li>
@@ -29,4 +29,9 @@ innovators and aspirants with the tools and knowledge to drive change.</p>
 to bring ideas from concept to reality.</p>
 </li>
 </ul>
+<h3>Meet our Campus Leads</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Campus_Leads_Collage.png">
+</div>
 <p></p>
