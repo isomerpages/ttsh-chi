@@ -68,5 +68,6 @@ net zero by 2050.</p>
 </div>
 <p></p>
 <p></p>
-<p>Click here for our programme schedule and to find out more about programmes.</p>
+<p>Click <a href="https://www.chi.sg/chi-value-care-academy/" rel="noopener nofollow" target="_blank">here </a>for
+our programme schedule and to find out more about programmes.</p>
 <p>Contact Us For more information, contact us at <a href="mailto:chi_academies@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhg.com.sg</a>.</p>
