@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Academies
 ---
-<h2>About the CHI Academies </h2>
+<h2>About the CHI Academies</h2>
 <p>The CHI Academies are the <strong>capability builders for system transformation</strong> and
 support change at the <strong>care, system and ecosystem</strong> level.
 They converge towards <strong>resilience and reliability</strong>, delivering <strong>value </strong>for
@@ -27,7 +27,7 @@ toolkits of value-based care: relating to clinical service and programmes
 as well as value-based payment models that incentivise effective and integrated
 care.
 <br>
-<br>For more information on the programmes, click<a href="https://www.chi.sg/platforms-and-programmes/chi-value-care-academy/" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
+<br>For more information on the programmes, click<a href="https://www.chi.sg/chi-value-care-academy/" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
 </p>
 </div>
 </details>
