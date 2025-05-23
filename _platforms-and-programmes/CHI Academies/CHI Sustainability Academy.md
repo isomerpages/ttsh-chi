@@ -91,8 +91,8 @@ Masterclass:</p>
 </details>
 </div>
 <h3>SA 2025 Programme Schedule</h3>
-<p></p>
-<h3>Contact Us</h3>
+<p><a href="https://for.sg/saprogrammes" rel="noopener nofollow" target="_blank">Sustainability Academy 2025 Schedule </a>Contact
+Us</p>
 <p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhg.com.sg</a>.</p>
 <h3>Our Partners</h3>
 <div class="isomer-image-wrapper">
