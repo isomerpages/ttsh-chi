@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Academies
 ---
-<h2>About the CHI Academies Office</h2>
+<h2>About the CHI Academies </h2>
 <p>The CHI Academies are the <strong>capability builders for system transformation</strong> and
 support change at the <strong>care, system and ecosystem</strong> level.
 They converge towards <strong>resilience and reliability</strong>, delivering <strong>value </strong>for
