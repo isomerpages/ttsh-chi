@@ -18,7 +18,8 @@ all generations.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>CHI Value Academy</summary>
+<summary><strong>CHI Value Academy</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>At the care level, the CHI Value Academy (VA) aims to accelerate the shift
 in healthcare from cost-based to value-based accounting. It drives value
@@ -27,12 +28,13 @@ toolkits of value-based care: relating to clinical service and programmes
 as well as value-based payment models that incentivise effective and integrated
 care.
 <br>
-<br>For more information on the programmes, click<a href="https://www.chi.sg/platforms-and-programmes/healthandsocialchange/" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
+<br>For more information on the programmes, click<a href="https://www.chi.sg/platforms-and-programmes/chi-value-care-academy/" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CHI Health and Social Change Academy</summary>
+<summary><strong>CHI Health and Social Change Academy</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>At the systems level, the CHI Health and Social Change Academy (HSCA)
 aims to accelerate the shift in healthcare from curative to preventive
@@ -44,7 +46,8 @@ to shift care from hospitals to the community.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CHI Sustainability Academy</summary>
+<summary><strong>CHI Sustainability Academy</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>At the ecosystem level, the CHI Sustainability Academy (SA) aims to accelerate
 the shift to a circular healthcare economy, enhancing the resilience and
@@ -57,5 +60,13 @@ net zero by 2050.</p>
 </div>
 </details>
 </div>
+<h3>Approach to the CHI Academies</h3>
+<p><strong>Capability Building at 3 Levels, with a Strong Focus on Practice &amp; Translation</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/02_Approach_to_the_CHI_Academies.png">
+</div>
 <p></p>
 <p></p>
+<p>Click here for our programme schedule and to find out more about programmes.</p>
+<p>Contact Us For more information, contact us at <a href="mailto:chi_academies@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhg.com.sg</a>.</p>
