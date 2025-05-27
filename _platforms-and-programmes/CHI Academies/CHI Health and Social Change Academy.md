@@ -23,7 +23,7 @@ healthier, more resilient communities.</p>
 <p><strong><u>Upcoming</u></strong>: Register <a href="https://for.sg/hsca-phfl" rel="noopener nofollow" target="_blank">here </a>for Population Health for Leaders
 happening from 24 - 25 July 2025.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/HSCA_PHFL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/HSCA_PHFL__1_.png">
 </div>
 <h3>Contact Us:</h3>
 <p>For more information, contact us at <a href="chi_academies@nhg.com.sg" rel="noopener nofollow" target="_blank">chi_academies@nhg.com.sg</a>
