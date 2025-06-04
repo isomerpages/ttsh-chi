@@ -7,6 +7,11 @@ third_nav_title: CHI Conference
 ---
 <p>Entering its ninth year, <strong>CHI INNOVATE 2025</strong> returns with
 a transformative theme: "<strong>AI for ALL, AI for CHANGE</strong>".</p>
+<p>👉 <a href="https://chiinnovate2025.klobbi.com" rel="noopener noreferrer nofollow" target="_blank">https://chiinnovate2025.klobbi.com</a> for
+full details, programme highlights, and registration.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_01_R8_FA__Landscape_16x9__Lift.jpg">
+</div>
 <p>While there has been excitement on the potential of the use of AI in healthcare,
 precious little has been adopted and scaled.</p>
 <p>Why are some healthcare systems failing to show this while others have
@@ -18,9 +23,6 @@ managers, patients and our communities?</p>
 <p>This conference will move beyond policy, the science and theory, but towards
 the democratization of AI and challenge our horizons of where AI could
 bring us to.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/CHI_INNOVATE_2025_SAVE_THE_DATE_EDM_Landscape.jpg">
-</div>
 <p>Join us on <strong><u>10 &amp; 11 July 2025</u></strong> as we commit to
 extending our healing touch not just to patients, but to the future of
 healthcare through the transformative power of AI.</p>
