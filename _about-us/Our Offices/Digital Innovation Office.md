@@ -5,41 +5,94 @@ description: ""
 third_nav_title: Our Offices
 variant: tiptap
 ---
-<h2>Digital and Smart Health Office</h2>
-<p></p>
-<p>The CHI Digital &amp; Smart Health Office (DSHO) performs 3 key functions.
-We support digital enablement and automation, facilitate innovation prototyping
-and accelerate digital healthcare journeys and evaluate digital technologies
-and wayfind the adoption of new technologies in health.&nbsp;</p>
-<p>We empower staff to form communities to learn how to use no-code/low code
-digital tools and provide technical coaching to support citizen developers
-to drive productivity. The “Hospital without Walls” programme incubates
-innovations and accelerates digital transformation journeys to create a
-seamless healthcare experience. Lastly, CHI DSHO aims to evaluate digital
-literacy and innovation to help wayfind through the implementation of new
-technologies into practice.&nbsp;</p>
+<h2>Digital Innovation Office (DIO)</h2>
+<p>The Digital Innovation Office (DIO) empowers healthcare transformation
+through AI, digital solutions, and human-centred innovation. Our mission
+is to enable intelligent, connected, and scalable healthcare solutions
+that are user-centred, sustainable, and designed for system-wide implementation.</p>
+<h4><u>Key Capabilities:</u></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Rapid Funding of digital prototypes&nbsp;</p>
+<p>Digital transformation and automation enablement</p>
 </li>
 <li>
-<p>UX/UI design consultancy for digital prototyping proposal</p>
+<p>AI adoption and integration</p>
 </li>
 <li>
-<p>Robotic Process Automation (RPA) consulting &amp; development clinics&nbsp;</p>
+<p>Innovation prototyping and acceleration</p>
 </li>
 <li>
-<p>Collaboration with IHLs, Govtech and industry partners&nbsp;&nbsp;</p>
+<p>Digital literacy and capability building</p>
 </li>
 <li>
-<p>Digital innovation wayfinding and experimenting with new technologies
-such as Generative AI, Digital Twinning, Speech to Text technologies to
-enhance productivity, user experience and improve data driven decision
-making&nbsp;</p>
+<p>Strategic partnerships with technology partners and academia</p>
 </li>
 </ul>
-<p>We work closely with our National Healthcare Group stakeholders to translate
-ideas to implementation, help innovations to scale and actively explore
-potential partnerships with institutes of higher learning, academia and
-industry to leverage digital technologies in healthcare to eliminate digital
-inequities and information asymmetry.&nbsp;</p>
+<p></p>
+<h4><u>Core Programmes:</u></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>AI Adoption at Scale</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Harnessing the power of AI to revolutionise healthcare – enabling smarter
+decision making, predictive insights, and scalable solutions that enhance
+patient outcomes, streamline operations, and empower the workforce for
+future care.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Digital Hospital</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Transforming hospitals into intelligent, connected, ecosystems where AI
+driven insights, automation, and seamless digital workflows enhance efficiency,
+empower clinicians, and deliver smarter more precise care.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Digital Community</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Transforming community care through digital innovation – creating seamless
+connections that empower active participation in health management, enable
+accessible care delivery, and build resilient health communities through
+intelligent, integrated solutions.</p>
+</div>
+</details>
+</div>
+<h4><u>DIO provides comprehensive support through:</u></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Data Science expertise (AI model training, validation, optimization, and
+monitoring)</p>
+</li>
+<li>
+<p>Digital and AI capability building (literacy programmes, adoption strategy,
+champions network)</p>
+</li>
+<li>
+<p>End-to-end solution management (navigation, sourcing, implementation,
+and scaling)</p>
+</li>
+<li>
+<p>Rapid funding for digital prototypes</p>
+</li>
+<li>
+<p>UX/UI design consultancy</p>
+</li>
+<li>
+<p>RPA consulting and development</p>
+</li>
+<li>
+<p>Technology evaluation and wayfinding</p>
+</li>
+<li>
+<p>Change management support</p>
+</li>
+</ul>
+<p></p>
+<p>Through our integrated approach, <strong>DIO</strong> serves as a catalyst
+for digital transformation in healthcare, creating impactful, scalable
+solutions for Singapore's healthcare system.</p>
+<p></p>
