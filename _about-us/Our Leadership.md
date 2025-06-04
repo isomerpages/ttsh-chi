@@ -12,7 +12,7 @@ Our Leadership
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Leaders/chairman2.png"></a></td>
 <td><strong>Prof Eugene Fidelis Soh</strong><br>Chairman<br>CHI Co-Learning Networks<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
 </td></tr>
 </tbody>
@@ -24,8 +24,8 @@ Our Leadership
 <tbody>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></td>
-<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Deputy Dean of Service Innovation and Corporate Value <br>
-Siriraj Hospital <br>
+<td><br><strong>Assoc Prof Cherdchai Nopmaneejumruslers</strong><br>Vice President for Innovation Technology and Digital Transformation <br>
+Mahidol University <br>
 Thailand<br></td>
 </tr>
 	<tr>
@@ -51,7 +51,7 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/"><img alt="andrew1" src="/images/Leaders/Sheriff.png"></a></td>
-<td><br><strong>Dr Sheriff Abdullahi</strong><br>Member of CHI Leadership Council<br>Managing Director, Singapore, Malaysia and Brunei<br>MSD<br><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Dr Abdullahi Sheriff</strong><br>Member of CHI Leadership Council<br>Managing Director, Singapore, Malaysia and Brunei<br>MSD<br><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
@@ -67,7 +67,7 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/Leaders/chairman2.png"></a></td>
 <td><strong>Prof Eugene Fidelis Soh</strong><br>Executive Director<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 <tr>
