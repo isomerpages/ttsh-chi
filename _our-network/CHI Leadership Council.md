@@ -137,7 +137,7 @@ Council members contribute their expertise by providing insightful guidance, dev
 	    <li>
       <input id="accordion-b01" type="checkbox">
       <label for="accordion-b01">
-        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Chairman.png">
+        <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/chairman2.png">
 				Prof Eugene Fidelis Soh<br>Chair, CHI Leadership Council
       </label>
       <div>
@@ -164,7 +164,7 @@ To change healthcare, Eugene inspired the set up of the Centre for Healthcare In
       <input id="accordion-b1" type="checkbox">
       <label for="accordion-b1">
         <img alt="andrew1" style="width:126px;height:125px;float: left;" src="/images/Leaders/prof%20cherdchai-01.png">
-A/Prof Cherdchai Nopmaneejumruslers <br>Member, CHI Leadership Council
+Assoc Prof Cherdchai Nopmaneejumruslers <br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
@@ -311,7 +311,7 @@ He has consulted for health care systems across the US, Europe, Australia, the M
       <input id="accordion-b7" type="checkbox">
       <label for="accordion-b7">
         <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/Sheriff.png">
-        Dr Sheriff Abdullahi<br>Member, CHI Leadership Council
+        Dr Abdullahi Sheriff<br>Member, CHI Leadership Council
       </label>
       <div>
         <style>
