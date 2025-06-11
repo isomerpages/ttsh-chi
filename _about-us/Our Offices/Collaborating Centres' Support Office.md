@@ -1,6 +1,6 @@
 ---
 title: Collaborating Centres' Support Office
-permalink: /collaborating-centres-support-office/
+permalink: /cso/
 variant: tiptap
 description: ""
 third_nav_title: Our Offices
