@@ -118,7 +118,7 @@ real-world experience</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 July, 2025 (2.00pm to 4.00pm SGT)</strong>
+<p><strong>10 July, 2025 (3.00pm to 4.30pm SGT</strong>
 </p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ real-world experience</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11 July, 2025 (Time: TBD)</strong>
+<p><strong>11 July, 2025 (Time: 4.00pm to 5.00pm)</strong>
 </p>
 </td>
 </tr>
