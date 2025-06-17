@@ -7,8 +7,8 @@ third_nav_title: CHI Conference
 ---
 <p>Entering its ninth year, <strong>CHI INNOVATE 2025</strong> returns with
 a transformative theme: "<strong>AI for ALL, AI for CHANGE</strong>".</p>
-<p>👉 <a href="https://chiinnovate2025.klobbi.com" rel="noopener noreferrer nofollow" target="_blank">https://chiinnovate2025.klobbi.com</a> for
-full details, programme highlights, and registration.</p>
+<h4>Visit  <a href="https://chiinnovate2025.klobbi.com" rel="noopener noreferrer nofollow" target="_blank">https://chiinnovate2025.klobbi.com</a> for full details, programme highlights, and registration.</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_01_R8_FA__Landscape_16x9__Lift.jpg">
 </div>
