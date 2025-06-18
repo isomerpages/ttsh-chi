@@ -86,7 +86,7 @@ to promote awareness of Therapeutic Horticulture activities.</p>
 </div>
 </details>
 </div>
-<h4>Programme and Schedule</h4>
+<h4>Programmes</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The InnoSpark Series</strong>
@@ -139,6 +139,70 @@ be conducted through lectures, discussions, and activities.&nbsp;</p>
 </div>
 </details>
 </div>
+<h4>Upcoming Events</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>"What Matters to You" Series</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Slots</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Jul 2025</p>
+<p>13 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am -1pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Sept 2025</p>
+<p>17 Sept 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am -1pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Nov 2025</p>
+<p>19 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am - 1pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>If you are interested to collaborate and to be a part of designing the
 future of Allied Health and Pharmacy together with us, we would love to
 hear from you!<strong> Email us at <a href="mailto:cape@ttsh.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cape@ttsh.com.sg</u></a>&nbsp;<br></strong>
