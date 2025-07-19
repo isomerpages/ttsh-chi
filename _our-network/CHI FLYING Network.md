@@ -10,7 +10,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI FLYING/FLYING_Community.jpg">
 </div>
 <p>The Future Leaders and Young INnovators Guild (FLYING) is a network with
-over 150 members connecting young health and social care leaders across
+over 200 members connecting young health and social care leaders across
 Singapore and beyond. We invite individuals below 40 years of age in the
 health and social care sector who desire to become a change agent and have
 experience in leadership to join the CHI FLYING network.</p>
