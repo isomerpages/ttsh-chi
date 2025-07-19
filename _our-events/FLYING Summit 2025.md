@@ -4,7 +4,10 @@ permalink: /flying-summit-2025/
 variant: tiptap
 description: ""
 ---
-<h2><strong>FLYING Summit 2025: Health IS Social</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI FLYING/CHI_FLYING_Summit_Letterhead__A4_.png">
+</div>
 <p></p>
 <p>Organised by CHI FLYING in collaboration with the National Youth Council
 (NYC), National Council of Social Services (NCSS) and the Commonwealth
