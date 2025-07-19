@@ -30,7 +30,7 @@ Thailand<br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
-<td><br><strong>Göran Henriks </strong><br>Member of CHI Leadership Council<br>Senior Strategic Advisor, Region Jonkoping County<br>Chief Executive of Learning &amp; Innovation  <br>County Council <br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Göran Henriks </strong><br>Member of CHI Leadership Council<br>Senior Strategic Advisor<br>Region Jönköping County<br>Sweden<br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
@@ -38,12 +38,12 @@ Thailand<br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
-<td><br><strong>Prof Jonathon Gray </strong><br>Member of CHI Leadership Council<br>Professor of Innovation &amp; Leadership<br>Swansea University<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Prof Jonathon Gray </strong><br>Member of CHI Leadership Council<br>Director<br>Commonwealth Leadership Institute<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
-<td><br><strong>Prof Jonty Heaversedge  </strong><br>Member of CHI Leadership Council<br>Director, Health &amp; Social Change Academy, CHI<br>Clinical Director &amp; CCIO <br> Population Health Office <br>
-National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Prof Jonty Heaversedge</strong><br>Member of CHI Leadership Council<br>Director, Digital Innovation Office<br>Clinical Director &amp; CCIO <br> Population Health<br>
+NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
@@ -53,11 +53,6 @@ National Healthcare Group<br><a href="https://www.linkedin.com/in/jonty-heaverse
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/"><img alt="andrew1" src="/images/Leaders/Sheriff.png"></a></td>
 <td><br><strong>Dr Abdullahi Sheriff</strong><br>Member of CHI Leadership Council<br>Managing Director, Singapore, Malaysia and Brunei<br>MSD<br><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
-<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
-<td><br><strong>Prof Teo Yik-Ying </strong><br>Member of CHI Leadership Council<br>Dean of the Saw Swee Hock School of Public Health​<br>National University of Singapore <br><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a><br></td>
-</tr>
-
 
 </tbody>
 </table>
