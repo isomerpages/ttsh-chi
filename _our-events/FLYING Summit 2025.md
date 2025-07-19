@@ -6,9 +6,6 @@ description: ""
 ---
 <h2><strong>FLYING Summit 2025: Health IS Social</strong></h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CHI FLYING/2.png">
-</div>
 <p>Organised by CHI FLYING in collaboration with the National Youth Council
 (NYC), National Council of Social Services (NCSS) and the Commonwealth
 Leadership Institute (CLI), we invite you to join us at the inaugural transformative
@@ -72,10 +69,9 @@ breaking down silos in healthcare through social innovation. <strong>The revolut
 </div>
 </details>
 </div>
-<p></p>
+<p>Click to view our latest full programme <a href="https://for.sg/flying-summit-prog" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Ticket Pricing</strong></h4>
-<p><strong>Stay tuned to our upcoming registration launch.</strong>
-</p>
+<p>To purchase your ticket, visit our registration page <a href="https://for.sg/flying-summit-reg" rel="noopener nofollow" target="_blank">here</a>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
