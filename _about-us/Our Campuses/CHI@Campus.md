@@ -19,9 +19,33 @@ efficiency.</p>
 <p>Each CHI@Campus represents a unique hub of innovation aligned with the
 distinct priorities of its NHG institution. Explore how these campuses
 are shaping the future of healthcare innovation.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI__CAMPUS__1_.png">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>CHI@IMH (<a href="https://www.imh.com.sg/Pages/default.aspx" rel="noopener nofollow" target="_blank">Institute of Mental Health)</a>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Focused on mental health innovation, CHI@IMH supports initiatives in digital
+therapeutics, behavioral insights, and community-based care. The campus
+is actively involved in CHI Academies and collaborates on innovation projects
+that address behavioral challenges and service redesign.</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary>CHI@KTPH &amp; YCH (<a href="https://www.ktph.com.sg/" rel="noopener nofollow" target="_blank">Khoo Teck Puat Hospital</a> &amp;
+<a href="https://www.yishuncommunityhospital.com.sg/" rel="noopener nofollow" target="_blank">Yishun Community Hospital)</a>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>At CHI@KTPH &amp; YCH, we unify Quality, Process and Service Improvement
+into a cohesive strategy known as the One Improvement Framework. We harness
+diverse expertise and common platforms to exchange ideas and best practices,
+equipping our workforce to drive transformative changes in healthcare delivery.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>CHI@PHC (PopHealth)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
