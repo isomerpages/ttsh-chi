@@ -183,8 +183,9 @@ your discretion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="timeline" src="/images/CHISEL/image.png">
 </div>
 <h2>Organisers and Partners</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/SLINGSHOT_onCHISELweb.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Logo_NewNHG.png">
 </div>
 <h2>Collaborating Partners &amp; Agencies</h2>
 <div class="isomer-image-wrapper">
@@ -193,5 +194,6 @@ your discretion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies__2___1_.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
