@@ -10,11 +10,11 @@ third_nav_title: CHI Start Up Enterprise Link
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_2025_Masthead__island_map_2.png">
 </div>
 <p>
-<br><strong>Sign up <a href="https://chisel2025.klobbi.com" rel="noopener nofollow" target="_blank">here</a> to witness the CHISEL 2025 Final Pitching Event—where innovation takes the stage!</strong>
+<br><strong>Sign up <a href="https://for.sg/chisel2025pitch" rel="noopener nofollow" target="_blank">here </a>to witness the CHISEL 2025 Final Pitching Event—where innovation takes the stage!</strong>
 </p>
-<p>For enquiries, please email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u> </u>or visit <a href="https://chisel2025.klobbi.com" rel="noopener nofollow" target="_blank">https://chisel2025.klobbi.com</a>
+<p>For enquiries, please email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u> </u>or visit <a href="https://for.sg/chisel2025pitch" rel="noopener nofollow" target="_blank">https://for.sg/chisel2025pitch</a>
 </p>
-<h2>Theme </h2>
+<h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
 including increasing patient complexities, the need to provide better,
 more accessible care, and operational inefficiencies. These challenges
