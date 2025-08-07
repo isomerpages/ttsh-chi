@@ -9,12 +9,9 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_2025_Masthead__island_map_2.png">
 </div>
-<p>CHI Start-up Enterprise Link (CHISEL) InnoMatch 2025 is calling for innovative
-market-ready or near market-ready solutions to address critical and emerging
-healthcare needs!</p>
-<p><strong><em>Applications for CHISEL HEALTHCARE INNOMATCH 2025 is now closed.</em></strong>
+<p>
+<br><strong>Sign up <a href="https://chisel2025.klobbi.com" rel="noopener nofollow" target="_blank">here</a> to witness the CHISEL 2025 Final Pitching Event—where innovation takes the stage!</strong>
 </p>
-<p>Visit our challenge portal <a href="https://for.sg/chisel2025submission" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>For enquiries, email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u>.</u>
 </p>
 <h2>Theme</h2>
