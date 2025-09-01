@@ -9,8 +9,14 @@ third_nav_title: Our Funding Programmes
 <p>Supported by MOH Health Innovation (MHI) Fund 2.0, the Coordinating Party
 (CP) Scheme aims to provide holistic support for innovation towards adoption
 and scale of:</p>
-<p>1) Cross-institution (within NHG Health) POC / POV projects</p>
-<p>2) Cross-cluster POV projects</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Cross-institution (within NHG Health) POC / POV projects</p>
+</li>
+<li>
+<p>Cross-cluster POV projects</p>
+</li>
+</ol>
 <h4>Centre for Healthcare Innovation (CHI) has been appointed by MOH as the CP for NHG Health.&nbsp;</h4>
 <p>NHG Health CP Scheme is only applicable to<u> NHG Health Staff</u>. For
 other clusters, kindly reach out to your respective cluster CPs:</p>
@@ -58,12 +64,11 @@ and eventual adoption by the healthcare system.</p>
 </li>
 </ul>
 <h4><strong>Types of Projects Supported</strong></h4>
-<p><strong>Three Focus Areas (Non-Exhaustive):</strong>
-</p>
+<p>Three Focus Areas (Non-Exhaustive):</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senso<strong>pes of Projects Supported</strong>rs
-and Wearables (S&amp;W)</summary>
+<summary><strong>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sensors and Wearables (S&amp;W)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Innovation that uses S&amp;W. For primary care applications, we are hoping
 to dramatically (10x) the number of residents an individual doctor can
@@ -71,14 +76,15 @@ look after.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>b) &nbsp; Artificial Intelligence (AI)</summary>
+<summary><strong>b) &nbsp; Artificial Intelligence (AI)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>National-level innovative AI solutions to improve operational efficiency,
 patient outcomes, and/or user satisfaction per use case.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>c)&nbsp;&nbsp;&nbsp;<strong>&nbsp;Robotics and Automation (R&amp;A)</strong>
+<summary><strong>c)&nbsp;&nbsp;&nbsp;&nbsp;Robotics and Automation (R&amp;A)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Innovations that employ assistive and robotics solutions in back and front
@@ -248,7 +254,7 @@ via email.</p>
 </ul>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>. </strong>
+<p><strong>For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
 <p>You may also approach your CHI@Campus Offices for nomination details.</p>
 <p></p>
