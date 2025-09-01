@@ -252,9 +252,7 @@ Panel and participate in a Q&amp;A session.Award results will be announced
 via email.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
+<p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
 <p>You may also approach your CHI@Campus Offices for nomination details.</p>
 <p></p>
