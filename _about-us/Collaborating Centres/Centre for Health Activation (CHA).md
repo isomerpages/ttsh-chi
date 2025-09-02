@@ -142,8 +142,8 @@ the health of all.</p>
 <h4>Activating All Patient Advocates, Caregivers and Volunteers</h4>
 <p>Are you passionate about co-creating new care models, driving patient-led
 innovations, or exploring impactful collaborations?</p>
-<p>Reach out to us at <a href="mailto:volunteer@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">volunteer@nhg.com.sg</a> or connect with
-us via <a href="https://sg.linkedin.com/company/chi-centre-for-healthcare-innovation?trk=public_post_feed-actor-name" rel="noopener noreferrer nofollow" target="_blank">CHI LinkedIn</a>.</p>
+<p>Reach out to us at: <a href="ttsh.volunteer@nhghealth.com.sg" rel="noopener nofollow" target="_blank">ttsh.volunteer@nhghealth.com.sg</a> or
+connect with us via <a href="https://sg.linkedin.com/company/chi-centre-for-healthcare-innovation?trk=public_post_feed-actor-name" rel="noopener noreferrer nofollow" target="_blank">CHI LinkedIn</a>.</p>
 <p>We welcome all individuals and organisations who share our vision of an
 activated healthcare community to connect and collaborate on innovative
 care models with us.</p>
