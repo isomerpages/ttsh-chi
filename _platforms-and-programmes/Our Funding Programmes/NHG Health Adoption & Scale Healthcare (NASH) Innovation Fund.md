@@ -71,7 +71,7 @@ Conference/Event X from Day 1-3, and is engaged for a NASH</p>
 <p>Exclusion criteria:</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; &nbsp;Domain A Purpose from Day 4-7).</p>
+<p>o&nbsp;&nbsp; Domain A Purpose from Day 4-7).</p>
 <p>o&nbsp;&nbsp; For back-to-back funding, Domain A will only cover incremental
 costs for the expert.</p>
 </div>
