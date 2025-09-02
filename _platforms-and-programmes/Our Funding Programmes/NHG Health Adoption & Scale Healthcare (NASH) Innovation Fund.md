@@ -26,162 +26,6 @@ within NHG Health cluster through 3 domains:</p>
 <p>&nbsp;NASH Innovation Fund is only applicable to NHG Health employed staff.</p>
 <p>For more information, please contact us at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
 <hr>
-<h4><strong>NASH Innovation Fund Overview</strong></h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Domains</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Domain A</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Domain B</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Domain C1</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Innovation Expertise</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Cluster Adoption and Scale</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kaizen-enabled Point of Care</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Description</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Invite overseas experts to share innovative ideas, best-in-class tools
-and practices, to build thought leadership and transform healthcare in
-NHG Health.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adoption and scale of proven innovation solutions from the originating
-NHG institution to other adopting NHG institutions.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Support cluster-level prototyping CHILL and VirtCHILL projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Eligibility</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excludes Research and HMDP Experts
-focusing on clinical services</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting expert must engage with
-the larger NHG Health.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful POV solutions with evidence
-for the potential to scale</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-application by at least two NHG
-institutions</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has obtained interest for cross institution deployment</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Real world problem statement</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team up by at least two NHG institutions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Funding Quantum</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Up to $25,000 per expert within the awarded FY:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Covers accommodation, business class
-air tickets, local transportation, honorarium, entertainment, withholding
-tax etc</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Base funding of $100,000, but up to $200,000, per project over 12 months
-with justification:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Covers initial cost of purchase
-of solution</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Infrastructure setup</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initial integration with existing
-system</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Varies, range from $1,000 to $4,000 per project</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mode of Application</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grant Call (mid Sep to mid Nov 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grant Call (Sep to Oct 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>H</p>
-<p>ackathon (Q3 FY2025)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Main Contact Office</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHI Partnership Office</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Michelle Lee</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">michelle.sw.lee@nhghealth.com.sg</a>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Patricia Chin</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">patricia.chin@nhghealth.com.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHI Grant Management Office</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHI Kaizen Office</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Camelia Soh</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">camelia.soh@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4><strong>Domain A - Innovation Expertise</strong></h4>
 <p>Domain A aims to provide funding to invite overseas experts to share innovative
 ideas, best-in-class tools and practices, to build thought leadership and
@@ -190,35 +34,112 @@ transform healthcare in NHG Health institutions.</p>
 <summary><strong>Eligibility Criteria</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visiting expert(s) must engage in the following activities (“Domain A
+Purpose”):</p>
+</li>
+</ul>
+<p>o&nbsp;&nbsp; 1 CHI Masterclass session which is open to all the NHG Health
+and partners.</p>
+<p>o&nbsp;&nbsp; 1 NHG Health leadership (involving C-Suite) engagement.</p>
+<p>o&nbsp;&nbsp; 1 cross-institutions engagement (beyond the masterclass
+and leadership engagement mentioned above) and/or engagement which focus
+on our regional health with NHG Health’s role as regional manager.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicants must be NHG Health employed staff.</p>
+</li>
+<li>
+<p>This funding excludes Research and HMDP Experts focusing on clinical service.</p>
+</li>
+<li>
+<p>Co-funding of any visiting expert(s) who has been invited for other than
+a Domain A Purpose <strong>will not be allowed</strong> (e.g. Applicant intends
+to use NASH Domain A fund to co-fund expert’s cost for Conference/Event
+X).</p>
+</li>
+<li>
+<p>However, a back-to-back funding for a Domain A Purpose in conjunction
+with another event <strong>is allowed</strong> (e.g. Expert is engaged for
+Conference/Event X from Day 1-3, and is engaged for a NASH</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exclusion criteria:</p>
+</li>
+</ul>
+<p>o&nbsp;&nbsp; &nbsp;Domain A Purpose from Day 4-7).</p>
+<p>o&nbsp;&nbsp; For back-to-back funding, Domain A will only cover incremental
+costs for the expert.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Funding Quantum</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Up to $25,000 per visiting expert within the awarded FY:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Covers accommodation, business class air tickets, local transportation,
+honorarium, entertainment, withholding tax, etc.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Grant Call will be from mid-Sep 2025 to mid-Nov 2025.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Submission and Award</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicant should obtain endorsement by the institution CEO before submitting
+to the CHI Partnership Office (Main POC for Domain A) through the CHI@Campus
+Offices Admin leads or your institution’s admin lead.</p>
+</li>
+</ul>
+<p>o&nbsp;&nbsp; Where an application involves more than one (1) NHG Health
+institution(s) co-hosting the Domain A Purpose programme (with one of the
+institutions being the lead applicant), endorsement shall be provided by
+the leading institution.</p>
+<p>o&nbsp;&nbsp; In the case where two (2) institutions are co-applying (i.e.
+co-owning the Domain A Purpose programme), endorsement from both institutions’
+CEOs is required.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The review process will take approximately 2 months. During this time,
+Programme Lead will be approached via email to furnish any further clarifications.</p>
+</li>
+<li>
+<p>Award results will be announced via email in Feb 2026.</p>
+</li>
+<li>
+<p>Project duration should commence <u>within</u> FY2026.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Main Contact Details</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>For more information on Domain A, please contact main contact office (CHI
+Partnership Office) at:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Michelle Lee: <a rel="noopener noreferrer nofollow" target="_blank">michelle.sw.lee@nhghealth.com.sg</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Patricia Chin: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">patricia.chin@nhghealth.com.sg</a>
+</p>
+<p>&nbsp;You may also approach your CHI@Campus Offices for endorsement and
+submission details.</p>
 </div>
 </details>
 <h4><strong>Domain B - Cluster Adoption and Scale</strong></h4>
@@ -232,8 +153,6 @@ proven innovation solutions from originating NHG Health institutions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful validated solution:</p>
-</li>
-</ul>
 <p>o&nbsp;&nbsp; Solution to be adopted can either be existing solution that
 has been validated <u>or</u> that can address unmet healthcare need.</p>
 <p>o&nbsp;&nbsp; The solution should be a proven innovative solution with
@@ -241,17 +160,15 @@ promising clinical outcome and commercially viable (or sustainable).</p>
 <p>o&nbsp;&nbsp; Solution must have clear benefits to NHG Health and is aligned
 to NHG Health strategic goals &amp; enablers.</p>
 <p>o&nbsp;&nbsp; Has obtained interest for cross institution deployment</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Project team should comprise of at least 2 NHG Health institutions in
 mainstreaming the solutions to at least 2 NHG Health institutions.</p>
-</li>
-<li>
-<p>The NHG Health institution with the validated solution (i.e. Originating/Native
-institution) is eligible for the fund as long as the originating institution
-is either enhancing the solution for mainstreaming within their institution
-or involved in the mainstreaming of adopting NHG Health institution in
-the form of providing consultancy and advice.</p>
+<p>o&nbsp;&nbsp; The NHG Health institution with the validated solution (i.e.
+Originating/Native institution) is eligible for the fund as long as the
+originating institution is either enhancing the solution for mainstreaming
+within their institution or involved in the mainstreaming of adopting NHG
+Health institution in the form of providing consultancy and advice.</p>
 </li>
 <li>
 <p>Applicants must be NHG Health employed staff.</p>
