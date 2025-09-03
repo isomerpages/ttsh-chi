@@ -63,17 +63,33 @@ X).</p>
 <p>However, a back-to-back funding for a Domain A Purpose in conjunction
 with another event <strong>is allowed</strong> (e.g. Expert is engaged for
 Conference/Event X from Day 1-3, and is engaged for a NASH</p>
+<p><u>Exclusion criteria:</u>
+</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Exclusion criteria:</p>
+<p>This funding excludes Research and HMDP Experts focusing on clinical service.</p>
+</li>
+<li>
+<p>Co-funding of any visiting expert(s) who has been invited for other than
+a Domain A Purpose <strong>will not be allowed</strong> (e.g. Applicant intends
+to use NASH Domain A fund to co-fund expert’s cost for Conference/Event
+X).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>However, a back-to-back funding for a Domain A Purpose in conjunction
+with another event <strong>is allowed</strong> (e.g. Expert is engaged for
+Conference/Event X from Day 1-3, and is engaged for a NASH Domain A Purpose
+from Day 4-7).</p>
+</li>
+<li>
+<p>For back-to-back funding, Domain A will only cover incremental costs for
+the expert</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; Domain A Purpose from Day 4-7).</p>
-<p>o&nbsp;&nbsp; For back-to-back funding, Domain A will only cover incremental
-costs for the expert.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -225,7 +241,6 @@ beyond the FY.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For more information on Domain B, please contact NASH Innovation Fund
 Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
-<p>&nbsp;</p>
 <p>You may also approach your CHI@Campus Offices for endorsement and submission
 details.</p>
 </div>
