@@ -27,7 +27,7 @@ toolkits of value-based care: relating to clinical service and programmes
 as well as value-based payment models that incentivise effective and integrated
 care.
 <br>
-<br>For more information on the programmes, click<a href="https://www.chi.sg/chi-value-care-academy/" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
+<br>For more information on the programmes, click<a href="https://www.chi.sg/chi-value-academy/" rel="noopener noreferrer nofollow" target="_blank"> here.</a>
 </p>
 </div>
 </details>
@@ -67,5 +67,5 @@ net zero by 2050.</p>
 </div>
 <p>Click <a href="https://for.sg/chiacademiesprogrammes" rel="noopener nofollow" target="_blank"><u>here </u></a>for
 our programme schedule and to find out more about programmes.</p>
-<h3>Contact Us </h3>
+<h3>Contact Us</h3>
 <p>For more information, contact us at <a href="https://www.chi.sg/platforms-and-programmes/healthandsocialchange/" rel="noopener noreferrer nofollow" target="_blank"><u>chi_academies@nhg.com.sg</u></a>.</p>
