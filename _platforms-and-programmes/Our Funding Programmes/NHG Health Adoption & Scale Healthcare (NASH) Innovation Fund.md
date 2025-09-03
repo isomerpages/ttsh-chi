@@ -64,9 +64,6 @@ X).</p>
 with another event <strong>is allowed</strong> (e.g. Expert is engaged for
 Conference/Event X from Day 1-3, and is engaged for a NASH</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Exclusion criteria:</p>
 </li>
