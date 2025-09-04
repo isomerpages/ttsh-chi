@@ -445,7 +445,7 @@ Kaizen Office - CHILL) at:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Camelia Soh: <a rel="noopener noreferrer nofollow" target="_blank">camelia.soh@nhghealth.com.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Javier Tan: <a rel="noopener noreferrer nofollow" target="_blank">javier.jk.tan@nhghealth.com.sg</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[MN1]</a>&nbsp;</p>
+</p>
 <p></p>
 </div>
 </details>
