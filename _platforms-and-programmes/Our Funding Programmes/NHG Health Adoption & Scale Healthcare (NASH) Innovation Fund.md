@@ -14,7 +14,7 @@ intra-cluster programmes.</p>
 within NHG Health cluster through 3 domains:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Domain A: Innovation Expertise</p>
+<p>Domain A: Global Innovation Visiting Expert</p>
 </li>
 <li>
 <p>Domain B: Cluster Adoption and Scale</p>
@@ -26,7 +26,7 @@ within NHG Health cluster through 3 domains:</p>
 <p>&nbsp;NASH Innovation Fund is only applicable to NHG Health employed staff.</p>
 <p>For more information, please contact us at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
 <hr>
-<h4><strong>Domain A - Innovation Expertise</strong></h4>
+<h4><strong>Domain A - Global Innovation Visiting Expert</strong></h4>
 <p>Domain A aims to provide funding to invite overseas experts to share innovative
 ideas, best-in-class tools and practices, to build thought leadership and
 transform healthcare in NHG Health institutions.</p>
@@ -49,20 +49,6 @@ on our regional health with NHG Health’s role as regional manager.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Applicants must be NHG Health employed staff.</p>
-</li>
-<li>
-<p>This funding excludes Research and HMDP Experts focusing on clinical service.</p>
-</li>
-<li>
-<p>Co-funding of any visiting expert(s) who has been invited for other than
-a Domain A Purpose <strong>will not be allowed</strong> (e.g. Applicant intends
-to use NASH Domain A fund to co-fund expert’s cost for Conference/Event
-X).</p>
-</li>
-<li>
-<p>However, a back-to-back funding for a Domain A Purpose in conjunction
-with another event <strong>is allowed</strong> (e.g. Expert is engaged for
-Conference/Event X from Day 1-3, and is engaged for a NASH</p>
 <p><u>Exclusion criteria:</u>
 </p>
 </li>
@@ -156,6 +142,69 @@ Partnership Office) at:</p>
 </p>
 <p>&nbsp;You may also approach your CHI@Campus Offices for endorsement and
 submission details.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Institution</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Contact</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@IMH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">samantha.ong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@KTPH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">teh.corrine.yf@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@PopHealth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">malcolm.wl.wong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@TTSH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@WH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yan_yan@wh.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <h4><strong>Domain B - Cluster Adoption and Scale</strong></h4>
@@ -168,26 +217,37 @@ proven innovation solutions from originating NHG Health institutions.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful validated solution:</p>
-<p>o&nbsp;&nbsp; Solution to be adopted can either be existing solution that
-has been validated <u>or</u> that can address unmet healthcare need.</p>
-<p>o&nbsp;&nbsp; The solution should be a proven innovative solution with
-promising clinical outcome and commercially viable (or sustainable).</p>
-<p>o&nbsp;&nbsp; Solution must have clear benefits to NHG Health and is aligned
-to NHG Health strategic goals &amp; enablers.</p>
-<p>o&nbsp;&nbsp; Has obtained interest for cross institution deployment</p>
+<p>Project Lead must hold a primary full-time appointment (defined as a minimum
+commitment of nine months per year) in NHG Health.</p>
 </li>
 <li>
-<p>Project team should comprise of at least 2 NHG Health institutions in
-mainstreaming the solutions to at least 2 NHG Health institutions.</p>
-<p>o&nbsp;&nbsp; The NHG Health institution with the validated solution (i.e.
-Originating/Native institution) is eligible for the fund as long as the
-originating institution is either enhancing the solution for mainstreaming
-within their institution or involved in the mainstreaming of adopting NHG
-Health institution in the form of providing consultancy and advice.</p>
+<p>The NASH Innovation Fund Domain B is only applicable for proposed project
+that aims to implement a validated and proven innovation solution in at
+least 2 NHG Health institutions that aligned to NHG Health strategic goals
+&amp; enablers.</p>
+</li>
+</ul>
+<p>o&nbsp;&nbsp; On “involvement of at least 2 NHG Health institutions” encompasses
+the following example:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The NHG Health institution with the validated solution (i.e. “originating
+institution”) is eligible for the fund and is considered involved if the
+originating institution is also enhancing the validated solution within
+originating institution or providing support to at least another NHG institution(s)
+(i.e. “adopting institution(s)”).</p>
 </li>
 <li>
-<p>Applicants must be NHG Health employed staff.</p>
+<p>If the originating institution intends to enhance the solution through
+this proposed project, the adopting institution should also implement the
+enhanced version of solution as well.</p>
+</li>
+<li>
+<p>For example:</p>
+<p>The solution is TTSH 3D Printing solution (version 1.0) where both TTSH
+and KTPH have proposed to tap on NASH Domain B fund. In the case where
+the scope of project involves TTSH enhancing 3D solution from version 1.0
+to 2.0, then KTPH should implement version 2.0 instead of 1.0.</p>
 </li>
 </ul>
 </div>
@@ -229,8 +289,8 @@ Panel and participate in a Q&amp;A session.</p>
 <p>Award results will be announced via email in Feb 2026.</p>
 </li>
 <li>
-<p>Project duration should commence <u>within</u> FY2026, with no further extension
-beyond the FY.</p>
+<p>Project duration should commence <u>within</u> FY2026 with a maximum duration
+of 12 months. &nbsp;</p>
 </li>
 </ul>
 </div>
@@ -243,6 +303,69 @@ beyond the FY.</p>
 Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
 <p>You may also approach your CHI@Campus Offices for endorsement and submission
 details.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Institution</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Contact</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@IMH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">samantha.ong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@KTPH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">teh.corrine.yf@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@PopHealth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">malcolm.wl.wong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@TTSH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@WH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yan_yan@wh.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
@@ -297,7 +420,7 @@ to endorse.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Project should obtain endorsement by the institutions’ HOD or C-Suite
-before submitting application to Main POC (Camelia from CHI Kaizen).</p>
+before submitting application to CHI Living Lab (CHILL).</p>
 </li>
 <li>
 <p>Shortlisted teams would be invited to a full-day design workshop by CHILL
@@ -305,7 +428,8 @@ and given 1 month time to develop their design and pitch.</p>
 </li>
 <li>
 <p>Award results will be announced post-pitching session.</p>
-<p>o&nbsp;&nbsp; Project duration would commence in FY2026.</p>
+<p>o&nbsp;&nbsp; More details would be released in Oct 2025, and funding
+would commence in FY2026.</p>
 <p>o&nbsp;&nbsp; Project prototype development and support will be provided
 by CHILL.</p>
 </li>
@@ -320,6 +444,9 @@ by CHILL.</p>
 Kaizen Office - CHILL) at:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Camelia Soh: <a rel="noopener noreferrer nofollow" target="_blank">camelia.soh@nhghealth.com.sg</a>
 </p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Javier Tan: <a rel="noopener noreferrer nofollow" target="_blank">javier.jk.tan@nhghealth.com.sg</a>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[MN1]</a>&nbsp;</p>
+<p></p>
 </div>
 </details>
 </div>
