@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Funding Programmes
 ---
-<h4><strong>About the NHG Health Coordinating Party Scheme</strong></h4>
+<h2>About the NHG Health Coordinating Party Scheme</h2>
 <h4>CP is now OPEN for Nomination!</h4>
 <p><strong>For CP – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
