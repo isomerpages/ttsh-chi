@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Adoption &amp; Scale Healthcare Innovation Fund</h2>
-<h4><strong>NASH Domain B grant call in now OPEN!</strong></h4>
+<h4><strong>NASH Domain B grant call is now OPEN!</strong></h4>
 <p><strong>For NASH Domain B – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
 <p><strong>Join us for our grants information session (virtual)</strong>
