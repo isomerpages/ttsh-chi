@@ -64,10 +64,10 @@ and eventual adoption by the healthcare system.</p>
 </li>
 </ul>
 <h4><strong>Types of Projects Supported</strong></h4>
-<p>Three Focus Areas (Non-Exhaustive):</p>
+<p>Four Focus Areas (Non-Exhaustive):</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sensors and Wearables (S&amp;W)</strong>
+<summary><strong>a)&nbsp;&nbsp;&nbsp;Sensors and Wearables (S&amp;W)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Innovation that uses S&amp;W. For primary care applications, we are hoping
@@ -84,11 +84,18 @@ patient outcomes, and/or user satisfaction per use case.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>c)&nbsp;&nbsp;&nbsp;&nbsp;Robotics and Automation (R&amp;A)</strong>
+<summary><strong>c)&nbsp;&nbsp;&nbsp;Robotics and Automation (R&amp;A)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Innovations that employ assistive and robotics solutions in back and front
 room operations</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>d)   Digital Solutions (DS)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Innovations that use technology-based tools, systems, or services.</p>
 </div>
 </details>
 </div>
@@ -104,7 +111,8 @@ improved with respect to its characteristics or intended uses.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Process Innovation</summary>
+<summary><strong>Process Innovation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>refers to the implementation of a new of significantly improved delivery
 method, with / without innovative technology, to improve core processes
@@ -112,7 +120,8 @@ and operational efficiencies to reach intended productivity goals.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Business Transformation</summary>
+<summary><strong>Business Transformation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>refers to transforming the way we serve the population and patients as
 One Healthcare. This includes operation models, service models, business
@@ -120,7 +129,8 @@ process re-engineering and digitalization.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Workforce Transformation</summary>
+<summary><strong>Workforce Transformation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>refers to transforming our workforce so as to be productive, sustainable
 and future-ready. This includes workforce restructuring, capability building,
@@ -128,7 +138,8 @@ jobs redesign, productivity and building a strong local core.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Organizational transformation</summary>
+<summary><strong>Organizational transformation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>refers to transforming the internal design and workings of agencies so
 that they remain healthy, effective and future-ready. This includes leadership
@@ -255,4 +266,67 @@ via email.</p>
 <p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
 <p>You may also approach your CHI@Campus Offices for nomination details.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Institution</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Contact</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@IMH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">samantha.ong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@KTPH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">teh.corrine.yf@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@PopHealth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">malcolm.wl.wong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@TTSH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHI@WH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yan_yan@wh.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
