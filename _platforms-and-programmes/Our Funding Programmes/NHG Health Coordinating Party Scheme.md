@@ -92,7 +92,7 @@ room operations</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>d)   Digital Solutions (DS)</strong>
+<summary><strong>d) Digital Solutions (DS)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Innovations that use technology-based tools, systems, or services.</p>
