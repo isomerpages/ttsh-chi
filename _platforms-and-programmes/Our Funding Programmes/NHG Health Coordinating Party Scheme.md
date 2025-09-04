@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Our Funding Programmes
 ---
-<h4><strong>About the NHG Health Coordinating Party Scheme</strong></h4>
-<p></p>
+<h2>About the NHG Health Coordinating Party (CP) Scheme</h2>
+<h4>CP is now OPEN for Nomination!</h4>
 <p><strong>For CP – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
 <p>&nbsp;<strong>Join us for our grants information session (virtual)</strong>
@@ -104,7 +104,7 @@ room operations</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>d)   Digital Solutions (DS)</strong>
+<summary><strong>d) Digital Solutions (DS)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Innovations that use technology-based tools, systems, or services.</p>
