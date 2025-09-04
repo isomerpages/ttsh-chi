@@ -7,10 +7,7 @@ third_nav_title: Our Funding Programmes
 ---
 <h2>About the Ng Teng Fong Healthcare Innovation Programme</h2>
 <p><strong>For NTF HIP – Application Form and Info Pack details</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
 <hr>
 <p>The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up
 with a generous gift from the family of the late Mr Ng Teng Fong to Tan
