@@ -6,6 +6,22 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h4><strong>About the NHG Health Coordinating Party Scheme</strong></h4>
+<p></p>
+<p><strong>For CP – Application Form and Info Pack details</strong>
+</p>
+<p></p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
+<p>&nbsp;<strong>Join us for our grants information session (virtual)</strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>10 September 2025, 8am to 9am</strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>17 September 2025, 5.30pm to 6.30pm</strong>
+</p>
+<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Meet us for a pre-submission <a rel="noopener noreferrer nofollow" target="_blank">consultation</a></strong>
+<a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[L(3]</a>&nbsp;</p>
+<p></p>
 <p>Supported by MOH Health Innovation (MHI) Fund 2.0, the Coordinating Party
 (CP) Scheme aims to provide holistic support for innovation towards adoption
 and scale of:</p>
