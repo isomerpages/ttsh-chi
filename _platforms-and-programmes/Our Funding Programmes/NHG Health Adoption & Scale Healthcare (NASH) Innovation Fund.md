@@ -44,6 +44,8 @@ within NHG Health cluster through 3 domains:</p>
 <p>Domain A aims to provide funding to invite overseas experts to share innovative
 ideas, best-in-class tools and practices, to build thought leadership and
 transform healthcare in NHG Health institutions.</p>
+<p>Domain A Application Info Pack can be downloaded <a href="https://for.sg/nash-give-package" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <details class="isomer-details">
 <summary><strong>Eligibility Criteria</strong>
 </summary>
@@ -149,11 +151,9 @@ Programme Lead will be approached via email to furnish any further clarification
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For more information on Domain A, please contact main contact office (CHI
-Partnership Office) at:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Michelle Lee: <a rel="noopener noreferrer nofollow" target="_blank">michelle.sw.lee@nhghealth.com.sg</a>
+Partnership Office) at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a> 
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Patricia Chin: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">patricia.chin@nhghealth.com.sg</a>
-</p>
+<p></p>
 <p>&nbsp;You may also approach your CHI@Campus Offices for endorsement and
 submission details.</p>
 <table style="minWidth: 50px">
