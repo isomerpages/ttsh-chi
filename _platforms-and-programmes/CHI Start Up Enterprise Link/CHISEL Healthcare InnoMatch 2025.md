@@ -121,19 +121,40 @@ third_nav_title: CHI Start Up Enterprise Link
 </tbody>
 </table>
 <h2>Meet Our Judges</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL Healthcare InnoMatch 2025 Judges" src="/images/CHISEL/Profile_Pic_High_Res.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Professor Aymeric Lim Yu Tang MBBS, FRCS (Glas), FAMS</div>
+<div class="isomer-card-description">Chief Executive Officer National University Hospital (NUH) NUHS</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/CEO_staff_ID_2025.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Adjunct Professor Tang Kong Choon MBBS (S’pore), MMed (Anaesthesiology)</div>
+<div class="isomer-card-description">CEO Tan Tock Seng Hospital (TTSH) NHG Health</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/Tan_Hiang_Khoon.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Clinical Associate Professor Tan Hiang Khoon</div>
+<div class="isomer-card-description">CEO Singapore General Hospital (SGH) SingHealth</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
