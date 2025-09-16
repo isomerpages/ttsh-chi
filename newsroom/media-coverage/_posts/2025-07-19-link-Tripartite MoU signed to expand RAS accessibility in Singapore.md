@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://sbr.com.sg/healthcare/news/tripartite-mou-signed-expand-ras-accessibility-in-singapore
+external: https://sbr.com.sg/healthcare/news/tripartite-mou-signed-expand-ras-accessibility-in-singapore
 ---
