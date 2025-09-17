@@ -14,6 +14,7 @@ third_nav_title: CHI Start Up Enterprise Link
 </p>
 <p>For enquiries, please email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u> </u>or visit <a href="https://for.sg/chisel2025pitch" rel="noopener nofollow" target="_blank">https://for.sg/chisel2025pitch</a>
 </p>
+<h2>CHISEL 2025 Final Pitching Event Programme Outline</h2>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -82,8 +83,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <td rowspan="1" colspan="1">
 <p><strong>Sharing by Enterprise Singapore</strong>
 </p>
-<p><em>Find out more about Enterprise Singapore’s Deep tech startup pitching competition – SLINGSHOT 2025</em>
-</p>
+<p>Please stay tuned for more information</p>
 </td>
 </tr>
 <tr>
@@ -94,8 +94,9 @@ third_nav_title: CHI Start Up Enterprise Link
 <td rowspan="1" colspan="1">
 <p><strong>Networking Lunch</strong>
 </p>
-<p><em>Check out the booths by CHISEL 2025’s finalists and past CHISEL winners, learn about some of our partner Healthcare Cluster’s Innovation Hubs and find out more about our partners’ programme for start-ups”</em>
-</p>
+<p>Check out the booths by CHISEL 2025 Finalists, learn about some of our
+partner Healthcare Cluster’s Innovation Hubs and find out more about our
+partners’ programme for start-ups!</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +121,7 @@ third_nav_title: CHI Start Up Enterprise Link
 </tr>
 </tbody>
 </table>
-<h2>Meet Our Judges</h2>
+<h2>&nbsp;Meet Our Judges</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -157,6 +158,42 @@ third_nav_title: CHI Start Up Enterprise Link
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/41fa9abc_f25b_479e_b4aa_72c4b1abfc7a_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Lim Cher Wee</div>
+<div class="isomer-card-description">Executive Director and Director, Integrated General Hospital MOH Office
+for Healthcare Transformation, Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/Kee_Kirk_Chuen___headshot.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Kee Kirk Chuen</div>
+<div class="isomer-card-description">Head, Health &amp; Well-being, Temasek Foundation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/ebdda5de_d28c_4f0c_bf8c_ebb9ac5191ed__1___1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Glenn Neo Boon Sen</div>
+<div class="isomer-card-description">Director, Innovation Capabilities Enablement Synapxe Pte Ltd</div>
+</div>
+</div>
+</div>
 <p></p>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
