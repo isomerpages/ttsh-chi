@@ -167,13 +167,13 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Lim Cher Wee</div>
 <div class="isomer-card-description">Executive Director and Director, Integrated General Hospital MOH Office
-for Healthcare Transformation,Singapore</div>
+for Healthcare Transformation, Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/Kee_Kirk_Chuen___headshot.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
