@@ -14,6 +14,150 @@ third_nav_title: CHI Start Up Enterprise Link
 </p>
 <p>For enquiries, please email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u> </u>or visit <a href="https://for.sg/chisel2025pitch" rel="noopener nofollow" target="_blank">https://for.sg/chisel2025pitch</a>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8:00AM – 8.45AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Registration</strong>
+</p>
+<p>Morning refreshments provided, please be seated by 8.40AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8.45AM – 9.00AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Opening of Event by Emcees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>9.00 AM – 10.15 AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Finalists’ Pitch and Q&amp;A</strong>
+</p>
+<p>– 1st segment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10.15 AM – 10.25 AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Admin Break</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10.25 AM – 11.45 AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Finalists’ Pitch and Q&amp;A</strong>
+</p>
+<p>– 2nd segment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>11.45 AM – 11.55 AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sharing by Enterprise Singapore</strong>
+</p>
+<p><em>Find out more about Enterprise Singapore’s Deep tech startup pitching competition – SLINGSHOT 2025</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>11.55 AM – 12.50 PM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Networking Lunch</strong>
+</p>
+<p><em>Check out the booths by CHISEL 2025’s finalists and past CHISEL winners, learn about some of our partner Healthcare Cluster’s Innovation Hubs and find out more about our partners’ programme for start-ups”</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>12.50 PM – 1.30 PM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Results Announcement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.30 PM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event Ends</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Meet Our Judges</h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL Healthcare InnoMatch 2025 Judges" src="/images/CHISEL/Profile_Pic_High_Res.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Professor Aymeric Lim Yu Tang MBBS, FRCS (Glas), FAMS</div>
+<div class="isomer-card-description">Chief Executive Officer National University Hospital (NUH) NUHS</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/CEO_staff_ID_2025.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Adjunct Professor Tang Kong Choon MBBS (S’pore), MMed (Anaesthesiology)</div>
+<div class="isomer-card-description">CEO Tan Tock Seng Hospital (TTSH) NHG Health</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHISEL 2025" src="/images/CHISEL/Tan_Hiang_Khoon.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Clinical Associate Professor Tan Hiang Khoon</div>
+<div class="isomer-card-description">CEO Singapore General Hospital (SGH) SingHealth</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
 including increasing patient complexities, the need to provide better,
