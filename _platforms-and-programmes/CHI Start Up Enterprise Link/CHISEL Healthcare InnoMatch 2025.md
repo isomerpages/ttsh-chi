@@ -338,6 +338,99 @@ Fund, Gobi Partners, Particle X, HKUST, and Cyberport. The company develops
 devices and solutions for preventive healthcare and chronic disease management.
 Gense is also the winner of Jumpstarter 2022, Forbes 100 to Watch, and
 ICT Startup Awards Grand Award.</p>
+<p></p>
+<p><strong>Solution:</strong>
+<br>Gense offers mediscan, a medical imaging device for preventive screening
+and chronic disease monitoring in lung, liver, and kidney. Applicable for
+home care and primary care, the device monitors some of the most prevalent
+chronic diseases including lung function, fatty liver disease, and chronic
+kidney disease. Specifically, users can connect the palm-sized IoT device
+to their tablets, follow simple in-app instructions for 1-minute zero-radiation
+scans, and receive easy-to-read clinically-benchmarked results within minutes
+via cloud-based AI algorithms. Generated reports allow for actionable insights,
+such a diet and exercise, for personalised health improvement. Mediscan
+is deployed in clinics, corporate healthcare services, home care services,
+elderly services, and more. The device is operable by social workers for
+high-throughput and scalable screening services. The technology is developed
+by a team of PhDs and researchers in Hong Kong, and clinically validated
+at the University of Hong Kong and Queen Mary Hospital. The research has
+generated 9 patents and has been published in 19 publications including
+Nature Scientific Reports. Mediscan is also an accredited medical electrical
+equipment under IEC60601 with ISO 13485 Medical Device certification.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>GyroGear Pte Ltd</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>GyroGear is a neurotech company restoring independence to people with
+hand tremors. Our flagship product, GyroGlove 1.0, is the world’s most
+advanced hand stabiliser. It uses high performance mechanical gyroscopes
+to instantly steady the hand. Non-invasive and drug-free, it empowers users
+to regain confidence and control in daily life.
+<br>
+<br><strong>Solution:</strong>
+<br>Approximately 200 million individuals globally suffer from lifelong, incurable
+hand tremors (Parkinson’s disease, essential tremor). Today’s therapies
+are inadequate - medication has significant side effects, whilst neurosurgery
+remains risky. Wearable options remain extremely limited. GyroGlove 1.0
+thus provides instant restoration of quality of life. Yet patients face
+minimal long-term care options - misdiagnoses are high, treatment options
+are limited, and tremors are extremely variable and poorly understood clinically.
+Navigating side-effects, physiotherapy, mental health, stigma etc in old
+age is taxing. We are thus building GyroCare, the world’s first tremor
+management ecosystem. GyroGlove instantly steadies hands, whilst embedded
+sensors quantify tremor patterns. Patients gain real-time feedback and
+restored independence; clinicians receive objective, longitudinal data
+to guide treatment. Integration of patient and clinician access greatly
+accelerates optimisation of GyroCare’s AI and interaction interfaces. Reinforcement
+learning algorithms adapt to highly variable tremor severities, subtypes
+and progression, providing timely, clinically meaningful alerts while conserving
+device energy. Users and families finally have organised, actionable information
+of a complex, life-long condition. Physicians too have always asked us
+for continuous monitoring, early warnings, multimodal treatment optimisation,
+multi-disease capability etc.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>LIFESCAPES Inc.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>LIFESCAPES, a Keio University–origin startup, develops brain-computer
+interface (BCI) technology to restore motor function for patients with
+severe paralysis caused by stroke or spinal cord injury. Our mission is
+to enable patient recovery, improve quality of life, and support healthcare
+providers with innovative, clinically validated rehabilitation solutions.
+<br>
+<br><strong>Solution:</strong>
+<br>LIFESCAPES’ BCI solution enables patients with severe motor impairments,
+traditionally considered untreatable, to regain hand function. Using EEG
+biomarkers, the system monitors brain activity linked to motor intention,
+allowing real-time detection of movement attempts. This signal is translated
+into precise interventions via wearable robotics and electrical stimulation,
+creating an effective rehabilitation loop.</p>
+<p>Our technology integrates patient-led, autonomous training with clinical
+workflows. The BCI system automatically adjusts intervention intensity
+based on the patient’s progress, while EEG and AI-derived insights can
+guide rehabilitation strategies, such as prioritizing functional recovery
+or activities of daily living. This approach reduces dependency on continuous
+supervision and allows healthcare providers to focus on high-priority tasks.</p>
+<p>Clinically validated in over 800 cases in Japan, our solution demonstrates
+significant motor recovery within two weeks of training, far shorter than
+competing devices requiring 12-week protocols. Its design supports home
+and inpatient use, enhancing accessibility, efficiency, and patient engagement.
+By combining physiological monitoring with adaptive therapy, LIFESCAPES’
+BCI technology improves patient outcomes, shortens hospitalization, and
+offers scalable, evidence-based rehabilitation for global markets.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Nalagenetics</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
