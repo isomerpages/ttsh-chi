@@ -430,7 +430,54 @@ offers scalable, evidence-based rehabilitation for global markets.</p>
 <summary><strong>Nalagenetics</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description</strong>
+</p>
+<p>Nalagenetics develops highly accurate predictive genetic testing for diverse
+populations at risk of cardiovascular, metabolic, cancer, and neurodegenerative
+diseases.</p>
 <p></p>
+<p><strong>Solution:</strong>
+</p>
+<p>Nala Clinical Decision Support (RxMax) is an end-to-end pharmacogenomics
+(PGx) platform that embeds genetic insights into everyday prescribing to
+reduce adverse drug reactions (ADRs) and improve treatment precision. In
+Singapore, ADRs contribute to 8.1% of hospital admissions and cost the
+healthcare system over USD 168 million annually—many of which are preventable.</p>
+<p>RxMax combines four components: an AI-powered chatbot to streamline pre-test
+consultations, a bioinformatics engine compatible with multiple sequencing
+technologies, an EHR-integrated clinical decision support (CDS) platform,
+and a patient-facing mobile app for report access and sharing. To ensure
+operational readiness, Nala has partnered with a CAP-accredited lab in
+Singapore for sample processing and is in the process of integrating with
+the National Electronic Health Record (NEHR) to enable seamless prescribing
+support.</p>
+<p>o Validated in clinical pilots with PRECISE (Singapore) and Raffles Medical
+Group, RxMax has demonstrated high prevalence of actionable PGx variants
+(95%) and real-world prescription adjustments (21.2%). Regionally, it has
+supported over 10,000 reports in Indonesia’s BGSi</p>
+<p>population sequencing program, proving scalability across diverse healthcare
+systems. With flexible, platform-agnostic deployment, RxMax enables safer,
+cost-effective prescribing in cardiology, oncology, psychiatry, and beyond—aligning
+with Singapore’s precision medicine agenda while delivering measurable
+reductions in ADRs, hospital readmissions, and healthcare costs.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>NDR Medical Technology</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:<br></strong>NDR Medical develops AI Image-guided
+solution to enable safe and accurate interventional access into different
+anatomy targeting lesions and nodules, enabling early detection and treatment
+of cancer and superior clinical outcome for surgical procedures.</p>
+<p></p>
+<p><strong>Solution:</strong>
+<br>NDAnalyzer is a software solution to assist Surgeons and Interventional
+Radiologists during pre-op planning and intra-op procedure. The 3D segmentation
+and nodule identification feature makes it ideal during patient consultation,
+providing a visual explanation of treatment plans. The software can be
+integrated to PACS System for seamless receiving of Patient DICOM scans
+either in real-time or with post scan analysis.</p>
 </div>
 </details>
 </div>
