@@ -6,15 +6,9 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Adoption &amp; Scale Healthcare Innovation Fund</h2>
-<h4><strong>NASH Domain B grant call is now OPEN!</strong></h4>
-<p><strong>For NASH Domain B – Application Form and Info Pack details</strong>
+<h4><strong>NASH Domain A (GIVE) and Domain B grant calls are now OPEN!</strong></h4>
+<p><strong>For NASH Domain A (GIVE) and Domain B – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
-<p><strong>Join us for our grants information session (virtual)</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>10 September 2025, 8am to 9am</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>17 September 2025, 5.30pm to 6.30pm</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/chigrantssharing"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_icon__002_.png"></a>
 <p><strong>Meet us for a pre-submission consultation</strong>&nbsp;</p>
 <a class="isomer-image-wrapper" href="https://for.sg/presubmission-consultation">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_icon__002_.png">
@@ -151,7 +145,7 @@ Programme Lead will be approached via email to furnish any further clarification
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For more information on Domain A, please contact main contact office (CHI
-Partnership Office) at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a> 
+Partnership Office) at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p>&nbsp;You may also approach your CHI@Campus Offices for endorsement and
