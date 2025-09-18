@@ -480,6 +480,32 @@ integrated to PACS System for seamless receiving of Patient DICOM scans
 either in real-time or with post scan analysis.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Oncoustics AI</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>Oncoustics creates advanced AI solutions for low cost, noninvasive surveillance,
+diagnostics, and treatment monitoring of diseases with high unmet clinical
+need. By applying AI to raw ultrasound signals, we reveal novel acoustic
+biomarkers and perform virtual biopsies thereby avoiding expensive and
+invasive diagnostics for better triage and early interventions.
+<br>
+<br><strong>Solution:</strong>
+<br>The OnX Liver Assessment Solution is indicated for non-invasive ultrasound
+acquisition and provides estimates of stiffness as well as measurement
+of the ultrasound attenuation coefficient. The estimates of stiffness and
+ultrasound attenuation measurements may be used as an aid to diagnosis
+and monitoring of adult patients with liver disease, as part of an overall
+assessment of the liver.</p>
+<p>OnX is a clinical decision support tool that is predicated on Fibroscan
+(transient elastography) and shearwave elastography to enable . Unlike
+these devices however, the OnX is low cost and pocket sized and, as the
+solution guides the data acquisition, it does not require a trained sonographer
+to perform the exam. Since the results are quantitative, it does not require
+a radiologist to interpret the exam.</p>
+</div>
+</details>
 </div>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
