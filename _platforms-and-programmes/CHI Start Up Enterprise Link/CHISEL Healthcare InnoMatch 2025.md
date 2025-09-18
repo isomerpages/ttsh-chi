@@ -310,7 +310,34 @@ automated and human-guided lesion management, our solutions enhance radiology
 workflows, reduce missed findings, and enable faster, more accurate diagnoses,
 driving better outcomes and improved care for patients worldwide.</p>
 <p></p>
-<p>Solution</p>
+<p><strong>Solution:</strong>
+<br>Early detection of kidney cancer can be challenging because symptoms can
+often be non-specific and easily misattributed to other common conditions.
+Research shows that over 60% of kidney cancer cases are detected incidentally
+(Bradley et al., 2021).</p>
+<p>BMVision Kidney is the world’s first CE-marked and clinically validated
+AI model for detecting and characterising kidney lesions from contrast-enhanced
+computed tomography (CT) scans. The solution identifies lesions with malignant
+and benign features and automatically provides key measurements, including
+volume, true longest dimension, and three orthogonal dimensions. Fully
+compliant with DICOM standards, it integrates seamlessly into PACS, with
+flexible cloud-based deployment available.</p>
+<p>In a study at Tartu University Hospital, Estonia, combining BMVision Kidney
+with radiologists achieved 99.2% sensitivity when detecting lesions with
+malignant characteristics, and 95% for lesions with benign characteristics
+(publication pending).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Gense Technologies</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>Gense is a health screening device company backed by Alibaba Entrepreneurs
+Fund, Gobi Partners, Particle X, HKUST, and Cyberport. The company develops
+devices and solutions for preventive healthcare and chronic disease management.
+Gense is also the winner of Jumpstarter 2022, Forbes 100 to Watch, and
+ICT Startup Awards Grand Award.</p>
 </div>
 </details>
 </div>
