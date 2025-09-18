@@ -15,7 +15,6 @@ third_nav_title: CHI Start Up Enterprise Link
 <p>For enquiries, please email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a>
 </p>
 <h2>CHISEL 2025 Final Pitching Event Programme Outline</h2>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -83,7 +82,8 @@ third_nav_title: CHI Start Up Enterprise Link
 <td rowspan="1" colspan="1">
 <p><strong>Sharing by Enterprise Singapore</strong>
 </p>
-<p>Please stay tuned for more information</p>
+<p><em>Find out more about Enterprise Singapore’s Deep tech startup pitching competition – SLINGSHOT 2025</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,9 +94,8 @@ third_nav_title: CHI Start Up Enterprise Link
 <td rowspan="1" colspan="1">
 <p><strong>Networking Lunch</strong>
 </p>
-<p>Check out the booths by CHISEL 2025 Finalists, learn about some of our
-partner Healthcare Cluster’s Innovation Hubs and find out more about our
-partners’ programme for start-ups!</p>
+<p><em>Check out the booths by CHISEL 2025’s finalists and past CHISEL winners, learn about some of our partner Healthcare Cluster’s Innovation Hubs and find out more about our partners’ programme for start-ups”</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -195,6 +194,10 @@ for Healthcare Transformation, Singapore</div>
 </div>
 </div>
 <h2>Meet Our Finalists</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_2025_Finalists.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>16 Bit</strong>
