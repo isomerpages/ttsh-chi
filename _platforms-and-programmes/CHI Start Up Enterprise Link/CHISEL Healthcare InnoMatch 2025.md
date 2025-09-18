@@ -12,7 +12,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <p>
 <br><strong>Sign up <a href="https://for.sg/chisel2025pitch" rel="noopener nofollow" target="_blank">here </a>to witness the CHISEL 2025 Final Pitching Event—where innovation takes the stage!</strong>
 </p>
-<p>For enquiries, please email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a><u> </u>or visit <a href="https://for.sg/chisel2025pitch" rel="noopener nofollow" target="_blank">https://for.sg/chisel2025pitch</a>
+<p>For enquiries, please email us at <a href="chisel@chi.sg" rel="noopener nofollow" target="_blank">chisel@chi.sg</a>
 </p>
 <h2>CHISEL 2025 Final Pitching Event Programme Outline</h2>
 <p></p>
@@ -194,7 +194,126 @@ for Healthcare Transformation, Singapore</div>
 </div>
 </div>
 </div>
+<h2>Meet Our Finalists</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>16 Bit</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>16 Bit is a Canadian medical imaging AI company founded by radiologists,
+developing Rho™, an opportunistic osteoporosis screening tool. By analyzing
+routine X-rays, Rho identifies patients with low bone mineral density who
+may benefit from DXA testing. Their mission is to improve the quality,
+efficiency, and accessibility of preventive healthcare globally.
+<br>
+<br><strong>Solution:</strong>
+</p>
+<p>Rho™ is a Health Canada, U.S. FDA, Australian TGA and Singapore HSA–approved
+AI software-as-a-medical-device (SaMD) that enables opportunistic osteoporosis
+screening using routine X-rays. Osteoporosis often remains undiagnosed
+until fractures occur, yet millions of chest, spine, pelvis, and extremity
+X-rays are performed each year without bone health assessment. Rho analyzes
+these existing images to generate a score from 1 to 10, identifying patients
+at increased risk of low bone mineral density. Patients with a positive
+Rho result (score ≥ 6) can then be referred for DXA scanning, the diagnostic
+gold standard. This approach unlocks new value from existing imaging workflows,
+improves early detection rates, and facilitates preventive interventions
+to reduce fracture risk. Deployed in radiology, orthopedic and primary
+care clinics, Rho supports clinicians in identifying at-risk patients,
+increases DXA referrals, and strengthens quality of care while generating
+new revenue opportunities for providers. With approvals across multiple
+regulatory jurisdictions and expanding partnerships in the Americas, Asia,
+and Europe, Rho is poised to become the global standard for opportunistic
+osteoporosis screening.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Acorai</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>Acorai is a Swedish MedTech company transforming heart failure management
+through a non-invasive, FDA Breakthrough–designated device for right- and
+left-sided cardiac pressure monitoring. Using our patented SAVE Sensor
+System and proprietary datasets, Acorai enables faster diagnosis, personalized
+therapy, and reduced hospital readmissions, improving outcomes for patients
+and healthcare systems.
+<br>
+<br><strong>Solution:</strong>
+</p>
+<p>Acorai has developed a breakthrough solution for heart failure management:
+the only non-invasive device capable of accurately estimating both right
+atrial and pulmonary capillary wedge pressures. Current gold-standard methods,
+such as right heart catheterization, are invasive, resource-intensive,
+and impractical for routine monitoring. Acorai’s device, powered by the
+patented SAVE Sensor System, combines seismic, acoustic, visual, and electric
+biosignals analyzed through advanced machine learning trained on a proprietary
+global dataset of more than 2,000 patients.</p>
+<p>In clinical validation studies across 20 leading hospitals in the US,
+Europe, and Canada, Acorai has demonstrated superior accuracy to existing
+non-invasive tools, meeting and exceeding clinical requirements for pressure
+assessment. The device records data in</p>
+<p>just five minutes and provides actionable pressure estimates directly
+at the bedside or in community care. This enables earlier detection of
+congestion, more precise therapy personalization, and optimized discharge
+decisions.</p>
+<p>By spanning the entire patient journey - from emergency triage and inpatient
+monitoring to long-term community management - Acorai delivers faster,
+more cost-effective care while reducing costly readmissions. With over
+$13M invested, multiple patents granted, and FDA/EU approvals anticipated
+in 2026, Acorai is uniquely positioned to reshape heart failure therapy
+and generate significant clinical and economic impact.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>AI Medical Service (AIM)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>AI Medical Service (AIM) is a Tokyo-headquartered startup dedicated to
+eliminating gastrointestinal (GI) cancers through AI-powered endoscopy.
+By enhancing early detection and reducing diagnostic oversight, AIM empowers
+clinicians to identify cancers earlier, improving patient outcomes and
+addressing the global shortage of skilled endoscopists.</p>
 <p></p>
+<p><strong>Solution:</strong>
+<br>gastroAI is AI Medical Service’s real-time, AI-powered diagnostic support
+tool that helps endoscopists detect early-stage gastric cancers during
+upper GI endoscopy. Designed to reduce missed detections, gastroAI acts
+as an extra set of expert eyes, enabling earlier and more accurate diagnoses
+when treatment is most effective.</p>
+<p>The system integrates seamlessly into existing clinical workflows. It
+is plug-and-play, requiring only a single cable connection to standard
+Olympus or Fujifilm endoscope systems, with no changes to hospital infrastructure.
+AI-generated confidence scores appear in real time on a second monitor
+or the main screen whenever the endoscopist captures an image of the inside
+of the stomach.</p>
+<p>gastroAI is HSA-approved in Singapore and built with data privacy and
+reliability in mind. It operates fully offline and unidirectionally, ensuring
+no patient data is stored or transmitted and eliminating risks linked to
+network failures.</p>
+<p>Patients benefit from earlier detection, improved survival, reduced anxiety,
+and lower treatment costs. Endoscopists gain better diagnostic accuracy,
+less fatigue, and fewer unnecessary biopsies, all without disrupting existing
+workflows.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Better Medicine</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Company Description:</strong>
+<br>Better Medicine leverages AI to transform oncology diagnostics, ensuring
+cancers are detected earlier and monitored more effectively. By combining
+automated and human-guided lesion management, our solutions enhance radiology
+workflows, reduce missed findings, and enable faster, more accurate diagnoses,
+driving better outcomes and improved care for patients worldwide.</p>
+<p></p>
+<p>Solution</p>
+</div>
+</details>
+</div>
 <h2>Theme</h2>
 <p>Hospitals currently face significant challenges in the delivery of healthcare,
 including increasing patient complexities, the need to provide better,
