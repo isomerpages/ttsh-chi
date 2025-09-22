@@ -9,13 +9,7 @@ third_nav_title: Our Funding Programmes
 <h4>CP is now OPEN for Nomination!</h4>
 <p><strong>For CP – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
-<p>&nbsp;<strong>Join us for our grants information session (virtual)</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>10 September 2025, 8am to 9am</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>17 September 2025, 5.30pm to 6.30pm</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/chigrantssharing"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_icon__002_.png"></a>
-<p><strong>Meet us for a pre-submission consultation</strong>
+<p>&nbsp;<strong>Meet us for a pre-submission consultation</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/presubmission-consultation"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_icon__002_.png"></a>
 <p></p>
 <p>Supported by MOH Health Innovation (MHI) Fund 2.0, the Coordinating Party
