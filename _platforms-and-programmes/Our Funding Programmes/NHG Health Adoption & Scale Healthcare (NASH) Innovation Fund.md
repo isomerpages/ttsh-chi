@@ -236,8 +236,8 @@ least 2 NHG Health institutions that aligned to NHG Health strategic goals
 &amp; enablers.</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; On “involvement of at least 2 NHG Health institutions” encompasses
-the following example:</p>
+<p>o&nbsp;&nbsp; On “application/ involvement of at least 2 NHG Health institutions”
+encompasses the following example:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The NHG Health institution with the validated solution (i.e. “originating
