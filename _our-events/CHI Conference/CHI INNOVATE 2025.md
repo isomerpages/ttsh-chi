@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Conference
 ---
+<h4><strong>CHI INNOVATE 2025 has concluded.</strong><br>Thank you for joining us on 10–11 July as we explored how AI is transforming healthcare.<br>🎥 Post-conference video highlights and session recordings will be available here soon—watch this space!</h4>
 <p>Entering its ninth year, <strong>CHI INNOVATE 2025</strong> returns with
 a transformative theme: "<strong>AI for ALL, AI for CHANGE</strong>".</p>
 <h4>Visit <a href="https://chiinnovate2025.klobbi.com" rel="noopener noreferrer nofollow" target="_blank">https://chiinnovate2025.klobbi.com</a> for full details, programme highlights, and registration.</h4>
