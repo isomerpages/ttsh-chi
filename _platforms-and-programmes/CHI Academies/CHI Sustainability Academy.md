@@ -117,7 +117,7 @@ Masterclass:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Care Model &amp; Service Redesign for Quality</strong>
+<summary><strong>Care Model &amp; Service Redesign for Quality and Sustainability</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Submit the <a href="https://for.sg/project-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> to
