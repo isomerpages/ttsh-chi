@@ -131,8 +131,7 @@ Masterclass:</p>
 </details>
 </div>
 <p></p>
-<p><a href="https://for.sg/saprogrammes" rel="noopener nofollow" target="_blank"> </a>For
-more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhg.com.sg</a>.</p>
+<p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhg.com.sg</a>.</p>
 <h3>Our Partners</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/SA_Partner_Logos_for_Website__1_.png">
