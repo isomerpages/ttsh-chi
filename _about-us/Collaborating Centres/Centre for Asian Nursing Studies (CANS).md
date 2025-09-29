@@ -11,20 +11,91 @@ third_nav_title: Collaborating Centres
 <summary><strong>Origin Story</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Centre for Asian Nursing Studies (CANS) was established in 2016 to generate
-nursing thought-leadership that is uniquely Asian focused.&nbsp;</p>
-<p>With the future health system challenges, CANS has identified 4 key impetus
-for change which demands for the evolution on the future work of nurses.</p>
+<p>Due to interest from Asian nursing leaders in TTSH Nursing, CANS was developed
+in 2016 with the aim to:</p>
+<p>1. Nurture impactful partnerships to advance Nursing Research, Education
+and Innovation</p>
+<p>2. Connect TTSH nurses to global health and facilitate co-learning opportunities</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/1_1.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>The Impetus for Change</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong><u>Vision</u></strong><u>:</u> Catalyse Great Nursing for Humanity
-<br><strong><u>Mission:</u></strong>
+<p><strong><em>Today’s Problems are Tomorrow’s Burdens</em></strong>
 </p>
+<p><strong>Greater complexity and demand from an aging population</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>⅓ of Singaporeans ≥ 65yrs by 2035</p>
+</li>
+<li>
+<p>More seniors with multiple chronic conditions</p>
+</li>
+<li>
+<p>Care shifting from hospitals to virtual spaces, homes and community as
+demand exceeds acute capacity</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Rising burden on healthcare financing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2009: S$3.7B → 2020: S$15.2B → 2030: $27B</p>
+</li>
+<li>
+<p>Manpower = 60% of healthcare spending (Unsustainable, reform needed quickly)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Fragmented health and social care</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Smaller families → Fewer caregivers</p>
+</li>
+<li>
+<p>Increase in isolated seniors living alone (2018: 58K → 2030: 83K) = ↑
+hospitalisation risk</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Need for up-skilled workforce and wellbeing strategies</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Digital skills, hybrid care</p>
+</li>
+<li>
+<p>Support staff through managing burnout (∵ ↑ case complexity) and work
+flexibility</p>
+<p></p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CSO/V2_CANS__Red_.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Vision</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Catalyse Great Nursing for Humanity</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Mission</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Shape the future work of nurses</p>
@@ -36,9 +107,13 @@ for change which demands for the evolution on the future work of nurses.</p>
 <p>Evolve the future workplace for Asian Nursing and beyond</p>
 </li>
 </ul>
-<p><strong><u>Opportunities:</u></strong>
-</p>
-<p>To catalyse the</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Opportunities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To catalyse the:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Adoption of New Models of Care &amp; Practices</p>
@@ -55,10 +130,6 @@ for change which demands for the evolution on the future work of nurses.</p>
 </ul>
 </div>
 </details>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CSO/V2_CANS__Red_.png">
 </div>
 <h3>Strategic Framework</h3>
 <div class="isomer-image-wrapper">
@@ -143,27 +214,8 @@ for change which demands for the evolution on the future work of nurses.</p>
 </tr>
 </tbody>
 </table>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Leadership Development</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Workforce Transformation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Clinical Excellence</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h3>Our Network</h3>
+<p>O</p>
+<h3>ur Network</h3>
 <p>At CANS, network development catalyse our mission where we build Partnerships
 and Platforms that connect ideas, grow communities and elevate the future
 of nursing.</p>
