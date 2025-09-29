@@ -345,15 +345,20 @@ leaders in external industries.</p>
 the right nurses to showcase and scale their work.</p>
 <p>A platform for nurses to network with other nurses to share their knowledge.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/11_1__1_.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Para-Nurses/ General Public</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Acting as a “Window into the Nursing World” for Para-Nurses</strong>
+</p>
 <p></p>
+<p>Connect industry stakeholders and tap on alternative resources in the
+community to share the care workload safely and meaningfully.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/11_1.jpg">
+</div>
 </div>
 </details>
 </div>
