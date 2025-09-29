@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CHI Faculty.md
-      - Faculty Directory/.keep
       - National HIP Medals/.keep
       - National HIP Medals/Call for Submission 2025.md
       - National HIP Medals/About National HIP Medals.md
