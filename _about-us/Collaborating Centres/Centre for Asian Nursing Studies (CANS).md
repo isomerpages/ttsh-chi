@@ -214,8 +214,84 @@ flexibility</p>
 </tr>
 </tbody>
 </table>
-<p>O</p>
-<h3>ur Network</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Leadership Development</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>N-LEAGUE Pilot Programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/nleaguepilot__1_.jpg">
+</div>
+<p>📸 Cohort 001 of N-LEAGUE at their outdoor experiential day. This pilot
+programme focuses on leadership onboarding together with nurse leaders
+across various ranks</p>
+<p><strong>NHG Young Nursing Workforce Co-Creation Forum</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/ynwf2025__1_.jpg">
+</div>
+<p>📸 50 young nurses under 40 years old came together at the inaugural NHG
+Young Nursing Workforce Forum to reimagine future of nursing roles.</p>
+<p><strong><em>Coming Soon: Workforce Leadership Webinar Series</em></strong>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Workforce Transformation</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Smart Nursing Exhibition Showcase @ SHBC 2024</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/shbc2024__1_.jpg">
+</div>
+<p>📸 At SHBC 2024, CANS Faculty Members showcased Smart Ward innovations
+highlighting how technologies can transform care.</p>
+<p><strong>Driving Value with Innovation: Leveraging AI for Fall Risk Management</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/techday2025__1_.jpg">
+</div>
+<p>📸 On 16 May, CANS hosted a symposium on AI in fall prevention, spotlighting
+how nurse-led tech is transforming patient safety across care settings.</p>
+<p><strong>Liquid Nursing Sharing Series</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/liquid_nursing__1_.jpg">
+</div>
+<p>📸 Over a series of closed-door webinars and a face-to-face session with
+SBS, we explored how flexible work models like Liquid Nursing can better
+support both staff wellbeing and care needs on the ground.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Clinical Excellence</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Infectious Disease Webinar Series</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/EID_webinar__1_.jpg">
+</div>
+<p>📸 An ongoing series by our CANS Faculty from NCID, where we explore different
+infectious diseases, to understand how knowledge, systems, and cross-sector
+collaboration come together to protect communities.</p>
+<p><strong>Building Communities of Practice with Siriraj Hospital</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/siriraj__1_.png">
+</div>
+<p>📸 Dr Hoi and Ms Thochaporn Tesasil (Director of Nursing, Siriraj Hospital)
+mark a new milestone in bilateral nursing collaboration. As CANS’ first
+regional Steering Committee member, Ms Thochaporn will help build Communities
+of Practice to drive shared learning and leadership across Asia.</p>
+</div>
+</details>
+</div>
+<h3>Our Network</h3>
 <p>At CANS, network development catalyse our mission where we build Partnerships
 and Platforms that connect ideas, grow communities and elevate the future
 of nursing.</p>
@@ -234,21 +310,44 @@ and leadership to grow.
 <details class="isomer-details">
 <summary>Healthcare/ Cross-Industry Partners</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>
+<p><strong>Acting as a “Window into the Nursing World” for Healthcare and Cross-Industry Partners</strong>
 </p>
+<p>A platform to connect healthcare institutions and cross-industry partners
+to nurses who are also subject matter practitioners/experts for meaningful
+collaboration</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/5_1.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Nursing Leaders</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Acting as a “Window to the World” for Nursing Leaders</strong>
+</p>
+<p>A platform for nursing leaders to co-lead, build networks, and generate
+Asian thought leadership.</p>
+<p>Provides opportunities for nursing leaders to learn from/collaborate with
+leaders in external industries.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/7_1.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Bedside Nurse</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Acting as a “Window to the World” for Bedside Nurses</strong>
+</p>
+<p>A platform to connect industry stakeholders and other institutions to
+the right nurses to showcase and scale their work.</p>
+<p>A platform for nurses to network with other nurses to share their knowledge.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/11_1__1_.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
