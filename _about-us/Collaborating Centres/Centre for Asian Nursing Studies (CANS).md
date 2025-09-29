@@ -5,69 +5,149 @@ variant: tiptap
 description: ""
 third_nav_title: Collaborating Centres
 ---
+<h1>About Us</h1>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Origin Story</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Centre for Asian Nursing Studies (CANS) was established in 2016 to generate
 nursing thought-leadership that is uniquely Asian focused.&nbsp;</p>
 <p>With the future health system challenges, CANS has identified 4 key impetus
 for change which demands for the evolution on the future work of nurses.</p>
-<h4>Vision and Mission</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Vision_and_Mission.png">
-</div>
-<h4>CANS Faculty</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__3_x_3_Matrix.png">
-</div>
-<p>CANS invites subject matter experts and practitioners in domains such
-as Leadership Development, Workforce Transformation and Clinical Excellence
-to join our Faculty. As a member, you'll be part of a dynamic network where
-you can connect with fellow thought leaders.&nbsp;&nbsp;</p>
-<p>Interested to join our CANS Faculty? Email us at <a href="http://www.cans@ttsh.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.cans@ttsh.com.sg</u></a>&nbsp;</p>
-<h4>Partners</h4>
-<p>Our network consists of thought leaders within and beyond the healthcare
-sector. Through strategic partnerships with hospital and industry partners,
-we have established communities of practices, signature programmes and
-hosted delegation visits.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Partners.png">
-</div>
-<h4>Our Programmes and Events</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>CANS Celebrate Nursing Workforce Month in May 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>With a workforce focused on high-tech and high-touch, CANS is hosting
-a series of events to bring together thought leaders and the wider community
-to explore technology advancement and role of humanistic care in our evolving
-healthcare landscape.&nbsp;&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Workforce_Month.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CANS Collective Series on Workforce Leadership</strong>
+<summary><strong>The Impetus for Change</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>CANS Collective Series aims to initiate synergistic connection amongst
-nurses and thought leaders on future work (care delivery), workforce (transformation)
-and workplace (culture, innovations &amp; informatics). Through these thought-provoking
-conversations, we hope to catalyze further engagements and collaborations.&nbsp;&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__CANS_Collective.png">
-</div>
+<p><strong><u>Vision</u></strong><u>:</u> Catalyse Great Nursing for Humanity
+<br><strong><u>Mission:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shape the future work of nurses</p>
+</li>
+<li>
+<p>Grow the future nursing workforce</p>
+</li>
+<li>
+<p>Evolve the future workplace for Asian Nursing and beyond</p>
+</li>
+</ul>
+<p><strong><u>Opportunities:</u></strong>
+</p>
+<p>To catalyse the</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adoption of New Models of Care &amp; Practices</p>
+</li>
+<li>
+<p>Development of Future Ready Leaders</p>
+</li>
+<li>
+<p>Deepening of Partnerships Across Ecosystems</p>
+</li>
+<li>
+<p>Reinvention of Care Delivery through Process and Job Redesign</p>
+</li>
+</ul>
 </div>
 </details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CSO/V2_CANS__Red_.png">
+</div>
+<h2>Strategic Framework</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/CANS_Website_Assets___835_px_.png">
+</div>
+<h2>Key Initiatives</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Thought Leadership</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Knowledge Sharing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Showcase and Community Building</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Facilitate Collaborations with Nursing</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Symposiums</p>
+</li>
+<li>
+<p>Exhibitions</p>
+</li>
+<li>
+<p>Forums</p>
+</li>
+<li>
+<p>Dialogues/Discussion Panels</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Webinars</p>
+</li>
+<li>
+<p>Learning Visits</p>
+</li>
+<li>
+<p>Community of Practice (CoP)</p>
+</li>
+<li>
+<p>Signature Programmes</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Social Media Management (LinkedIn)</p>
+</li>
+<li>
+<p>Knowledge Management Portal (CHILD)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Facilitate partnerships to deliver on a project</p>
+</li>
+<li>
+<p>Facilitate funding acquisition</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Community of Practices and Regional Collaborations</strong>
-</summary>
+<summary>Leadership Development</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>We're establishing a community of practices with regional partners from
-Hong Kong, Thailand, China, and beyond to catalyze a nursing future where
-advanced skills, technology proficiency, and deep compassion converge to
-deliver exceptional patient care.&nbsp;</p>
+<p></p>
 </div>
 </details>
 </div>
