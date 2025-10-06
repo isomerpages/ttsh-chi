@@ -2,10 +2,10 @@ collections:
   platforms-and-programmes:
     output: true
     order:
+      - CHI Faculty.md
       - National HIP Medals/.keep
       - National HIP Medals/Call for Submission 2025.md
       - National HIP Medals/About National HIP Medals.md
-      - CHI Faculty.md
       - CHI Learning and Development System.md
       - CHI Start Up Enterprise Link/.keep
       - CHI Start Up Enterprise Link/About CHISEL.md
@@ -13,8 +13,8 @@ collections:
       - CHI Start Up Enterprise Link/Eligibility Criteria and Rules.md
       - CHI Start Up Enterprise Link/Frequently Asked Questions (FAQs).md
       - CHI Start Up Enterprise Link/Past CHISEL Winners.md
-      - CHI Academies/About CHI Academies.md
       - CHI Academies/.keep
+      - CHI Academies/About CHI Academies.md
       - CHI Academies/CHI Health and Social Change Academy.md
       - CHI Academies/CHI Sustainability Academy.md
       - CHI Academies/CHI Value Academy.md

@@ -27,7 +27,7 @@ your queries.</p>
 <h4>AKAN DATANG</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Faculty List</p>
+<p>Faculty Directory</p>
 </li>
 <li>
 <p>Process for Application</p>
