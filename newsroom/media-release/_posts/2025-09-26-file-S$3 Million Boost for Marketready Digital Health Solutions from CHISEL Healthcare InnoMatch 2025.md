@@ -1,7 +1,7 @@
 ---
-title: SGD3 Million Boost for Market ready igital Health Solutions from CHISEL
+title: S$3 Million Boost for Marketready Digital Health Solutions from CHISEL
   Healthcare InnoMatch 2025
-date: 2025-09-29
+date: 2025-09-26
 layout: file
 description: ""
 image: ""
