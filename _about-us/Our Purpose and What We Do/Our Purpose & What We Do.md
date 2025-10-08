@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Purpose and What We Do
 variant: tiptap
 ---
-<h1><strong>Innovating Future Care for Future Health and for Future Generations</strong></h1>
+<h1>Innovating Future Care for Future Health and for Future Generations</h1>
 <p></p>
 <p>The Centre for Healthcare Innovation (CHI) is an open co-learning platform
 dedicated to adding years of healthy life. We drive value through innovation,
@@ -18,6 +18,9 @@ us here will not take us further. The healthcare system of tomorrow requires
 us to transform care delivery, population health, and sustainability by
 spreading and scaling innovation beyond hospital walls, spearheading systems
 change.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3_Futures_Blue.png">
+</div>
 <p>
 <br>
 </p>
