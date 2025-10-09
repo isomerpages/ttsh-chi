@@ -43,10 +43,10 @@ ecological, social, and workforce sustainability</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CHI_Transformation_Cycle.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CHI_Transformation_Cycle.png">
 </div>
 <p></p>
-<p>hese domains underpin CHI’s vision for <strong>Three Futures</strong>:</p>
+<p>These domains underpin CHI’s vision for <strong>Three Futures</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Future Care:</strong> Innovating care models for better access,
