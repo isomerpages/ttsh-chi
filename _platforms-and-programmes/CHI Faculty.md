@@ -1,7 +1,7 @@
 ---
 title: CHI Faculty
 permalink: /chi-faculty/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
