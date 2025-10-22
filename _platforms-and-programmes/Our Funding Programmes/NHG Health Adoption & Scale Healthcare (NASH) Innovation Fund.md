@@ -105,7 +105,8 @@ honorarium, entertainment, withholding tax, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Grant Call will be from mid-Sep 2025 to mid-Nov 2025.</p>
+<p>Submission Deadline for TTSH Staff: 23 October 2025</p>
+<p>Submission Deadline for non-TTSH staff: 06 November 2025</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -148,8 +149,8 @@ Programme Lead will be approached via email to furnish any further clarification
 Partnership Office) at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a>
 </p>
 <p></p>
-<p>&nbsp;You may also approach your CHI@Campus Offices for endorsement and
-submission details.</p>
+<p>Please approach your CHI@Campus Offices to submit your application and
+to seek endorsement from your institution’s CEO.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -278,7 +279,8 @@ system, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Grant Call will be from Sep 2025 to Oct 2025.</p>
+<p>Submission Deadline for TTSH Staff: 23 October 2025</p>
+<p>Submission Deadline for non-TTSH staff: 06 November 2025</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -287,7 +289,12 @@ system, etc.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>All applications require endorsement from the institutions’ CEOs.</p>
+<p>All applicants must submit your application forms to your respective CHI@Campus
+Offices to seek endorsement from institutional CEOs.</p>
+</li>
+<li>
+<p>All applications require endorsement from your institutions’ CEO. Contact
+details for CHI@Campus Offices are in the tab (Main Contact Details) below.</p>
 </li>
 <li>
 <p>The review process will take approximately 2 months. During this time,
@@ -310,8 +317,8 @@ of 12 months. &nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For more information on Domain B, please contact NASH Innovation Fund
 Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
-<p>You may also approach your CHI@Campus Offices for endorsement and submission
-details.</p>
+<p>Please approach your CHI@Campus Offices to submit your application and
+to seek endorsement from your institution’s CEO.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
