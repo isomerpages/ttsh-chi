@@ -331,32 +331,6 @@ Before joining MSD, Sheriff was with GE Healthcare where he led a team to shape 
         </p>
       </div>
     </li>
-      
-    
-	    <li>
-      <input id="accordion-b8" type="checkbox">
-      <label for="accordion-b8">
-        <img alt="andrew1" style="width:126px;height:125px" src="/images/Leaders/profteoyy.png">
-        Prof Teo Yik-Ying<br>Member, CHI Leadership Council
-      </label>
-      <div>
-        <style>
-          img {
-            float: left;
-            vertical-align: middle;
-          }
-          p {
-            overflow: auto;
-            max-height: 300px;
-            font-size: 1em;
-          }
-        </style>
-<p style="font-size: 16px; margin-top: 1px;line-height: 1.5;">
-Professor Yik-Ying Teo is the Dean of the Saw Swee Hock School of Public Health at the National University of Singapore.<br><br>
-Prior to his Deanship, he was the Founding Director of the School’s Centre for Health Services and Policy Research (CHSPR) and also served as the Director of the Centre for Infectious Disease Epidemiology and Research (CIDER) from 2015 to 2017.<br><br>
-He is presently a member on the Council of Scientists for the International Human Frontier Science Program, as well as a governing board member of the Regional Centre for Tropical Medicine and Public Health Network for Southeast Asia.
-        </p>
-      </div>
-    </li>
-
+          
+	
 </ul>
