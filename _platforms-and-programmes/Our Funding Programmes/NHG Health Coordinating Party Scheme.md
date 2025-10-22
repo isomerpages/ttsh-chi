@@ -253,15 +253,13 @@ be reviewed and supported by NHIC. Submission will be through CHI.</p>
 <h4><strong>Nomination and Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nomination must be submitted by the institution CEO, through respective
-CHI@Campus Offices to NHG Health Coordinating Party Scheme Secretariat.</p>
+<p>All applicants must submit your application forms to your respective CHI@Campus
+Offices to seek endorsement from institutional CEOs. All nominations require
+endorsement from the CEOs.</p>
 </li>
 <li>
 <p>For cross-cluster proposals, the Project Lead should submit their request
 to the relevant cluster's Coordinating Party Scheme Secretariat.</p>
-</li>
-<li>
-<p>All nominations require endorsement from the CEOs.</p>
 </li>
 <li>
 <p>The review process will take approximately 2 months. During this time,
@@ -270,9 +268,19 @@ Panel and participate in a Q&amp;A session.Award results will be announced
 via email.</p>
 </li>
 </ul>
+<h4><strong>Submission Deadline</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submission Deadline for TTSH Staff: 07 November 2025</p>
+</li>
+<li>
+<p>Submission Deadline for non-TTSH staff: 28 November 2025</p>
+</li>
+</ul>
 <p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
-<p>You may also approach your CHI@Campus Offices for nomination details.</p>
+<p>Please approach your CHI@Campus Offices to submit your application and
+to seek endorsement from your institution’s CEO.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
