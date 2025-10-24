@@ -338,7 +338,7 @@ to seek endorsement from your institution’s CEO.</p>
 <p>CHI@WH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yan_yan@wh.com.sg</a>
+<p><a href="https://drive.google.com/file/d/1uG9j5KWA_NIqudAmyAJae2xZaaT9Bv5K/view?usp=drivesdk" rel="noopener noreferrer nofollow" target="_blank">yan.yan@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
