@@ -208,7 +208,7 @@ to seek endorsement from your institution’s CEO.</p>
 <p>CHI@WH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yan_yan@wh.com.sg</a>
+<p><a href="yan.yan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ya.yan@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -376,7 +376,7 @@ to seek endorsement from your institution’s CEO.</p>
 <p>CHI@WH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yan_yan@wh.com.sg</a>
+<p><a href="yan.yan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">yan.yan@nhghealth.com.sg </a>
 </p>
 </td>
 </tr>
