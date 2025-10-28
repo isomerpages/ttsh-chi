@@ -2,7 +2,6 @@
 title: People Development Office
 permalink: /about-us/our-offices/chi-peopledev/
 description: ""
-third_nav_title: Our Offices
 variant: tiptap
 ---
 <h2>People Development Office</h2>
