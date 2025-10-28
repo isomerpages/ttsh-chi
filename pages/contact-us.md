@@ -14,12 +14,12 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: chi@nhg.com.sg
+      - email: chi@nhghealth.com.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: chi_events@nhg.com.sg
+      - email: chi.events@nhghealth.com.sg
       - other: ""
     title: Facilities Enquiries
 feedback: ""
