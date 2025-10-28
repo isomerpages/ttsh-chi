@@ -109,5 +109,4 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 </div></div>
 <br>
 
-Doe 
-
+For enquiries regarding Facilities, kindly email to [chi\.events@nhghealth.com.sg](mailto:chi_events@nhg.com.sg)
