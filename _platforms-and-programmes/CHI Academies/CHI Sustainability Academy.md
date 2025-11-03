@@ -90,20 +90,8 @@ Masterclass:</p>
 </div>
 </details>
 </div>
-<h3>SA 2025 Programme Schedule</h3>
+<h3>Upcoming Programmes</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Material Uses for Sustainable Healthcare- 29 Oct 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Register here: <a href="https://form.gov.sg/6864a19ac30f79e921a0b790" rel="noopener noreferrer nofollow" target="_blank">CHI SA - Material Uses for Sustainable Healthcare | FormSG</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Material_Uses_for_Sustainable_Healthcare_EDM__002_.png">
-</div>
-</div>
-</details>
 <details class="isomer-details">
 <summary><strong>CHI-GSC Leadership Masterclass: Towards Net Zero Healthcare in Singapore - 20 Jan 2026</strong>
 </summary>
@@ -126,6 +114,18 @@ Masterclass:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/2026_project_call__002_.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Understanding Sustainability for Business - 3 Feb 2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Register <a href="https://www.ntuclearninghub.com/enquiry-form?hmt_course_name_1=WSQ%20UNDERSTANDING%20SUSTAINABILITY%20FOR%20BUSINESS%20(HEALTHCARE)&amp;course_code_1=WUSFB&amp;course_type_1=&amp;utm_campaign=WSQ_UNDERSTANDING_SUSTAINABILITY_FOR_BUSINESS_Healthcare&amp;utm_source=edm&amp;utm_medium=email" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the “Understanding Sustainability for Business” contextualized for Healthcare
+(3 Feb 2026)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Sustainability_for_business_Edm_Edit__compressed_portrait__1___002_.jpg">
 </div>
 </div>
 </details>
