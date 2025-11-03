@@ -2,9 +2,9 @@ collections:
   platforms-and-programmes:
     output: true
     order:
-      - CHI Faculty/Faculty Directory.md
-      - CHI Faculty/CHI Faculty.md
       - CHI Faculty/.keep
+      - CHI Faculty/CHI Faculty.md
+      - CHI Faculty/Faculty Directory.md
       - National HIP Medals/.keep
       - National HIP Medals/Call for Submission 2025.md
       - National HIP Medals/About National HIP Medals.md
