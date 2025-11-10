@@ -28,13 +28,8 @@ your queries.</p>
 <h4>AKAN DATANG</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Faculty Directory</p>
-</li>
-<li>
 <p>Process for Application</p>
 </li>
-<li>
-<p>Process to Connect with Faculty</p>
-</li>
+
 </ul>
 <p></p>
