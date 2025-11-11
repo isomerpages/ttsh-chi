@@ -3,6 +3,7 @@ title: CHI Faculty
 permalink: /chi-faculty/
 variant: markdown
 description: ""
+third_nav_title: CHI Faculty
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Faculty/1.png">
@@ -27,13 +28,8 @@ your queries.</p>
 <h4>AKAN DATANG</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Faculty Directory</p>
-</li>
-<li>
 <p>Process for Application</p>
 </li>
-<li>
-<p>Process to Connect with Faculty</p>
-</li>
+
 </ul>
 <p></p>
