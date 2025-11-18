@@ -294,9 +294,9 @@ of Practice to drive shared learning and leadership across Asia.</p>
 <h3>Our Network</h3>
 <p>At CANS, network development catalyse our mission where we build Partnerships
 and Platforms that connect ideas, grow communities and elevate the future
-of nursing.</p>
+of nursing</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/3_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSO/v2_Our_Networks_Red.png">
 </div>
 <h3>Who We Impact</h3>
 <p>Building communities is just the beginning; we believe that meaningful
@@ -363,9 +363,22 @@ community to share the care workload safely and meaningfully.</p>
 </details>
 </div>
 <h3>Upcoming Events</h3>
-<p>Watch this space for our upcoming events in October 2025!
-<br>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 - 2 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Smart Health Asia 2026 (<a href="http://smarthealthasia.com" rel="noopener noreferrer nofollow" target="_blank">smarthealthasia.com</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Connect with Us</h3>
 <p>Watch this space for our upcoming events in October 2025!
 <br>
@@ -382,7 +395,7 @@ community to share the care workload safely and meaningfully.</p>
 </p>
 </li>
 <li>
-<p>Email: <a href="https://child.chi.sg" rel="noopener noreferrer nofollow" target="_blank">www.cans@ttsh.com.sg</a>
+<p>Email: <a href="mailto:ttsh.cans@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ttsh.cans@nhghealth.com.sg</a>
 </p>
 </li>
 </ul>
