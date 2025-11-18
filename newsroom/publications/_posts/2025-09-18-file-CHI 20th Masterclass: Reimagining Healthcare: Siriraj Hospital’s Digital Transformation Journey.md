@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/20250808_Cherdchai_20th_Masterclass.pdf
+file_url: /files/CHI_20th_Masterclass___Siriraj.pdf
 ---

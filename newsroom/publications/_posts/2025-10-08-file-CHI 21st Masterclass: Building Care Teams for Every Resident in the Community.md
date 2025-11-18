@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/CHI_21st_Masterclass_SCF_Combined.pdf
+file_url: /files/CHI_21st_Masterclass___SCF.pdf
 ---

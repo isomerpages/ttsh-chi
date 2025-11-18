@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Publication/20241216_Sheriff_16th_Masterclass__002_.pdf
+file_url: /files/CHI_16TH_MASTERCLASS.pdf
 ---
