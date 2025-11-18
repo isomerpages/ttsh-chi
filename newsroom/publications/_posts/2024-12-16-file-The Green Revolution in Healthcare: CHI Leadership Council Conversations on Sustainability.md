@@ -7,5 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 external: for.sg/chi-leadershipcouncilconversations-2024
-file_url: /files/CHI_INNOVATE_2024_Council_Week_Report.pdf
+file_url: /files/CHI_INNOVATE_2024_Council_Week_Report__2_.pdf
 ---
