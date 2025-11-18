@@ -23,13 +23,5 @@ third_nav_title: CHI Faculty
 </div>
 <p></p>
 <h3>Contact Us</h3>
-<p>Email to <a href="mailto:chifaculty@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">chifaculty@nhg.com.sg</a> for
+<p>Email to <a href="mailto:chi.faculty@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi.faculty@nhghealth.com.sg</a> for
 your queries.</p>
-<h4>AKAN DATANG</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Process for Application</p>
-</li>
-
-</ul>
-<p></p>
