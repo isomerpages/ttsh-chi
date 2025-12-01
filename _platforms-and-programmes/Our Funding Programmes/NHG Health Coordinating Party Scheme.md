@@ -6,23 +6,20 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Coordinating Party (CP) Scheme</h2>
-<h4>CP is now OPEN for Nomination!</h4>
+<h4>Grant Call for CP Scheme is currently closed.</h4>
 <p><strong>For CP – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
-<p>&nbsp;<strong>Meet us for a pre-submission consultation</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/presubmission-consultation"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_icon__002_.png"></a>
-<p></p>
 <p>Supported by MOH Health Innovation (MHI) Fund 2.0, the Coordinating Party
 (CP) Scheme aims to provide holistic support for innovation towards adoption
 and scale of:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Cross-institution (within NHG Health) POC / POV projects</p>
 </li>
 <li>
 <p>Cross-cluster POV projects</p>
 </li>
-</ol>
+</ul>
 <h4>Centre for Healthcare Innovation (CHI) has been appointed by MOH as the CP for NHG Health.&nbsp;</h4>
 <p>NHG Health CP Scheme is only applicable to<u> NHG Health Staff</u>. For
 other clusters, kindly reach out to your respective cluster CPs:</p>
@@ -269,18 +266,12 @@ via email.</p>
 </li>
 </ul>
 <h4><strong>Submission Deadline</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Submission Deadline for TTSH Staff: 07 November 2025</p>
-</li>
-<li>
-<p>Submission Deadline for non-TTSH staff: 28 November 2025</p>
-</li>
-</ul>
+<p><strong>Current Grant Call is CLOSED.</strong>
+</p>
 <p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
-<p>Please approach your CHI@Campus Offices to submit your application and
-to seek endorsement from your institution’s CEO.</p>
+<p>Please approach your CHI@Campus Offices for your institution-specific
+submission and CEO endorsement processes.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
