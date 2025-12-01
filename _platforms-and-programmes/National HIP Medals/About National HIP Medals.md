@@ -5,12 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: National HIP Medals
 ---
-<h3>Submission for NHIP 202026is now open, click <a href="https://www.chi.sg/call-for-submission-2025/" rel="noopener nofollow" target="_blank">here </a>for NHIP 2026 application details.</h3>
+<h3>Submission for NHIP 2026 is now open, click <a href="https://www.chi.sg/call-for-submission-2026/" rel="noopener nofollow" target="_blank">here </a>for NHIP 2026 application details.</h3>
 <h4>National Healthcare Innovation and Productivity Medals</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nhip/nhip_logo_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/2026_Logo.png">
 </div>
-<p></p>
 <p>Organised by CHI and supported by the Ministry of Health as well as the
 Ng Teng Fong Healthcare Innovation Programme, the annual National Healthcare
 Innovation &amp; Productivity (HIP) Medals is a prestigious, national-level
