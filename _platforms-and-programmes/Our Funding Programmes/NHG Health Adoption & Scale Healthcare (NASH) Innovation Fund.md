@@ -6,13 +6,9 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Adoption &amp; Scale Healthcare Innovation Fund</h2>
-<h4><strong>NASH Domain A (GIVE) and Domain B grant calls are now OPEN!</strong></h4>
+<h4><strong>Grant call for NASH Domain A(GIVE) and Domain B is currently closed.</strong></h4>
 <p><strong>For NASH Domain A (GIVE) and Domain B – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
-<p><strong>Meet us for a pre-submission consultation</strong>&nbsp;</p>
-<a class="isomer-image-wrapper" href="https://for.sg/presubmission-consultation">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_icon__002_.png">
-</a>
 <hr>
 <p>Supported by NHG Health, the NHG Health Adoption &amp; Scale Healthcare
 (NASH) Innovation Fund aims to enable NHG campuses to better drive the
@@ -105,8 +101,7 @@ honorarium, entertainment, withholding tax, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submission Deadline for TTSH Staff: 23 October 2025</p>
-<p>Submission Deadline for non-TTSH staff: 06 November 2025</p>
+<p>Current grant call is CLOSED</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -149,8 +144,8 @@ Programme Lead will be approached via email to furnish any further clarification
 Partnership Office) at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a>
 </p>
 <p></p>
-<p>Please approach your CHI@Campus Offices to submit your application and
-to seek endorsement from your institution’s CEO.</p>
+<p>Please approach your CHI@Campus Offices for your institution-specific
+submission and CEO endorsement processes.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -279,8 +274,7 @@ system, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submission Deadline for TTSH Staff: 23 October 2025</p>
-<p>Submission Deadline for non-TTSH staff: 06 November 2025</p>
+<p>Current grant call is CLOSED</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -317,8 +311,8 @@ of 12 months. &nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For more information on Domain B, please contact NASH Innovation Fund
 Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
-<p>Please approach your CHI@Campus Offices to submit your application and
-to seek endorsement from your institution’s CEO.</p>
+<p>Please approach your CHI@Campus Offices for your institution-specific
+submission and CEO endorsement processes.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
