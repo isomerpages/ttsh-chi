@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: National HIP Medals
 ---
-<h3>Submission for NHIP 2025 is now open, click <a href="https://www.chi.sg/call-for-submission-2025/" rel="noopener nofollow" target="_blank">here </a>for NHIP 2025 application details.</h3>
+<h3>Submission for NHIP 202026is now open, click <a href="https://www.chi.sg/call-for-submission-2025/" rel="noopener nofollow" target="_blank">here </a>for NHIP 2026 application details.</h3>
 <h4>National Healthcare Innovation and Productivity Medals</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Nhip/nhip_logo_1.png">
