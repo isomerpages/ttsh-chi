@@ -12,7 +12,7 @@ mindshare in healthcare transformation for systems change.</p>
 </div>
 <h2>Past</h2>
 <p>try table + indiv card</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Masterclass/16th_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research and Innovation to Add Value to Healthcare</div><div class="isomer-card-description">This masterclass demonstrates how to create synergy between clinical practice, research, and innovation for superior results.</div><div class="isomer-card-link">LinkedIn</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Masterclass/16th_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research and Innovation to Add Value to Healthcare</div><div class="isomer-card-link">Read more here [insert canva link]</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
