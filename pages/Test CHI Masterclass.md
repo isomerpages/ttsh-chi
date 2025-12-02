@@ -79,7 +79,7 @@ Research and Innovation to Add Value to Healthcare <em>Dr. Doug Eby, Mr Gerard A
 </tr>
 </tbody>
 </table>
-<p></p>
+<h1><u>LAYOUT 3</u></h1>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
