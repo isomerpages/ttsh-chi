@@ -4,11 +4,9 @@ permalink: /test-chi-masterclass/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/posts/chi-centre-for-healthcare-innovation_valuebasedcare-redefininghealthcaremanagement-activity-7384826843604066305-CtqS?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAADfCt2wBWwHSvqy6jU6yaDEEcM7y1oWpFuU" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Masterclass/19th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research and Innovation to Add Value to Healthcare</div><div class="isomer-card-description">This masterclass demonstrates how to create synergy between clinical practice, research, and innovation for superior results.</div><div class="isomer-card-link">LinkedIn Post</div></div></a>
-</div>
 <h1><u>LAYOUT 1</u></h1>
 <p>The CHI Masterclass features world-class thought leaders to actively build
-mindshare in healthcare transformatio for systems change.</p>
+mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming</strong></h2>
 <p>To be filled</p>
 <h3>Past</h3>
@@ -58,4 +56,6 @@ mindshare in healthcare transformatio for systems change.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/posts/chi-centre-for-healthcare-innovation_valuebasedcare-redefininghealthcaremanagement-activity-7384826843604066305-CtqS?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAADfCt2wBWwHSvqy6jU6yaDEEcM7y1oWpFuU" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Masterclass/19th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research and Innovation to Add Value to Healthcare</div><div class="isomer-card-description">This masterclass demonstrates how to create synergy between clinical practice, research, and innovation for superior results.</div><div class="isomer-card-link">LinkedIn Post</div></div></a>
+</div>
 <p></p>
