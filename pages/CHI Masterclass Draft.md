@@ -4,7 +4,7 @@ permalink: /chi-masterclass-draft/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Upcoming</strong></h2>
+<h2><strong>Past</strong></h2>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
