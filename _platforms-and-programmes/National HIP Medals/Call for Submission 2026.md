@@ -8,7 +8,7 @@ third_nav_title: National HIP Medals
 <a class="isomer-image-wrapper" href="https://for.sg/nhip2026package"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/Download_NHIP_2026_icon.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2026_webpage_design.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nhip/NHIP_2026_webpage_design_revised.png">
 </div>
 <h3><strong>National HIP 2026 Highlights</strong></h3>
 <p><strong><u>Best Practice Medals</u></strong>
