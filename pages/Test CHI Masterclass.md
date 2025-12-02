@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1><u>LAYOUT 1</u></h1>
+<h1>CHI MASTERCLASS</h1>
 <p>The CHI Masterclass features world-class thought leaders to actively build
 mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming</strong></h2>
