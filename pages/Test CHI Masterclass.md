@@ -8,7 +8,9 @@ description: ""
 <p>The CHI Masterclass features world-class thought leaders to actively build
 mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming</strong></h2>
-<p>To be filled</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Working Title</div><div class="isomer-card-description">This masterclass ...</div><div class="isomer-card-link">Sign up</div></div></a>
+</div>
 <h3>Past</h3>
 <table style="minWidth: 25px">
 <colgroup>
