@@ -26,13 +26,13 @@ our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/AIC_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Healthcare Systems &amp; Providers/AIC_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.awwa.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AWWA_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.awwa.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="AWWA" src="/images/Logos/Healthcare Systems &amp; Providers/AWWA_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.carecorner.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Care Corner" src="/images/Logos/Healthcare Systems &amp; Providers/Care_Corner_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.doverpark.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Dover Park Hospice" src="/images/Dover_Park_Hospice_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.doverpark.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Dover Park Hospice" src="/images/Logos/Healthcare Systems &amp; Providers/Dover_Park_Hospice_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -41,7 +41,7 @@ our health system.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.kwsh.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Kwong Wai Shiu Hospital" src="/images/Kwong_Wai_Shiu_Hospital_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.kwsh.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Kwong Wai Shiu Hospital" src="/images/Logos/Healthcare Systems &amp; Providers/Kwong_Wai_Shiu_Hospital_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://mws.sg/"><img style="width: 100%" height="auto" width="100%" alt="MWS" src="/images/Logos/Healthcare Systems &amp; Providers/MWS_Logo.png"></a>
 </td>
