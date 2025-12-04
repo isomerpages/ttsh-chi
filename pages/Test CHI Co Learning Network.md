@@ -67,11 +67,9 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.thkms.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="THK" src="/images/Logos/Healthcare Systems &amp; Providers/THK_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.touch.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="TOUCH" src="/images/Logos/Healthcare Systems &amp; Providers/TOUCH_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tsaofoundation.org/"><img style="width: 100%" height="auto" width="100%" alt="Tsao Foundation" src="/images/Logos/Healthcare Systems &amp; Providers/Tsao_Foundation_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
