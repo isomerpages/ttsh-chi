@@ -134,9 +134,15 @@ our health system.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dover Park Hospice" src="/images/Dover_Park_Hospice_Logo.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kwong Wai Shiu Hospital" src="/images/Kwong_Wai_Shiu_Hospital_Logo.png">
+</div>
 </th>
 </tr>
 <tr>
