@@ -59,6 +59,20 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.renci.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Ren Ci" src="/images/Logos/Healthcare Systems &amp; Providers/Ren_Ci_Logo.png"></a>
 </td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singhealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="SingHealth" src="/images/Logos/Healthcare Systems &amp; Providers/SingHealth_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www2.si.mahidol.ac.th/en/"><img style="width: 100%" height="auto" width="100%" alt="Siriraj Hospital" src="/images/Logos/Healthcare Systems &amp; Providers/Siriraj_Hospital_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.thkms.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="THK" src="/images/Logos/Healthcare Systems &amp; Providers/THK_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
