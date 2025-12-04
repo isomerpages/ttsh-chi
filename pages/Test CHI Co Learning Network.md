@@ -82,14 +82,14 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sph.nus.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Saw Swee Hock School of Public Policy" src="/images/Logos/Academia &amp; Capability Dev/Saw_Swee_Hock_School_of_Public_Health.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singaporetech.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SIT" src="/images/Logos/Academia &amp; Capability Dev/SIT_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SUSS" src="/images/Logos/Academia &amp; Capability Dev/SUSS_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMU LKK School of Business" src="/images/Logos/Academia &amp; Capability Dev/SMU_LKK_School_of_Business_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
