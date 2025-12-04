@@ -61,6 +61,39 @@ our health system.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.genevasustainabilitycentre.org"><img style="width: 100%" height="auto" width="100%" alt="Geneva Sustainability Centre" src="/images/Logos/Academia &amp; Capability Dev/Geneva_Sustainability_Centre_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
