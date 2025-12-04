@@ -115,16 +115,10 @@ our health system.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AWWA_Logo.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.aic.sg/?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=21793497002&amp;gbraid=0AAAAAC6a0F70a3GteD_Bvveic3Ygky1os&amp;gclid=CjwKCAiA3L_JBhAlEiwAlcWO57Sv4d_rOa1LPeTtWdNhfyzzJyClKFTKUtCx7TdWDZq5pWOnOpTcYBoC6n0QAvD_BwE"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/AIC_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIC_Logo.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.awwa.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AWWA_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
