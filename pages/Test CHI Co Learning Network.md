@@ -49,7 +49,7 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.northerncarealliance.nhs.uk/"><img style="width: 100%" height="auto" width="100%" alt="NHS NCA" src="/images/Logos/Healthcare Systems &amp; Providers/NHS_NCA_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://ntuchealth.sg/"><img style="width: 100%" height="auto" width="100%" alt="NTUC Health" src="/images/NTUC_Health_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://ntuchealth.sg/"><img style="width: 100%" height="auto" width="100%" alt="NTUC Health" src="/images/Logos/Healthcare Systems &amp; Providers/NTUC_Health_Logo.png"></a>
 </td>
 </tr>
 <tr>
