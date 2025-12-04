@@ -57,8 +57,7 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.rjl.se/"><img style="width: 100%" height="auto" width="100%" alt="Region Jönköpings Iän" src="/images/Logos/Healthcare Systems &amp; Providers/Region_J_nk_pings_I_n_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.renci.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Ren Ci" src="/images/Logos/Healthcare Systems &amp; Providers/Ren_Ci_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
