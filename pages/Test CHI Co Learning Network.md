@@ -53,13 +53,10 @@ our health system.</p>
 <p></p><a class="isomer-image-wrapper" href="https://mws.sg/"><img style="width: 100%" height="auto" width="100%" alt="MWS" src="/images/Logos/Healthcare Systems &amp; Providers/MWS_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Healthcare Systems &amp; Providers/NHG_Health_Logo.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Healthcare Systems &amp; Providers/NHG_Health_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.northerncarealliance.nhs.uk/"><img style="width: 100%" height="auto" width="100%" alt="NHS NCA" src="/images/Logos/Healthcare Systems &amp; Providers/NHS_NCA_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
