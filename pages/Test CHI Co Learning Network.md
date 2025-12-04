@@ -39,9 +39,6 @@ our health system.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTUC Health" src="/images/NTUC_Health_Logo.png">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -59,18 +56,33 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Academic/suss_horizontal_format.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Healthcare/singhealth.svg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Logos/Healthcare/nhgroup.svg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Healthcare/nuhsgroup.svg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTUC Health" src="/images/NTUC_Health_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
