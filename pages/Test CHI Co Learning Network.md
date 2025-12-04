@@ -31,8 +31,7 @@ our health system.</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems &amp; Providers/NHG_Health_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nuhs.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="National University Health System (NUHS)" src="/images/Logos/Health Systems &amp; Providers/NUHS_Logo.png"></a>
 </th>
 </tr>
 <tr>
@@ -107,4 +106,5 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
