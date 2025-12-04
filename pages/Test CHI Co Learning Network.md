@@ -66,13 +66,11 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ial.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia &amp; Capability Dev/IAL_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/medicine"><img style="width: 100%" height="auto" width="100%" alt="LKC School of Medicine" src="/images/Logos/Academia &amp; Capability Dev/LKC_School_of_Medicine_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aicentre.co.uk/"><img style="width: 100%" height="auto" width="100%" alt="London AI (King's College London)" src="/images/Logos/Academia &amp; Capability Dev/London_AI.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
