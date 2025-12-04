@@ -72,8 +72,7 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aicentre.co.uk/"><img style="width: 100%" height="auto" width="100%" alt="London AI (King's College London)" src="/images/Logos/Academia &amp; Capability Dev/London_AI.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyp.edu.sg/main"><img style="width: 100%" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia &amp; Capability Dev/Nanyang_Polytechnic_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
