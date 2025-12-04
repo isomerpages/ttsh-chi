@@ -53,11 +53,9 @@ our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nuhs.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="NUHS" src="/images/Logos/Healthcare Systems &amp; Providers/NUHS_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.rjl.se/"><img style="width: 100%" height="auto" width="100%" alt="Region Jönköpings Iän" src="/images/Logos/Healthcare Systems &amp; Providers/Region_J_nk_pings_I_n_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
