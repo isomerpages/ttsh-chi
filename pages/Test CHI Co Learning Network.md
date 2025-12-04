@@ -51,9 +51,8 @@ our health system.</p>
 </tbody>
 </table>
 <h4>Academia and Capability Development</h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -63,6 +62,15 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.genevasustainabilitycentre.org"><img style="width: 100%" height="auto" width="100%" alt="Geneva Sustainability Centre" src="/images/Logos/Academia &amp; Capability Dev/Geneva_Sustainability_Centre_Logo.png"></a>
 </td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hseu.org.sg/about-us/healthcare-academy"><img style="width: 100%" height="auto" width="100%" alt="Healthcare Academy" src="/images/Logos/Academia &amp; Capability Dev/Healthcare_Academy_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ial.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia &amp; Capability Dev/IAL_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -89,31 +97,8 @@ our health system.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
