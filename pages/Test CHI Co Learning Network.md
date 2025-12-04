@@ -35,8 +35,7 @@ our health system.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.rjl.se/qulturum/_in-english/about-qulturum/"><img style="width: 100%" height="auto" width="100%" alt="Qulturum" src="/images/Logos/Health Systems &amp; Providers/Region_J_nk_pings_I_n_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
