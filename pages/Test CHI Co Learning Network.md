@@ -250,7 +250,7 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Industry Partners</h4>
 <p></p>
 <p></p>
 <p></p>
