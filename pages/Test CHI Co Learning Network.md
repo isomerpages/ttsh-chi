@@ -296,8 +296,7 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/"><img style="width: 100%" height="auto" width="100%" alt="ST Engineering" src="/images/Logos/Industry Partners/ST_Engineering_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/en/smart-city/digital-health/transforming-healthcare-with-technology/"><img style="width: 100%" height="auto" width="100%" alt="ST Healthcare" src="/images/Logos/Industry Partners/ST_Healthcare_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
