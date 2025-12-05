@@ -274,10 +274,16 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.microsoft.com/en-sg"><img style="width: 100%" height="auto" width="100%" alt="Microsoft" src="/images/Logos/Industry Partners/Microsoft_Logo.png"></a>
 </td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.msd-singapore.com/"><img style="width: 100%" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry Partners/MSD_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nanrise.sg/"><img style="width: 100%" height="auto" width="100%" alt="NanRise" src="/images/Logos/Industry Partners/NanRise_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sg.nec.com/"><img style="width: 100%" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry Partners/NEC_Logo.png"></a>
+</td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry Partners/MSD_Logo.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
