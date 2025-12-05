@@ -119,25 +119,19 @@ our health system.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://amcham.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Americian Chamber of Commerce in Singapore (AmCham)" src="/images/Logos/Agencies and Associations/Americian_Chamber_of_Commerce_in_Singapore__AmCham__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apacmed.org/"><img style="width: 100%" height="auto" width="100%" alt="Asia Pacific Medical Technology Association (APACMed)" src="/images/Logos/Agencies and Associations/Asia_Pacific_Medical_Technology_Association__APACMed__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://asme.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Association of Small &amp; Medium Enterprises (ASME)" src="/images/Logos/Agencies and Associations/Association_of_Small___Medium_Enterprises__ASME__Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img style="width: 100%" height="auto" width="100%" alt="British High Commission Singapore" src="/images/Logos/Agencies and Associations/British_High_Commission_Singapore_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.business-sweden.com/"><img style="width: 100%" height="auto" width="100%" alt="Business Sweden" src="/images/Logos/Agencies and Associations/Business_Sweden_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.chai.org/"><img style="width: 100%" height="auto" width="100%" alt="Coalition for Health AI (CHAI)" src="/images/Logos/Agencies and Associations/Coalition_for_Health_AI__CHAI__Logo.png"></a>
 </td>
 </tr>
 <tr>
