@@ -179,8 +179,7 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kilsaglobal.com/"><img style="width: 100%" height="auto" width="100%" alt="KiLSA Global" src="/images/Logos/Agencies and Associations/KiLSA_Global_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.kosmes.or.kr/sbc/SH/EHP/SHEHP001M0.do"><img style="width: 100%" height="auto" width="100%" alt="KOSME" src="/images/Logos/Agencies and Associations/KOSME_Logo.png"></a>
 </td>
 </tr>
 <tr>
@@ -262,5 +261,6 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
