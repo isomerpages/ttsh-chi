@@ -282,8 +282,7 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sg.nec.com/"><img style="width: 100%" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry Partners/NEC_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ocbc.com/"><img style="width: 100%" height="auto" width="100%" alt="OCBC" src="/images/Logos/Industry Partners/OCBC_Logo.png"></a>
 </td>
 </tr>
 <tr>
