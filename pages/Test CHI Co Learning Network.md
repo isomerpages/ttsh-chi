@@ -286,6 +286,14 @@ our health system.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.philips.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Philips" src="/images/Logos/Industry Partners/Philips_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://singlife.com/"><img style="width: 100%" height="auto" width="100%" alt="Singlife" src="/images/Logos/Industry Partners/Singlife_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://smartlab.expert/"><img style="width: 100%" height="auto" width="100%" alt="Smart Urban Co-Innovation Lab" src="/images/Logos/Industry Partners/Smart_Urban_Co_Innovation_Lab_Logo.png"></a>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
