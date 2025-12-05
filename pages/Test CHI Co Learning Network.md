@@ -143,36 +143,27 @@ our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprise-ireland.com/en/"><img style="width: 100%" height="auto" width="100%" alt="Enterprise Ireland" src="/images/Logos/Agencies and Associations/Enterprise_Ireland_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprisesg.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="Enterprise Singapore" src="/images/Logos/Agencies and Associations/Enterprise_Singapore_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://eurocham.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="The European Chamber of Commerce (EuroCham)" src="/images/Logos/Agencies and Associations/EuroCham_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://gensg.org/"><img style="width: 100%" height="auto" width="100%" alt="Gen Singapore" src="/images/Logos/Agencies and Associations/Gen_Singapore_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tradecommissioner.gc.ca/en.html"><img style="width: 100%" height="auto" width="100%" alt="Government of Canada, Trade Commissioner Service" src="/images/Logos/Agencies and Associations/Government_of_Canada__Trade_Commissioner_Service_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hpb.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="Health Promotion Board" src="/images/Logos/Agencies and Associations/Health_Promotion_Board_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 100%" height="auto" width="100%" alt="The Singapore Health Technologies Consortium (HealthTEC.SG)" src="/images/Logos/Agencies and Associations/HealthTEC_SG_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.indee-sg.com/"><img style="width: 100%" height="auto" width="100%" alt="Indee" src="/images/Logos/Agencies and Associations/Indee_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://en.innovasjonnorge.no/"><img style="width: 100%" height="auto" width="100%" alt="Innovation Norway" src="/images/Logos/Agencies and Associations/Innovation_Norway_Logo.png"></a>
 </td>
 </tr>
 <tr>
