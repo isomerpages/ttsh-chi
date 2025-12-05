@@ -26,7 +26,7 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems and Providers 2/AIC_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/sg"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare (Singapore)" src="/images/Logos/Health Systems and Providers 2/IHH_Healthcare_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare (Singapore)" src="/images/Logos/Health Systems and Providers 2/IHH_Healthcare_Logo__New_.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems and Providers 2/NHG_Health_Logo.png"></a>
 </td>
