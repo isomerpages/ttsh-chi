@@ -135,6 +135,23 @@ our health system.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.co11ab.sg/"><img style="width: 100%" height="auto" width="100%" alt="Co11ab" src="/images/Logos/Agencies and Associations/Co11ab_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.dduwork.com/"><img style="width: 100%" height="auto" width="100%" alt="DayDayUp" src="/images/Logos/Agencies and Associations/DayDayUp_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 100%" height="auto" width="100%" alt="Design Singapore Council" src="/images/Logos/Agencies and Associations/Design_Singapore_Council_Logo.png"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
