@@ -235,13 +235,11 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.vertexventures.sg/"><img style="width: 100%" height="auto" width="100%" alt="Vertex Ventures" src="/images/Logos/Agencies and Associations/Vertex_Ventures_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.wsg.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="Workforce Singapore" src="/images/Logos/Agencies and Associations/Workforce_Singapore_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.thexnode.com/"><img style="width: 100%" height="auto" width="100%" alt="Xnode" src="/images/Logos/Agencies and Associations/Xnode_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -252,6 +250,7 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
