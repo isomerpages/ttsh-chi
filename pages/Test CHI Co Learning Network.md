@@ -217,8 +217,7 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sif.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Singapore International Foundation" src="/images/Logos/Agencies and Associations/Singapore_International_Foundation_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.startupreseau.com/"><img style="width: 100%" height="auto" width="100%" alt="Startup Reseau" src="/images/Logos/Agencies and Associations/Startup_Reseau_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
