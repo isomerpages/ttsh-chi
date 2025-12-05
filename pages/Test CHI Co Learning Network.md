@@ -266,19 +266,18 @@ our health system.</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 100%" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jnj.com/"><img style="width: 100%" height="auto" width="100%" alt="Johnson &amp; Johnson" src="/images/Logos/Industry Partners/Johnson_Johnson_Logo.png"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.meta.com/"><img style="width: 100%" height="auto" width="100%" alt="Meta" src="/images/Logos/Industry Partners/Meta_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.microsoft.com/en-sg"><img style="width: 100%" height="auto" width="100%" alt="Microsoft" src="/images/Logos/Industry Partners/Microsoft_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry Partners/MSD_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
