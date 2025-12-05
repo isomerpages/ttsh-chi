@@ -201,19 +201,15 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nordicinnovationhouse.com/"><img style="width: 100%" height="auto" width="100%" alt="Nordic Innovation House" src="/images/Logos/Agencies and Associations/Nordic_Innovation_House_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.plugandplayapac.com/"><img style="width: 100%" height="auto" width="100%" alt="Plug and Play APAC" src="/images/Logos/Agencies and Associations/Plug_and_Play_APAC_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.questventures.com/"><img style="width: 100%" height="auto" width="100%" alt="Quest Ventures" src="/images/Logos/Agencies and Associations/Quest_Ventures_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://www.saenapartners.com"><img style="width: 100%" height="auto" width="100%" alt="Saena Partners" src="/images/Logos/Agencies and Associations/Saena_Partners_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sginnovate.com/"><img style="width: 100%" height="auto" width="100%" alt="SGInnovate" src="/images/Logos/Agencies and Associations/SGInnovate_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -254,6 +250,7 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
