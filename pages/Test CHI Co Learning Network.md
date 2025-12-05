@@ -177,8 +177,7 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jetro.go.jp/en/"><img style="width: 100%" height="auto" width="100%" alt="JETRO" src="/images/Logos/Agencies and Associations/JETRO_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kilsaglobal.com/"><img style="width: 100%" height="auto" width="100%" alt="KiLSA Global" src="/images/Logos/Agencies and Associations/KiLSA_Global_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
