@@ -13,7 +13,9 @@ partners and affiliates across Health Systems, the Community Care Sector,
 Academia, Strategic Agencies and Industry. This innovation network promotes
 co-learning through strong partnerships to enable the transformation of
 our health system.</p>
-<p>[insert YouTube video]</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iGjKAr6gy6c"></iframe>
+</div>
 <h2>Our Partners</h2>
 <h4>Health Systems and Providers</h4>
 <table style="minWidth: 75px">
@@ -303,6 +305,4 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
