@@ -260,10 +260,11 @@ our health system.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Alibaba Cloud" src="/images/Logos/Industry Partners/Alibaba_Cloud_Logo.png">
+</div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 100%" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
