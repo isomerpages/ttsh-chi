@@ -24,7 +24,7 @@ our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems &amp; Providers/AIC_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%;" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems &amp; Providers/AIC_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/sg"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare (Singapore)" src="/images/Logos/Health Systems &amp; Providers/IHH_Healthcare_Logo.png"></a>
 </th>
@@ -47,6 +47,23 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems and Providers 2/AIC_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare" src="/images/Logos/Health Systems and Providers 2/IHH_Healthcare_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems and Providers 2/NHG_Health_Logo.png">
+</div>
 </td>
 </tr>
 </tbody>
