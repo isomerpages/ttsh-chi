@@ -294,8 +294,7 @@ our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/"><img style="width: 100%" height="auto" width="100%" alt="ST Engineering" src="/images/Logos/Industry Partners/ST_Engineering_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
