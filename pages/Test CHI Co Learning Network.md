@@ -183,11 +183,9 @@ our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://k-startupcenter.org/eng/Main.do"><img style="width: 100%" height="auto" width="100%" alt="K-Startup Center" src="/images/Logos/Agencies and Associations/K_Startup_Center_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="www.medtechactuator.com"><img style="width: 100%" height="auto" width="100%" alt="MedTech Actuator" src="/images/Logos/Agencies and Associations/MedTech_Actuator_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
