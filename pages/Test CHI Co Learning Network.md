@@ -191,14 +191,11 @@ our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhic.sg/"><img style="width: 100%" height="auto" width="100%" alt="National Health Innovation Centre Singapore (NHIC)" src="/images/Logos/Agencies and Associations/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyc.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="National Youth Council" src="/images/Logos/Agencies and Associations/National_Youth_Council_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://netherlandsinnovation.nl/"><img style="width: 100%" height="auto" width="100%" alt="Netherlands Innovation Network" src="/images/Logos/Agencies and Associations/Netherlands_Innovation_Network_Logo.png"></a>
 </td>
 </tr>
 <tr>
