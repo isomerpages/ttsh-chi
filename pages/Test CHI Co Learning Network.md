@@ -233,8 +233,7 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.verge.fund/"><img style="width: 100%" height="auto" width="100%" alt="Verge Healthtech Fund" src="/images/Logos/Agencies and Associations/Verge_Healthtech_Fund_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.vertexventures.sg/"><img style="width: 100%" height="auto" width="100%" alt="Vertex Ventures" src="/images/Logos/Agencies and Associations/Vertex_Ventures_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
