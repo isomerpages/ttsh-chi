@@ -105,5 +105,61 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.genevasustainabilitycentre.org"><img style="width: 100%" height="auto" width="100%" alt="Geneva Sustainability Centre" src="/images/Logos/Academia &amp; Capability Dev 2/Geneva_Sustainability_Centre_Logo.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hseu.org.sg/about-us/healthcar"><img style="width: 100%" height="auto" width="100%" alt="Healthcare Academy" src="/images/Logos/Academia &amp; Capability Dev 2/Healthcare_Academy_Logo.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ial.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Institute for Adult Learning" src="/images/Logos/Academia &amp; Capability Dev 2/IAL_Logo.png"></a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/medicine"><img style="width: 100%" height="auto" width="100%" alt="Lee Kong Chian School of Medicine" src="/images/Logos/Academia &amp; Capability Dev 2/LKC_School_of_Medicine_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aicentre.co.uk/"><img style="width: 100%" height="auto" width="100%" alt="London AI (King's College London)" src="/images/Logos/Academia &amp; Capability Dev 2/London_AI.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyp.edu.sg/main"><img style="width: 100%" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia &amp; Capability Dev 2/Nanyang_Polytechnic_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/erian"><img style="width: 100%" height="auto" width="100%" alt="NTU (Energy Research Institute, ERI@N)" src="/images/Logos/Academia &amp; Capability Dev 2/NTU__Energy_Research_Institute__ERI_N__Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
