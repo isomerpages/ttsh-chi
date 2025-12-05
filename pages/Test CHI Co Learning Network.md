@@ -147,8 +147,7 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Polytechnic" src="/images/Logos/Academia &amp; Capability Dev 2/TP_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sustainablehealthcare.org.uk/"><img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia &amp; Capability Dev 2/UK_Centre_for_Sustainable_Healthcare.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -156,4 +155,5 @@ our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
