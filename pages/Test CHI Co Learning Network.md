@@ -9,9 +9,9 @@ description: ""
 with a focus on driving systems change and transformation. Through the
 network, our partners can collaborate on innovation projects, form communities
 of practice and exchange knowledge. To date, our network has grown to 92
-partners across Health Systems, Academ Ai a</p>
-<p>This innovation network promotesco-learning through strong partnerships
-to enable the transformation of our health system.</p>
+partners across Health Systems, Academia, Agencies and Industry. This innovation
+network promotes co-learning through strong partnerships to enable the
+transformation of our health system.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iGjKAr6gy6c"></iframe>
 </div>
