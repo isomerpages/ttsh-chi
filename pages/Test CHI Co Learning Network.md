@@ -50,20 +50,29 @@ our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems and Providers 2/AIC_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems and Providers 2/AIC_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/sg"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare (Singapore)" src="/images/Logos/Health Systems and Providers 2/IHH_Healthcare_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems and Providers 2/NHG_Health_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nuhs.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="National University Health System (NUHS)" src="/images/Logos/Health Systems and Providers 2/NUHS_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.rjl.se/qulturum/_in-english/about-qulturum/"><img style="width: 100%" height="auto" width="100%" alt="Qulturum" src="/images/Logos/Health Systems and Providers 2/Qulturum_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singhealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="SingHealth" src="/images/Logos/Health Systems and Providers 2/SingHealth_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www2.si.mahidol.ac.th/en/"><img style="width: 100%" height="auto" width="100%" alt="Siriraj Hospital" src="/images/Logos/Health Systems and Providers 2/Siriraj_Hospital_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare" src="/images/Logos/Health Systems and Providers 2/IHH_Healthcare_Logo.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems and Providers 2/NHG_Health_Logo.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
