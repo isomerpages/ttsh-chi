@@ -167,11 +167,9 @@ our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.iottribe.org/"><img style="width: 100%" height="auto" width="100%" alt="IOT Tribe" src="/images/Logos/Agencies and Associations/IOT_Tribe_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ipi-singapore.org/"><img style="width: 100%" height="auto" width="100%" alt="Innovation Partner for Impact (IPI)" src="/images/Logos/Agencies and Associations/Innovation_Partner_for_Impact__IPI__Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
