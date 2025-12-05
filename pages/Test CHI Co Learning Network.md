@@ -211,13 +211,11 @@ our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sginnovate.com/"><img style="width: 100%" height="auto" width="100%" alt="SGInnovate" src="/images/Logos/Agencies and Associations/SGInnovate_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/sb"><img style="width: 100%" height="auto" width="100%" alt="Singapore Biodesign" src="/images/Logos/Agencies and Associations/Singapore_Biodesign_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sif.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Singapore International Foundation" src="/images/Logos/Agencies and Associations/Singapore_International_Foundation_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
