@@ -131,27 +131,21 @@ our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/erian"><img style="width: 100%" height="auto" width="100%" alt="NTU (Energy Research Institute, ERI@N)" src="/images/Logos/Academia &amp; Capability Dev 2/NTU__Energy_Research_Institute__ERI_N__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medicine.nus.edu.sg/cosm/"><img style="width: 100%" height="auto" width="100%" alt="NUS Centre for Sustainable Medicine" src="/images/Logos/Academia &amp; Capability Dev 2/NUS_Centre_for_Sustainable_Medicine_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sph.nus.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Saw Swee Hock School of Public Policy" src="/images/Logos/Academia &amp; Capability Dev 2/Saw_Swee_Hock_School_of_Public_Health.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singaporetech.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Singapore Institute of Technology" src="/images/Logos/Academia &amp; Capability Dev 2/SIT_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://business.smu.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SMU LKC School of Business" src="/images/Logos/Academia &amp; Capability Dev 2/SMU_LKK_School_of_Business_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Singapore University of Social Sciences" src="/images/Logos/Academia &amp; Capability Dev 2/SUSS_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Polytechnic" src="/images/Logos/Academia &amp; Capability Dev 2/TP_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
