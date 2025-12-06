@@ -131,7 +131,8 @@ the “Understanding Sustainability for Business” contextualized for Healthcar
 </details>
 </div>
 <p></p>
-<p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhg.com.sg</a>.</p>
+<p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhghealth.com.sg</a>
+</p>
 <h3>Our Partners</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/SA_Partner_Logos_for_Website__1_.png">

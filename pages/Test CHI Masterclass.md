@@ -4,7 +4,6 @@ permalink: /test-chi-masterclass/
 variant: tiptap
 description: ""
 ---
-<h1><u>LAYOUT 1</u></h1>
 <h1>CHI MASTERCLASS</h1>
 <p>The CHI Masterclass features world-class thought leaders to actively build
 mindshare in healthcare transformation for systems change.</p>
@@ -12,8 +11,72 @@ mindshare in healthcare transformation for systems change.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Masterclass/19th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Working Title</div><div class="isomer-card-description">This masterclass ...</div><div class="isomer-card-link">Sign up now</div></div></a>
 </div>
 <h2>Past</h2>
-<p>try table + indiv card</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Masterclass/16th_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research and Innovation to Add Value to Healthcare</div><div class="isomer-card-description">This masterclass demonstrates how to create synergy between clinical practice, research, and innovation for superior results.</div><div class="isomer-card-link">LinkedIn</div></div></a>
+<p>try table + indiv card + redo image (need think about how to update afterwards
+too)</p>
+<p>Partners Table</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>y</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>y</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>y</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>y</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>y</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>y</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Masterclass/16th_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research and Innovation to Add Value to Healthcare</div><div class="isomer-card-link">Read more here [insert canva link]</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
