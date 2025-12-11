@@ -131,7 +131,7 @@ the “Understanding Sustainability for Business” contextualized for Healthcar
 </details>
 </div>
 <p></p>
-<p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi_academies@nhghealth.com.sg</a>
+<p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
 </p>
 <h3>Our Partners</h3>
 <div class="isomer-image-wrapper">
