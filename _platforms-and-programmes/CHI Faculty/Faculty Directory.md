@@ -8,7 +8,10 @@ image: /images/6907f2ae06d3b4f050146fe4_1762128558790_faculty_logo.jpg
 ---
 <title>Member Grid Layout</title><style>.grid-container{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;padding:20px;max-width:1400px;margin:auto}.grid-item{border:3px solid darkred;padding:15px;background-color:white;border-radius:8px;height:100%;display:flex;flex-direction:column}.image-container{text-align:center;margin-bottom:20px}.grid-item img{width:150px;height:150px;border-radius:0%;object-fit:cover; solid #f0f0f0}.member-name{font-weight:bold;font-size:18px;color:black;text-align:left;margin-bottom:5px}.member-designation{font-weight:normal;font-size:16px;margin-bottom:10px;color:#666;text-align:left}.domain-expertise{margin-bottom:10px;text-align:left;line-height:1.4}.expertise-label{font-weight:bold;font-style:normal;margin-right:5px}.expertise-details{font-weight:normal;font-style:italic}.text-box{text-align:left;margin-top:auto}.text-box a{text-decoration:none;color:white;font-weight:bold;padding:8px 12px;background-color:darkred;border:1px solid darkred;border-radius:5px;display:inline-block;transition:background-color .3s;margin-right:5px;margin-bottom:5px}.text-box a:hover{background-color:#8b0000;border-color:#8b0000}@media (max-width:1024px){.grid-container{grid-template-columns:repeat(3,1fr)}}@media (max-width:768px){.grid-container{grid-template-columns:repeat(2,1fr)}}@media (max-width:500px){.grid-container{grid-template-columns:1fr;padding:10px}}</style>
 
-### **Academy Members**
+
+
+| **Academy Members** |  | |
+| -------- | -------- | -------- |
 
 <div class="grid-container"><div class="grid-item"><div class="image-container"><img alt="Dr Aileen Scully" src="/images/CHI Faculty/Acad Members/as.png"></div><div class="member-name">Dr Aileen Scully</div><div class="member-designation">Assistant Professor, Health and Social Sciences​, Singapore Institute of Technology</div><div class="domain-expertise"><span class="expertise-label">Domain Expertise:</span><span class="expertise-details">Sustainable Material Uses, Neurological Physiotherapy​ </span></div><div class="text-box"><a href="">Get to Know Me</a><a href="https://for.sg/accesschifacultyexpertise">I Need Your Expertise</a></div></div>
 	
@@ -74,7 +77,8 @@ image: /images/6907f2ae06d3b4f050146fe4_1762128558790_faculty_logo.jpg
 
 <div class="grid-item"><div class="image-container"><img alt="Dr Wong Chia Siong" src="/images/CHI Faculty/Acad Members/wcs.png"></div><div class="member-name">Dr Wong Chia Siong</div><div class="member-designation"> Senior Consultant, Epidemiology and Preventive Medicine, Tan Tock Seng Hospital</div><div class="domain-expertise"><span class="expertise-label">Domain Expertise:</span><span class="expertise-details"> Epidemiology, Health Data Analytics, Primary Care, Population Medicine</span></div><div class="text-box"><a href="">Get to Know Me</a><a href="https://for.sg/accesschifacultyexpertise">I Need Your Expertise</a></div></div>
 
-### **Academy Members**
+| **Other Members** |  | |
+| -------- | -------- | -------- |
 
 <div class="grid-item"><div class="image-container"><img alt="Brenda Zhuang Sijia" src="/images/CHI Faculty/Members/brendazh.png"></div><div class="member-name">Brenda Zhuang Sijia</div><div class="member-designation">Deputy Director, Chairman Medical Board - Office of Quality and Clinical Governance, Tan Tock Seng Hospital</div><div class="domain-expertise"><span class="expertise-label">Domain Expertise:</span><span class="expertise-details">Clinical Practice Improvement Programme,Quality Improvement</span></div><div class="text-box"><a href="">Get to Know Me</a><a href="https://for.sg/accesschifacultyexpertise">I Need Your Expertise</a></div></div>
 	
