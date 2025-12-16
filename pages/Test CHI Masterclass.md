@@ -13,7 +13,7 @@ mindshare in healthcare transformation for systems change.</p>
 <h2>Past</h2>
 <p>try table + indiv card + redo image (need think about how to update afterwards
 too)</p>
-<p>Partners Table</p>
+<p>Pa</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
