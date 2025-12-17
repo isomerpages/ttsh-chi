@@ -34,10 +34,8 @@ Care and NHG Health are transforming care in the community.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Designing the Future of Healthcare: Innovation at the Intersection of
 Human-Centered Design and Technology</div>
-<div class="isomer-card-description">In this Masterclass, Dr Patricia Moore, a pioneer in inclusive design,
-and Michela Magas, a leader in creative innovation ecosystems, shared insights
-on the power of interdisciplinary collaboration to design healthcare systems
-that are innovative, equitable, and future-ready.</div>
+<div class="isomer-card-description">This masterclass highlights the power of interdisciplinary collaboration
+in designing healthcare systems that are innovative, equitable, and future-ready.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
