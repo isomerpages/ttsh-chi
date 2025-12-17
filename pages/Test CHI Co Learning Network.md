@@ -25,44 +25,23 @@ transformation of our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems (NEW)/AIC_Logo.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems (NEW)/AIC_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare" src="/images/Logos/Health Systems (NEW)/IHH_Healthcare_Logo__New_.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare" src="/images/Logos/Health Systems (NEW)/IHH_Healthcare_Logo__New_.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems (NEW)/NHG_Health_Logo.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems (NEW)/NHG_Health_Logo.png"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NUHS" src="/images/Logos/Health Systems (NEW)/NUHS_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nuhs.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="NUHS" src="/images/Logos/Health Systems (NEW)/NUHS_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Qulturum" src="/images/Logos/Health Systems (NEW)/Qulturum_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.rjl.se/qulturum/_in-english/about-qulturum/"><img style="width: 100%" height="auto" width="100%" alt="Qulturum" src="/images/Logos/Health Systems (NEW)/Qulturum_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SingHealth" src="/images/Logos/Health Systems (NEW)/SingHealth_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singhealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="SingHealth" src="/images/Logos/Health Systems (NEW)/SingHealth_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Siriraj Hospital" src="/images/Logos/Health Systems (NEW)/Siriraj_Hospital_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www2.si.mahidol.ac.th/en/"><img style="width: 100%" height="auto" width="100%" alt="Siriraj Hospital" src="/images/Logos/Health Systems (NEW)/Siriraj_Hospital_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
