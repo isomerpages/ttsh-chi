@@ -52,5 +52,19 @@ system that are often unsolvable and termed "wicked issues".</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="16th CHI Masterclass" src="/images/Masterclass (NEW)/16th_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Healthcare Ecosystem: The Things We Tend to Ignore and Sometimes Get Wrong</div><div class="isomer-card-description">This masterclass offers a deep dive into systemic issues and the complexities in transforming healthcare ecosystems.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15th CHI Masterclass" src="/images/Masterclass (NEW)/15th_Masterclass.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The 5Cs of Community Leadership</div>
+<div class="isomer-card-description">This masterclass highlights the 5Cs of Community Leadership (Care, Connect,
+Create, Cultivate, and Collaborate), with hard truths and tips on how one
+can better engage and connect in the community.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a>
 </div>
 <p></p>
