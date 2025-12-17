@@ -133,4 +133,6 @@ to better manage the increasing complexity of healthcare.</div>
 </div>
 </a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="4th CHI Masterclass" src="/images/Masterclass (NEW)/4th_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Design Thinking for Healthcare – What’s Required?</div><div class="isomer-card-description">This masterclass highlights the design thinking journey taken by one hospital, the mindset required for innovation, and advice on where and how to start.</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
 <p></p>
