@@ -39,5 +39,18 @@ in designing healthcare systems that are innovative, equitable, and future-ready
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="18th CHI Masterclass" src="/images/Masterclass (NEW)/18th_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Policy to Practice – How to Make This Work?</div><div class="isomer-card-description">This masterclass explores a systems approach to population health, emphasising the shift in patient's journey from tertiary to primary and preventive care.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="17th CHI Masterclass" src="/images/Masterclass (NEW)/17th_Masterclass.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Taming the Wicked Issues in Healthcare</div>
+<div class="isomer-card-description">This masterclass addresses the intricate challenges within the healthcare
+system that are often unsolvable and termed "wicked issues".</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a>
 </div>
 <p></p>
