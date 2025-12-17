@@ -93,15 +93,9 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Polytechnic" src="/images/Logos/Academia (NEW)/TP_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Polytechnic" src="/images/Logos/Academia (NEW)/TP_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia (NEW)/UK_Centre_for_Sustainable_Healthcare.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sustainablehealthcare.org.uk/"><img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia (NEW)/UK_Centre_for_Sustainable_Healthcare.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
