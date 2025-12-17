@@ -52,6 +52,7 @@ transformation of our health system.</p>
 </tr>
 </tbody>
 </table>
+<h4>Academia and Capability Development</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -60,23 +61,59 @@ transformation of our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems and Providers 2/AIC_Logo.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Geneva Sustainability Centre" src="/images/Logos/Academia (NEW)/Geneva_Sustainability_Centre_Logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Healthcare Academy" src="/images/Logos/Academia (NEW)/Healthcare_Academy_Logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia (NEW)/IAL_Logo.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LKC School of Medicine" src="/images/Logos/Academia (NEW)/LKC_School_of_Medicine_Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare (Singapore)" src="/images/Logos/Health Systems and Providers 2/IHH_Healthcare_Logo__New_.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="London AI" src="/images/Logos/Academia (NEW)/London_AI.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems and Providers 2/NHG_Health_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia (NEW)/Nanyang_Polytechnic_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nuhs.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="National University Health System (NUHS)" src="/images/Logos/Health Systems and Providers 2/NUHS_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU (Energy Research Institute, ERI@N)" src="/images/Logos/Academia (NEW)/NTU__Energy_Research_Institute__ERI_N__Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.rjl.se/qulturum/_in-english/about-qulturum/"><img style="width: 100%" height="auto" width="100%" alt="Qulturum" src="/images/Logos/Health Systems and Providers 2/Qulturum_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS Centre for Sustainable Medicine" src="/images/Logos/Academia (NEW)/NUS_Centre_for_Sustainable_Medicine_Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singhealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="SingHealth" src="/images/Logos/Health Systems and Providers 2/SingHealth_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Saw Swee Hock School of Public Health" src="/images/Logos/Academia (NEW)/Saw_Swee_Hock_School_of_Public_Health.png">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www2.si.mahidol.ac.th/en/"><img style="width: 100%" height="auto" width="100%" alt="Siriraj Hospital" src="/images/Logos/Health Systems and Providers 2/Siriraj_Hospital_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -87,7 +124,6 @@ transformation of our health system.</p>
 </tr>
 </tbody>
 </table>
-<h4>Academia and Capability Development</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
