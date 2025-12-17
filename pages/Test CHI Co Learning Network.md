@@ -61,37 +61,19 @@ transformation of our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Geneva Sustainability Centre" src="/images/Logos/Academia (NEW)/Geneva_Sustainability_Centre_Logo.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.genevasustainabilitycentre.org/"><img style="width: 100%" height="auto" width="100%" alt="Geneva Sustainability Centre" src="/images/Logos/Academia (NEW)/Geneva_Sustainability_Centre_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Healthcare Academy" src="/images/Logos/Academia (NEW)/Healthcare_Academy_Logo.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hseu.org.sg/about-us/healthcar"><img style="width: 100%" height="auto" width="100%" alt="Healthcare Academy" src="/images/Logos/Academia (NEW)/Healthcare_Academy_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia (NEW)/IAL_Logo.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ial.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia (NEW)/IAL_Logo.png"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LKC School of Medicine" src="/images/Logos/Academia (NEW)/LKC_School_of_Medicine_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/medicine"><img style="width: 100%" height="auto" width="100%" alt="LKC School of Medicine" src="/images/Logos/Academia (NEW)/LKC_School_of_Medicine_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="London AI" src="/images/Logos/Academia (NEW)/London_AI.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aicentre.co.uk/"><img style="width: 100%" height="auto" width="100%" alt="London AI" src="/images/Logos/Academia (NEW)/London_AI.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia (NEW)/Nanyang_Polytechnic_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyp.edu.sg/main"><img style="width: 100%" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia (NEW)/Nanyang_Polytechnic_Logo.png"></a>
 </td>
 </tr>
 <tr>
