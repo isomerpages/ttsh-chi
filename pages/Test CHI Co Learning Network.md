@@ -270,7 +270,7 @@ transformation of our health system.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alibaba Cloud" src="/images/Logos/Industry Partners/Alibaba_Cloud_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Alibaba Cloud" src="/images/Logos/Industry (NEW)/Alibaba_Cloud_Logo.png">
 </div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 100%" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
