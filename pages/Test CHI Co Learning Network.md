@@ -270,10 +270,10 @@ transformation of our health system.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alibaba Cloud" src="/images/Logos/Industry (NEW)/Alibaba_Cloud_Logo.png">
+<img style="width: 95%;" height="auto" width="100%" alt="Alibaba Cloud" src="/images/Logos/Industry (NEW)/Alibaba_Cloud_Logo.png">
 </div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 100%" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 80%;" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -284,68 +284,68 @@ transformation of our health system.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Meta" src="/images/Logos/Industry (NEW)/Meta_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Meta" src="/images/Logos/Industry (NEW)/Meta_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Microsoft" src="/images/Logos/Industry (NEW)/Microsoft_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Microsoft" src="/images/Logos/Industry (NEW)/Microsoft_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry (NEW)/MSD_Logo.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NanRise" src="/images/Logos/Industry (NEW)/NanRise_Logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry (NEW)/NEC_Logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OCBC" src="/images/Logos/Industry (NEW)/OCBC_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry (NEW)/MSD_Logo.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Philips" src="/images/Logos/Industry (NEW)/Philips_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="NanRise" src="/images/Logos/Industry (NEW)/NanRise_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singlife" src="/images/Logos/Industry (NEW)/Singlife_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry (NEW)/NEC_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Urban Co-Innovation Lab" src="/images/Logos/Industry (NEW)/Smart_Urban_Co_Innovation_Lab_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="OCBC" src="/images/Logos/Industry (NEW)/OCBC_Logo.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ST Engineering" src="/images/Logos/Industry (NEW)/ST_Engineering_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Philips" src="/images/Logos/Industry (NEW)/Philips_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ST Healthcare" src="/images/Logos/Industry (NEW)/ST_Healthcare_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Singlife" src="/images/Logos/Industry (NEW)/Singlife_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Terumo" src="/images/Logos/Industry (NEW)/Terumo_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Smart Urban Co-Innovation Lab" src="/images/Logos/Industry (NEW)/Smart_Urban_Co_Innovation_Lab_Logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="ST Engineering" src="/images/Logos/Industry (NEW)/ST_Engineering_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="ST Healthcare" src="/images/Logos/Industry (NEW)/ST_Healthcare_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Terumo" src="/images/Logos/Industry (NEW)/Terumo_Logo.png">
 </div>
 </td>
 </tr>
