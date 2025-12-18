@@ -121,7 +121,7 @@ transformation of our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/enterprise/astartcentral"><img style="width: 70%;" height="auto" width="100%" alt="A*Start Central" src="/images/Logos/Agencies (NEW)/A_Start_Central_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/enterprise/astartcentral"><img style="width: 80%;" height="auto" width="100%" alt="A*Start Central" src="/images/Logos/Agencies (NEW)/A_Start_Central_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apos.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Alliance of Patients' Organizations Singapore (APOS)" src="/images/Logos/Agencies (NEW)/Alliance_of_Patients__Organizations_Singapore__APOS__Logo.png"></a>
 </th>
