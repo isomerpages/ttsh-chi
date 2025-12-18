@@ -121,71 +121,71 @@ transformation of our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/enterprise/astartcentral"><img style="width: 75%;" height="auto" width="100%" alt="A*Start Central" src="/images/Logos/Agencies (NEW)/A_Start_Central_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/enterprise/astartcentral"><img style="width: 70%;" height="auto" width="100%" alt="A*Start Central" src="/images/Logos/Agencies (NEW)/A_Start_Central_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apos.sg/"><img style="width: 85%;" height="auto" width="100%" alt="Alliance of Patients' Organizations Singapore (APOS)" src="/images/Logos/Agencies (NEW)/Alliance_of_Patients__Organizations_Singapore__APOS__Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apos.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Alliance of Patients' Organizations Singapore (APOS)" src="/images/Logos/Agencies (NEW)/Alliance_of_Patients__Organizations_Singapore__APOS__Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.alpshealthcare.com.sg/"><img style="width: 80%;" height="auto" width="100%" alt="ALPS" src="/images/Logos/Agencies (NEW)/ALPS_Logo.png"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://amcham.com.sg/"><img style="width: 90%;" height="auto" width="100%" alt="Americian Chamber of Commerce in Singapore (AmCham)" src="/images/Logos/Agencies (NEW)/Americian_Chamber_of_Commerce_in_Singapore__AmCham__Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://amcham.com.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Americian Chamber of Commerce in Singapore (AmCham)" src="/images/Logos/Agencies (NEW)/Americian_Chamber_of_Commerce_in_Singapore__AmCham__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apacmed.org/"><img style="width: 85%;" height="auto" width="100%" alt="Asia Pacific Medical Technology Association (APACMed)" src="/images/Logos/Agencies (NEW)/Asia_Pacific_Medical_Technology_Association__APACMed__Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apacmed.org/"><img style="width: 75%;" height="auto" width="100%" alt="Asia Pacific Medical Technology Association (APACMed)" src="/images/Logos/Agencies (NEW)/Asia_Pacific_Medical_Technology_Association__APACMed__Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://asme.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Association of Small &amp; Medium Enterprises (ASME)" src="/images/Logos/Agencies (NEW)/Association_of_Small___Medium_Enterprises__ASME__Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img style="width: 85%;" height="auto" width="100%" alt="British High Commission Singapore" src="/images/Logos/Agencies (NEW)/British_High_Commission_Singapore_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img style="width: 75%;" height="auto" width="100%" alt="British High Commission Singapore" src="/images/Logos/Agencies (NEW)/British_High_Commission_Singapore_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.business-sweden.com/"><img style="width: 80%;" height="auto" width="100%" alt="Business Sweden" src="/images/Logos/Agencies (NEW)/Business_Sweden_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.chai.org/"><img style="width: 90%;" height="auto" width="100%" alt="Coalition for Health AI (CHAI)" src="/images/Logos/Agencies (NEW)/Coalition_for_Health_AI__CHAI__Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.chai.org/"><img style="width: 80%;" height="auto" width="100%" alt="Coalition for Health AI (CHAI)" src="/images/Logos/Agencies (NEW)/Coalition_for_Health_AI__CHAI__Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.co11ab.sg/"><img style="width: 90%;" height="auto" width="100%" alt="Co11ab" src="/images/Logos/Agencies (NEW)/Co11ab_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.co11ab.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Co11ab" src="/images/Logos/Agencies (NEW)/Co11ab_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.dduwork.com/"><img style="width: 90%;" height="auto" width="100%" alt="DayDayUp" src="/images/Logos/Agencies (NEW)/DayDayUp_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.dduwork.com/"><img style="width: 80%;" height="auto" width="100%" alt="DayDayUp" src="/images/Logos/Agencies (NEW)/DayDayUp_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 78%;" height="auto" width="100%" alt="Design Singapore Council" src="/images/Logos/Agencies (NEW)/Design_Singapore_Council_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 75%;" height="auto" width="100%" alt="Design Singapore Council" src="/images/Logos/Agencies (NEW)/Design_Singapore_Council_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprise-ireland.com/en/"><img style="width: 85%;" height="auto" width="100%" alt="Enterprise Ireland" src="/images/Logos/Agencies (NEW)/Enterprise_Ireland_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprise-ireland.com/en/"><img style="width: 75%;" height="auto" width="100%" alt="Enterprise Ireland" src="/images/Logos/Agencies (NEW)/Enterprise_Ireland_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprisesg.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="Enterprise Singapore" src="/images/Logos/Agencies (NEW)/Enterprise_Singapore_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprisesg.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Enterprise Singapore" src="/images/Logos/Agencies (NEW)/Enterprise_Singapore_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://eurocham.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="EuroCham" src="/images/Logos/Agencies (NEW)/EuroCham_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://gensg.org/"><img style="width: 80%;" height="auto" width="100%" alt="Gen Singapore" src="/images/Logos/Agencies (NEW)/Gen_Singapore_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://gensg.org/"><img style="width: 70%;" height="auto" width="100%" alt="Gen Singapore" src="/images/Logos/Agencies (NEW)/Gen_Singapore_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tradecommissioner.gc.ca/en.html"><img style="width: 90%;" height="auto" width="100%" alt="Government of Canada, Trade Commissioner Service" src="/images/Logos/Agencies (NEW)/Government_of_Canada__Trade_Commissioner_Service_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tradecommissioner.gc.ca/en.html"><img style="width: 80%;" height="auto" width="100%" alt="Government of Canada, Trade Commissioner Service" src="/images/Logos/Agencies (NEW)/Government_of_Canada__Trade_Commissioner_Service_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hpb.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Health Promotion Board" src="/images/Logos/Agencies (NEW)/Health_Promotion_Board_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hpb.gov.sg/"><img style="width: 70%;" height="auto" width="100%" alt="Health Promotion Board" src="/images/Logos/Agencies (NEW)/Health_Promotion_Board_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 90%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.indee-sg.com/"><img style="width: 85%;" height="auto" width="100%" alt="Indee" src="/images/Logos/Agencies (NEW)/Indee_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.indee-sg.com/"><img style="width: 75%;" height="auto" width="100%" alt="Indee" src="/images/Logos/Agencies (NEW)/Indee_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://en.innovasjonnorge.no/"><img style="width: 70%;" height="auto" width="100%" alt="Innovation Norway" src="/images/Logos/Agencies (NEW)/Innovation_Norway_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.iottribe.org/"><img style="width: 80%;" height="auto" width="100%" alt="IOT Tribe" src="/images/Logos/Agencies (NEW)/IOT_Tribe_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.iottribe.org/"><img style="width: 70%;" height="auto" width="100%" alt="IOT Tribe" src="/images/Logos/Agencies (NEW)/IOT_Tribe_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ipi-singapore.org/"><img style="width: 80%;" height="auto" width="100%" alt="Innovation Partner for Impact (IPI)" src="/images/Logos/Agencies (NEW)/Innovation_Partner_for_Impact__IPI__Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ipi-singapore.org/"><img style="width: 70%;" height="auto" width="100%" alt="Innovation Partner for Impact (IPI)" src="/images/Logos/Agencies (NEW)/Innovation_Partner_for_Impact__IPI__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.italchamber.org.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Italian_Chambers_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.italchamber.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Italian_Chambers_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jetro.go.jp/en/"><img style="width: 90%;" height="auto" width="100%" alt="JETRO" src="/images/Logos/Agencies (NEW)/JETRO_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jetro.go.jp/en/"><img style="width: 80%;" height="auto" width="100%" alt="JETRO" src="/images/Logos/Agencies (NEW)/JETRO_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kilsaglobal.com/"><img style="width: 80%;" height="auto" width="100%" alt="KiLSA" src="/images/Logos/Agencies (NEW)/KiLSA_Global_Logo.png"></a>
 </td>
@@ -193,27 +193,27 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://k-startupcenter.org/eng/Main.do"><img style="width: 90%;" height="auto" width="100%" alt="K-Startup Center" src="/images/Logos/Agencies (NEW)/K_Startup_Center_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://k-startupcenter.org/eng/Main.do"><img style="width: 80%;" height="auto" width="100%" alt="K-Startup Center" src="/images/Logos/Agencies (NEW)/K_Startup_Center_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://staging-lite.d1pk7mlldnmtav.amplifyapp.com/test-chi-co-learning-network/www.medtechactuator.com"><img style="width: 90%;" height="auto" width="100%" alt="MedTech Actuator" src="/images/Logos/Agencies (NEW)/MedTech_Actuator_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://staging-lite.d1pk7mlldnmtav.amplifyapp.com/test-chi-co-learning-network/www.medtechactuator.com"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Actuator" src="/images/Logos/Agencies (NEW)/MedTech_Actuator_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medtechinnovator.asia/"><img style="width: 90%;" height="auto" width="100%" alt="MedTech Innovation Asia Pacific" src="/images/Logos/Agencies (NEW)/MedTech_Innovation_Asia_Pacific_Logo.png"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhic.sg/"><img style="width: 85%;" height="auto" width="100%" alt="NHIC" src="/images/Logos/Agencies (NEW)/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyc.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="NYC" src="/images/Logos/Agencies (NEW)/National_Youth_Council_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://netherlandsinnovation.nl/"><img style="width: 85%;" height="auto" width="100%" alt="Netherlands Innovation Network" src="/images/Logos/Agencies (NEW)/Netherlands_Innovation_Network_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medtechinnovator.asia/"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Innovation Asia Pacific" src="/images/Logos/Agencies (NEW)/MedTech_Innovation_Asia_Pacific_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nordicinnovationhouse.com/"><img style="width: 90%;" height="auto" width="100%" alt="Nordic Innovation House" src="/images/Logos/Agencies (NEW)/Nordic_Innovation_House_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhic.sg/"><img style="width: 70%;" height="auto" width="100%" alt="NHIC" src="/images/Logos/Agencies (NEW)/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.plugandplayapac.com/"><img style="width: 80%;" height="auto" width="100%" alt="Plug and Play APAC" src="/images/Logos/Agencies (NEW)/Plug_and_Play_APAC_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyc.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="NYC" src="/images/Logos/Agencies (NEW)/National_Youth_Council_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.questventures.com/"><img style="width: 85%;" height="auto" width="100%" alt="Quest Ventures" src="/images/Logos/Agencies (NEW)/Quest_Ventures_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://netherlandsinnovation.nl/"><img style="width: 80%;" height="auto" width="100%" alt="Netherlands Innovation Network" src="/images/Logos/Agencies (NEW)/Netherlands_Innovation_Network_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nordicinnovationhouse.com/"><img style="width: 70%;" height="auto" width="100%" alt="Nordic Innovation House" src="/images/Logos/Agencies (NEW)/Nordic_Innovation_House_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.plugandplayapac.com/"><img style="width: 70%;" height="auto" width="100%" alt="Plug and Play APAC" src="/images/Logos/Agencies (NEW)/Plug_and_Play_APAC_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.questventures.com/"><img style="width: 80%;" height="auto" width="100%" alt="Quest Ventures" src="/images/Logos/Agencies (NEW)/Quest_Ventures_Logo.png"></a>
 </td>
 </tr>
 <tr>
