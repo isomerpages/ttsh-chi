@@ -65,13 +65,19 @@ transformation of our health system.</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hseu.org.sg/about-us/healthcar"><img style="width: 100%" height="auto" width="100%" alt="Healthcare Academy" src="/images/Logos/Academia (NEW)/Healthcare_Academy_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ial.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia (NEW)/IAL_Logo.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia (NEW)/IAL_Logo.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/medicine"><img style="width: 100%" height="auto" width="100%" alt="LKC School of Medicine" src="/images/Logos/Academia (NEW)/LKC_School_of_Medicine_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aicentre.co.uk/"><img style="width: 100%" height="auto" width="100%" alt="London AI" src="/images/Logos/Academia (NEW)/London_AI.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="London AI" src="/images/Logos/Academia (NEW)/London_AI_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyp.edu.sg/main"><img style="width: 100%" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia (NEW)/Nanyang_Polytechnic_Logo.png"></a>
 </td>
@@ -95,7 +101,10 @@ transformation of our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Polytechnic" src="/images/Logos/Academia (NEW)/TP_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sustainablehealthcare.org.uk/"><img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia (NEW)/UK_Centre_for_Sustainable_Healthcare.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia (NEW)/UK_Centre_for_Sustainable_Healthcare_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
