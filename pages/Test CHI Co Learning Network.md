@@ -306,7 +306,7 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry (NEW)/NEC_Logo.png">
+<img style="width: 75%;" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry (NEW)/NEC_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
