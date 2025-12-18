@@ -187,9 +187,9 @@ transformation of our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jetro.go.jp/en/"><img style="width: 80%;" height="auto" width="100%" alt="JETRO" src="/images/Logos/Agencies (NEW)/JETRO_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kilsaglobal.com/"><img style="width: 80%;" height="auto" width="100%" alt="KiLSA" src="/images/Logos/Agencies (NEW)/KiLSA_Global_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kilsaglobal.com/"><img style="width: 70%;" height="auto" width="100%" alt="KiLSA" src="/images/Logos/Agencies (NEW)/KiLSA_Global_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.kosmes.or.kr/sbc/SH/EHP/SHEHP001M0.do"><img style="width: 80%;" height="auto" width="100%" alt="KOSME" src="/images/Logos/Agencies (NEW)/KOSME_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.kosmes.or.kr/sbc/SH/EHP/SHEHP001M0.do"><img style="width: 70%;" height="auto" width="100%" alt="KOSME" src="/images/Logos/Agencies (NEW)/KOSME_Logo.png"></a>
 </td>
 </tr>
 <tr>
