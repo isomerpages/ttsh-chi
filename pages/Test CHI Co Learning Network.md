@@ -237,7 +237,9 @@ transformation of our health system.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Innovation Partner for Impact (IPI)" src="/images/Logos/Agencies (NEW)/Innovation_Partner_for_Impact__IPI__Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
