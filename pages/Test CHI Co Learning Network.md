@@ -217,41 +217,41 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://www.saenapartners.com/"><img style="width: 85%;" height="auto" width="100%" alt="Saena Partners" src="/images/Logos/Agencies (NEW)/Saena_Partners_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://www.saenapartners.com/"><img style="width: 70%;" height="auto" width="100%" alt="Saena Partners" src="/images/Logos/Agencies (NEW)/Saena_Partners_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sginnovate.com/"><img style="width: 90%;" height="auto" width="100%" alt="SGInnovate" src="/images/Logos/Agencies (NEW)/SGInnovate_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sginnovate.com/"><img style="width: 80%;" height="auto" width="100%" alt="SGInnovate" src="/images/Logos/Agencies (NEW)/SGInnovate_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/sb"><img style="width: 90%;" height="auto" width="100%" alt="Singapore Biodesign" src="/images/Logos/Agencies (NEW)/Singapore_Biodesign_Logo.png"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sif.org.sg/"><img style="width: 90%;" height="auto" width="100%" alt="Singapore International Foundation" src="/images/Logos/Agencies (NEW)/Singapore_International_Foundation_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tembusutech.com.sg/"><img style="width: 90%;" height="auto" width="100%" alt="Singapore Tembusutech Innovation" src="/images/Logos/Agencies (NEW)/Singapore_Tembusutech_Innovation_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.synapxe.sg/"><img style="width: 70%;" height="auto" width="100%" alt="Synapxe" src="/images/Logos/Agencies (NEW)/Synapxe_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/sb"><img style="width: 80%;" height="auto" width="100%" alt="Singapore Biodesign" src="/images/Logos/Agencies (NEW)/Singapore_Biodesign_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.startupreseau.com/"><img style="width: 85%;" height="auto" width="100%" alt="Startup Reseau" src="/images/Logos/Agencies (NEW)/Startup_Reseau_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sif.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Singapore International Foundation" src="/images/Logos/Agencies (NEW)/Singapore_International_Foundation_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tehnopol.ee/en/"><img style="width: 90%;" height="auto" width="100%" alt="Tehnopol" src="/images/Logos/Agencies (NEW)/Tehnopol_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tembusutech.com.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Singapore Tembusutech Innovation" src="/images/Logos/Agencies (NEW)/Singapore_Tembusutech_Innovation_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.temasekfoundation.org.sg/"><img style="width: 85%;" height="auto" width="100%" alt="Temasek Foundation" src="/images/Logos/Agencies (NEW)/Temasek_Foundation_Logo.png"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tla.com.sg/"><img style="width: 85%;" height="auto" width="100%" alt="Temasek Life Sciences Accelerator" src="/images/Logos/Agencies (NEW)/Temasek_Life_Sciences_Accelerator_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.verge.fund/"><img style="width: 90%;" height="auto" width="100%" alt="Verge Healthtech Fund" src="/images/Logos/Agencies (NEW)/Verge_Healthtech_Fund_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.vertexventures.sg/"><img style="width: 90%;" height="auto" width="100%" alt="Vertex Ventures" src="/images/Logos/Agencies (NEW)/Vertex_Ventures_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.synapxe.sg/"><img style="width: 65%;" height="auto" width="100%" alt="Synapxe" src="/images/Logos/Agencies (NEW)/Synapxe_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.wsg.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Workforce Singapore" src="/images/Logos/Agencies (NEW)/Workforce_Singapore_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.startupreseau.com/"><img style="width: 75%;" height="auto" width="100%" alt="Startup Reseau" src="/images/Logos/Agencies (NEW)/Startup_Reseau_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.thexnode.com/"><img style="width: 80%;" height="auto" width="100%" alt="Xnode" src="/images/Logos/Agencies (NEW)/Xnode_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tehnopol.ee/en/"><img style="width: 80%;" height="auto" width="100%" alt="Tehnopol" src="/images/Logos/Agencies (NEW)/Tehnopol_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.temasekfoundation.org.sg/"><img style="width: 75%;" height="auto" width="100%" alt="Temasek Foundation" src="/images/Logos/Agencies (NEW)/Temasek_Foundation_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tla.com.sg/"><img style="width: 75%;" height="auto" width="100%" alt="Temasek Life Sciences Accelerator" src="/images/Logos/Agencies (NEW)/Temasek_Life_Sciences_Accelerator_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.verge.fund/"><img style="width: 75%;" height="auto" width="100%" alt="Verge Healthtech Fund" src="/images/Logos/Agencies (NEW)/Verge_Healthtech_Fund_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.vertexventures.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Vertex Ventures" src="/images/Logos/Agencies (NEW)/Vertex_Ventures_Logo.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.wsg.gov.sg/"><img style="width: 70%;" height="auto" width="100%" alt="Workforce Singapore" src="/images/Logos/Agencies (NEW)/Workforce_Singapore_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.thexnode.com/"><img style="width: 70%;" height="auto" width="100%" alt="Xnode" src="/images/Logos/Agencies (NEW)/Xnode_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
