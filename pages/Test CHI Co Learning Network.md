@@ -275,39 +275,78 @@ transformation of our health system.</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 100%" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jnj.com/"><img style="width: 100%" height="auto" width="100%" alt="Johnson &amp; Johnson" src="/images/Logos/Industry Partners/Johnson_Johnson_Logo.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Johnson &amp; Johnson" src="/images/Logos/Industry (NEW)/Johnson_Johnson_Logo.png">
+</div>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.meta.com/"><img style="width: 100%" height="auto" width="100%" alt="Meta" src="/images/Logos/Industry Partners/Meta_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Meta" src="/images/Logos/Industry (NEW)/Meta_Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.microsoft.com/en-sg"><img style="width: 100%" height="auto" width="100%" alt="Microsoft" src="/images/Logos/Industry Partners/Microsoft_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Microsoft" src="/images/Logos/Industry (NEW)/Microsoft_Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.msd-singapore.com/"><img style="width: 100%" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry Partners/MSD_Logo.png"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nanrise.sg/"><img style="width: 100%" height="auto" width="100%" alt="NanRise" src="/images/Logos/Industry Partners/NanRise_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sg.nec.com/"><img style="width: 100%" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry Partners/NEC_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ocbc.com/"><img style="width: 100%" height="auto" width="100%" alt="OCBC" src="/images/Logos/Industry Partners/OCBC_Logo.png"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.philips.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Philips" src="/images/Logos/Industry Partners/Philips_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://singlife.com/"><img style="width: 100%" height="auto" width="100%" alt="Singlife" src="/images/Logos/Industry Partners/Singlife_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://smartlab.expert/"><img style="width: 100%" height="auto" width="100%" alt="Smart Urban Co-Innovation Lab" src="/images/Logos/Industry Partners/Smart_Urban_Co_Innovation_Lab_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry (NEW)/MSD_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/"><img style="width: 100%" height="auto" width="100%" alt="ST Engineering" src="/images/Logos/Industry Partners/ST_Engineering_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NanRise" src="/images/Logos/Industry (NEW)/NanRise_Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/en/smart-city/digital-health/transforming-healthcare-with-technology/"><img style="width: 100%" height="auto" width="100%" alt="ST Healthcare" src="/images/Logos/Industry Partners/ST_Healthcare_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry (NEW)/NEC_Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.terumo.com/"><img style="width: 100%" height="auto" width="100%" alt="Terumo" src="/images/Logos/Industry Partners/Terumo_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OCBC" src="/images/Logos/Industry (NEW)/OCBC_Logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Philips" src="/images/Logos/Industry (NEW)/Philips_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singlife" src="/images/Logos/Industry (NEW)/Singlife_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Urban Co-Innovation Lab" src="/images/Logos/Industry (NEW)/Smart_Urban_Co_Innovation_Lab_Logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ST Engineering" src="/images/Logos/Industry (NEW)/ST_Engineering_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ST Healthcare" src="/images/Logos/Industry (NEW)/ST_Healthcare_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Terumo" src="/images/Logos/Industry (NEW)/Terumo_Logo.png">
+</div>
 </td>
 </tr>
 </tbody>
