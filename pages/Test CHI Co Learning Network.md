@@ -258,7 +258,9 @@ transformation of our health system.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="JETRO" src="/images/Logos/Agencies (NEW)/JETRO_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -266,7 +268,9 @@ transformation of our health system.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="KOSME" src="/images/Logos/Agencies (NEW)/KOSME_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -493,4 +497,5 @@ transformation of our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
