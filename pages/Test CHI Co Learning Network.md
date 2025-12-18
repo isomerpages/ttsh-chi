@@ -297,18 +297,26 @@ transformation of our health system.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NYC" src="/images/Logos/Agencies (NEW)/National_Youth_Council_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Netherlands Innovation Network" src="/images/Logos/Agencies (NEW)/Netherlands_Innovation_Network_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nordic Innovation House" src="/images/Logos/Agencies (NEW)/Nordic_Innovation_House_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Plug and Play APAC" src="/images/Logos/Agencies (NEW)/Plug_and_Play_APAC_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -527,6 +535,7 @@ transformation of our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
