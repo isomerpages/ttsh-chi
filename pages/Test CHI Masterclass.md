@@ -7,7 +7,9 @@ description: ""
 <h1>CHI MASTERCLASS</h1>
 <p>The CHI Masterclass features world-class thought leaders to actively build
 mindshare in healthcare transformation for systems change.</p>
-<h2><strong>Upcoming</strong></h2>
+<h2><strong>Upcoming!</strong></h2>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="23rd CHI Masterclass" src="/images/Masterclass (NEW)/23rd_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ANDlightenment: The Joy of Seeing and Leveraging Polarities</div><div class="isomer-card-description">This masterclass explores polarity thinking to help us better manage complexity, think more expansively, make better decisions, and reduce conflict.</div><div class="isomer-card-link">Sign Up &gt;</div></div></a>
+</div>
 <p>Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to
 stay connected.</p>
 <h2>Past</h2>
