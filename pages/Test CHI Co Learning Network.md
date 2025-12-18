@@ -258,12 +258,12 @@ transformation of our health system.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/JETRO_Logo.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="KiLSA" src="/images/Logos/Agencies (NEW)/KiLSA_Global_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
