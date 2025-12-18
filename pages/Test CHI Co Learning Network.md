@@ -275,6 +275,36 @@ transformation of our health system.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="K-Startup Center" src="/images/Logos/Agencies (NEW)/K_Startup_Center_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MedTech Actuator" src="/images/Logos/Agencies (NEW)/MedTech_Actuator_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MedTech Innovation Asia Pacific" src="/images/Logos/Agencies (NEW)/MedTech_Innovation_Asia_Pacific_Logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NHIC" src="/images/Logos/Agencies (NEW)/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -497,5 +527,6 @@ transformation of our health system.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
