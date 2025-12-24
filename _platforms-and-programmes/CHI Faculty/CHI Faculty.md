@@ -1,12 +1,12 @@
 ---
 title: CHI Faculty
 permalink: /chi-faculty/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: CHI Faculty
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Faculty/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Faculty/Website_Images__1_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
