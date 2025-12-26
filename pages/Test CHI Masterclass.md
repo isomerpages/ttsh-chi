@@ -17,7 +17,7 @@ stay connected.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="21st CHI Masterclass" src="/images/2__21st_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="21st CHI Masterclass" src="/images/2__21st_CHI_Masterclass.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
