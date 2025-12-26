@@ -17,7 +17,7 @@ stay connected.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="21st CHI Masterclass" src="/images/2__21st_CHI_Masterclass.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="21st CHI Masterclass" src="/images/4__21st_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -29,7 +29,7 @@ Care and NHG Health are transforming care in the community.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th CHI Masterclass" src="/images/2__20th_CHI_Masterclass.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Reimagining Healthcare: Siriraj Hospital’s Digital Transformation Journey</div><div class="isomer-card-description">This masterclass showcases how Thailand's largest and oldest teaching hospital is revolutionising healthcare delivery through digital transformation and building an innovation ecosystem.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th CHI Masterclass" src="/images/4__20th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Reimagining Healthcare: Siriraj Hospital’s Digital Transformation Journey</div><div class="isomer-card-description">This masterclass showcases how Thailand's largest and oldest teaching hospital is revolutionising healthcare delivery through digital transformation and building an innovation ecosystem.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
