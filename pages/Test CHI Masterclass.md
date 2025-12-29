@@ -29,11 +29,11 @@ Care and NHG Health are transforming care in the community.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th CHI Masterclass" src="/images/4__20th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Reimagining Healthcare: Siriraj Hospital’s Digital Transformation Journey</div><div class="isomer-card-description">This masterclass showcases how Thailand's largest and oldest teaching hospital is revolutionising healthcare delivery through digital transformation and building an innovation ecosystem.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/20th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Reimagining Healthcare: Siriraj Hospital’s Digital Transformation Journey</div><div class="isomer-card-description">This masterclass showcases how Thailand's largest and oldest teaching hospital is revolutionising healthcare delivery through digital transformation and building an innovation ecosystem.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="19th CHI Masterclass" src="/images/Masterclass (NEW)/19th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="19th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/19th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -43,11 +43,11 @@ Human-Centered Design and Technology</div>
 in designing healthcare systems that are innovative, equitable, and future-ready.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="18th CHI Masterclass" src="/images/Masterclass (NEW)/18th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Policy to Practice – How to Make This Work?</div><div class="isomer-card-description">This masterclass explores a systems approach to population health, emphasising the shift in patient's journey from tertiary to primary and preventive care.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="18th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/18th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Policy to Practice – How to Make This Work?</div><div class="isomer-card-description">This masterclass explores a systems approach to population health, emphasising the shift in patient's journey from tertiary to primary and preventive care.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="17th CHI Masterclass" src="/images/Masterclass (NEW)/17th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="17th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/17th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -56,11 +56,11 @@ in designing healthcare systems that are innovative, equitable, and future-ready
 system that are often unsolvable and termed "wicked issues".</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="16th CHI Masterclass" src="/images/Masterclass (NEW)/16th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Healthcare Ecosystem: The Things We Tend to Ignore and Sometimes Get Wrong</div><div class="isomer-card-description">This masterclass offers a deep dive into systemic issues and the complexities in transforming healthcare ecosystems.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="16th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/16th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Healthcare Ecosystem: The Things We Tend to Ignore and Sometimes Get Wrong</div><div class="isomer-card-description">This masterclass offers a deep dive into systemic issues and the complexities in transforming healthcare ecosystems.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="15th CHI Masterclass" src="/images/Masterclass (NEW)/15th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="15th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/15th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -70,11 +70,11 @@ Create, Cultivate, and Collaborate), with hard truths and tips on how one
 can better engage and connect in the community.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="14th CHI Masterclass" src="/images/Masterclass (NEW)/14th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Population Health – Ambition into Action</div><div class="isomer-card-description">This masterclass offers practical insights on prevention, primary care transformation, and population health management to help accelerate our ambitions for happier, healthier populations in both England and Singapore.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="14th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/14th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Population Health – Ambition into Action</div><div class="isomer-card-description">This masterclass offers practical insights on prevention, primary care transformation, and population health management to help accelerate our ambitions for happier, healthier populations in both England and Singapore.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="13th CHI Masterclass" src="/images/Masterclass (NEW)/13th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="13th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/13th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -83,11 +83,11 @@ can better engage and connect in the community.</div>
 outdated information systems.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="12th CHI Masterclass" src="/images/Masterclass (NEW)/12th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sustainability in Healthcare Transformation</div><div class="isomer-card-description">This masterclass highlights the population health experiences of the Hong Kong Health System and the driving forces behind sustainable transformation at Karolinska University Hospital.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="12th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/12th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sustainability in Healthcare Transformation</div><div class="isomer-card-description">This masterclass highlights the population health experiences of the Hong Kong Health System and the driving forces behind sustainable transformation at Karolinska University Hospital.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="11th CHI Masterclass" src="/images/Masterclass (NEW)/11th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="11th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/11th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -96,11 +96,11 @@ outdated information systems.</div>
 long-term outcomes of Local Area Coordination in England and Wales.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10th CHI Masterclass" src="/images/Masterclass (NEW)/10th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Blueprint for Successful MedTech Innovation</div><div class="isomer-card-description">This masterclass offers insights into the fine balance between the health benefits and economic impact of innovation.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/10th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Blueprint for Successful MedTech Innovation</div><div class="isomer-card-description">This masterclass offers insights into the fine balance between the health benefits and economic impact of innovation.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="9th CHI Masterclass" src="/images/Masterclass (NEW)/9th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="9th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/9th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -110,11 +110,11 @@ of key concepts in Systems Thinking, an invaluable perspective to foster
 aspiration towards our expanded healthcare mission.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="8th CHI Masterclass" src="/images/Masterclass (NEW)/8th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integrated Care Provision</div><div class="isomer-card-description">This masterclass provides an overview of the GK Model of Integrated Care Provision and how physician-partner collaboration can improve population health outcomes, service efficiency, and care experience while slowing healthcare cost growth.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="8th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/8th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integrated Care Provision</div><div class="isomer-card-description">This masterclass provides an overview of the GK Model of Integrated Care Provision and how physician-partner collaboration can improve population health outcomes, service efficiency, and care experience while slowing healthcare cost growth.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="7th CHI Masterclass" src="/images/Masterclass (NEW)/7th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="7th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/7th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -123,11 +123,11 @@ aspiration towards our expanded healthcare mission.</div>
 to introduce value-based healthcare in hospital-based systems.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="6th CHI Masterclass" src="/images/Masterclass (NEW)/6th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building a Healthcare Team in the Community</div><div class="isomer-card-description">This masterclass explores ways in which we can deliver multi-disciplinary healthcare in the community and build trust between partners and the community through the transformation of our workforce.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="6th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/6th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building a Healthcare Team in the Community</div><div class="isomer-card-description">This masterclass explores ways in which we can deliver multi-disciplinary healthcare in the community and build trust between partners and the community through the transformation of our workforce.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="5th CHI Masterclass" src="/images/Masterclass (NEW)/5th_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="5th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/5th_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -136,6 +136,6 @@ to introduce value-based healthcare in hospital-based systems.</div>
 to better manage the increasing complexity of healthcare.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="4th CHI Masterclass" src="/images/Masterclass (NEW)/4th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Design Thinking for Healthcare – What’s Required?</div><div class="isomer-card-description">This masterclass highlights the design thinking journey taken by one hospital, the mindset required for innovation, and advice on where and how to start.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="4th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/4th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Design Thinking for Healthcare – What’s Required?</div><div class="isomer-card-description">This masterclass highlights the design thinking journey taken by one hospital, the mindset required for innovation, and advice on where and how to start.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
