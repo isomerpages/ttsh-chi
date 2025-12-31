@@ -17,14 +17,17 @@ workers with tools that enhance their capabilities and improve patient
 outcomes. This technological transformation allows healthcare professionals
 to support clinical decision-making, deliver more precise and efficient
 care, ultimately creating a more responsive and effective healthcare workforce.</p>
-<h3>Building the Digital Health of the Future</h3>
+<h3>Enhancing Health through an AI and Tech-Enabled Workforce</h3>
 <p>&nbsp;<strong>Problem Statement</strong>
 </p>
-<p>How might we leverage AI and tech-empowered solutions to transform our
-healthcare workforce to create a holistic care delivery system across all
-care settings and patient touchpoints that drives productivity gains, improves
-cost efficiency, and delivers significantly improved health outcomes for
-patients?</p>
+<p>How might we leverage AI and tech-empowered solutions to tr</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Timeline__1_.png">
+</div>
+<p>nsform our healthcare workforce to create a holistic care delivery system
+across all care settings and patient touchpoints that drives productivity
+gains, improves cost efficiency, and delivers significantly improved health
+outcomes for patients?</p>
 <p>This theme seeks disruptive innovations that can empower the workforce
 to greater benefit diverse patient groups. The proposal shall focus on
 the following three key levels:</p>
