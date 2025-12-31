@@ -20,14 +20,11 @@ care, ultimately creating a more responsive and effective healthcare workforce.<
 <h3>Enhancing Health through an AI and Tech-Enabled Workforce</h3>
 <p>&nbsp;<strong>Problem Statement</strong>
 </p>
-<p>How might we leverage AI and tech-empowered solutions to tr</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Timeline__1_.png">
-</div>
-<p>nsform our healthcare workforce to create a holistic care delivery system
-across all care settings and patient touchpoints that drives productivity
-gains, improves cost efficiency, and delivers significantly improved health
-outcomes for patients?</p>
+<p>How might we leverage AI and tech-empowered solutions to trnsform our
+healthcare workforce to create a holistic care delivery system across all
+care settings and patient touchpoints that drives productivity gains, improves
+cost efficiency, and delivers significantly improved health outcomes for
+patients?</p>
 <p>This theme seeks disruptive innovations that can empower the workforce
 to greater benefit diverse patient groups. The proposal shall focus on
 the following three key levels:</p>
@@ -70,7 +67,6 @@ healthcare innovation, bringing them a step closer to benefit patients.</p>
 <p>Coming soon in February 2026! Follow CHI at <a href="https://cf.linkedin.com/company/chi-centre-for-healthcare-innovation" rel="noopener nofollow" target="_blank">LinkedIn Page</a> for
 the latest update!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Timeline__1_.png">
 </div>
-<h2></h2>
 <p></p>
