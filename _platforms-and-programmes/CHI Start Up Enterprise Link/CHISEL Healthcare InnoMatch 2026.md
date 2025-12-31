@@ -1,8 +1,8 @@
 ---
-title: CHISEL Healthcare InnoMatch 2025
-permalink: /chisel-healthcare-innomatch-2025/
+title: CHISEL Healthcare InnoMatch 2026
+permalink: /chisel-healthcare-innomatch-2026/
 variant: tiptap
-description: CHISEL Healthcare InnoMatch 2025
+description: CHISEL Healthcare InnoMatch 2026
 third_nav_title: CHI Start Up Enterprise Link
 ---
 <div class="isomer-image-wrapper">
