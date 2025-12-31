@@ -2,6 +2,7 @@ collections:
   our-events:
     output: true
     order:
+      - CHI Masterclass 2.md
       - Calendar of Events 2025.md
       - CHI Conference/.keep
       - CHI Conference/CHI INNOVATE 2025.md
