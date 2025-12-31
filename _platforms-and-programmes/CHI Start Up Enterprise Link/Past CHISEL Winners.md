@@ -5,13 +5,58 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
+<h4>CHISEL 2025</h4>
+<p><em>Theme: Building the Digital Health of the FutureStrengthening Care for Healthier and Resilient Ageing Society</em>
+</p>
+<p>How can digital solutions (e.g. AI-enhanced Digital Platforms or Devices)
+seamlessly&nbsp;<strong>integrate care within and beyond</strong>&nbsp;hospitals
+to create a future-ready, patient-centric healthcare model that enhances
+access to care, improves quality of care, increases operational efficiency,
+and&nbsp;<strong>enables discharge and continuing care</strong>, with the
+objective of providing greater value to patients?</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.16bit.ai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="16Bit" src="/images/CHISEL/Untitled_design__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">16 Bit</div><div class="isomer-card-description">16 Bit, a Canadian AI company founded by radiologists, created Rho™, an osteoporosis screening tool that analyzes routine X-rays to detect low bone density and recommend DXA testing—advancing preventive care globally with efficient, accessible solutions.</div><div class="isomer-card-link">https://www.16bit.ai/</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://acorai.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Acorai" src="/images/CHISEL/1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Acorai</div>
+<div class="isomer-card-description">Acorai, a Swedish MedTech company, offers a non-invasive, FDA Breakthrough–designated
+device for cardiac pressure monitoring. Using its patented SAVE Sensor
+System, Acorai enables faster diagnosis, personalized therapy, and fewer
+readmissions—improving patient outcomes.</div>
+<div class="isomer-card-link">https://acorai.com/</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://en.ai-ms.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Medical Service" src="/images/CHISEL/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Medical Service </div><div class="isomer-card-description">AI Medical Service (AIM), a Tokyo-based startup, uses AI-powered endoscopy to detect GI cancers early and reduce diagnostic errors. By enhancing accuracy and addressing the shortage of skilled endoscopists, AIM improves patient outcomes worldwide.</div><div class="isomer-card-link">https://en.ai-ms.com/</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://gyrogear.net/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GyroGear" src="/images/CHISEL/3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GyroGear</div>
+<div class="isomer-card-description">GyroGear is a neurotech company restoring independence for people with
+hand tremors. Its flagship GyroGlove 1.0 uses high-performance gyroscopes
+to instantly stabilize hands—non-invasive, drug-free, and empowering users
+to regain confidence and control.</div>
+<div class="isomer-card-link">https://gyrogear.net/</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://lifescapes.jp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LIFESCAPES, a Keio University–origin startup, develops brain-computer interface (BCI) technology to restore motor function for patients with severe paralysis caused by stroke or spinal cord injury." src="/images/CHISEL/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LIFESCAPES</div><div class="isomer-card-description">LIFESCAPES, a Keio University–origin startup, develops BCI technology to restore motor function in patients with severe paralysis from stroke or spinal cord injury. Their mission: enable recovery, improve quality of life, and deliver innovative, clinically validated rehab solutions.</div><div class="isomer-card-link">https://lifescapes.jp/</div></div></a>
+</div>
+<p>Click <a href="https://www.chi.sg/files/Media_Release_CHISEL_Healthcare_InnoMatch_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the Press Release.</p>
+<p>&nbsp;Watch the live recording of CHISEL 2025 Finale <a href="https://youtu.be/LaFI_tDGfTE" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>CHISEL 2024</h4>
 <p><em>Theme: Strengthening Care for Healthier and Resilient Ageing Society</em>
 </p>
-<p>&nbsp;How might disruptive innovations enhance existing efforts, bridge
-critical gaps, and fulfill unmet needs in the holistic care of the elderly
-and young seniors, so as to create sustainable (business model and environment
-perspective) and personalised care models?</p>
+<p>How might disruptive innovations enhance existing efforts, bridge critical
+gaps, and fulfill unmet needs in the holistic care of the elderly and young
+seniors, so as to create sustainable (business model and environment perspective)
+and personalised care models?</p>
 <p>&nbsp;</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://captureproof.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CAPTUREPROOF, Inc." src="/images/CHISEL/image001__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CAPTUREPROOF, Inc.</div><div class="isomer-card-description">BalanceScan is an AI-powered solution that assesses fall risk through video analysis. Using recordings from a smartphone or tablet, it delivers real-time, accurate insights into patient mobility. This facilitates early intervention, reduces fall risks, improves outcomes, and lowers healthcare costs.</div><div class="isomer-card-link">Find out more here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sgdiagnostics.com/" class="isomer-card">
