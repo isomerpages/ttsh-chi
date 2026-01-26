@@ -8,7 +8,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <h4>Frequently Asked Questions</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>How many winners will there be for CHISEL InnoMatch 2025?</strong>
+<summary><strong>How many winners will there be for CHISEL InnoMatch 2026?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Up to six (6) winners will be selected at the end of this year’s Challenge.</p>
@@ -49,7 +49,7 @@ project lead that you will be working with for the test-bedding.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The grant funding covers costs incurred by the winner and partnered healthcare
-institutions specifically for the purposes of the test-bed, such as:</p>
+institutions specifically for the test-bed, such as:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pilot manufacturing,</p>
@@ -67,7 +67,7 @@ institutions specifically for the purposes of the test-bed, such as:</p>
 <p>Analytics and evaluation services.</p>
 </li>
 </ul>
-<p>All CHISEL 2025 &nbsp;test-bed solutions are to be evaluated using the <strong>CHI Evaluation Framework (CHIEF). CHIEF</strong> is
+<p>All CHISEL 2026 &nbsp;test-bed solutions are to be evaluated using the <strong>CHI Evaluation Framework (CHIEF). CHIEF</strong> is
 a holistic framework for the evaluation of innovative solutions seeking
 real world deployment. Evaluation costs should be included in your application.&nbsp;</p>
 <p>You may also engage additional services (e.g. statistical analysis, study
