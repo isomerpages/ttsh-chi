@@ -20,10 +20,10 @@ healthcare institutions.</p>
 feasibility of solutions before adoption or scale-up. The platform aims
 to bridge the market adoption gap and allow patients early access to new
 and emerging healthcare innovations to meet healthcare gaps.</p>
-<p>&nbsp;Over four successful runs from 2021 to 2024, over 800 innovators
-across more than 70 countries competed, and 14 companies were selected
-to test-bed their solutions that could enhance patient care and deliver
-positive health outcomes.</p>
+<p>Over five successful runs from 2021 to 2025, close to 1,500 innovators
+across 88 countries competed, and 18 companies have been awarded about
+$9.5mil to test-bed their solutions with one of the three healthcare clusters,
+potentially enhancing patient care and delivering positive health outcomes.</p>
 <h3>An end-to-end process that moves a potential solution from proof of value to adoption</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
