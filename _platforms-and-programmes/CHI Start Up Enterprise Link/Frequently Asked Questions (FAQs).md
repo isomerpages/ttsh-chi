@@ -77,6 +77,6 @@ expert for the purposes of the test-bed at your discretion</p>
 </details>
 </div>
 <p></p>
-<p>Click <a href="https://file.for.sg/chisel2025faqs.pdf" rel="noopener nofollow" target="_blank">here </a>for
+<p>Click <a href="https://for.sg/chisel2026faq" rel="noopener nofollow" target="_blank">here </a>for
 the full list of FAQs.</p>
 <p></p>
