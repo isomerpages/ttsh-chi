@@ -92,7 +92,7 @@ types:
 <div class="isomer-card-title">National HIP Medals 2016</div>
 <div class="isomer-card-link">Click to watch the winning projects.</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLTrhD5VOFZmpbYgYQH3V12_TjWlhgzyyH&amp;si=qwKfXwtFrcXtde_j" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Click here to watch the winning projects" src="/images/Nhip/Presentation1__1_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National HIP Medals 2025</div><div class="isomer-card-description">National HIP Medals 2025</div><div class="isomer-card-link">NHIP 2025</div></div></a>
 </div>
 <p>For posters of past winning projects and submissions of the National HIP
 Medals, check them out on the <a href="https://child.chi.sg/" rel="noopener nofollow" target="_blank">CHI Learning &amp; Development System</a> where
