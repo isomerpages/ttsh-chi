@@ -7,8 +7,9 @@ third_nav_title: CHI Start Up Enterprise Link
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Masthead_2026_2.png">
-</div>
-<h4>To register for our info sessions and in-person networking session, please register <a href="https://for.sg/chisel2026registration" rel="noopener noreferrer nofollow" target="_blank">here</a>!</h4>
+</div><a class="isomer-image-wrapper" href="https://for.sg/chisel2026challenge"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Application_Open.png"></a>
+<p>To register for our info sessions and in-person networking session, please
+register <a href="https://for.sg/chisel2026registration" rel="noopener nofollow" target="_blank">here</a>!</p>
 <h2>Theme</h2>
 <p>As the Singapore healthcare system face mounting pressures from workforce
 shortages and increasing demand, AI-enabled solutions emerge as vital enablers
