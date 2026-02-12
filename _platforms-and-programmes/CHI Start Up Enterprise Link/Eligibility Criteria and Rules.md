@@ -71,7 +71,7 @@ certificate, etc.).</p>
 by law. Applications from companies included in the US or EU sanctions
 list and/or blacklisted by any UN or international agency will not be accepted.</p>
 <h4>Rules</h4>
-<p>Click <a href="https://for.sg/chisel2025rules" rel="noopener nofollow" target="_blank">here </a>for
+<p>Click <a href="https://for.sg/chisel2026rules" rel="noopener nofollow" target="_blank">here </a>for
 more details on CHISEL Healthcare InnoMatch 2025 challenge rules.</p>
 <hr>
 <p></p>
