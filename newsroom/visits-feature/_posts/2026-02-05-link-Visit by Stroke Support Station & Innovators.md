@@ -1,5 +1,5 @@
 ---
-title: Visit by Stroke Support Station (S3) & Innovators
+title: Visit by Stroke Support Station & Innovators
 date: 2026-02-05
 layout: link
 description: ""
