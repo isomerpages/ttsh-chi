@@ -13,21 +13,21 @@ mindshare in healthcare transformation for systems change.</p>
 <p>Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to
 stay connected.</p>
 <h2>Past Sessions</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="22nd CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/22nd_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research and Innovation to Add Value to Healthcare</div><div class="isomer-card-description">This masterclass offers insights on aligning organisational efforts around shared priorities and measurable outcomes.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="23rd CHI Masterclass" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ANDlightenment: The Joy of Seeing and Leveraging Polarities</div><div class="isomer-card-description">This masterclass </div><div class="isomer-card-link">Read More &gt;</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="21st CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/21st_CHI_Masterclass.png">
+<img style="width: 100%" height="auto" width="100%" alt="22nd CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/22nd_CHI_Masterclass.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Building Care Teams for Every Resident in the Community – A Co-Learning
-Exchange</div>
-<div class="isomer-card-description">This masterclass explores how Southcentral Foundation’s Nuka System of
-Care and NHG Health are transforming care in the community.</div>
+<div class="isomer-card-title">Redefining Healthcare Management – How to Align Clinical Practice, Research
+and Innovation to Add Value to Healthcare</div>
+<div class="isomer-card-description">This masterclass offers insights on aligning organisational efforts around
+shared priorities and measurable outcomes.</div>
 <div class="isomer-card-link">Read More &gt;</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="21st CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/21st_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building Care Teams for Every Resident in the Community – A Co-Learning Exchange</div><div class="isomer-card-description">This masterclass explores how Southcentral Foundation’s Nuka System of Care and NHG Health are transforming care in the community.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/20th_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Reimagining Healthcare: Siriraj Hospital’s Digital Transformation Journey</div><div class="isomer-card-description">This masterclass showcases how Thailand's largest and oldest teaching hospital is revolutionising healthcare delivery through digital transformation and building an innovation ecosystem.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
