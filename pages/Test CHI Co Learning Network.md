@@ -13,7 +13,7 @@ partners across Health Systems, Academia, Agencies and Industry. This innovation
 network promotes co-learning through strong partnerships to enable the
 transformation of our health system.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iGjKAr6gy6c"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iGjKAr6gy6c"></iframe>
 </div>
 <h2>Our Partners</h2>
 <h4>Health Systems and Providers</h4>
@@ -94,6 +94,7 @@ transformation of our health system.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singaporetech.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SIT" src="/images/Logos/Academia (NEW)/SIT_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://business.smu.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SMU LKK School of Business" src="/images/Logos/Academia (NEW)/SMU_LKK_School_of_Business_Logo.png"></a>
+<p>to delete?</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SUSS" src="/images/Logos/Academia (NEW)/SUSS_Logo.png"></a>
 </td>
@@ -133,7 +134,8 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apacmed.org/"><img style="width: 75%;" height="auto" width="100%" alt="Asia Pacific Medical Technology Association (APACMed)" src="/images/Logos/Agencies (NEW)/Asia_Pacific_Medical_Technology_Association__APACMed__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://asme.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Association of Small &amp; Medium Enterprises (ASME)" src="/images/Logos/Agencies (NEW)/Association_of_Small___Medium_Enterprises__ASME__Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -153,15 +155,18 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprise-ireland.com/en/"><img style="width: 75%;" height="auto" width="100%" alt="Enterprise Ireland" src="/images/Logos/Agencies (NEW)/Enterprise_Ireland_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprisesg.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Enterprise Singapore" src="/images/Logos/Agencies (NEW)/Enterprise_Singapore_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://eurocham.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="EuroCham" src="/images/Logos/Agencies (NEW)/EuroCham_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://gensg.org/"><img style="width: 70%;" height="auto" width="100%" alt="Gen Singapore" src="/images/Logos/Agencies (NEW)/Gen_Singapore_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tradecommissioner.gc.ca/en.html"><img style="width: 80%;" height="auto" width="100%" alt="Government of Canada, Trade Commissioner Service" src="/images/Logos/Agencies (NEW)/Government_of_Canada__Trade_Commissioner_Service_Logo.png"></a>
 </td>
@@ -177,9 +182,11 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.iottribe.org/"><img style="width: 70%;" height="auto" width="100%" alt="IOT Tribe" src="/images/Logos/Agencies (NEW)/IOT_Tribe_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ipi-singapore.org/"><img style="width: 70%;" height="auto" width="100%" alt="Innovation Partner for Impact (IPI)" src="/images/Logos/Agencies (NEW)/Innovation_Partner_for_Impact__IPI__Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.italchamber.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Italian_Chambers_Logo.png"></a>
 </td>
@@ -205,13 +212,16 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyc.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="NYC" src="/images/Logos/Agencies (NEW)/National_Youth_Council_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://netherlandsinnovation.nl/"><img style="width: 80%;" height="auto" width="100%" alt="Netherlands Innovation Network" src="/images/Logos/Agencies (NEW)/Netherlands_Innovation_Network_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nordicinnovationhouse.com/"><img style="width: 70%;" height="auto" width="100%" alt="Nordic Innovation House" src="/images/Logos/Agencies (NEW)/Nordic_Innovation_House_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.plugandplayapac.com/"><img style="width: 70%;" height="auto" width="100%" alt="Plug and Play APAC" src="/images/Logos/Agencies (NEW)/Plug_and_Play_APAC_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.questventures.com/"><img style="width: 80%;" height="auto" width="100%" alt="Quest Ventures" src="/images/Logos/Agencies (NEW)/Quest_Ventures_Logo.png"></a>
 </td>
@@ -227,13 +237,15 @@ transformation of our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sif.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Singapore International Foundation" src="/images/Logos/Agencies (NEW)/Singapore_International_Foundation_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tembusutech.com.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Singapore Tembusutech Innovation" src="/images/Logos/Agencies (NEW)/Singapore_Tembusutech_Innovation_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.synapxe.sg/"><img style="width: 65%;" height="auto" width="100%" alt="Synapxe" src="/images/Logos/Agencies (NEW)/Synapxe_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.startupreseau.com/"><img style="width: 75%;" height="auto" width="100%" alt="Startup Reseau" src="/images/Logos/Agencies (NEW)/Startup_Reseau_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tehnopol.ee/en/"><img style="width: 80%;" height="auto" width="100%" alt="Tehnopol" src="/images/Logos/Agencies (NEW)/Tehnopol_Logo.png"></a>
 </td>
@@ -241,11 +253,13 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tla.com.sg/"><img style="width: 75%;" height="auto" width="100%" alt="Temasek Life Sciences Accelerator" src="/images/Logos/Agencies (NEW)/Temasek_Life_Sciences_Accelerator_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.verge.fund/"><img style="width: 75%;" height="auto" width="100%" alt="Verge Healthtech Fund" src="/images/Logos/Agencies (NEW)/Verge_Healthtech_Fund_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.vertexventures.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Vertex Ventures" src="/images/Logos/Agencies (NEW)/Vertex_Ventures_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -268,7 +282,8 @@ transformation of our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="www.alibabacloud.com"><img style="width: 95%;" height="auto" width="100%" alt="Alibaba Cloud" src="/images/Logos/Industry (NEW)/Alibaba_Cloud_Logo.png"></a>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 80%;" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
 </th>
@@ -288,7 +303,8 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sg.nec.com/"><img style="width: 80%;" height="auto" width="100%" alt="NEC" src="/images/Logos/Industry (NEW)/NEC_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ocbc.com/group/gateway"><img style="width: 80%;" height="auto" width="100%" alt="OCBC" src="/images/Logos/Industry (NEW)/OCBC_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -296,7 +312,8 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://singlife.com/en"><img style="width: 80%;" height="auto" width="100%" alt="Singlife" src="/images/Logos/Industry (NEW)/Singlife_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://smartlab.expert/"><img style="width: 80%;" height="auto" width="100%" alt="Smart Urban Co-Innovation Lab" src="/images/Logos/Industry (NEW)/Smart_Urban_Co_Innovation_Lab_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
