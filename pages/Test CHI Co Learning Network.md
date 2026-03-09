@@ -148,7 +148,7 @@ transformation of our health system.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Commonwealth Leadership Institute" src="/images/Logos/Agencies (NEW)/CLI_Logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Commonwealth Leadership Institute" src="/images/Logos/Agencies (NEW)/CLI_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.dduwork.com/"><img style="width: 80%;" height="auto" width="100%" alt="DayDayUp" src="/images/Logos/Agencies (NEW)/DayDayUp_Logo.png"></a>
@@ -158,25 +158,31 @@ transformation of our health system.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="e27" src="/images/Logos/Agencies (NEW)/e27_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprisesg.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Enterprise Singapore" src="/images/Logos/Agencies (NEW)/Enterprise_Singapore_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tradecommissioner.gc.ca/en.html"><img style="width: 80%;" height="auto" width="100%" alt="Government of Canada, Trade Commissioner Service" src="/images/Logos/Agencies (NEW)/Government_of_Canada__Trade_Commissioner_Service_Logo.png"></a>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hpb.gov.sg/"><img style="width: 70%;" height="auto" width="100%" alt="Health Promotion Board" src="/images/Logos/Agencies (NEW)/Health_Promotion_Board_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="HealthTechX" src="/images/Logos/Agencies (NEW)/HealthTechX_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="HKSTP" src="/images/Logos/Agencies (NEW)/HKSTP_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.indee-sg.com/"><img style="width: 75%;" height="auto" width="100%" alt="Indee" src="/images/Logos/Agencies (NEW)/Indee_Logo.png"></a>
 </td>
@@ -184,21 +190,21 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.italchamber.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Italian_Chambers_Logo.png"></a>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jetro.go.jp/en/"><img style="width: 80%;" height="auto" width="100%" alt="JETRO" src="/images/Logos/Agencies (NEW)/JETRO_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kilsaglobal.com/"><img style="width: 70%;" height="auto" width="100%" alt="KiLSA" src="/images/Logos/Agencies (NEW)/KiLSA_Global_Logo.png"></a>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.kosmes.or.kr/sbc/SH/EHP/SHEHP001M0.do"><img style="width: 70%;" height="auto" width="100%" alt="KOSME" src="/images/Logos/Agencies (NEW)/KOSME_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
