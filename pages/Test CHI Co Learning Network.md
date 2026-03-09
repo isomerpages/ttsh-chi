@@ -93,19 +93,19 @@ transformation of our health system.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.singaporetech.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SIT" src="/images/Logos/Academia (NEW)/SIT_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://business.smu.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SMU LKK School of Business" src="/images/Logos/Academia (NEW)/SMU_LKK_School_of_Business_Logo.png"></a>
-<p>to delete?</p>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="SUSS" src="/images/Logos/Academia (NEW)/SUSS_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Polytechnic" src="/images/Logos/Academia (NEW)/TP_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Polytechnic" src="/images/Logos/Academia (NEW)/TP_Logo.png"></a>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia (NEW)/UK_Centre_for_Sustainable_Healthcare_Logo.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -213,14 +213,14 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medtechinnovator.asia/"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Innovation Asia Pacific" src="/images/Logos/Agencies (NEW)/MedTech_Innovation_Asia_Pacific_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhic.sg/"><img style="width: 70%;" height="auto" width="100%" alt="NHIC" src="/images/Logos/Agencies (NEW)/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png"></a>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="National Council of Social Service" src="/images/Logos/Agencies (NEW)/NCSS_Logo.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhic.sg/"><img style="width: 70%;" height="auto" width="100%" alt="NHIC" src="/images/Logos/Agencies (NEW)/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyc.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="NYC" src="/images/Logos/Agencies (NEW)/National_Youth_Council_Logo.png"></a>
 </td>
