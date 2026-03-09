@@ -134,20 +134,22 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apacmed.org/"><img style="width: 75%;" height="auto" width="100%" alt="Asia Pacific Medical Technology Association (APACMed)" src="/images/Logos/Agencies (NEW)/Asia_Pacific_Medical_Technology_Association__APACMed__Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img style="width: 75%;" height="auto" width="100%" alt="British High Commission Singapore" src="/images/Logos/Agencies (NEW)/British_High_Commission_Singapore_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.gov.uk/world/organisations/british-high-commission-singapore"><img style="width: 75%;" height="auto" width="100%" alt="British High Commission Singapore" src="/images/Logos/Agencies (NEW)/British_High_Commission_Singapore_Logo.png"></a>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.business-sweden.com/"><img style="width: 80%;" height="auto" width="100%" alt="Business Sweden" src="/images/Logos/Agencies (NEW)/Business_Sweden_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.chai.org/"><img style="width: 80%;" height="auto" width="100%" alt="Coalition for Health AI (CHAI)" src="/images/Logos/Agencies (NEW)/Coalition_for_Health_AI__CHAI__Logo.png"></a>
 </td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.co11ab.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Co11ab" src="/images/Logos/Agencies (NEW)/Co11ab_Logo.png"></a>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.co11ab.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Co11ab" src="/images/Logos/Agencies (NEW)/Co11ab_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Commonwealth Leadership Institute" src="/images/Logos/Agencies (NEW)/CLI_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.dduwork.com/"><img style="width: 80%;" height="auto" width="100%" alt="DayDayUp" src="/images/Logos/Agencies (NEW)/DayDayUp_Logo.png"></a>
 </td>
@@ -282,10 +284,12 @@ transformation of our health system.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 80%;" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AWS China" src="/images/Logos/Industry (NEW)/AWS_China_Logo.png">
+</div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jnj.com/"><img style="width: 100%" height="auto" width="100%" alt="Johnson &amp; Johnson" src="/images/Logos/Industry (NEW)/Johnson_Johnson_Logo.png"></a>
 </th>
