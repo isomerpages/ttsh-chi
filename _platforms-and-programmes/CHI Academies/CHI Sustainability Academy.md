@@ -93,14 +93,15 @@ Masterclass:</p>
 <h3>Upcoming Programmes</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CHI-GSC Leadership Masterclass: Towards Net Zero Healthcare in Singapore - 20 Jan 2026</strong>
+<summary><strong>Climate Change and Healthcare Risks by Dr Stanley Yip</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Register here: <a href="https://form.gov.sg/6825bf2ec00d79cc446b78cd" rel="noopener noreferrer nofollow" target="_blank">CHI-GSC Masterclass Registration Form - 20th Jan 2026 | FormSG</a>
-</p>
+<p>Register <a href="https://form.gov.sg/6989b7041793bcf22ed2c833" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Dr Stanley Yip’s sharing on Climate Change and Healthcare Risks on 28 April
+2026</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/20_Jan_2026_CHI_GSC_Masterclass__002_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Stanley_Yip_lecture__5_.png">
 </div>
 </div>
 </details>
@@ -108,29 +109,15 @@ Masterclass:</p>
 <summary><strong>Care Model &amp; Service Redesign for Quality and Sustainability</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submit the <a href="https://for.sg/project-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> to
-<a rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
-</p>
+<p>(Submit the <a href="https://for.sg/project-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> to
+<a href="mailto:chi.academies@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/2026_project_call__002_.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Understanding Sustainability for Business - 3 Feb 2026</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Register <a href="https://www.ntuclearninghub.com/enquiry-form?hmt_course_name_1=WSQ%20UNDERSTANDING%20SUSTAINABILITY%20FOR%20BUSINESS%20(HEALTHCARE)&amp;course_code_1=WUSFB&amp;course_type_1=&amp;utm_campaign=WSQ_UNDERSTANDING_SUSTAINABILITY_FOR_BUSINESS_Healthcare&amp;utm_source=edm&amp;utm_medium=email" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the “Understanding Sustainability for Business” contextualized for Healthcare
-(3 Feb 2026)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Sustainability_for_business_Edm_Edit__compressed_portrait__1___002_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/2026_version__portrait___1_.jpg">
 </div>
 </div>
 </details>
 </div>
-<p></p>
 <p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
 </p>
 <h3>Our Partners</h3>
