@@ -93,14 +93,15 @@ Masterclass:</p>
 <h3>Upcoming Programmes</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CHI-GSC Leadership Masterclass: Towards Net Zero Healthcare in Singapore - 20 Jan 2026</strong>
+<summary><strong>Climate Change and Healthcare Risks by Dr Stanley Yip</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Register here: <a href="https://form.gov.sg/6825bf2ec00d79cc446b78cd" rel="noopener noreferrer nofollow" target="_blank">CHI-GSC Masterclass Registration Form - 20th Jan 2026 | FormSG</a>
-</p>
+<p>Register <a href="https://form.gov.sg/6989b7041793bcf22ed2c833" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Dr Stanley Yip’s sharing on Climate Change and Healthcare Risks on 28 April
+2026</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/20_Jan_2026_CHI_GSC_Masterclass__002_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Stanley_Yip_lecture__5_.png">
 </div>
 </div>
 </details>
@@ -108,12 +109,11 @@ Masterclass:</p>
 <summary><strong>Care Model &amp; Service Redesign for Quality and Sustainability</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submit the <a href="https://for.sg/project-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> to
-<a rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
-</p>
+<p>(Submit the <a href="https://for.sg/project-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> to
+<a href="mailto:chi.academies@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/2026_project_call__002_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/2026_version__portrait___1_.jpg">
 </div>
 </div>
 </details>
@@ -130,7 +130,33 @@ the “Understanding Sustainability for Business” contextualized for Healthcar
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Climate Change and Healthcare Risks by Dr Stanley Yip</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Register <a href="https://form.gov.sg/6989b7041793bcf22ed2c833" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Dr Stanley Yip’s sharing on Climate Change and Healthcare Risks on 28 April
+2026</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Stanley_Yip_lecture__5_.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Care Model &amp; Service Redesign for Quality and Sustainability</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>(Submit the <a href="https://for.sg/project-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> to
+<a href="mailto:chi.academies@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/2026_version__portrait___1_.jpg">
+</div>
+</div>
+</details>
+</div>
 <p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
 </p>
 <h3>Our Partners</h3>
