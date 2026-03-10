@@ -117,45 +117,6 @@ Dr Stanley Yip’s sharing on Climate Change and Healthcare Risks on 28 April
 </div>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Understanding Sustainability for Business - 3 Feb 2026</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Register <a href="https://www.ntuclearninghub.com/enquiry-form?hmt_course_name_1=WSQ%20UNDERSTANDING%20SUSTAINABILITY%20FOR%20BUSINESS%20(HEALTHCARE)&amp;course_code_1=WUSFB&amp;course_type_1=&amp;utm_campaign=WSQ_UNDERSTANDING_SUSTAINABILITY_FOR_BUSINESS_Healthcare&amp;utm_source=edm&amp;utm_medium=email" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the “Understanding Sustainability for Business” contextualized for Healthcare
-(3 Feb 2026)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Sustainability_for_business_Edm_Edit__compressed_portrait__1___002_.jpg">
-</div>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Climate Change and Healthcare Risks by Dr Stanley Yip</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Register <a href="https://form.gov.sg/6989b7041793bcf22ed2c833" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Dr Stanley Yip’s sharing on Climate Change and Healthcare Risks on 28 April
-2026</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Stanley_Yip_lecture__5_.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Care Model &amp; Service Redesign for Quality and Sustainability</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>(Submit the <a href="https://for.sg/project-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> to
-<a href="mailto:chi.academies@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/2026_version__portrait___1_.jpg">
-</div>
-</div>
-</details>
 </div>
 <p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
 </p>
