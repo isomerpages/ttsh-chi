@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/AI_FOR_HEALTH_Converting_Momentum_into_Muscle.pdf
+file_url: /files/2025_CHI_Leadership_Council_Report_AI_for_Health.pdf
 ---
