@@ -55,16 +55,13 @@ and workplaces in healthcare could evolve by <strong>2036</strong>.&nbsp;</p>
 <p>Led by the Centre for Healthcare Innovation (CHI), JETS brings together
 insights from over 1,000 healthcare, workforce and community stakeholders
 to explore how care can remain deeply human while being supported by technology.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Through a hybrid physical‑digital experience, JETS brings future care,
 roles and skills to life across homes, communities and hospitals.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>Key Highlights</u></strong>&nbsp;
-<br>&nbsp;</p>
-<ol data-tight="true" class="tight">
-<li>
+<p><strong><u>Key Highlights</u></strong>
+</p>
 <p>Immersive Exhibits and Hands‑on Role‑Play Activities&nbsp;</p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>Tech‑enabled Demonstrations Across Care Disciplines and Settings&nbsp;</p>
 </li>
@@ -95,9 +92,10 @@ be part of the experience.</p>
 <summary><strong>Registration Information</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>CHI INNOVATE 2026 is conducted <strong>in person</strong> from <strong>2 to 4 July 2026</strong>.</p>
+<p>CHI INNOVATE 2026 is held <strong>in person</strong> from <strong>2 to 4 July 2026</strong> at
+the Ng Teng Fong Centre for Healthcare Innovation.</p>
 <p>Further programme details will be released progressively on the official
-CHI Innovate 2026 website. For registration and updates, please visit</p>
+CHI INNOVATE 2026 website. For registration and updates, please visit</p>
 <p>&nbsp;<a href="https://form.gov.sg/69b10d0e35b05d867a1845b3" rel="noopener nofollow" target="_blank">CHI INNOVATE 2026: Registration</a>&nbsp;</p>
 </div>
 </details>
