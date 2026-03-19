@@ -105,5 +105,4 @@ CHI Innovate 2026 website. For registration and updates, please visit</p>
 </div>
 </details>
 </div>
-<p><strong>Reser</strong>
-</p>
+<p></p>
