@@ -13,7 +13,7 @@ Together, the conference and JETS offer a cohesive experience that brings
 workforce conversations, applied innovation and future job roles into one
 platform.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/260108_CHI_Innovate_Edm001_5mb.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/260108_CHI_Innovate_Edm001_5mb.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
