@@ -12,6 +12,22 @@ life, and technology supports you wherever you are.
 <br>At<strong> CHI INNOVATE 2026</strong>, we bring this vision to life -
 where healthcare and workforce evolve seamlessly across homes, communities,
 and hospitals.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>CHI INNOVATE 2026 Conference Information</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JETS (Job Expo Thirty-Six)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p><strong>Reserve your spot <a href="https://form.gov.sg/68db48519182920cc29360c7" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> today!</strong>
 </p>
 <div class="isomer-image-wrapper">
