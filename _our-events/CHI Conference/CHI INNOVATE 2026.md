@@ -8,7 +8,7 @@ third_nav_title: CHI Conference
 <h1>Future Workforce for Future Health</h1>
 <h4><strong>2 - 4 July 2026 | Singapore</strong></h4>
 <p><strong>CHI INNOVATE 2026</strong> is an in‑person conference held from <strong>2 to 4 July 2026</strong>,
-with JETS (Job Expo Thirty Six) fully integrated into the overall programme.
+with JETS (Jobs Expo Thirty Six) fully integrated into the overall programme.
 Together, the conference and JETS offer a cohesive experience that brings
 workforce conversations, applied innovation and future job roles into one
 platform.</p>
@@ -78,10 +78,10 @@ of the conference and deliver opening remarks</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>JETS (Job Expo Thirty Six)</strong>
+<summary><strong>JETS (Jobs Expo Thirty Six)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Job Expo Thirty Six (JETS) </strong>reimagines how jobs, skills
+<p><strong>Jobs Expo Thirty Six (JETS) </strong>reimagines how jobs, skills
 and workplaces in healthcare could evolve by <strong>2036</strong>.&nbsp;</p>
 <p>Led by the Centre for Healthcare Innovation (CHI), JETS brings together
 insights from over 1,000 healthcare, workforce and community stakeholders
