@@ -65,25 +65,19 @@ transformation of our health system.</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hseu.org.sg/about-us/healthcar"><img style="width: 100%" height="auto" width="100%" alt="Healthcare Academy" src="/images/Logos/Academia (NEW)/Healthcare_Academy_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia (NEW)/IAL_Logo.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ial.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="IAL" src="/images/Logos/Academia (NEW)/IAL_Logo.png"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/medicine"><img style="width: 100%" height="auto" width="100%" alt="LKC School of Medicine" src="/images/Logos/Academia (NEW)/LKC_School_of_Medicine_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/medicine"><img style="width: 90%;" height="auto" width="100%" alt="LKC School of Medicine" src="/images/Logos/Academia (NEW)/LKC_School_of_Medicine_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="London AI" src="/images/Logos/Academia (NEW)/London_AI_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aicentre.co.uk/"><img style="width: 90%;" height="auto" width="100%" alt="London AI" src="/images/Logos/Academia (NEW)/London_AI_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyp.edu.sg/main"><img style="width: 100%" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia (NEW)/Nanyang_Polytechnic_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyp.edu.sg/main"><img style="width: 90%;" height="auto" width="100%" alt="Nanyang Polytechnic" src="/images/Logos/Academia (NEW)/Nanyang_Polytechnic_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/erian"><img style="width: 100%" height="auto" width="100%" alt="NTU (Energy Research Institute, ERI@N)" src="/images/Logos/Academia (NEW)/NTU__Energy_Research_Institute__ERI_N__Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/erian"><img style="width: 100%;" height="auto" width="100%" alt="NTU (Energy Research Institute, ERI@N)" src="/images/Logos/Academia (NEW)/NTU__Energy_Research_Institute__ERI_N__Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medicine.nus.edu.sg/cosm/"><img style="width: 100%" height="auto" width="100%" alt="NUS Centre for Sustainable Medicine" src="/images/Logos/Academia (NEW)/NUS_Centre_for_Sustainable_Medicine_Logo.png"></a>
 </td>
@@ -99,10 +93,7 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia (NEW)/UK_Centre_for_Sustainable_Healthcare_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sustainablehealthcare.org.uk/"><img style="width: 100%" height="auto" width="100%" alt="UK Centre for Sustainable Healthcare" src="/images/Logos/Academia (NEW)/UK_Centre_for_Sustainable_Healthcare_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -146,10 +137,7 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Commonwealth Leadership Institute" src="/images/Logos/Agencies (NEW)/CLI_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://commonwealthleadersinstitute.org/about/"><img style="width: 80%;" height="auto" width="100%" alt="Commonwealth Leadership Institute" src="/images/Logos/Agencies (NEW)/CLI_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.dduwork.com/"><img style="width: 80%;" height="auto" width="100%" alt="DayDayUp" src="/images/Logos/Agencies (NEW)/DayDayUp_Logo.png"></a>
 </td>
@@ -157,14 +145,11 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="e27" src="/images/Logos/Agencies (NEW)/e27_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://e27.co/"><img style="width: 70%;" height="auto" width="100%" alt="e27" src="/images/Logos/Agencies (NEW)/e27_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.enterprisesg.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Enterprise Singapore" src="/images/Logos/Agencies (NEW)/Enterprise_Singapore_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tradecommissioner.gc.ca/en.html"><img style="width: 80%;" height="auto" width="100%" alt="Government of Canada, Trade Commissioner Service" src="/images/Logos/Agencies (NEW)/Government_of_Canada__Trade_Commissioner_Service_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tradecommissioner.gc.ca/en.html"><img style="width: 80%;" height="auto" width="100%" alt="Government of Canada Trade Commissioner Service" src="/images/Logos/Agencies (NEW)/Government_of_Canada__Trade_Commissioner_Service_Logo.png"></a>
 </td>
 </tr>
 <tr>
@@ -172,17 +157,11 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="HealthTechX" src="/images/Logos/Agencies (NEW)/HealthTechX_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtechx-asia.com/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTechX" src="/images/Logos/Agencies (NEW)/HealthTechX_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="HKSTP" src="/images/Logos/Agencies (NEW)/HKSTP_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hkstp.org/en/"><img style="width: 70%;" height="auto" width="100%" alt="HKSTP" src="/images/Logos/Agencies (NEW)/HKSTP_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.indee-sg.com/"><img style="width: 75%;" height="auto" width="100%" alt="Indee" src="/images/Logos/Agencies (NEW)/Indee_Logo.png"></a>
 </td>
@@ -202,21 +181,15 @@ transformation of our health system.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://k-startupcenter.org/eng/Main.do"><img style="width: 80%;" height="auto" width="100%" alt="K-Startup Center" src="/images/Logos/Agencies (NEW)/K_Startup_Center_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Leave a Nest" src="/images/Logos/Agencies (NEW)/Leave_a_Nest_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://global.lne.st/"><img style="width: 80%;" height="auto" width="100%" alt="Leave a Nest" src="/images/Logos/Agencies (NEW)/Leave_a_Nest_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://staging-lite.d1pk7mlldnmtav.amplifyapp.com/test-chi-co-learning-network/www.medtechactuator.com"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Actuator" src="/images/Logos/Agencies (NEW)/MedTech_Actuator_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medtechactuator.com/"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Actuator" src="/images/Logos/Agencies (NEW)/MedTech_Actuator_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medtechinnovator.asia/"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Innovation Asia Pacific" src="/images/Logos/Agencies (NEW)/MedTech_Innovation_Asia_Pacific_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="National Council of Social Service" src="/images/Logos/Agencies (NEW)/NCSS_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ncss.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="National Council of Social Service" src="/images/Logos/Agencies (NEW)/NCSS_Logo.png"></a>
 </td>
 </tr>
 <tr>
