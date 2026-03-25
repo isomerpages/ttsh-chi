@@ -209,10 +209,7 @@ transformation of our health system.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Singaporean-German Chamber" src="/images/Logos/Agencies (NEW)/Singaporean_German_Chamber__SGC__Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sgc.org.sg/en"><img style="width: 80%;" height="auto" width="100%" alt="Singaporean-German Chamber" src="/images/Logos/Agencies (NEW)/Singaporean_German_Chamber__SGC__Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sif.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Singapore International Foundation" src="/images/Logos/Agencies (NEW)/Singapore_International_Foundation_Logo.png"></a>
 </td>
