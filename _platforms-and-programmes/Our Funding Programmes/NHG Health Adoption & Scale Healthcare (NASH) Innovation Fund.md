@@ -5,10 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Our Funding Programmes
 ---
-<h2>About the NHG Health Adoption &amp; Scale Healthcare Innovation Fund</h2>
-<h4><strong>Grant call for NASH Domain A(GIVE) and Domain B is currently closed.</strong></h4>
-<p><strong>For NASH Domain A (GIVE) and Domain B – Application Form and Info Pack details</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
+<h2>About the NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</h2>
+<h4>Grant call for NASH Domain A (GIVE) and Domain B is currently closed. Stay tuned for the next grant call in Apr 2026.</h4>
+<p>Sign up for our upcoming briefing session on<strong> NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</strong> and <strong>NHG Health Coordinating Party (CP) Scheme </strong>here:
+<a href="https://for.sg/briefing-apr26" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/briefing-apr26</a>.</p>
+<p>Sign up for a<strong> pre-submission consultation</strong> slot here:
+<a href="https://for.sg/presubmission-consultation" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/presubmission-consultation</a>
+</p>
 <hr>
 <p>Supported by NHG Health, the NHG Health Adoption &amp; Scale Healthcare
 (NASH) Innovation Fund aims to enable NHG campuses to better drive the
@@ -23,19 +26,14 @@ within NHG Health cluster through 3 domains:</p>
 <li>
 <p>Domain B: Cluster Adoption and Scale</p>
 </li>
-<li>
-<p>Domain C: Kaizen-enabled Point of Care</p>
-</li>
 </ul>
-<p>&nbsp;NASH Innovation Fund is only applicable to NHG Health employed staff.</p>
+<p>NASH Innovation Fund is only applicable to NHG Health employed staff.</p>
 <p>For more information, please contact us at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
 <hr>
-<h4><strong>Domain A - Global Innovation Visiting Expert</strong></h4>
+<h4><strong>Domain A - Global Innovation Visiting Expert (GIVE)</strong></h4>
 <p>Domain A aims to provide funding to invite overseas experts to share innovative
 ideas, best-in-class tools and practices, to build thought leadership and
 transform healthcare in NHG Health institutions.</p>
-<p>Domain A Application Info Pack can be downloaded <a href="https://for.sg/nash-give-package" rel="noopener nofollow" target="_blank">here.</a>
-</p>
 <details class="isomer-details">
 <summary><strong>Eligibility Criteria</strong>
 </summary>
@@ -110,28 +108,35 @@ honorarium, entertainment, withholding tax, etc.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicant should obtain endorsement by the institution CEO before submitting
-to the CHI Partnership Office (Main POC for Domain A) through the CHI@Campus
-Offices Admin leads or your institution’s admin lead.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; Where an application involves more than one (1) NHG Health
-institution(s) co-hosting the Domain A Purpose programme (with one of the
-institutions being the lead applicant), endorsement shall be provided by
-the leading institution.</p>
-<p>o&nbsp;&nbsp; In the case where two (2) institutions are co-applying (i.e.
-co-owning the Domain A Purpose programme), endorsement from both institutions’
-CEOs is required.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The review process will take approximately 2 months. During this time,
-Programme Lead will be approached via email to furnish any further clarifications.</p>
+<p>Project Lead is to submit your completed application form to CHI Partnerships
+Office at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a>.
+You do not need to obtain CEOs endorsement prior to the submission.</p>
 </li>
 <li>
-<p>Award results will be announced via email in Feb 2026.</p>
+<p>CHI will facilitate obtaining endorsements from the respective NHG Health
+institutions CEOs after receiving your completed application form. Where
+an application involves more than one (1) NHG Health institution(s) co-hosting
+the Domain A Purpose programme (with one of the institutions being the
+lead applicant), CEO’s endorsement would be provided by the leading institution.
+In the case where two (2) institutions are co-applying (i.e. co-owning
+the Domain A Purpose programme), CEO’s endorsement would be provided from
+both institutions.</p>
 </li>
 <li>
-<p>Project duration should commence <u>within</u> FY2026.</p>
+<p>For applications involving institutions from other clusters, the Project
+Lead must seek CEOs endorsements from those institutions independently.</p>
+</li>
+<li>
+<p>The review process will take approximately 3 months. During this time,
+applicants may be approached via email to furnish any further clarifications,
+present your proposals, and participate in Q&amp;A sessions with the Review
+Panel.</p>
+</li>
+<li>
+<p>Award results will be announced via email by Aug 2026.</p>
+</li>
+<li>
+<p>Project duration should commence within FY2026.</p>
 </li>
 </ul>
 </div>
@@ -140,81 +145,13 @@ Programme Lead will be approached via email to furnish any further clarification
 <summary><strong>Main Contact Details</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For more information on Domain A, please contact main contact office (CHI
-Partnership Office) at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a>
-</p>
-<p></p>
-<p>Please approach your CHI@Campus Offices for your institution-specific
-submission and CEO endorsement processes.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Institution</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Contact</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@IMH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">samantha.ong@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@KTPH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teh.corrine.yf@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@PopHealth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">malcolm.wl.wong@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@TTSH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@WH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="yan.yan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">yan.yan@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>For more information on Domain A (GIVE), please contact CHI Partnerships
+Office at: <a href="mailto:chi@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">chi@nhghealth.com.sg</a>.</p>
 </div>
 </details>
 <h4><strong>Domain B - Cluster Adoption and Scale</strong></h4>
-<p>Domain B aims to provide preliminary funding for team to adopt and scale
-proven innovation solutions from originating NHG Health institutions.</p>
-<p>Domain B Application Info Pack can be downloaded <a href="https://for.sg/info-pack" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For more information on Domain B, please contact NASH Secretariat at:
+<a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Eligibility Criteria</strong>
@@ -283,24 +220,30 @@ system, etc.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>All applicants must submit your application forms to your respective CHI@Campus
-Offices to seek endorsement from institutional CEOs.</p>
+<p>Project Lead is to submit your completed application form to the NASH
+Secretariat at: <a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
+You do not need to obtain CEOs endorsement before submission.</p>
 </li>
 <li>
-<p>All applications require endorsement from your institutions’ CEO. Contact
-details for CHI@Campus Offices are in the tab (Main Contact Details) below.</p>
+<p>CHI will facilitate obtaining endorsements from the respective NHG Health
+institutions CEOs after receiving your completed application form.</p>
 </li>
 <li>
-<p>The review process will take approximately 2 months. During this time,
-Project Leads will be invited to present their proposals to the Review
-Panel and participate in a Q&amp;A session.</p>
+<p>For applications involving institutions from other clusters, the Project
+Lead must seek CEOs endorsements from those institutions independently.</p>
 </li>
 <li>
-<p>Award results will be announced via email in Feb 2026.</p>
+<p>The review process will take approximately 3 months. During this time,
+applicants may be approached via email to furnish any further clarifications,
+present your proposals, and participate in Q&amp;A sessions with the Review
+Panel.</p>
 </li>
 <li>
-<p>Project duration should commence <u>within</u> FY2026 with a maximum duration
-of 12 months. &nbsp;</p>
+<p>Award results will be announced via email by Aug 2026.</p>
+</li>
+<li>
+<p>Project duration should commence within FY2026, with a maximum duration
+of 12 months.</p>
 </li>
 </ul>
 </div>
@@ -311,71 +254,6 @@ of 12 months. &nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For more information on Domain B, please contact NASH Innovation Fund
 Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
-<p>Please approach your CHI@Campus Offices for your institution-specific
-submission and CEO endorsement processes.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Institution</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Contact</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@IMH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">samantha.ong@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@KTPH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teh.corrine.yf@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@PopHealth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">malcolm.wl.wong@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@TTSH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@WH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="yan.yan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">yan.yan@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
