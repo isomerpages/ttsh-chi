@@ -6,9 +6,13 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Coordinating Party (CP) Scheme</h2>
-<h4>Grant Call for CP Scheme is currently closed.</h4>
-<p><strong>For CP – Application Form and Info Pack details</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/info-pack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
+<h4>Grant call for CP Scheme is currently closed. Stay tuned for the next grant call in Apr 2026.</h4>
+<p>Sign up for our upcoming briefing session on <strong>NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</strong> and<strong> NHG Health Coordinating Party (CP) Scheme</strong> here:
+<a href="https://for.sg/briefing-apr26" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/briefing-apr26</a>.</p>
+<p>Sign up for a <strong>pre-submission consultation</strong> slot here:
+<a href="https://for.sg/presubmission-consultation" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/presubmission-consultation</a>
+</p>
+<hr>
 <p>Supported by MOH Health Innovation (MHI) Fund 2.0, the Coordinating Party
 (CP) Scheme aims to provide holistic support for innovation towards adoption
 and scale of:</p>
@@ -153,10 +157,9 @@ management and people practices and workspaces.</p>
 </details>
 </div>
 <h4><strong>Funding Categories</strong></h4>
-<p></p>
-<p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -166,6 +169,10 @@ management and people practices and workspaces.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
 <td rowspan="1" colspan="2">
 <p><strong>Project Type</strong>
 </p>
@@ -188,6 +195,10 @@ management and people practices and workspaces.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>#1</strong>
+</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>POC/POV projects (within NHG, with at least 2 NHG institutions)</p>
 </td>
@@ -205,6 +216,10 @@ management and people practices and workspaces.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>#2</strong>
+</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Collaborative POV projects with partner(s) from <strong><u>one</u></strong> different
 cluster</p>
@@ -223,6 +238,10 @@ cluster</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>#3</strong>
+</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Collaborative POV projects with partner(s) from <strong><u>two</u></strong> different
 clusters*</p>
@@ -242,27 +261,37 @@ clusters*</p>
 </tr>
 </tbody>
 </table>
-<p>*For projects involving a tri-cluster collaboration, the proposal will
-be reviewed and supported by NHIC. Submission will be through CHI.</p>
-<p><sup>#</sup>The project must commence no later than 1<sup>st</sup> September
-2026.</p>
-<p></p>
-<h4><strong>Nomination and Award</strong></h4>
+<p>For projects involving a tri-cluster collaboration, the proposal will
+be reviewed and supported by NHIC. Submission will be through CHI CP Secretariat
+at: <a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
+Current grant call for Project Type #3 is closed.</p>
+<h4><strong>Submission Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>All applicants must submit your application forms to your respective CHI@Campus
-Offices to seek endorsement from institutional CEOs. All nominations require
-endorsement from the CEOs.</p>
+<p>Project Lead is to submit your completed application form for Project
+Type #1 and Type #2 to the CP Secretariat at: <a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
+You do not need to obtain CEOs endorsement before submission.</p>
 </li>
 <li>
-<p>For cross-cluster proposals, the Project Lead should submit their request
-to the relevant cluster's Coordinating Party Scheme Secretariat.</p>
+<p>CHI will facilitate obtaining endorsements from the respective NHG Health
+institutions CEOs after receiving your completed application form.</p>
 </li>
 <li>
-<p>The review process will take approximately 2 months. During this time,
-Project Leads will be invited to present their proposals to the Review
-Panel and participate in a Q&amp;A session.Award results will be announced
-via email.</p>
+<p>For applications involving institutions from other clusters, the Project
+Lead must seek CEOs endorsements from those institutions independently.</p>
+</li>
+<li>
+<p>The review process will take approximately 3 months. During this time,
+applicants may be approached via email to furnish any further clarifications,
+present your proposals, and participate in Q&amp;A sessions with the Review
+Panel.</p>
+</li>
+<li>
+<p>Award results will be announced via email by Aug 2026.</p>
+</li>
+<li>
+<p>Project duration should commence within FY2026, with a maximum duration
+of 18 months.</p>
 </li>
 </ul>
 <h4><strong>Submission Deadline</strong></h4>
@@ -270,69 +299,4 @@ via email.</p>
 </p>
 <p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
-<p>Please approach your CHI@Campus Offices for your institution-specific
-submission and CEO endorsement processes.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Institution</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Contact</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@IMH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">samantha.ong@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@KTPH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teh.corrine.yf@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@PopHealth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">malcolm.wl.wong@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@TTSH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHI@WH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1uG9j5KWA_NIqudAmyAJae2xZaaT9Bv5K/view?usp=drivesdk" rel="noopener noreferrer nofollow" target="_blank">yan.yan@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
