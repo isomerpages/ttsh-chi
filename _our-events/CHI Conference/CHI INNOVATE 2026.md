@@ -8,10 +8,10 @@ third_nav_title: CHI Conference
 <h1>Future Workforce for Future Health</h1>
 <h4><strong>2 - 4 July 2026 | Singapore</strong></h4>
 <p><strong>CHI INNOVATE 2026</strong> is an in‑person conference held from <strong>2 to 4 July 2026</strong>,
-with JETS (Jobs Expo Thirty Six) fully integrated into the overall programme.
-Together, the conference and JETS offer a cohesive experience that brings
-workforce conversations, applied innovation and future job roles into one
-platform.</p>
+with <strong>JETS (Jobs Expo '36</strong>) fully integrated into the overall
+programme. Together, the conference and JETS offer a cohesive experience
+that brings workforce conversations, applied innovation and future job
+roles into one platform.</p>
 <p><strong>Tickets are now available <a href="https://for.sg/chiinnovate2026-registration" rel="noopener nofollow" target="_blank">here</a>.</strong>
 </p>
 <table style="minWidth: 50px">
