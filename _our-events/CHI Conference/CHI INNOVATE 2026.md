@@ -8,10 +8,10 @@ third_nav_title: CHI Conference
 <h1>Future Workforce for Future Health</h1>
 <h4><strong>2 - 4 July 2026 | Singapore</strong></h4>
 <p><strong>CHI INNOVATE 2026</strong> is an in‑person conference held from <strong>2 to 4 July 2026</strong>,
-with JETS (Jobs Expo Thirty Six) fully integrated into the overall programme.
-Together, the conference and JETS offer a cohesive experience that brings
-workforce conversations, applied innovation and future job roles into one
-platform.</p>
+with <strong>JETS (Jobs Expo '36</strong>) fully integrated into the overall
+programme. Together, the conference and JETS offer a cohesive experience
+that brings workforce conversations, applied innovation and future job
+roles into one platform.</p>
 <p><strong>Tickets are now available <a href="https://for.sg/chiinnovate2026-registration" rel="noopener nofollow" target="_blank">here</a>.</strong>
 </p>
 <table style="minWidth: 50px">
@@ -33,7 +33,7 @@ platform.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JETS (Jobs Expo Thirty Six)</strong>
+<p><strong>JETS (Jobs Expo '36) on 2 - 4 July</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,8 +43,9 @@ platform.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/260108_CHI_Innovate_Edm001_5mb.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_01_R6B_03_png__1mb_.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -71,14 +72,15 @@ recognising excellence in care redesign, automation, IT &amp; robotics,
 workforce transformation and best adoption</p>
 </li>
 <li>
-<p>A <strong>Guest‑of‑Honour (to be updated)</strong> will grace the opening
-of the conference and deliver opening remarks</p>
+<p>Mr <strong><a href="https://www.linkedin.com/in/kiat-how-tan-59933736/" class="ec517d30 _1a8bccf7" rel="noopener noreferrer nofollow" target="_blank">Tan Kiat How, </a></strong>Senior
+Minister of State (MDDI &amp; MOH), will join CHI INNOVATE 2026 as Guest
+of Honour.</p>
 </li>
 </ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>JETS (Jobs Expo Thirty Six)</strong>
+<summary><strong>JETS (Jobs Expo '36)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Jobs Expo Thirty Six (JETS) </strong>reimagines how jobs, skills
