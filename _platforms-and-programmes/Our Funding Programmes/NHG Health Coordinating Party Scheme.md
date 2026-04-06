@@ -7,6 +7,8 @@ third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Coordinating Party (CP) Scheme</h2>
 <h4>Grant call for CP Scheme is open from 6 April 2026 to 31 May 2026.</h4>
+<p><strong>For NHG CP Scheme – Application Form and Info Pack details</strong>
+</p><a class="isomer-image-wrapper" href="https://for.sg/nhg-cp-scheme-info-pack"><img style="width: 100%" height="auto" width="100%" alt="Download Application Form and Info Pack details" src="/images/Download_icon__002_.png"></a>
 <p>Sign up for our upcoming briefing session on <strong>NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</strong> and<strong> NHG Health Coordinating Party (CP) Scheme</strong> here:
 <a href="https://for.sg/briefing-apr26" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/briefing-apr26</a>.</p>
 <p>Sign up for a <strong>pre-submission consultation</strong> slot here:
@@ -71,7 +73,7 @@ and eventual adoption by the healthcare system.</p>
 </li>
 </ul>
 <h4><strong>Types of Projects Supported</strong></h4>
-<p>Four Focus Areas (Non-Exhaustive):</p>
+<p>Innovation Types (Non-Exhaustive):</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>a)&nbsp;&nbsp;&nbsp;Sensors and Wearables (S&amp;W)</strong>
@@ -106,9 +108,9 @@ room operations</p>
 </div>
 </details>
 </div>
-<p>The innovative projects should focus on product and/or process innovations
-that addresses business, workforce, or organizational transformational
-needs in the healthcare sector:</p>
+<p><strong>Innovation Focus Areas: </strong>The innovative projects should
+focus on product and/or process innovations that addresses business, workforce,
+or organizational transformational needs in the healthcare sector:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Product Innovation</strong>
@@ -265,7 +267,7 @@ clusters*</p>
 be reviewed and supported by NHIC. Submission will be through CHI CP Secretariat
 at: <a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
 Current grant call for Project Type #3 is closed.</p>
-<h4><strong>Submission Award</strong></h4>
+<h4><strong>Submission and Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Project Lead is to submit your completed application form for Project
@@ -281,13 +283,13 @@ institutions CEOs after receiving your completed application form.</p>
 Lead must seek CEOs endorsements from those institutions independently.</p>
 </li>
 <li>
-<p>The review process will take approximately 3 months. During this time,
+<p>The review process will take approximately 4 months. During this time,
 applicants may be approached via email to furnish any further clarifications,
 present your proposals, and participate in Q&amp;A sessions with the Review
 Panel.</p>
 </li>
 <li>
-<p>Award results will be announced via email by Aug 2026.</p>
+<p>Award results will be announced via email by Sept 2026.</p>
 </li>
 <li>
 <p>Project duration should commence within FY2026, with a maximum duration
@@ -295,8 +297,8 @@ of 18 months.</p>
 </li>
 </ul>
 <h4><strong>Submission Deadline</strong></h4>
-<p><strong>Current Grant Call is CLOSED.</strong>
-</p>
+<p>Grant call is open from 6 April 2026 to 31 May 2026. Kindly submit your
+completed application form by 31 May 2026.</p>
 <p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
 <p></p>
