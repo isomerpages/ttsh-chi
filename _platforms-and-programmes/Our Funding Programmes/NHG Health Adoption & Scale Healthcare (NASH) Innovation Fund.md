@@ -6,7 +6,10 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</h2>
-<h4>Grant call for NASH Domain A (GIVE) and Domain B is currently closed. Stay tuned for the next grant call in Apr 2026.</h4>
+<h4>Grant call for NASH Domain A (GIVE) and Domain B is open from 6 April 2026 to 31 May 2026.</h4>
+<p></p>
+<p><strong>For NASH – Application Form and Info Pack details</strong>
+</p><a class="isomer-image-wrapper" href="https://for.sg/nash-info-pack"><img style="width: 70%;" height="auto" width="100%" alt="Download Application Form and Info Pack details" src="/images/Download_icon__002_.png"></a>
 <p>Sign up for our upcoming briefing session on<strong> NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</strong> and <strong>NHG Health Coordinating Party (CP) Scheme </strong>here:
 <a href="https://for.sg/briefing-apr26" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/briefing-apr26</a>.</p>
 <p>Sign up for a<strong> pre-submission consultation</strong> slot here:
@@ -18,7 +21,7 @@ third_nav_title: Our Funding Programmes
 innovation and capability development by gearing funds towards the cross-institution
 intra-cluster programmes.</p>
 <p>&nbsp;NASH Innovation Fund aims to provide holistic innovation support
-within NHG Health cluster through 3 domains:</p>
+within NHG Health cluster through 2 domains:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Domain A: Global Innovation Visiting Expert</p>
@@ -99,7 +102,8 @@ honorarium, entertainment, withholding tax, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Current grant call is CLOSED</p>
+<p>Grant call is open from 6 April 2026 to 31 May 2026. Kindly submit your
+completed application form by 31 May 2026</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -127,13 +131,13 @@ both institutions.</p>
 Lead must seek CEOs endorsements from those institutions independently.</p>
 </li>
 <li>
-<p>The review process will take approximately 3 months. During this time,
+<p>The review process will take approximately 4 months. During this time,
 applicants may be approached via email to furnish any further clarifications,
 present your proposals, and participate in Q&amp;A sessions with the Review
 Panel.</p>
 </li>
 <li>
-<p>Award results will be announced via email by Aug 2026.</p>
+<p>Award results will be announced via email by Sept 2026.</p>
 </li>
 <li>
 <p>Project duration should commence within FY2026.</p>
@@ -211,7 +215,8 @@ system, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Current grant call is CLOSED</p>
+<p>Grant call is open from 6 April 2026 to 31 May 2026. Kindly submit your
+completed application form by 31 May 2026.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -233,13 +238,13 @@ institutions CEOs after receiving your completed application form.</p>
 Lead must seek CEOs endorsements from those institutions independently.</p>
 </li>
 <li>
-<p>The review process will take approximately 3 months. During this time,
+<p>The review process will take approximately 4 months. During this time,
 applicants may be approached via email to furnish any further clarifications,
 present your proposals, and participate in Q&amp;A sessions with the Review
 Panel.</p>
 </li>
 <li>
-<p>Award results will be announced via email by Aug 2026.</p>
+<p>Award results will be announced via email by Sept 2026.</p>
 </li>
 <li>
 <p>Project duration should commence within FY2026, with a maximum duration
