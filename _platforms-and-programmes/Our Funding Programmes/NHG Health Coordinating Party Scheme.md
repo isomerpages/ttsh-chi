@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Coordinating Party (CP) Scheme</h2>
-<h4>Grant call for CP Scheme is currently closed. Stay tuned for the next grant call in Apr 2026.</h4>
+<h4>Grant call for CP Scheme is open from 6 April 2026 to 31 May 2026.</h4>
 <p>Sign up for our upcoming briefing session on <strong>NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</strong> and<strong> NHG Health Coordinating Party (CP) Scheme</strong> here:
 <a href="https://for.sg/briefing-apr26" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/briefing-apr26</a>.</p>
 <p>Sign up for a <strong>pre-submission consultation</strong> slot here:
