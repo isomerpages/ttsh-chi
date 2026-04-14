@@ -8,8 +8,8 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Masthead_2026_2.png">
 </div>
-<p>Applications for CHISEL Healthcare InnoMatch 2026 is now closed. Stay
-tuned for the results at our Final Pitching Event on 2nd October 2026!</p>
+<p><strong>Applications for CHISEL Healthcare InnoMatch 2026 is now closed. Stay tuned for the results at our Final Pitching Event on 2nd October 2026!</strong>
+</p>
 <h2>Theme</h2>
 <p>As the Singapore healthcare system face mounting pressures from workforce
 shortages and increasing demand, AI-enabled solutions emerge as vital enablers
