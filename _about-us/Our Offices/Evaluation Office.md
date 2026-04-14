@@ -112,5 +112,27 @@ system improvement that enhances patient outcomes and service delivery.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<h3>What We Do and How We Can Help You</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide evaluation consultation and support, including study design selection
+and outcome measurement planning (biostatistics, economic evaluation, implementation
+science methodology)</p>
+</li>
+<li>
+<p>Develop practical evaluation resources and tools</p>
+</li>
+<li>
+<p>Offer training workshops in evaluation methods</p>
+</li>
+<li>
+<p>Facilitate evidence-based decision making regarding the adoption of healthcare
+innovations</p>
+</li>
+<li>
+<p>Support implementation of the CHI Evaluation Framework (CHIEF)</p>
+</li>
+</ul>
+<h3>Contact Information</h3>
+<p>Email us at <a href="mailto:CHI.Evaluation.Office@healthgrp.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Evaluation.Office@healthgrp.com.sg</a>
+</p>
