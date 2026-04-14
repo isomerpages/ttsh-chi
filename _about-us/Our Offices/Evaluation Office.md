@@ -134,5 +134,5 @@ innovations</p>
 </li>
 </ul>
 <h3>Contact Information</h3>
-<p>Email us at <a href="mailto:CHI.Evaluation.Office@healthgrp.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Evaluation.Office@healthgrp.com.sg</a>
+<p>Email the Evaluation Office team at <a href="mailto:CHI.Evaluation.Office@healthgrp.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Evaluation.Office@healthgrp.com.sg</a>
 </p>
