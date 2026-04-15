@@ -42,7 +42,7 @@ Thailand<br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
-<td><br><strong>Prof Jonty Heaversedge</strong><br>Member of CHI Leadership Council<br>Director, Digital Innovation Office<br>Clinical Director &amp; CCIO <br> Population Health<br>
+<td><br><strong>Prof Jonty Heaversedge</strong><br>Member of CHI Leadership Council<br>Director, Digital Innovation Office and Evaluation Office<br>Chief &amp; CCIO <br> Population Health<br>
 NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 <tr>
