@@ -9,7 +9,6 @@ description: ""
 mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming!</strong></h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masterclass/Masterclass (NEW)/25th_CHI_Masterclass__Landscape_.png">
 </div>
