@@ -10,28 +10,43 @@ mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming!</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masterclass/Masterclass (NEW)/24th_CHI_Masterclass__Landscape_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masterclass/Masterclass (NEW)/25th_CHI_Masterclass__Landscape_.png">
 </div>
-<p>Join us at the 24th CHI Masterclass as Dr <strong><a href="https://www.linkedin.com/in/kristine-lee-md-898b066b/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Kristine Lee, MD</a></strong> from <strong><a href="https://www.linkedin.com/company/kaiser-permanente/" class="EGUIDLFjNnUuFLMcXIePGvqsAOFEcAiMOO" rel="noopener noreferrer nofollow" target="_self">Kaiser Permanente</a></strong> shares
-lessons from their pioneering Virtual Medical Centre, exploring desktop
-medicine, AI‑enabled tools, and digital health platforms shaping the future
-of care.
+<p>Join us at the 25th CHI Masterclass as leaders from <strong><a href="https://www.linkedin.com/company/regionjkpg/" class="mReEYncbLQoMPtoDYBxTQjNJvxatshRLcAILs" rel="noopener noreferrer nofollow" target="_self">Region Jönköpings län</a></strong> County
+share how they have translated population health into real, system-wide
+impact over the past three decades.
 <br>
-<br>📅 15 April 2026 (Wed)
-<br>🕓 2.00–4.00pm (Doors open from 1.30pm)
-<br>📍 <strong><a href="https://www.linkedin.com/company/khoo-teck-puat-hospital/" class="EGUIDLFjNnUuFLMcXIePGvqsAOFEcAiMOO" rel="noopener noreferrer nofollow" target="_self">Khoo Teck Puat Hospital</a></strong>,
-Auditorium and Learning Centre, Level 1, Tower B
+<br>From continuous improvement to resident co-design, this session will unpack
+practical strategies to drive better outcomes, experience, and cost efficiency
+at scale.
 <br>
-<br>Expect real‑world examples, practical insights, and a panel discussion
-on advancing virtual care transformation in Singapore.</p>
-<p>Register for your complimentary seat: <a href="https://for.sg/24th-chi-masterclass" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/24th-chi-masterclass</a>
+<br>📅 29 April 2026
+<br>🕓 4pm to 6pm
+<br>📍 Ng Teng Fong <strong><a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/" class="mReEYncbLQoMPtoDYBxTQjNJvxatshRLcAILs" rel="noopener noreferrer nofollow" target="_self">CHI - Centre for Healthcare Innovation</a></strong> 
+<br>
+</p>
+<p>Register for your complimentary seat: <a href="https://for.sg/25th-chi-masterclass" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/25th-chi-masterclass</a>
 </p>
 <p>This session is organised by the Centre for Healthcare Innovation in collaboration
 with POP Class by NHG Population Health.</p>
 <p>Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to
 stay connected.</p>
 <h2>Past Sessions</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="23rd CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/23rd_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ANDlightenment: The Joy of Seeing and Leveraging Polarities</div><div class="isomer-card-description">This masterclass explores polarity thinking to help us better manage complexity, think more expansively, make better decisions, and reduce conflict.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="24th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/24th_CHI_Masterclass.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Reimagining Healthcare Delivery: Lessons from Kaiser Permanente’s Virtual
+Medical Centre</div>
+<div class="isomer-card-description">This Masterclass explores lessons from the Kaiser Permanente's pioneering
+Virtual Medical Centre, exploring desktop medicine, AI‑enabled tools, and
+digital health platforms shaping the future of care.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="23rd CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/23rd_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ANDlightenment: The Joy of Seeing and Leveraging Polarities</div><div class="isomer-card-description">This masterclass explores polarity thinking to help us better manage complexity, think more expansively, make better decisions, and reduce conflict.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
