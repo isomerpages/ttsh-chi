@@ -8,7 +8,7 @@ third_nav_title: CHI Conference
 <h1>Future Workforce for Future Health</h1>
 <h4><strong>2 - 4 July 2026 | Singapore</strong></h4>
 <p><strong>CHI INNOVATE 2026</strong> is an in‑person conference held from <strong>2 to 4 July 2026</strong>,
-with <strong>JETS (Jobs Expo '36</strong>) fully integrated into the overall
+with <strong>JETS (Job Expo '36</strong>) fully integrated into the overall
 programme. Together, the conference and JETS offer a cohesive experience
 that brings workforce conversations, applied innovation and future job
 roles into one platform.</p>
@@ -33,7 +33,7 @@ roles into one platform.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JETS (Jobs Expo '36) on 2 - 4 July</strong>
+<p><strong>JETS (Job Expo '36) on 2 - 4 July</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,6 +47,10 @@ roles into one platform.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_01_R6B_03_png__1mb_.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_04_R8_1080_x1920__portrait_.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CHI INNOVATE 2026 Conference Information</strong>
@@ -54,8 +58,8 @@ roles into one platform.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>A three‑day, in‑person conference focused on practical workforce transformation
-across hospitals, communities and homes</p>
+<p>A three‑day, in‑person conference and job expo, focused on practical workforce
+transformation across hospitals, communities and homes</p>
 </li>
 <li>
 <p>Brings together <strong>plenaries</strong>, <strong>partner‑led programmes, immersive showcases</strong> and
@@ -80,10 +84,10 @@ of Honour.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>JETS (Jobs Expo '36)</strong>
+<summary><strong>JETS (Job Expo '36)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Jobs Expo Thirty Six (JETS) </strong>reimagines how jobs, skills
+<p><strong>Job Expo Thirty Six (JETS) </strong>reimagines how jobs, skills
 and workplaces in healthcare could evolve by <strong>2036</strong>.&nbsp;</p>
 <p>Led by the Centre for Healthcare Innovation (CHI), JETS brings together
 insights from over 1,000 healthcare, workforce and community stakeholders
@@ -92,8 +96,10 @@ to explore how care can remain deeply human while being supported by technology.
 roles and skills to life across homes, communities and hospitals.&nbsp;</p>
 <p><strong><u>Key Highlights</u></strong>
 </p>
-<p>Immersive Exhibits and Hands‑on Role‑Play Activities&nbsp;</p>
 <ol data-tight="true" class="tight">
+<li>
+<p>Immersive Exhibits and Hands‑on Role‑Play Activities&nbsp;</p>
+</li>
 <li>
 <p>Tech‑enabled Demonstrations Across Care Disciplines and Settings&nbsp;</p>
 </li>
@@ -101,10 +107,9 @@ roles and skills to life across homes, communities and hospitals.&nbsp;</p>
 <p>Explore Future Care Settings Across Homes, Communities and Hospitals</p>
 </li>
 <li>
-<p>Career Coaching Opportunities&nbsp;</p>
+<p>Career Coaching Opportunities</p>
 </li>
 </ol>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -133,5 +138,6 @@ CHI INNOVATE 2026 website. Stay tuned!</p>
 </div>
 </details>
 </div>
+<p></p>
 <p>For further enquiries, please reach us at <a href="mailto:conference@chi.sg" rel="noopener noreferrer nofollow" target="_blank">conference@chi.sg</a>
 </p>
