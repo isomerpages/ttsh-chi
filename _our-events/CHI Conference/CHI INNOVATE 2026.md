@@ -33,7 +33,7 @@ roles into one platform.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JETS (Jobs Expo '36) on 2 - 4 July</strong>
+<p><strong>JETS (Job Expo '36) on 2 - 4 July</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,6 +46,10 @@ roles into one platform.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_01_R6B_03_png__1mb_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_04_R8_1080_x1920__portrait_.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -92,8 +96,10 @@ to explore how care can remain deeply human while being supported by technology.
 roles and skills to life across homes, communities and hospitals.&nbsp;</p>
 <p><strong><u>Key Highlights</u></strong>
 </p>
-<p>Immersive Exhibits and Hands‑on Role‑Play Activities&nbsp;</p>
 <ol data-tight="true" class="tight">
+<li>
+<p>Immersive Exhibits and Hands‑on Role‑Play Activities&nbsp;</p>
+</li>
 <li>
 <p>Tech‑enabled Demonstrations Across Care Disciplines and Settings&nbsp;</p>
 </li>
@@ -132,5 +138,6 @@ CHI INNOVATE 2026 website. Stay tuned!</p>
 </div>
 </details>
 </div>
+<p></p>
 <p>For further enquiries, please reach us at <a href="mailto:conference@chi.sg" rel="noopener noreferrer nofollow" target="_blank">conference@chi.sg</a>
 </p>
