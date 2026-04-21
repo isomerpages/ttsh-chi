@@ -97,7 +97,7 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 	<div class="col"> 
 <img alt="studio" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/learning%20studio%20seminar%20room-s18.jpg"><br>
     <div class="header"><b>Learning Studios</b></div><br>
-    <div class="para">There are Learning Studios built for seminars, workshops and tutorials with configuration ranging from theatre, classroom and boardroom seating.
+    <div class="para">There are Learning Studios designed for seminars, workshops and tutorials, with configurations ranging from theatre, cluster and boardroom seating — and rooms equipped to run hybrid sessions.
 </div>
 		</div>
 	<div class="col"> 
