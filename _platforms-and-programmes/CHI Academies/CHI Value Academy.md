@@ -22,8 +22,8 @@ are reshaping the future of Value-Based Care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/Website_Images.png">
 </div>
-<h3>VA 2025 Programme Schedule</h3>
-<p><a href="https://for.sg/vaprogrammes" rel="noopener nofollow" target="_blank">Value Academy 2025 Schedule</a>
+<h3>Programme Schedule</h3>
+<p>For the latest programme schedule, refer to our <a href="https://www.canva.com/design/DAGyvnNiGhs/3hlBAg_LRsSN80Zm34QCkA/view?utm_content=DAGyvnNiGhs&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h3150c54af2" rel="noopener nofollow" target="_blank">CHI Programme Catalogue.</a>
 </p>
 <h3>Contact Us</h3>
 <p>For more information, contact us at <a href="mailto:chi_academies@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chi.academies@nhghealth.com,sg</u></a>
