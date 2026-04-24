@@ -17,14 +17,8 @@ healthier, more resilient communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/04_HSCA_Curriculum.png">
 </div>
-<h3>HSCA 2025 Programme Schedule</h3>
-<p><a href="https://for.sg/hscaprogrammes" rel="noopener nofollow" target="_blank">Health and Social Change Academy 2025 Schedule</a>
-</p>
-<p><strong><u>Upcoming</u></strong>: Register <a href="https://for.sg/hsca-phfl" rel="noopener nofollow" target="_blank">here </a>for Population Health for Leaders
-happening from 24 - 25 July 2025.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/HSCA_PHFL__1_.png">
-</div>
+<h3>Programme Schedule</h3>
+<p>For the latest programme schedule, refer to our <a href="https://www.canva.com/design/DAGyvnNiGhs/3hlBAg_LRsSN80Zm34QCkA/view?utm_content=DAGyvnNiGhs&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h3150c54af2" rel="noopener nofollow" target="_blank">CHI Programme Catalogue</a>.</p>
 <h3>Contact Us:</h3>
 <p>For more information, contact us at <a href="chi_academies@nhg.com.sg" rel="noopener nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
 </p>
