@@ -120,6 +120,8 @@ Dr Stanley Yip’s sharing on Climate Change and Healthcare Risks on 28 April
 </div>
 <p>For more information, contact us at <a rel="noopener noreferrer nofollow" target="_blank">chi.academies@nhghealth.com.sg</a>
 </p>
+<h3>Programme Schedule</h3>
+<p>For the latest programme schedule, refer to our <a href="https://www.canva.com/design/DAGyvnNiGhs/3hlBAg_LRsSN80Zm34QCkA/view?utm_content=DAGyvnNiGhs&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h3150c54af2" rel="noopener nofollow" target="_blank">CHI Programme Catalogue</a>.</p>
 <h3>Our Partners</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/SA_Partner_Logos_for_Website__1_.png">
