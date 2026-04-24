@@ -65,8 +65,9 @@ net zero by 2050.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI Academies/02_Approach_to_the_CHI_Academies.png">
 </div>
-<p>Click <a href="https://for.sg/chiacademiesprogrammes" rel="noopener nofollow" target="_blank"><u>here </u></a>for
-our programme schedule and to find out more about programmes.</p>
+<p>For more information on our programmes and the latest schedule, visit
+our <a href="https://www.canva.com/design/DAGyvnNiGhs/3hlBAg_LRsSN80Zm34QCkA/view?utm_content=DAGyvnNiGhs&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h3150c54af2" rel="noopener nofollow" target="_blank">CHI Programme Catalogue</a>
+</p>
 <h3>Contact Us</h3>
 <p>For more information, contact us at <a href="https://www.chi.sg/platforms-and-programmes/healthandsocialchange/" rel="noopener noreferrer nofollow" target="_blank"><u>chi.academies@nhghealth.com.sg</u></a>
 </p>
