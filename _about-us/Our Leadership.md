@@ -51,7 +51,7 @@ NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_b
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/"><img alt="andrew1" src="/images/Leaders/Sheriff.png"></a></td>
-<td><br><strong>Dr Abdullahi Sheriff</strong><br>Member of CHI Leadership Council<br>Managing Director, Singapore, Malaysia and Brunei<br>MSD<br><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><br><strong>Dr Abdullahi Sheriff</strong><br>Member of CHI Leadership Council<br>AVP, Managing Director<br>MSD<br><a href="https://www.linkedin.com/in/dr-abdullahi-sheriff-2533a618/" target="_blank"><small>LinkedIn</small></a><br></td>
 </tr>
 
 </tbody>
@@ -124,10 +124,6 @@ NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_b
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/david-dhevarajulu-67a3078/"><img alt="andrew1" src="/images/Leaders/david%20d-01.png"></a></td>
 <td><strong>David Dhevarajulu  </strong><br>Consultant <br><a href="https://www.linkedin.com/in/david-dhevarajulu-67a3078/" target="_blank"><small>LinkedIn</small></a> </td>
-</tr>
-<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
-<td><strong>Prof Jonathan Gray </strong><br>Consultant<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/huey-bing-koh-246b9724"><img alt="andrew1" src="/images/Leaders/huey%20bing-01.png"></a></td>
