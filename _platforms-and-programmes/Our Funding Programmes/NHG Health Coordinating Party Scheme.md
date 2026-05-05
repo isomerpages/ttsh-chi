@@ -9,8 +9,6 @@ third_nav_title: Our Funding Programmes
 <h4>Grant call for CP Scheme is open from 6 April 2026 to 31 May 2026.</h4>
 <p><strong>For NHG CP Scheme – Application Form and Info Pack details</strong>
 </p><a class="isomer-image-wrapper" href="https://for.sg/nhg-cp-scheme-info-pack"><img style="width: 100%" height="auto" width="100%" alt="Download Application Form and Info Pack details" src="/images/Download_icon__002_.png"></a>
-<p>Sign up for our upcoming briefing session on <strong>NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</strong> and<strong> NHG Health Coordinating Party (CP) Scheme</strong> here:
-<a href="https://for.sg/briefing-apr26" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/briefing-apr26</a>.</p>
 <p>Sign up for a <strong>pre-submission consultation</strong> slot here:
 <a href="https://for.sg/presubmission-consultation" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/presubmission-consultation</a>
 </p>
