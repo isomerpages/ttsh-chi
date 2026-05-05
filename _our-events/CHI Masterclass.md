@@ -10,22 +10,8 @@ mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming!</strong></h2>
 <p>To be updated! Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to stay connected.</p>
 <h2>Past Sessions</h2>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Population Health in Practice – Lessons from Region Jönköping County" src="/images/25th_CHI_Masterclass_past.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Population Health in Practice – Lessons from Region Jönköping County</div>
-<div class="isomer-card-description">This masterclass examines the population health model of Region Jönköping
-County, a Swedish health system. Over three decades, Jönköping has pioneered
-a "quality as strategy" philosophy, embedding continuous improvement, resident
-co-design, and organisation-wide learning into care delivery.</div>
-</div>
-</div>
-<div class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Population Health in Practice – Lessons from Region Jönköping County" src="/images/25th_CHI_Masterclass_past.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Population Health in Practice – Lessons from Region Jönköping County</div><div class="isomer-card-description">This masterclass examines the population health model of Region Jönköping County, a Swedish health system. Over three decades, Jönköping has pioneered a "quality as strategy" philosophy, embedding continuous improvement, resident co-design, and organisation-wide learning into care delivery.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="24th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/24th_CHI_Masterclass.png">
@@ -37,8 +23,9 @@ Medical Centre</div>
 <div class="isomer-card-description">This Masterclass explores lessons from the Kaiser Permanente's pioneering
 Virtual Medical Centre, exploring desktop medicine, AI‑enabled tools, and
 digital health platforms shaping the future of care.</div>
+<div class="isomer-card-link">Read More &gt;</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="23rd CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/23rd_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ANDlightenment: The Joy of Seeing and Leveraging Polarities</div><div class="isomer-card-description">This masterclass explores polarity thinking to help us better manage complexity, think more expansively, make better decisions, and reduce conflict.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="23rd CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/23rd_CHI_Masterclass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ANDlightenment: The Joy of Seeing and Leveraging Polarities</div><div class="isomer-card-description">This masterclass explores polarity thinking to help us better manage complexity, think more expansively, make better decisions, and reduce conflict.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
