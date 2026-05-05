@@ -14,6 +14,20 @@ mindshare in healthcare transformation for systems change.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Population Health in Practice – Lessons from Region Jönköping County" src="/images/25th_CHI_Masterclass_past.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Population Health in Practice – Lessons from Region Jönköping County</div>
+<div class="isomer-card-description">This masterclass examines the population health model of Region Jönköping
+County, a Swedish health system. Over three decades, Jönköping has pioneered
+a "quality as strategy" philosophy, embedding continuous improvement, resident
+co-design, and organisation-wide learning into care delivery.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="24th CHI Masterclass" src="/images/Masterclass/Masterclass (NEW)/24th_CHI_Masterclass.png">
 </div>
 </div>
