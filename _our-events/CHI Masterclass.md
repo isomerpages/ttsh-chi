@@ -8,29 +8,7 @@ description: ""
 <p>The CHI Masterclass features world-class thought leaders to actively build
 mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming!</strong></h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masterclass/Masterclass (NEW)/25th_CHI_Masterclass__Landscape_.png">
-</div>
-<p>Join us at the 25th CHI Masterclass as leaders from <strong><a href="https://www.linkedin.com/company/regionjkpg/" class="mReEYncbLQoMPtoDYBxTQjNJvxatshRLcAILs" rel="noopener noreferrer nofollow" target="_self">Region Jönköpings län</a></strong> County
-share how they have translated population health into real, system-wide
-impact over the past three decades.
-<br>
-<br>From continuous improvement to resident co-design, this session will unpack
-practical strategies to drive better outcomes, experience, and cost efficiency
-at scale.
-<br>
-<br>📅 29 April 2026
-<br>🕓 4pm to 6pm
-<br>📍 Ng Teng Fong <strong><a href="https://www.linkedin.com/company/chi-centre-for-healthcare-innovation/" class="mReEYncbLQoMPtoDYBxTQjNJvxatshRLcAILs" rel="noopener noreferrer nofollow" target="_self">CHI - Centre for Healthcare Innovation</a></strong> 
-<br>
-</p>
-<p>Register for your complimentary seat: <a href="https://for.sg/25th-chi-masterclass" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/25th-chi-masterclass</a>
-</p>
-<p>This session is organised by the Centre for Healthcare Innovation in collaboration
-with POP Class by NHG Population Health.</p>
-<p>Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to
-stay connected.</p>
+<p>To be updated! Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to stay connected.</p>
 <h2>Past Sessions</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
