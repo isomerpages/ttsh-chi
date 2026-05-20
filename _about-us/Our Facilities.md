@@ -65,8 +65,8 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 <div class="row">
 <div class="col"> 
 <img alt="innocan" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innocanvas.JPG"><br>
-    <div class="header"><b>Innocanvas</b></div><br>
-    <div class="para">Innocanvas is a living canvas which showcases a range of hospital-based and community-based innovations in TTSH as well as from CHI and Central Health partners.
+    <div class="header"><b>POP X</b></div><br>
+    <div class="para">POP X is a living canvas which showcases a range of hospital-based and community-based innovations in TTSH as well as from CHI and Central Health partners.
 </div>
 <br>
 
