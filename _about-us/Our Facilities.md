@@ -73,8 +73,8 @@ The Ng Teng Fong Centre for Healthcare Innovation is a training &amp; innovation
 </div>
 	<div class="col"> 
 <img alt="innospace" style="width:500px; height:200px; padding-top:8%;" src="/images/Facilities/innospace.jpg"><br>
-    <div class="header"><b>Innospace</b></div><br>
-    <div class="para">InnoSpace encourages staff to make use of wall partitions to try out different configurations of spaces and design the most optimal space to provide patient-centred care.
+    <div class="header"><b>         CHI-X Innovation Lab</b></div><br>
+    <div class="para">CHI-X Innovation Lab encourages staff to make use of wall partitions to try out different configurations of spaces and design the most optimal space to provide patient-centred care.
 </div>
 		</div>
 	<div class="col"> 
