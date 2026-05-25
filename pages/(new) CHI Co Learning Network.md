@@ -1,5 +1,5 @@
 ---
-title: Test CHI Co Learning Network
+title: (new) CHI Co Learning Network
 permalink: /test-chi-co-learning-network/
 variant: tiptap
 description: ""
@@ -8,13 +8,12 @@ description: ""
 <p>The CHI Co-Learning Network was officially launched on 21 October 2016
 with a focus on driving systems change and transformation. Through the
 network, our partners can collaborate on innovation projects, form communities
-of practice and exchange knowledge. To date, our network has grown to 81
-partners across Health Systems, Academia, Agencies and Industry. This innovation
-network promotes co-learning through strong partnerships to enable the
-transformation of our health system.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iGjKAr6gy6c"></iframe>
-</div>
+of practice and exchange knowledge.</p>
+<p>To date, our network has grown to 81 partners across Health Systems &amp;
+Providers, Academia &amp; Capability Development, Agencies &amp; Associations,
+and Industry.</p>
+<p>This network promotes co-learning through strong partnerships to enable
+the transformation of our health system.</p>
 <h2>Our Partners</h2>
 <h4>Health Systems and Providers</h4>
 <table style="minWidth: 75px">
