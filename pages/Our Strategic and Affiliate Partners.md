@@ -1,8 +1,7 @@
 ---
 title: Our Strategic and Affiliate Partners
-permalink: /our-network/ourpartners/
+permalink: /our-network/ourpartners/outdated/
 description: ""
-third_nav_title: CHI Co Learning Network
 variant: markdown
 ---
 <style>
