@@ -6,14 +6,11 @@ description: ""
 ---
 <h2>About Us</h2>
 <p>The CHI Co-Learning Network was officially launched on 21 October 2016
-with a focus on driving systems change and transformation. Through the
-network, our partners can collaborate on innovation projects, form communities
-of practice and exchange knowledge.</p>
+with a focus on driving healthcare transformation and systems change and
+transformation.</p>
 <p>To date, our network has grown to 81 partners across Health Systems &amp;
 Providers, Academia &amp; Capability Development, Agencies &amp; Associations,
 and Industry.</p>
-<p>This network promotes co-learning through strong partnerships to enable
-the transformation of our health system.</p>
 <h2>Our Partners</h2>
 <h4>Health Systems and Providers</h4>
 <table style="minWidth: 75px">
