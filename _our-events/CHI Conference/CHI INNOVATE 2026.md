@@ -12,7 +12,8 @@ with <strong>JETS (Job Expo '36</strong>) fully integrated into the overall
 programme. Together, the conference and JETS offer a cohesive experience
 that brings workforce conversations, applied innovation and future job
 roles into one platform.</p>
-<p><strong>Tickets are now available <a href="https://for.sg/chiinnovate2026-registration" rel="noopener nofollow" target="_blank">here</a>.</strong>
+<p><strong>For more information on the conference programme and ticketing, please visit the link here</strong>:
+<a href="https://chiinnovate2026.klobbi.com/" rel="noopener noreferrer nofollow" target="_blank">CHI innovate 2026 | About Us</a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>

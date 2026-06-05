@@ -6,13 +6,7 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</h2>
-<h4>Grant call for NASH Domain A (GIVE) and Domain B is open from 6 April 2026 to 31 May 2026.</h4>
-<p></p>
-<p><strong>For NASH – Application Form and Info Pack details</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/nash-info-pack"><img style="width: 70%;" height="auto" width="100%" alt="Download Application Form and Info Pack details" src="/images/Download_icon__002_.png"></a>
-<p>Sign up for a<strong> pre-submission consultation</strong> slot here:
-<a href="https://for.sg/presubmission-consultation" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/presubmission-consultation</a>
-</p>
+<h4>Grant call for NASH Innovation Fund is now closed.</h4>
 <hr>
 <p>Supported by NHG Health, the NHG Health Adoption &amp; Scale Healthcare
 (NASH) Innovation Fund aims to enable NHG campuses to better drive the
@@ -213,8 +207,8 @@ system, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Grant call is open from 6 April 2026 to 31 May 2026. Kindly submit your
-completed application form by 31 May 2026.</p>
+<p><em>Grant call for NASH Innovation Fund is now closed.</em>
+</p>
 </div>
 </details>
 <details class="isomer-details">
