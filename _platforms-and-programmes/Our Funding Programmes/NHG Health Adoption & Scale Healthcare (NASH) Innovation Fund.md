@@ -94,8 +94,8 @@ honorarium, entertainment, withholding tax, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Grant call is open from 6 April 2026 to 31 May 2026. Kindly submit your
-completed application form by 31 May 2026</p>
+<p><em>Grant call for NASH Innovation Fund is now closed</em>
+</p>
 </div>
 </details>
 <details class="isomer-details">
