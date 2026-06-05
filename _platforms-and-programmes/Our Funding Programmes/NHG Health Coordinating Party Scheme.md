@@ -6,12 +6,7 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Coordinating Party (CP) Scheme</h2>
-<h4>Grant call for CP Scheme is open from 6 April 2026 to 31 May 2026.</h4>
-<p><strong>For NHG CP Scheme – Application Form and Info Pack details</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/nhg-cp-scheme-info-pack"><img style="width: 100%" height="auto" width="100%" alt="Download Application Form and Info Pack details" src="/images/Download_icon__002_.png"></a>
-<p>Sign up for a <strong>pre-submission consultation</strong> slot here:
-<a href="https://for.sg/presubmission-consultation" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/presubmission-consultation</a>
-</p>
+<h4>Grant call for NHG Health CP Scheme is now closed.</h4>
 <hr>
 <p>Supported by MOH Health Innovation (MHI) Fund 2.0, the Coordinating Party
 (CP) Scheme aims to provide holistic support for innovation towards adoption
@@ -295,8 +290,8 @@ of 18 months.</p>
 </li>
 </ul>
 <h4><strong>Submission Deadline</strong></h4>
-<p>Grant call is open from 6 April 2026 to 31 May 2026. Kindly submit your
-completed application form by 31 May 2026.</p>
+<p><em>Grant call for NHG Health CP Scheme is now closed</em>
+</p>
 <p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
 <p></p>
