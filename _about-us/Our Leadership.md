@@ -98,7 +98,7 @@ NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_b
 <td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Innovation Office<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/ronnie.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/Elizabeth.png"></a></td>
 <td><strong>Elizabeth Kate Martin </strong><br>Deputy Director and Lead, Evaluation Office <br><a href="https://www.linkedin.com/in/elizabeth-m-b304a6117/" target="_blank"><small>LinkedIn</small></a></td></tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/raymond-chow-37367748"><img alt="andrew1" src="/images/Leaders/Raymond_Chow.png"></a></td>
