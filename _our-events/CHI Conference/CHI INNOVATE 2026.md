@@ -25,7 +25,7 @@ roles into one platform.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Conference on 2 &amp; 3 July</strong>
 </p>
-<p><strong> &nbsp;</strong>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
