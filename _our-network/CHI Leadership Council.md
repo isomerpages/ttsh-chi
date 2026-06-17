@@ -135,6 +135,26 @@ Health.</p>
 <summary>Mr Abdullahi Sheriff, Member</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Abdullahi Sheriff is the incoming Managing Director for the Kingdom of
+Saudi Arabia in MSD. He also serves on the Leadership Council for the Centre
+for Healthcare</p>
+<p>Innovation (CHI) in Singapore and as a volunteer advisor on the Macmillan
+Cancer Support Impact Investment Fund in the UK.</p>
+<p></p>
+<p>Sheriff was the Managing Director for MSD in Singapore, Malaysia &amp;
+Brunei in MSD where focused on building a highly trusted organization that
+is well-positioned to save</p>
+<p>and improve the lives of people in need and positively contribute to the
+development of the broader healthcare ecosystem in all three countries.</p>
+<p></p>
+<p>Prior to this, Sheriff spent many years in Consulting in the UK, working
+with multiple clients, particularly the UK NHS, and leading a range of
+strategic initiatives.</p>
+<p></p>
+<p>Sheriff cares deeply about helping others find ways to flourish and takes
+great pride in celebrating people for who they are and who they want to
+be.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
