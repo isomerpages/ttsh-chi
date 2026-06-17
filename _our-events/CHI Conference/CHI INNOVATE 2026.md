@@ -23,7 +23,9 @@ roles into one platform.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Conference on 2 &amp; 3 July &nbsp;</strong>
+<p><strong>Conference on 2 &amp; 3 July</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +48,7 @@ roles into one platform.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_01_R6B_03_png__1mb_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_07_R15_FA_original_size.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -82,6 +84,9 @@ Minister of State (MDDI &amp; MOH), will join CHI INNOVATE 2026 as Guest
 of Honour.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_01_R6B_03_png__1mb_.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -111,6 +116,10 @@ roles and skills to life across homes, communities and hospitals.&nbsp;</p>
 <p>Career Coaching Opportunities</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHI INNOVATE/EDM_09_R7_FA_original_size.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
