@@ -140,7 +140,25 @@ Health.</p>
 <details class="isomer-details">
 <summary>Ms Sarah Woolnough, Member</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Sarah is the Chief Executive of The King’s Fund, an independent charity
+working to improve people’s health. Since joining in late 2023, Sarah has
+overseen development of a new long-term</p>
+<p>strategy, brand and operating model, all focused on boldly reimaging a
+health and care system that is compassionate, equitable and fit for the
+future, with people at its heart. The King’s Fund delivers its vision through
+research, analysis and insight, leadership and organisational development
+with health and care leaders, convening and events, and through partnership
+with others.</p>
 <p></p>
+<p>Previously, Sarah was the Chief Executive of Asthma + Lung UK, the national
+respiratory charity, having overseen the merger of the two leading lung
+health charities. Before that, Sarah spent</p>
+<p>more than 15 years at Cancer Research UK in a range of senior policy and
+executive board roles, and is a previous non-executive and trustee of Bliss,
+the special care baby charity, Action on Smoking and Health (ASH), the
+Association of Medical Research Charities (AMRC), the National Cancer Research
+Institute (NCRI) and the Telstra Health UK Advisory Board. Sarah is a current
+trustee of MQ: Transforming Mental Health.</p>
 </div>
 </details>
 </div>
