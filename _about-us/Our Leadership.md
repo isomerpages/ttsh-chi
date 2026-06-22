@@ -84,7 +84,7 @@ NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_b
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/celine-ong-wei-hui"><img alt="andrew1" src="/images/Leaders/celine%20ong%20copy.png"></a></td>
-<td><strong>Celine Ong  </strong><br>Director, Collaborating Centres Support Office &amp; Centre for HEalth ACtivation <br><a href="https://www.linkedin.com/in/celine-ong-wei-hui" target="_blank"><small>LinkedIn</small></a> </td>
+<td><strong>Celine Ong  </strong><br>Director, Collaborating Centres Support Office &amp; Centre for Health Activation <br><a href="https://www.linkedin.com/in/celine-ong-wei-hui" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 </tr><tr>
@@ -96,7 +96,7 @@ NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_b
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/casperng"><img alt="andrew1" src="/images/Leaders/casperr.png"></a></td>
-<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Innovation Office<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a></td>
+<td><strong>Casper Ng Chong Kee </strong><br>Deputy Director, Grants &amp; Innovation Office and Management Office<br><a href="https://www.linkedin.com/in/casperng" target="_blank"><small>LinkedIn</small></a></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/yangronnie"><img alt="andrew1" src="/images/Leaders/Elizabeth_Martin.png"></a></td>
@@ -108,7 +108,7 @@ NHG Health<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_b
 	<tr>
 	</tr><tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/thomas-liew-b5a918206/"><img alt="andrew1" src="/images/Leaders/thomas%20liew.png"></a></td>
-<td><strong>Thomas Liew</strong><br>Deputy Director, Leadership &amp; Organisation Development Office<br><a href="https://www.linkedin.com/in/thomas-liew-b5a918206/" target="_blank"><small>LinkedIn</small></a> </td>
+<td><strong>Thomas Liew</strong><br>Deputy Director, Learning &amp; Organisation Development Office<br><a href="https://www.linkedin.com/in/thomas-liew-b5a918206/" target="_blank"><small>LinkedIn</small></a> </td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/michelle-lee-754aa96a"><img alt="andrew1" src="/images/Leaders/michelle%20lee-01.png"></a></td>
