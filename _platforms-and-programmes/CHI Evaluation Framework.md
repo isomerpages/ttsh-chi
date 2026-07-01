@@ -13,12 +13,13 @@ for adoption or scale. It provides recommendations for the entire process,
 from test-bed design for evidence generation, to economic analysis, to
 solution evaluation by representative panels of experts.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CHIEF/CHIEF_2_0.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/205179.png">
 </div>
 <p></p>
-<p>Click to view the latest guidance document: <a href="/files/CHIEF Guidance Document/CHIEF_Guidance_Document___V2_0_April_2025.pdf" rel="noopener nofollow" target="_blank">CHIEF Guidance Document V2.0</a>
+<p></p>
+<p>Click to view the latest guidance document: <a href="/files/CHIEF Guidance Document/CHIEF_Guidance_Document___V2_0_April_2025.pdf" rel="noopener nofollow" target="_blank">CHIEF Guidance Document V3</a>
+<a href="/files/CHIEF_Guidance_Document_V3_0_July_2026.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/CHIEF Guidance Document/CHIEF_Guidance_Document___V2_0_April_2025.pdf" rel="noopener nofollow" target="_blank">.0</a>
 </p>
 <p></p>
 <p></p>
