@@ -14,7 +14,7 @@ from test-bed design for evidence generation, to economic analysis, to
 solution evaluation by representative panels of experts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/205179.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/205179.png">
 </div>
 <p></p>
 <p></p>
