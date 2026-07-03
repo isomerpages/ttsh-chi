@@ -80,11 +80,6 @@ Singapore.
 </details>
 </div>
 <p></p>
-<h4><strong>Register for our upcoming Mala Dialogue on 5 June 2026!</strong></h4>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/260605_Mala_Dialogue_with_Margaret_Lee_EDM.gif">
-</div>
 <h4><strong>Stay connected with us</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://www.linkedin.com/in/chi-flying-45450020a/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CHI FLYING/FLYING_LinkedIn.png"></a>
 <p></p>
