@@ -8,6 +8,47 @@ description: ""
 <p>The CHI Masterclass features world-class thought leaders to actively build
 mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming!</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26th_CHI_Masterclass__upcoming_.png">
+</div>
+<p><strong>Date: 26 August 2026, Wednesday</strong>
+<br><strong>Time: 2:30pm to 5:00pm</strong>
+<br><strong>Venue: Ng Teng Fong Centre for Healthcare Innovation, Level 4, Auditorium</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Synopsis of the 26th CHI Masterclass:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Singapore's healthcare financing system was shaped by decades of deliberate
+reform, cross-agency collaboration, and a commitment to balancing individual
+needs with the sustainability of public finances. Mrs Tan Ching Yee, who
+served as Permanent Secretary at both the Ministry of Health and Ministry
+of Finance, with a career spanning more than 38 years in the Singapore
+Public Service, offers her leadership reflections on this journey — the
+milestones, the hard choices, and the values that guided decision-making
+along the way. She also looks ahead, sharing her perspectives on the opportunities
+and challenges that will define the next chapter of healthcare financing
+in Singapore.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>About the Speaker:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mrs Tan Ching Yee served for over 38 years in the Singapore Public Service,
+holding appointments across the Ministries of Trade and Industry, Education,
+Information Communications and the Arts, Health, Finance, and the Prime
+Minister's Office. She contributed to policymaking at the intersection
+of economic and social policies, and oversaw critical relief measures during
+COVID-19. Known for her emphasis on people and leadership development,
+she continues to serve in the Prime Minister's Office and the Energy Market
+Authority.</p>
+</div>
+</details>
+</div>
+<p>You may <a href="https://for.sg/26th-chi-masterclass-edm" rel="noopener noreferrer nofollow" target="_blank">view the EDM here</a>.</p>
+<p><strong>Register for your <u>complimentary</u>&nbsp;seat here – <a href="https://for.sg/26th-chi-masterclass" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/26th-chi-masterclass</a></strong>
+</p>
 <p>Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to
 stay connected and updated on our upcoming sessions.</p>
 <h2><strong>Past Sessions</strong></h2>
