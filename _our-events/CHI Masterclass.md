@@ -18,7 +18,7 @@ mindshare in healthcare transformation for systems change.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Synopsis of the 26th CHI Masterclass:</summary>
+<summary>Synopsis of the 26th CHI Masterclass</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Singapore's healthcare financing system was shaped by decades of deliberate
 reform, cross-agency collaboration, and a commitment to balancing individual
@@ -33,7 +33,7 @@ in Singapore.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>About the Speaker:</summary>
+<summary>About the Speaker</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mrs Tan Ching Yee served for over 38 years in the Singapore Public Service,
 holding appointments across the Ministries of Trade and Industry, Education,
