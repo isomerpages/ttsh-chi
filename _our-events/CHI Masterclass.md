@@ -8,8 +8,50 @@ description: ""
 <p>The CHI Masterclass features world-class thought leaders to actively build
 mindshare in healthcare transformation for systems change.</p>
 <h2><strong>Upcoming!</strong></h2>
-<p>Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to
-stay connected and updated on our upcoming sessions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26th_CHI_Masterclass__upcoming_.png">
+</div>
+<p><strong>Date: 26 August 2026, Wednesday</strong>
+<br><strong>Time: 2:30pm to 5:00pm</strong>
+<br><strong>Venue: Ng Teng Fong Centre for Healthcare Innovation, Level 4, Auditorium</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Synopsis of the 26th CHI Masterclass</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Singapore's healthcare financing system was shaped by decades of deliberate
+reform, cross-agency collaboration, and a commitment to balancing individual
+needs with the sustainability of public finances. Mrs Tan Ching Yee, who
+served as Permanent Secretary at both the Ministry of Health and Ministry
+of Finance, with a career spanning more than 38 years in the Singapore
+Public Service, offers her leadership reflections on this journey — the
+milestones, the hard choices, and the values that guided decision-making
+along the way. She also looks ahead, sharing her perspectives on the opportunities
+and challenges that will define the next chapter of healthcare financing
+in Singapore.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mrs Tan Ching Yee served for over 38 years in the Singapore Public Service,
+holding appointments across the Ministries of Trade and Industry, Education,
+Information Communications and the Arts, Health, Finance, and the Prime
+Minister's Office. She contributed to policymaking at the intersection
+of economic and social policies, and oversaw critical relief measures during
+COVID-19. Known for her emphasis on people and leadership development,
+she continues to serve in the Prime Minister's Office and the Energy Market
+Authority.</p>
+</div>
+</details>
+</div>
+<p><strong>Register for your <u>complimentary</u>&nbsp;seat here: <a href="https://for.sg/26th-chi-masterclass" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/26th-chi-masterclass</a></strong>
+</p>
+<p>You may <a href="https://for.sg/26th-chi-masterclass-edm" rel="noopener noreferrer nofollow" target="_blank">view the EDM here</a>.</p>
+<p>
+<br><em>Join our <a href="https://for.sg/chi-mailinglist" rel="noopener noreferrer nofollow" target="_blank"><u>mailing list</u></a> to stay connected and updated on our upcoming sessions.</em>
+</p>
 <h2><strong>Past Sessions</strong></h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Population Health in Practice – Lessons from Region Jönköping County" src="/images/25th_CHI_Masterclass_past.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Population Health in Practice – Lessons from Region Jönköping County</div><div class="isomer-card-description">This masterclass examines the population health model of Region Jönköping County, a Swedish health system. Over three decades, Jönköping has pioneered a "quality as strategy" philosophy, embedding continuous improvement, resident co-design, and organisation-wide learning into care delivery.</div><div class="isomer-card-link">Read More &gt;</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAG6n99QEpY/ABiIQJuj_Rb-FOsEzv3SaA/view?utm_content=DAG6n99QEpY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h07fc8e41b0" class="isomer-card">
