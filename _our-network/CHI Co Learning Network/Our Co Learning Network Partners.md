@@ -33,7 +33,7 @@ and Industry.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHS_Guy_s_and_St_Thomas__NHS_Foundation_Trust_Logo.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NHS_Guy_s_and_St_Thomas__NHS_Foundation_Trust_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nuhs.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="NUHS" src="/images/Logos/Health Systems (NEW)/NUHS_Logo.png"></a>
@@ -47,9 +47,8 @@ and Industry.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www2.si.mahidol.ac.th/en/"><img style="width: 100%" height="auto" width="100%" alt="Siriraj Hospital" src="/images/Logos/Health Systems (NEW)/Siriraj_Hospital_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Southcentral_Foundation_Logo.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Southcentral_Foundation_Logo.png">
 </div>
 </td>
 </tr>
@@ -158,71 +157,109 @@ and Industry.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hpb.gov.sg/"><img style="width: 70%;" height="auto" width="100%" alt="Health Promotion Board" src="/images/Logos/Agencies (NEW)/Health_Promotion_Board_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/HSA_Logo.png">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtechx-asia.com/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTechX" src="/images/Logos/Agencies (NEW)/HealthTechX_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtechx-asia.com/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTechX" src="/images/Logos/Agencies (NEW)/HealthTechX_Logo.png"></a>
+</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hkstp.org/en/"><img style="width: 70%;" height="auto" width="100%" alt="HKSTP" src="/images/Logos/Agencies (NEW)/HKSTP_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.indee-sg.com/"><img style="width: 75%;" height="auto" width="100%" alt="Indee" src="/images/Logos/Agencies (NEW)/Indee_Logo.png"></a>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://en.innovasjonnorge.no/"><img style="width: 70%;" height="auto" width="100%" alt="Innovation Norway" src="/images/Logos/Agencies (NEW)/Innovation_Norway_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.italchamber.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Italian_Chambers_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/IHRP_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.italchamber.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Italian_Chambers_Logo.png"></a>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.jetro.go.jp/en/"><img style="width: 80%;" height="auto" width="100%" alt="JETRO" src="/images/Logos/Agencies (NEW)/JETRO_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://kilsaglobal.com/"><img style="width: 70%;" height="auto" width="100%" alt="KiLSA" src="/images/Logos/Agencies (NEW)/KiLSA_Global_Logo.png"></a>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.kosmes.or.kr/sbc/SH/EHP/SHEHP001M0.do"><img style="width: 70%;" height="auto" width="100%" alt="KOSME" src="/images/Logos/Agencies (NEW)/KOSME_Logo.png"></a>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://k-startupcenter.org/eng/Main.do"><img style="width: 80%;" height="auto" width="100%" alt="K-Startup Center" src="/images/Logos/Agencies (NEW)/K_Startup_Center_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://global.lne.st/"><img style="width: 80%;" height="auto" width="100%" alt="Leave a Nest" src="/images/Logos/Agencies (NEW)/Leave_a_Nest_Logo.png"></a>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medtechactuator.com/"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Actuator" src="/images/Logos/Agencies (NEW)/MedTech_Actuator_Logo.png"></a>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://medtechinnovator.asia/"><img style="width: 80%;" height="auto" width="100%" alt="MedTech Innovation Asia Pacific" src="/images/Logos/Agencies (NEW)/MedTech_Innovation_Asia_Pacific_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhic.sg/"><img style="width: 70%;" height="auto" width="100%" alt="NHIC" src="/images/Logos/Agencies (NEW)/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ncss.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="National Council of Social Service" src="/images/Logos/Agencies (NEW)/NCSS_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhic.sg/"><img style="width: 70%;" height="auto" width="100%" alt="NHIC" src="/images/Logos/Agencies (NEW)/National_Health_Innovation_Centre_Singapore__NHIC__Logo.png"></a>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nyc.gov.sg/"><img style="width: 80%;" height="auto" width="100%" alt="NYC" src="/images/Logos/Agencies (NEW)/National_Youth_Council_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.questventures.com/"><img style="width: 80%;" height="auto" width="100%" alt="Quest Ventures" src="/images/Logos/Agencies (NEW)/Quest_Ventures_Logo.png"></a>
 </td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://www.saenapartners.com/"><img style="width: 70%;" height="auto" width="100%" alt="Saena Partners" src="/images/Logos/Agencies (NEW)/Saena_Partners_Logo.png"></a>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://www.saenapartners.com/"><img style="width: 70%;" height="auto" width="100%" alt="Saena Partners" src="/images/Logos/Agencies (NEW)/Saena_Partners_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sginnovate.com/"><img style="width: 80%;" height="auto" width="100%" alt="SGInnovate" src="/images/Logos/Agencies (NEW)/SGInnovate_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sgassist.com/"><img style="width: 100%" height="auto" width="100%" alt="SG Assist" src="/images/Logos/Agencies (NEW)/SG_Assist.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sginnovate.com/"><img style="width: 80%;" height="auto" width="100%" alt="SGInnovate" src="/images/Logos/Agencies (NEW)/SGInnovate_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/sb"><img style="width: 100%;" height="auto" width="100%" alt="Singapore Biodesign" src="/images/Logos/Agencies (NEW)/Singapore_Biodesign_Logo.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/sb"><img style="width: 80%;" height="auto" width="100%" alt="Singapore Biodesign" src="/images/Logos/Agencies (NEW)/Singapore_Biodesign_Logo.png"></a>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sgc.org.sg/en"><img style="width: 80%;" height="auto" width="100%" alt="Singaporean-German Chamber" src="/images/Logos/Agencies (NEW)/Singaporean_German_Chamber__SGC__Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sif.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="Singapore International Foundation" src="/images/Logos/Agencies (NEW)/Singapore_International_Foundation_Logo.png"></a>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.start2.group/"><img style="width: 80%;" height="auto" width="100%" alt="Start2Group" src="/images/Logos/Agencies (NEW)/Start2Group_Logo.png"></a>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Swecare_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Skills_and_Workforce_Development_Agency__SWDA__Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Synapxe_Logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Tehnopol_Logo.png">
+</div>
+</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.temasekfoundation.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Temasek_Foundation_Logo.jpg"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.trendlines.com/"><img style="width: 80%;" height="auto" width="100%" alt="Trendlines" src="/images/Logos/Agencies (NEW)/Trendlines_Logo.png"></a>
 </td>
@@ -232,17 +269,7 @@ and Industry.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.verge.fund/"><img style="width: 75%;" height="auto" width="100%" alt="Verge Healthtech Fund" src="/images/Logos/Agencies (NEW)/Verge_Healthtech_Fund_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.wsg.gov.sg/"><img style="width: 65%;" height="auto" width="100%" alt="Workforce Singapore" src="/images/Logos/Agencies (NEW)/Workforce_Singapore_Logo.png"></a>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.thexnode.com/"><img style="width: 65%;" height="auto" width="100%" alt="Xnode" src="/images/Logos/Agencies (NEW)/Xnode_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -256,34 +283,37 @@ and Industry.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 80%;" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 80%;" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.amazonaws.cn/en/"><img style="width: 100%" height="auto" width="100%" alt="AWS China" src="/images/Logos/Industry (NEW)/AWS_China_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.meta.com/sg/"><img style="width: 80%;" height="auto" width="100%" alt="Meta" src="/images/Logos/Industry (NEW)/Meta_Logo.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/GovInsider_Logo.png">
+</div>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.meta.com/sg/"><img style="width: 80%;" height="auto" width="100%" alt="Meta" src="/images/Logos/Industry (NEW)/Meta_Logo.png"></a>
+</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.microsoft.com/en-sg"><img style="width: 80%;" height="auto" width="100%" alt="Microsoft" src="/images/Logos/Industry (NEW)/Microsoft_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.msd-singapore.com/"><img style="width: 80%;" height="auto" width="100%" alt="MSD" src="/images/Logos/Industry (NEW)/MSD_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nanrise.sg/"><img style="width: 80%;" height="auto" width="100%" alt="NanRise" src="/images/Logos/Industry (NEW)/NanRise_Logo.png"></a>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nanrise.sg/"><img style="width: 90%;" height="auto" width="100%" alt="NanRise" src="/images/Logos/Industry (NEW)/NanRise_Logo.png"></a>
+</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://singlife.com/en"><img style="width: 80%;" height="auto" width="100%" alt="Singlife" src="/images/Logos/Industry (NEW)/Singlife_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/"><img style="width: 80%;" height="auto" width="100%" alt="ST Engineering" src="/images/Logos/Industry (NEW)/ST_Engineering_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/en/smart-city/digital-health/transforming-healthcare-with-technology/"><img style="width: 80%;" height="auto" width="100%" alt="ST Healthcare" src="/images/Logos/Industry (NEW)/ST_Healthcare_Logo.png"></a>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.terumo.com/"><img style="width: 75%;" height="auto" width="100%" alt="Terumo" src="/images/Logos/Industry (NEW)/Terumo_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.stengg.com/en/smart-city/digital-health/transforming-healthcare-with-technology/"><img style="width: 80%;" height="auto" width="100%" alt="ST Healthcare" src="/images/Logos/Industry (NEW)/ST_Healthcare_Logo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.terumo.com/"><img style="width: 75%;" height="auto" width="100%" alt="Terumo" src="/images/Logos/Industry (NEW)/Terumo_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
