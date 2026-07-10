@@ -24,14 +24,16 @@ and Industry.</p>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aic.sg/"><img style="width: 100%" height="auto" width="100%" alt="AIC" src="/images/Logos/Health Systems (NEW)/AIC_Logo.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare" src="/images/Logos/Health Systems (NEW)/IHH_Healthcare_Logo__New_.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Health Systems (NEW)/NHS_Guy_s_and_St_Thomas__NHS_Foundation_Trust_Logo.png">
+</div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems (NEW)/NHG_Health_Logo.png"></a>
-</th>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ihhhealthcare.com/"><img style="width: 100%" height="auto" width="100%" alt="IHH Healthcare" src="/images/Logos/Health Systems (NEW)/IHH_Healthcare_Logo__New_.png"></a>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems (NEW)/NHG_Health_Logo.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NHS_Guy_s_and_St_Thomas__NHS_Foundation_Trust_Logo.png">
 </div>
@@ -48,7 +50,7 @@ and Industry.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Southcentral_Foundation_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Health Systems (NEW)/Southcentral_Foundation_Logo.png">
 </div>
 </td>
 </tr>
@@ -158,9 +160,8 @@ and Industry.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hpb.gov.sg/"><img style="width: 70%;" height="auto" width="100%" alt="Health Promotion Board" src="/images/Logos/Agencies (NEW)/Health_Promotion_Board_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/HSA_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/HSA_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
@@ -180,9 +181,8 @@ and Industry.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.italchamber.org.sg/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Italian_Chambers_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/IHRP_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/IHRP_Logo.png">
 </div>
 </td>
 </tr>
@@ -236,39 +236,30 @@ and Industry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Swecare_Logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Skills_and_Workforce_Development_Agency__SWDA__Logo.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Synapxe_Logo.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Tehnopol_Logo.png">
-</div>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.temasekfoundation.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Temasek_Foundation_Logo.jpg"></a>
-<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.trendlines.com/"><img style="width: 80%;" height="auto" width="100%" alt="Trendlines" src="/images/Logos/Agencies (NEW)/Trendlines_Logo.png"></a>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.theupsight.com/"><img style="width: 80%;" height="auto" width="100%" alt="Upsight" src="/images/Logos/Agencies (NEW)/Upsight_Logo.png"></a>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.verge.fund/"><img style="width: 75%;" height="auto" width="100%" alt="Verge Healthtech Fund" src="/images/Logos/Agencies (NEW)/Verge_Healthtech_Fund_Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Skills_and_Workforce_Development_Agency__SWDA__Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.thexnode.com/"><img style="width: 65%;" height="auto" width="100%" alt="Xnode" src="/images/Logos/Agencies (NEW)/Xnode_Logo.png"></a>
 </td>
