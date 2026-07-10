@@ -158,7 +158,7 @@ and Industry.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/HSA_Logo.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/HSA_Logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.healthtec.sg/"><img style="width: 80%;" height="auto" width="100%" alt="HealthTEC.SG" src="/images/Logos/Agencies (NEW)/HealthTEC_SG_Logo.png"></a>
