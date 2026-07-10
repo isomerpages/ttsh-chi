@@ -34,9 +34,6 @@ and Industry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nhghealth.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/Logos/Health Systems (NEW)/NHG_Health_Logo.png"></a>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NHS_Guy_s_and_St_Thomas__NHS_Foundation_Trust_Logo.png">
-</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.nuhs.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="NUHS" src="/images/Logos/Health Systems (NEW)/NUHS_Logo.png"></a>
 </td>
