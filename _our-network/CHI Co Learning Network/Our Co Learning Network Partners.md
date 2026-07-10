@@ -9,7 +9,7 @@ third_nav_title: CHI Co Learning Network
 <p>The CHI Co-Learning Network was officially launched on 21 October 2016
 with a focus on driving healthcare transformation and systems change and
 transformation.</p>
-<p>To date, our network has grown to 81 partners across Health Systems &amp;
+<p>To date, our network has grown to 86 partners across Health Systems &amp;
 Providers, Academia &amp; Capability Development, Agencies &amp; Associations,
 and Industry.</p>
 <h2>Our Partners</h2>
@@ -241,10 +241,14 @@ and Industry.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Synapxe_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Agencies (NEW)/Tehnopol_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
