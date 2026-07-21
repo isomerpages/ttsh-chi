@@ -279,14 +279,14 @@ and Industry.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://aws.amazon.com/"><img style="width: 80%;" height="auto" width="100%" alt="AWS" src="/images/Logos/Industry Partners/AWS_Logo.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Industry (NEW)/AWS_Logo.png">
+</div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.amazonaws.cn/en/"><img style="width: 100%" height="auto" width="100%" alt="AWS China" src="/images/Logos/Industry (NEW)/AWS_China_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/GovInsider_Logo.png">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
