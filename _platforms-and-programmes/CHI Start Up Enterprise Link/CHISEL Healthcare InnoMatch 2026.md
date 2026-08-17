@@ -8,7 +8,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_InnoMatch_Masthead_Programme_06.png">
 </div>
-<p><strong>Applications for Healthcare InnoMatch 2026 are now closed. </strong>
+<p><strong>Applications for Healthcare InnoMatch 2026 are now closed.</strong>
 </p>
 <p>Ready to see the Healthcare InnoMatch 2026 finalists pitch live, and gain
 insights from our healthcare clusters? Register <a href="https://for.sg/innomatch2026" rel="noopener noreferrer nofollow" target="_blank">Here</a> to Attend (In-Person or Virtual)</p>
@@ -177,5 +177,19 @@ three (3) months to complete the evaluation.
 would evaluate the success of the test-bed.</p>
 </div>
 </details>
+</div>
+<h2>Organisers and Partners<br></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Organisers.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies_aug_2026.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies_aug_2026__2_.png">
 </div>
 <p></p>
