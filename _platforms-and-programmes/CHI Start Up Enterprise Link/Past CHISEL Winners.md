@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
-<h4>CHISEL 2025</h4>
-<p><em>Theme: Building the Digital Health of the FutureStrengthening Care for Healthier and Resilient Ageing Society</em>
+<h4>Healthcare InnoMatch 2025</h4>
+<p><em>Theme: Building the Digital Health of the Future</em>
 </p>
 <p>How can digital solutions (e.g. AI-enhanced Digital Platforms or Devices)
 seamlessly&nbsp;<strong>integrate care within and beyond</strong>&nbsp;hospitals
@@ -30,7 +30,7 @@ System, Acorai enables faster diagnosis, personalized therapy, and fewer
 readmissions—improving patient outcomes.</div>
 <div class="isomer-card-link">https://acorai.com/</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://en.ai-ms.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Medical Service" src="/images/CHISEL/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Medical Service </div><div class="isomer-card-description">AI Medical Service (AIM), a Tokyo-based startup, uses AI-powered endoscopy to detect GI cancers early and reduce diagnostic errors. By enhancing accuracy and addressing the shortage of skilled endoscopists, AIM improves patient outcomes worldwide.</div><div class="isomer-card-link">https://en.ai-ms.com/</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://en.ai-ms.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Medical Service" src="/images/CHISEL/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Medical Service</div><div class="isomer-card-description">AI Medical Service (AIM), a Tokyo-based startup, uses AI-powered endoscopy to detect GI cancers early and reduce diagnostic errors. By enhancing accuracy and addressing the shortage of skilled endoscopists, AIM improves patient outcomes worldwide.</div><div class="isomer-card-link">https://en.ai-ms.com/</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://gyrogear.net/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -49,8 +49,8 @@ to regain confidence and control.</div>
 </div>
 <p>Click <a href="https://www.chi.sg/files/Media_Release_CHISEL_Healthcare_InnoMatch_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Press Release.</p>
-<p>&nbsp;Watch the live recording of CHISEL 2025 Finale <a href="https://youtu.be/LaFI_tDGfTE" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>CHISEL 2024</h4>
+<p>&nbsp;Watch the live recording of Healhcare InnoMatch 2025 Finale <a href="https://youtu.be/LaFI_tDGfTE" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>Healthcare InnoMatch 2024</h4>
 <p><em>Theme: Strengthening Care for Healthier and Resilient Ageing Society</em>
 </p>
 <p>How might disruptive innovations enhance existing efforts, bridge critical
@@ -77,8 +77,8 @@ technology, it promotes early detection, awareness, and timely interventions.</d
 </div>
 <p>Click <a href="https://www.chi.sg/files/Press_Release_CHI_Innomatch2024___FINAL.pdf" rel="noopener nofollow" target="_blank">here </a>for
 the Press Release.</p>
-<p>Watch the live recording of CHISEL 2024 Finale <a href="https://www.youtube.com/watch?v=1buwQfVc8Rs" rel="noopener nofollow" target="_blank">here</a>.</p>
-<h4>CHISEL 2023</h4>
+<p>Watch the live recording of Healthcare InnoMatch 2024 Finale <a href="https://www.youtube.com/watch?v=1buwQfVc8Rs" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4>Healthcare InnoMatch 2023</h4>
 <p><em>Theme: Reshaping Preventive Care for a Healthier Population</em>
 </p>
 <p>How might disruptive innovations help our population (who are healthy,
@@ -104,10 +104,10 @@ through clinical validation.</div>
 </a><a rel="noopener noreferrer nofollow" href="http://voicehealthtech.com/en/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Wonder Technology Logo" src="/images/CHISEL/Wonder_Technology.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Wonder Technologies</div><div class="isomer-card-description">Wonder SAFE is a Revolutionary Voice AI Platform for Mental Health: We provide Secure, Accurate, Fast, Effective Mental Health screening &amp; monitoring Solutions for healthcare platforms, online hospitals, employee benefit programs and insurance providers.</div><div class="isomer-card-link">Find out more about here</div></div></a>
 </div>
 <p>Click to view <strong><a href="https://www.chi.sg/files/pressrelease_chi%20healthcare%20innomatch%202023_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release</a></strong>
-<br>Click to view<strong> <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqTlt0-74I9JJINNH7KQuGU" rel="noopener noreferrer nofollow" target="_blank">CHISEL Healthcare InnoMatch 2023 Finale</a>.</strong>
+<br>Click to view<strong> <a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqTlt0-74I9JJINNH7KQuGU" rel="noopener noreferrer nofollow" target="_blank">Healthcare InnoMatch 2023 Finale</a>.</strong>
 </p>
 <hr>
-<h4>CHISEL 2022</h4>
+<h4>Healthcare InnoMatch 2022</h4>
 <p><em>Theme: Delivering Care Beyond Hospital Walls</em>
 </p>
 <p>How can digital transformation technologies and innovation solutions enable
@@ -148,10 +148,10 @@ by balancing the human autonomic nervous system.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.quantumtx.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/CHISEL/QuantumTX.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">QTX Magnetic Mitohormesis by QuantumTX</div><div class="isomer-card-description">Post-stroke disability is a major health and socioeconomic burden. Community rehabilitation improves outcomes but is arduous with poor compliance. Supplementary Muscle activation using a novel Singapore-developed muscle-mitochondria activating technology, Magnetic Mitohormesis (MM).</div><div class="isomer-card-link">Find out more here</div></div></a>
 </div>
 <p>Click to view <strong><a href="https://www.chi.sg/files/chi%20press%20release_healthcare%20innomatch_9%20september%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release</a></strong>.
-<br>Click to view <strong><a href="https://www.youtube.com/watch?v=Lv_uILnQYyQ&amp;list=PLTrhD5VOFZmocGcY2hMpjCFtuG1_QrQyc&amp;index=3" rel="noopener noreferrer nofollow" target="_blank">CHISEL Healthcare InnoMatch 2022 Finale</a></strong>.
+<br>Click to view <strong><a href="https://www.youtube.com/watch?v=Lv_uILnQYyQ&amp;list=PLTrhD5VOFZmocGcY2hMpjCFtuG1_QrQyc&amp;index=3" rel="noopener noreferrer nofollow" target="_blank">Healthcare InnoMatch 2022 Finale</a></strong>.
 <br>Click to hear the <strong><a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmqRWMkTaet2PYFwFnXVeY4_" rel="noopener noreferrer nofollow" target="_blank">winners' experiences</a></strong>.</p>
 <hr>
-<h4>CHISEL 2021</h4>
+<h4>Healthcare InnoMatch 2021</h4>
 <p><em>Theme: Frail No More, Reducing Hospital Acquired Infections and Digitisation to Enhance Patient Care, Journey and Experience</em>
 </p>
 <p></p>
@@ -185,7 +185,7 @@ patients, likened to a test for epileptic brains.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.rootally.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rootally AI Logo" src="/images/CHISEL/Rootally.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AllyCare by Rootally AI</div><div class="isomer-card-description">AllyCare is an Artificial Intelligence (AI) based Tele-Rehabilitation System that therapists can use to deliver remote rehabilitation to the patients with engagement similar to one-on-one sessions, but servicing more people at once.</div><div class="isomer-card-link">Find out more here</div></div></a>
 </div>
 <p>Click to view <strong><a href="https://www.chi.sg/files/press%20release%20-%20chisel%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release</a>.</strong>
-<br>Click to view <strong><a href="https://www.youtube.com/watch?v=hclc-36ackA" rel="noopener noreferrer nofollow" target="_blank">CHISEL Healthcare InnoMatch 2021 Finale</a></strong>.
+<br>Click to view <strong><a href="https://www.youtube.com/watch?v=hclc-36ackA" rel="noopener noreferrer nofollow" target="_blank">Healthcare InnoMatch 2021 Finale</a></strong>.
 <br>Click to hear the <strong><a href="https://www.youtube.com/playlist?list=PLTrhD5VOFZmp4VtX9GOSbNcZoXA87VVyo" rel="noopener noreferrer nofollow" target="_blank">winners' experiences</a>.</strong>
 </p>
 <p></p>
