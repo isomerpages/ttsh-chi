@@ -8,7 +8,7 @@ third_nav_title: CHI Start Up Enterprise Link
 <h4>Frequently Asked Questions</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>How many winners will there be for CHISEL InnoMatch 2026?</strong>
+<summary><strong>How many winners will there be for Healthcare InnoMatch 2026?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Up to six (6) winners will be selected at the end of this year’s Challenge.</p>
@@ -23,7 +23,7 @@ you are submitting.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>If I am an overseas winner of CHISEL InnoMatch, would I need to relocate to Singapore during the test-bedding?</strong>
+<summary><strong>If I am an overseas winner of Healthcare InnoMatch, would I need to relocate to Singapore during the test-bedding?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Relocating or setting up a local office in Singapore is not mandatory.
@@ -38,10 +38,10 @@ partnership (especially if the test-bedding results are favourable).</p>
 <summary><strong>Do I need to find my own partner healthcare institutions or clinicians for the submission?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>No, you do not have to. Through CHISEL, the winning teams will be paired
-up with the interested healthcare institutions at the end of the Finale.
-The paired healthcare institution will help you to identify the clinical
-project lead that you will be working with for the test-bedding.</p>
+<p>No, you do not have to. Through Healthcare InnoMatch, the winning teams
+will be paired up with the interested healthcare institutions at the end
+of the Finale. The paired healthcare institution will help you to identify
+the clinical project lead that you will be working with for the test-bedding.</p>
 </div>
 </details>
 <details class="isomer-details">
