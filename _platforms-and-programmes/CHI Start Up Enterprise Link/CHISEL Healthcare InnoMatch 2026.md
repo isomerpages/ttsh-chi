@@ -6,10 +6,19 @@ description: CHISEL Healthcare InnoMatch 2026
 third_nav_title: CHI Start Up Enterprise Link
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Masthead_2026_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_InnoMatch_Masthead_Programme_06.png">
 </div>
-<p><strong>Applications for CHISEL Healthcare InnoMatch 2026 is now closed. Stay tuned for the results at our Final Pitching Event on 2nd October 2026!</strong>
+<p><strong>Applications for Healthcare InnoMatch 2026 are now closed.</strong>
 </p>
+<p>Ready to see the Healthcare InnoMatch 2026 finalists pitch live, and gain
+insights from our healthcare clusters? Register <a href="https://for.sg/innomatch2026" rel="noopener noreferrer nofollow" target="_blank">Here</a> to Attend (In-Person or Virtual)</p>
+<p>More details about the programme will be available closer to the date.
+For enquiries, please email us at <a href="mailto:chisel@chi.sg" rel="noopener noreferrer nofollow" target="_blank">chisel@chi.sg</a>.</p>
+<h2>About Healthcare InnoMatch</h2>
+<p>Healthcare InnoMatch is the competition platform under the CHI Start-up
+Enterprise Link (CHISEL) programme that culminates in the Healthcare InnoMatch
+Final Pitching Event to match winning start-ups with partner healthcare
+institutions for test-bedding.</p>
 <h2>Theme</h2>
 <p>As the Singapore healthcare system face mounting pressures from workforce
 shortages and increasing demand, AI-enabled solutions emerge as vital enablers
@@ -19,10 +28,10 @@ workers with tools that enhance their capabilities and improve patient
 outcomes. This technological transformation allows healthcare professionals
 to support clinical decision-making, deliver more precise and efficient
 care, ultimately creating a more responsive and effective healthcare workforce.</p>
-<h3>Enhancing Health through an AI and Tech-Enabled Workforce</h3>
+<h2>Enhancing Health through an AI and Tech-Enabled Workforce</h2>
 <p>&nbsp;<strong>Problem Statement</strong>
 </p>
-<p>How might we leverage AI and tech-empowered solutions to trnsform our
+<p>How might we leverage AI and tech-empowered solutions to transform our
 healthcare workforce to create a holistic care delivery system across all
 care settings and patient touchpoints that drives productivity gains, improves
 cost efficiency, and delivers significantly improved health outcomes for
@@ -53,32 +62,30 @@ enhancing care quality.</p>
 evidence and data. Innovative solutions that directly impact clinical care
 will take priority over those focused on health administration capacity
 and productivity improvements.</p>
-<p><strong><u>Applications will open soon in February 2026</u></strong>.
-Submit your application to pioneer transformation in our healthcare workforce
-that will improve health outcomes, enhance the healthcare experience for
-patients, and transform the way we deliver care.</p>
 <h2>Funding and Collaborations</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/funding_.png">
 </div>
-<p>Successful winners in CHISEL Healthcare InnoMatch 2026 will obtain funding
-support to demonstrate their solutions in operational environments and
-will receive further endorsement from our partner healthcare clusters upon
-successful validation of the results of pilot implementation. Ultimately,
-the platform aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
+<p>Successful winners in Healthcare InnoMatch 2026 will obtain funding support
+to demonstrate their solutions in operational environments and will receive
+further endorsement from our partner healthcare clusters upon successful
+validation of the results of pilot implementation. Ultimately, the platform
+aims to accelerate the adoption of near-market-ready and fit-for-mainstream-use
 healthcare innovation, bringing them a step closer to benefit patients.</p>
 <h2>Timeline</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Timeline_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/chisel_timeline.png">
 </div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Stage 1 Application: Launch of Open Call</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Submit your application for CHISEL InnoMatch 2026 on the Challenge Portal
-by 13 April 2026, 23:59 SGT. Multi-participation is welcomed. Fill in the
-application form available in the participant space, providing the following:</p>
+<p>Submit your application for Healthcare InnoMatch 2026 on the Challenge
+Portal by 13 April 2026, 23:59 SGT. Multi-participation is welcomed. Fill
+in the application form available in the participant space, providing the
+following:</p>
 <p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant and Company Information</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solution Pitch Deck (7 slides)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pitch Deck Guidelines can be downloaded
@@ -164,21 +171,25 @@ healthcare clusters to carry out test-bedding.</p>
 <p>Winners will be granted three (3) months of preparation time to finalise
 the project agreement (and additional three (3) months if ethics approval
 is required); up to nine (9) months to complete test-bedding; and up to
-three (3) months to complete the evaluation.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Evaluation Phase (Jan 2027 – Mar 2027)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Upon completion of the test-bedding phase, the partner healthcare clusters
+three (3) months to complete the evaluation.
+<br>
+<br>Upon completion of the test-bedding phase, the partner healthcare clusters
 would evaluate the success of the test-bed.</p>
 </div>
 </details>
 </div>
-<p>All CHISEL 2026 test-bed solutions are to be evaluated using the <a href="https://www.chi.sg/platforms-and-programmes/chief/" rel="noopener noreferrer nofollow" target="_blank">CHI Evaluation Framework (CHIEF)</a>.
-CHIEF is a holistic framework for the evaluation of innovative solutions
-seeking real world deployment. Evaluation costs should be included in your
-application. You may also engage additional services (e.g. statistical
-analysis, study design, sample calculation etc.) from CHIEF or an independent
-expert for the purposes of the test-bed at your discretion.</p>
+<h2>Organisers and Partners<br></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Organisers.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies_aug_2026.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/Collaborating_Partners_and_Agencies_aug_2026__2_.png">
+</div>
+<p></p>

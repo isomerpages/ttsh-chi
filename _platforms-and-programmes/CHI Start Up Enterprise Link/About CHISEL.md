@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: CHI Start Up Enterprise Link
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHISEL/CHISEL_Logo_TM_v3.png">
+</div>
 <h1>About CHISEL</h1>
 <p>&nbsp;Centre for Healthcare Innovation Start-Up Enterprise Link (CHISEL)
 is a programme that aims to accelerate the adoption of market-ready healthcare
@@ -20,7 +23,7 @@ healthcare institutions.</p>
 feasibility of solutions before adoption or scale-up. The platform aims
 to bridge the market adoption gap and allow patients early access to new
 and emerging healthcare innovations to meet healthcare gaps.</p>
-<p>Over five successful runs from 2021 to 2025, close to 1,500 innovators
+<p>Over five successful runs from 2021 to 2025, more than 1800 innovators
 across 88 countries competed, and 18 companies have been awarded about
 $9.5mil to test-bed their solutions with one of the three healthcare clusters,
 potentially enhancing patient care and delivering positive health outcomes.</p>
@@ -52,9 +55,9 @@ cluster.</p>
 <summary><strong>Evaluation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Upon completion of test-bedding, the Centre for Healthcare Innovation
-Evaluation Framework (CHIEF) would be used as the main evaluation framework
-to evaluate the success of the test-bedding.</p>
+<p>Upon completion of the test-bedding phase, the partner healthcare clusters
+would evaluate the success of the test-bed using the Centre for Healthcare
+Innovation Evaluation Framework (CHIEF) as the main evaluation framework.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -68,5 +71,10 @@ clusters to adopt the solution.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>All CHISEL test-bed solutions are to be evaluated using the&nbsp;<a href="https://www.chi.sg/platforms-and-programmes/chief/" rel="noopener noreferrer nofollow" target="_blank">CHI Evaluation Framework (CHIEF)</a>.
+CHIEF is a holistic framework for the evaluation of innovative solutions
+seeking real world deployment. Evaluation costs should be included in your
+application. You may also engage additional services (e.g. statistical
+analysis, study design, sample calculation etc.) from CHIEF or an independent
+expert for the purposes of the test-bed at your discretion.</p>
 <p></p>
