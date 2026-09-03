@@ -18,8 +18,6 @@ solution evaluation by representative panels of experts.</p>
 </div>
 <p></p>
 <p></p>
-<p>Click to view the latest guidance document: <a href="/files/CHIEF Guidance Document/CHIEF_Guidance_Document___V2_0_April_2025.pdf" rel="noopener nofollow" target="_blank">CHIEF Guidance Document V3</a>
-<a href="/files/CHIEF_Guidance_Document_V3_0_July_2026.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/CHIEF Guidance Document/CHIEF_Guidance_Document___V2_0_April_2025.pdf" rel="noopener nofollow" target="_blank">.0</a>
+<p>Click to view the latest guidance document: <a href="https://for.sg/chief" rel="noopener nofollow" target="_blank">CHIEF Guidance Document</a>
 </p>
-<p></p>
 <p></p>
