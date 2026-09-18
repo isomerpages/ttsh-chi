@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Calendar of Events 2026.md
-      - CHI Conference/CHI INNOVATE 2026.md
       - CHI Conference/.keep
       - CHI Conference/Past Conferences.md
       - CHI Masterclass.md
