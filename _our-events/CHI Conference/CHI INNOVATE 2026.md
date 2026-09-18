@@ -31,7 +31,7 @@ roles into one platform.</p>
 <td rowspan="1" colspan="1">
 <p>2-Day Pass: SGD 600</p>
 <p>1-Day Pass: SGD 400</p>
-<p>(prices are subjected to prevailing 9% GST)</p>
+<p>(prices quoted are inclusive of GST)</p>
 </td>
 </tr>
 <tr>
