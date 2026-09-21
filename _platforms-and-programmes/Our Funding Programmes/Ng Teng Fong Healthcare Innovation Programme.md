@@ -6,8 +6,10 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the Ng Teng Fong Healthcare Innovation Programme</h2>
+<p><strong>Grant Call is now open till 23 Oct 2026.</strong>
+</p>
 <p><strong>For NTF HIP – Application Form and Info Pack details</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/chigrants-infopack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
+</p><a class="isomer-image-wrapper" href="https://for.sg/ntfhipinfopack"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
 <hr>
 <p>The Ng Teng Fong Healthcare Innovation Programme (NTF HIP) was set up
 with a generous gift from the family of the late Mr Ng Teng Fong to Tan
@@ -51,7 +53,15 @@ value and meeting the needs of the future healthcare system.</p>
 supported by the <a href="https://www.ttsh.com.sg/About-TTSH/TTSH-Community-Fund/Pages/About-Us.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>TTSH Community Fund.</u></a>
 </p>
 <p>For more information, please contact us at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
-<p></p>
-<p><strong>Meet us for a pre-submission consultation</strong>
-</p><a class="isomer-image-wrapper" href="https://for.sg/presubmission-consultation"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/register_icon__002_.png"></a>
+<h3><u>Introducing the CHI Grants Management Office Assistant (Beta)</u></h3>
+<p>We are excited to launch the CHI Grants Management Office Assistant! This
+Assistant is your one-stop guide to navigate funding opportunities, understand
+grant eligibility requirements, and help you prepare your proposals. Whether
+you are exploring a grant for the first time or refining an application,
+the assistant is here to support your journey.</p>
+<p>Try it out at <a href="https://for.sg/gmochatbot" rel="noopener noreferrer nofollow" target="_blank">for.sg/gmochatbot</a>!</p>
+<p>Alternatively, browse for “CHI Grants Management Office Assistant” on
+<a href="http://Pair.sg" rel="noopener noreferrer nofollow" target="_blank">Pair.sg</a>to access the assistant.</p>
+<p>If you wish to arrange for a consultation slot, you may submit your request
+via this <a href="https://form.gov.sg/640942c2b327ae00123dffb5" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p></p>
