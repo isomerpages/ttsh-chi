@@ -6,20 +6,28 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Adoption &amp; Scale Healthcare (NASH) Innovation Fund</h2>
-<h4>Grant call for NASH Innovation Fund is now closed.</h4>
+<h4>Grant Call is now open till 30 Oct 2026.</h4>
+<p></p><a class="isomer-image-wrapper" href="https://for.sg/nash-info-pack"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
+<p>Sign up for NASH and NHG Health CP Virtual Briefing Session on 18 Sep
+2026 <a href="https://form.gov.sg/6a9a3348b18cc8ce4d35c9c6" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>If you wish to arrange for a pre-application consultation slot, submit
+your request <a href="https://form.gov.sg/640942c2b327ae00123dffb5" rel="noopener noreferrer nofollow" target="_blank">here</a>.”</p>
 <hr>
 <p>Supported by NHG Health, the NHG Health Adoption &amp; Scale Healthcare
 (NASH) Innovation Fund aims to enable NHG campuses to better drive the
 innovation and capability development by gearing funds towards the cross-institution
 intra-cluster programmes.</p>
 <p>&nbsp;NASH Innovation Fund aims to provide holistic innovation support
-within NHG Health cluster through 2 domains:</p>
+within NHG Health cluster through 3 domains:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Domain A: Global Innovation Visiting Expert</p>
 </li>
 <li>
 <p>Domain B: Cluster Adoption and Scale</p>
+</li>
+<li>
+<p>Domain C: Digital Innovation Fund (DIF)</p>
 </li>
 </ul>
 <p>NASH Innovation Fund is only applicable to NHG Health employed staff.</p>
@@ -94,7 +102,7 @@ honorarium, entertainment, withholding tax, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><em>Grant call for NASH Innovation Fund is now closed</em>
+<p><em>Grant call is now open till 30 Oct 2026</em>
 </p>
 </div>
 </details>
@@ -129,10 +137,10 @@ present your proposals, and participate in Q&amp;A sessions with the Review
 Panel.</p>
 </li>
 <li>
-<p>Award results will be announced via email by Sept 2026.</p>
+<p>Award results will be announced via email by Mar 2027.</p>
 </li>
 <li>
-<p>Project duration should commence within FY2026.</p>
+<p>Project duration should commence no earlier than 1 Apr 2027.</p>
 </li>
 </ul>
 </div>
@@ -207,7 +215,7 @@ system, etc.</p>
 <summary><strong>Grant Call Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><em>Grant call for NASH Innovation Fund is now closed.</em>
+<p><em>Grant call is now open till 30 Oct 2026</em>
 </p>
 </div>
 </details>
@@ -216,6 +224,16 @@ system, etc.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
+<li>
+<p>Applicants whose innovations or solutions incorporate AI are required
+to complete the AI Project Declaration in the Application Form. For AI
+projects at the Proof-of-Value stage, prior approval from Health Empowered
+by AI Launchpad (HEAL) Tracks is mandatory. Please refer to instructions
+in the application form on the process of seeking approval from HEAL Tracks.
+Submissions that have not completed the AI Project Declaration section
+and obtained the necessary HEAL Tracks’ approval before the submission
+deadline will not be accepted.</p>
+</li>
 <li>
 <p>Project Lead is to submit your completed application form to the NASH
 Secretariat at: <a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
@@ -226,8 +244,9 @@ You do not need to obtain CEOs endorsement before submission.</p>
 institutions CEOs after receiving your completed application form.</p>
 </li>
 <li>
-<p>For applications involving institutions from other clusters, the Project
-Lead must seek CEOs endorsements from those institutions independently.</p>
+<p>Project Lead is to submit your completed application form with your HOD’s
+endorsement to the NASH Secretariat at:&nbsp;<a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
+You do not need to obtain CEOs endorsement before submission.</p>
 </li>
 <li>
 <p>The review process will take approximately 4 months. During this time,
@@ -236,11 +255,11 @@ present your proposals, and participate in Q&amp;A sessions with the Review
 Panel.</p>
 </li>
 <li>
-<p>Award results will be announced via email by Sept 2026.</p>
+<p>Award results will be announced via email by Mar 2027..</p>
 </li>
 <li>
-<p>Project duration should commence within FY2026, with a maximum duration
-of 12 months.</p>
+<p>Project duration should commence no earlier than 1 Aug 2027, with a maximum
+duration of 12 months.</p>
 </li>
 </ul>
 </div>
@@ -254,4 +273,17 @@ Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.
 </div>
 </details>
 </div>
+<p>For more information on Domain B, please contact NASH Secretariat at:
+<a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</p>
+<h4><u>Introducing the CHI Grants Management Office Assistant (Beta)</u></h4>
+<p>We are excited to launch the CHI Grants Management Office Assistant! This
+Assistant is your one-stop guide to navigate funding opportunities, understand
+grant eligibility requirements, and help you prepare your proposals. Whether
+you are exploring a grant for the first time or refining an application,
+the assistant is here to support your journey.</p>
+<p>Try it out at <a href="https://for.sg/gmochatbot" rel="noopener noreferrer nofollow" target="_blank">for.sg/gmochatbot</a>!</p>
+<p>Alternatively, browse for “CHI Grants Management Office Assistant” on
+<a href="http://Pair.sg" rel="noopener noreferrer nofollow" target="_blank">Pair.sg</a>to access the assistant.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p></p>
