@@ -277,9 +277,10 @@ and obtained the necessary HEAL Tracks’ approval before the submission
 deadline will not be accepted.</p>
 </li>
 <li>
-<p>Project Lead is to submit your completed application form for Project
-Type #1 and Type #2 to the CP Secretariat at: <a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
-You do not need to obtain CEOs endorsement before submission.</p>
+<p>Project Lead is to submit your completed application form with your HOD’s
+endorsement for Project Type #1 and Type #2 to the CP Secretariat at:
+<a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>. You do not need to obtain
+CEOs endorsement before submission.</p>
 </li>
 <li>
 <p>CHI will facilitate obtaining endorsements from the respective NHG Health
