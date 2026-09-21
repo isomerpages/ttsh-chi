@@ -6,7 +6,11 @@ description: ""
 third_nav_title: Our Funding Programmes
 ---
 <h2>About the NHG Health Coordinating Party (CP) Scheme</h2>
-<h4>Grant call for NHG Health CP Scheme is now closed.</h4>
+<h4>Grant Call is now open till 30 Oct 2026</h4><a class="isomer-image-wrapper" href="https://for.sg/nhg-cp-scheme-info-pack"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Download_icon__002_.png"></a>
+<p>Sign up for NASH and NHG Health CP Virtual Briefing Session on 18 Sep
+2026 <a href="https://form.gov.sg/6a9a3348b18cc8ce4d35c9c6" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>If you wish to arrange for a pre-application consultation slot, submit
+your request <a href="https://form.gov.sg/640942c2b327ae00123dffb5" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <p>Supported by MOH Health Innovation (MHI) Fund 2.0, the Coordinating Party
 (CP) Scheme aims to provide holistic support for innovation towards adoption
@@ -173,7 +177,7 @@ management and people practices and workspaces.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Amount per project over 18 months</strong><sup>#</sup>
+<p><strong>Amount per project over 12 months</strong><sup>#</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,9 +267,20 @@ Current grant call for Project Type #3 is closed.</p>
 <h4><strong>Submission and Award</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Project Lead is to submit your completed application form for Project
-Type #1 and Type #2 to the CP Secretariat at: <a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.
-You do not need to obtain CEOs endorsement before submission.</p>
+<p>Applicants whose innovations or solutions incorporate AI are required
+to complete the AI Project Declaration in the Application Form. For AI
+projects at the Proof-of-Value stage, prior approval from Health Empowered
+by AI Launchpad (HEAL) Tracks is mandatory. Please refer to instructions
+in the application form on the process of seeking approval from HEAL Tracks.
+Submissions that have not completed the AI Project Declaration section
+and obtained the necessary HEAL Tracks’ approval before the submission
+deadline will not be accepted.</p>
+</li>
+<li>
+<p>Project Lead is to submit your completed application form with your HOD’s
+endorsement for Project Type #1 and Type #2 to the CP Secretariat at:
+<a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>. You do not need to obtain
+CEOs endorsement before submission.</p>
 </li>
 <li>
 <p>CHI will facilitate obtaining endorsements from the respective NHG Health
@@ -282,16 +297,28 @@ present your proposals, and participate in Q&amp;A sessions with the Review
 Panel.</p>
 </li>
 <li>
-<p>Award results will be announced via email by Sept 2026.</p>
+<p>Award results will be announced via email by Mar 2027.</p>
 </li>
 <li>
-<p>Project duration should commence within FY2026, with a maximum duration
-of 18 months.</p>
+<p>Project duration should commence within 01 Aug 2027, with a maximum duration
+of 12 months.</p>
 </li>
 </ul>
 <h4><strong>Submission Deadline</strong></h4>
-<p><em>Grant call for NHG Health CP Scheme is now closed</em>
-</p>
+<p>All applications to be submitted by 30 Oct 2026.</p>
 <p><strong>&nbsp;For more information, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>.</strong>
 </p>
+<p></p>
+<h4><u>Introducing the CHI Grants Management Office Assistant (Beta)</u></h4>
+<p>We are excited to launch the CHI Grants Management Office Assistant! This
+Assistant is your one-stop guide to navigate funding opportunities, understand
+grant eligibility requirements, and help you prepare your proposals. Whether
+you are exploring a grant for the first time or refining an application,
+the assistant is here to support your journey.</p>
+<p>Try it out at <a href="https://for.sg/gmochatbot" rel="noopener noreferrer nofollow" target="_blank">for.sg/gmochatbot</a>!</p>
+<p>&nbsp;Alternatively, browse for “CHI Grants Management Office Assistant”
+on <a href="http://Pair.sg" rel="noopener noreferrer nofollow" target="_blank">Pair.sg</a> to
+access the assistant.</p>
+<p>&nbsp;If you wish to arrange for a consultation slot, you may submit your
+request via this <a href="Introducing the CHI Grants Management Office Assistant (Beta) We are excited to launch the CHI Grants Management Office Assistant! This Assistant is your one-stop guide to navigate funding opportunities, understand grant eligibility requirements, and help you prepare your proposals. Whether you are exploring a grant for the first time or refining an application, the assistant is here to support your journey.  Try it out at for.sg/gmochatbot!  Alternatively, browse for “CHI Grants Management Office Assistant” on Pair.sg to access the assistant.   If you wish to arrange for a consultation slot, you may submit your request via this link." rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p></p>
